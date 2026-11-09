@@ -1,0 +1,56 @@
+{
+  "subject_code": "197",
+  "subject_name": "Kashmiri",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_197_KASHMIRI",
+  "directory_path": "CLASS_12/SUBJ_197_KASHMIRI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Kashmiri",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kashmiri_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Kashmiri",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kashmiri_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Kashmiri",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Kashmiri-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Kashmiri",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Kashmiri-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "de80eb61cc7e82bc451759715a4d1c9dcf032b8cb8c3067e4bb9501f05cb5c35",
+    "file_size_bytes": 497758,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

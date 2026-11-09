@@ -1,0 +1,84 @@
+{
+  "subject_code": "194",
+  "subject_name": "Bhoti",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_194_BHOTI",
+  "directory_path": "CLASS_12/SUBJ_194_BHOTI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Bhoti",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhoti_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Japanese",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Japanese_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Bhoti",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhoti_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Japanese",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Japanese_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Bhoti",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Bhoti-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      },
+      {
+        "title": "Class 12 SQP: Japanese",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Japanese-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Bhoti",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Bhoti-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      },
+      {
+        "title": "Class 12 Marking Scheme: Japanese",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Japanese-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 8,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "b33c37d919760db317956a75dac19e4415db7c5fa372cd7fb72b1e3eb6215d5b",
+    "file_size_bytes": 224717,
+    "units_extracted": 0,
+    "chapters_extracted": 2
+  }
+}

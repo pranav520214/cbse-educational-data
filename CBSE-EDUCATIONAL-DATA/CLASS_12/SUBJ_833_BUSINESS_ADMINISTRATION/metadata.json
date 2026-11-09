@@ -1,0 +1,33 @@
+{
+  "subject_code": "833",
+  "subject_name": "Business Administration",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Management",
+  "directory_name": "SUBJ_833_BUSINESS_ADMINISTRATION",
+  "directory_path": "CLASS_12/SUBJ_833_BUSINESS_ADMINISTRATION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Business Administration (833-BUSINESS_ADMINISTRATION.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/833-BUSINESS_ADMINISTRATION.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f784143b4a57d25e76ac968a7e89172b9ca4aac69d1ed717ca5efcd07bdd9b7b",
+    "file_size_bytes": 502225,
+    "units_extracted": 13,
+    "chapters_extracted": 39
+  }
+}

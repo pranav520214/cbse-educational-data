@@ -1,0 +1,33 @@
+{
+  "subject_code": "817",
+  "subject_name": "Typography & Computer Applications",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Office",
+  "directory_name": "SUBJ_817_TYPOGRAPHY_COMPUTER_APPLICATIONS",
+  "directory_path": "CLASS_12/SUBJ_817_TYPOGRAPHY_COMPUTER_APPLICATIONS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Typography & Computer Applications (817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "60208b49395b2508c88cf7f6c7930c0e9d7b4d939d7178b20616d5246cd6c813",
+    "file_size_bytes": 233429,
+    "units_extracted": 12,
+    "chapters_extracted": 25
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "subject_code": "054",
+  "subject_name": "Business Studies",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Commerce",
+  "directory_name": "SUBJ_054_BUSINESS_STUDIES",
+  "directory_path": "CLASS_12/SUBJ_054_BUSINESS_STUDIES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Business Studies",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Business Studies",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 12 Business Studies Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/lebs101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 12 Business Studies Part 2",
+        "url": "https://ncert.nic.in/textbook/pdf/lebs201.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Business Studies",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/BusinessStudies-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Business Studies",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/BusinessStudies-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 6,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ac3d1e72b1a5ea888010167cf59b544460f442686e0d20349af640228402e1a1",
+    "file_size_bytes": 360508,
+    "units_extracted": 13,
+    "chapters_extracted": 222
+  }
+}

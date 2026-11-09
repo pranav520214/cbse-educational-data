@@ -1,0 +1,55 @@
+{
+  "subject_code": "042",
+  "subject_name": "Physics",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science",
+  "directory_name": "SUBJ_042_PHYSICS",
+  "directory_path": "CLASS_11/SUBJ_042_PHYSICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Physics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Physics_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Physics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 11 Physics",
+        "url": "https://ncert.nic.in/textbook/pdf/keph101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 11 Physics Part 2",
+        "url": "https://ncert.nic.in/textbook/pdf/keph201.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ebe8c50ccf1401567c6741195f4baf378627011869f9c7decffff8ab2b405e25",
+    "file_size_bytes": 189977,
+    "units_extracted": 14,
+    "chapters_extracted": 47
+  }
+}

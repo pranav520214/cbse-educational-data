@@ -1,0 +1,40 @@
+{
+  "subject_code": "021",
+  "subject_name": "Russian",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_021_RUSSIAN",
+  "directory_path": "CLASS_11/SUBJ_021_RUSSIAN",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Russian",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Russian_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Russian",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Russian_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "751b969f51190b5010752aa6dbed22eb4b90789b32a19683ec7abf8b1e0fd1c4",
+    "file_size_bytes": 186755,
+    "units_extracted": 0,
+    "chapters_extracted": 1
+  }
+}

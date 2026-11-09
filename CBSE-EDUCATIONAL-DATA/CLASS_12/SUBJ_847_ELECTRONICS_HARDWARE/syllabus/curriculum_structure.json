@@ -1,0 +1,172 @@
+{
+  "subject_name": "Electronics & Hardware",
+  "subject_code": "847",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/847-ELHA.pdf",
+  "sha256": "ffded56389983f4874f4ca1d4101c21d20e698a661bcfdf11169c594fe9b3ca8",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Installation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "IT Security Fundamentals.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Basics of ITIL v3",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "COMPUTER NETWORK ESSENTIALS.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "INSTALLATION AND CONFIGURATION OF WINDOWS SERVER.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "INSTALLATION AND CONFIGURATION OF LINUX SERVER.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "IT SECURITY FUNDAMENTALS.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "BASICS OF ITIL v3",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "BASICS OF ITIL v3.",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer System of various brands."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Computer parts and peripherals of various brands."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Specifications of various parts of computer system."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Comparison of various brands."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Types of computers."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Types of printers."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Types of scanners."
+    },
+    {
+      "chapter_number": 8,
+      "title": "External and Internal Hard Disk."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Storage capacity of various storage devices."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Comparison of various parts based on cost."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Tools and equipment required for computer assembly."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Cost benefit analysis to purchase computer."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Specifications of computer based on the work requirement."
+    }
+  ],
+  "full_text_excerpt": "847-Electronics & Hardware- XI & XII \nPage 9 of 17 \n \nELECTRONICS & HARDWARE (SUBJECT CODE - 847) \nClass XII (Session 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS for \nTheory and \nPractical \n260 \nMAX. MARKS \nfor Theory and \nPractical \n100 \n \n \n \n \nEmployability Skills \nUnit 1 : Communication Skills-IV \n10 \n2 \nUnit 2 : Self-Management Skills-IV \n10 \n2 \nUnit 3 : ICT Skills-IV \n10 \n2 \nUnit 4 : Entrepreneurial Skills-IV \n15 \n2 \nUnit 5 : Green Skills-IV \n05 \n2 \nTotal \n50 \n10 \n \n \n \n \nSubject Specific Skills \nTheory \nPractical \n(In \n(In \nMarks \nHours) \nHours) \nUnit \n-1: \nComputer \nNetwork \n25 \n25 \n10 \nEssentials. \n \n \nUnit \n-2: \nInstallation \nand \n20 \n30 \n10 \nConfiguration of Windows Server. \n \n \nUnit-3: \nInstallation \nand \n20 \n30 \n10 \nConfiguration of Linux Server. \n \n \nUnit-4: IT Security Fundamentals. \n10 \n20 \n10 \nUnit-5: Basics of ITIL v3 \n10 \n20 \n10 \nTotal \n85 \n125 \n50 \n \n \n \n \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva \n \n5 \nTotal \n \n30 \n \n \n \n \nProject Work / Field Visit \nPractical File / Student Portfolio \n \n05 \nViva Voce \n \n05 \nTotal \n \n10 \n \nGRAND TOTAL \n260 \n100\n847-Electronics & Hardware- XI & XII \nPage 10 of 17 \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XII: \nPart-A: EMPLOYABILITY SKILLS \n \nS. \nNo. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n10 \n2. \nUnit 2: Self-management Skills-IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n10 \n4. \nUnit 4: Entrepreneurial Skills-IV \n15 \n5. \nUnit 5: Green Skills-IV \n05 \n \nTOTAL DURATION \n50 \n \nNOTE: The Detailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \n \n• \nUNIT -1: COMPUTER NETWORK ESSENTIALS. \n• \nUNIT -2: INSTALLATION AND CONFIGURATION OF WINDOWS SERVER. \n• \nUNIT -3: INSTALLATION AND CONFIGURATION OF LINUX SERVER. \n• \nUNIT -4: IT SECURITY FUNDAMENTALS. \n• \nUNIT -5: BASICS OF ITIL v3 \n \n \nUNIT-1 COMPUTER NETWORK ESSENTIALS. \n \n \nS. \nN \nO \n. \nLEARNING \nOUTCOMES \n \nTHEORY \n \nPRACTICAL \n1 \nAppreciate the \nnetwork \nconcept \nand \ntechnology \n• \nConcept of networking, \n• \nComputer Networking, \n• \nOSI Model , \n• \nConcept of Protocol, \n• \nProtocol: TCP, IP, UDP, \nFTP, \n• \nNetwork Technologies : \npeer to peer and Client/ \nServer, \n• \nInter-network \n(Internet, \nIntranet, Extranet), \n• \nData \ntransmission \n: \nsimplex, \nhalf \nduplex, \nfull \nduplex. \n• \nDraw a diagram of network and \nwrite importance of network in our daily \nlife, \n• \nDraw a diagram of OSI model, \n• \nIdentify the network technology of \nthe given network, \n• \nIdentify the given network as \n• \nInternet, Intranet or Extranet, \n• \nDraw the diagram of simplex, half \nduplex and full duplex data flow.\n847-Electronics & Hardware- XI & XII \nPage 11 of 17 \n \n2 \nConnect \nand \nuse \nnetwork \ndevices \nand \nperipherals \n• \nPhysical components : \nnodes/ \ncomputer/ \nhosts, \nModem, RJ 45 Connector and \nport, NIC, \n• \nInstallation \nand \nconfiguration of NIC, \n• \nNetwork Devices - Hub, \nSwitch, \nGateway, \nRouter, \nRepeaters, Bridges. \n• \nIdentify and name the given network \ncomponent, \n• \nIdentify and name the given network \ndevices, \n• \nConnect \ncomputers/ \nhost \nto \nswitch/hub, \n• \nAssign IP address to host, \n• \nCheck connectivity using ping and \nipconfig command, \n• \nAttach network peripherals to the \nhosts and share files, folders and \nperipherals \n3 \nPrepare \ncable \nand \nconfigure \nnetwork \n• \nIntroduction to Ethernet, \n• \nColour coding in Ethernet, \n• \nNetwork \ntransmission \nmedium: \n• \nGuided and, Unguided, \n• \nGuided : Coaxial cable, \n• \nTwisted pair cable (UTP/ \nSTP) \n• \nUnguided : Radio waves, \nWi-Fi, \n• \nBluetooth, GSM, \n• \nCable preparation, \n• \nNetwork adapter, \n• \nConfiguring \nnetwork \nadapter \n• \nCheck and verify system is in \nconnected to ethernet, \n• \nCheck colour coding in \n• \nEthernet \n• \nDemonstrate to prepare the given \ncable for networking, \n• \nDemonstrate to crimp the cable. \n4 \nRecognize \nthe \nnetwork \ndesigned \nstructure \n• \nConcept of Internet, \n• \nIP addressing : Definition, \nType(IPv4,IPv6), Ping, ipconfig \ncommand, Routing, \n• \nTypes of networking - \nLAN, MAN, WAN, \n• \nNetwork Topology - Bus, \nStar, Mesh, Hybrid, Ring, \n• \nAdvantages \nand \ndisadvantages \nof \ndifferent \ntopology \n• \nPerform installation of LAN and \ntroubleshooting of frequently occurred \nproblems, \n• \nDraw the diagram of given network \ntopology, \n• \nIdentify the network topology from the \ngiven graphics. \n \n \nUNIT 2: INSTALLATION AND CONFIGURATION OF WINDOWS SERVER. \n \n \nS. \nN \nO \n. \nLEARNING \nOUTCOMES \n \nTHEORY \n \nPRACTICAL \n1 \nInstall \nWindows \nServer 2012 \n• \nWindows \nServer \n2012 \nOverview, \n• \nInstalling \nWindows \nServer 2012, \n• \nPartitioning, \n• \nDeploying Windows Server 2012, \n• \nInstall Windows Server 2012, \n• \nCreate partitioning, \n• Configuring Windows Server \n2012 Server, \n• \nPerform post installation -installation\n847-Electronics & Hardware- XI & XII \nPage 12 of 17 \n \n \n• \nPost-Installation \nConfiguration \nof \nWindows \nServer 2012. \n• \nConfiguration of Windows Server \n2012. \n2 \nManage \nWindows \nServer 2012 \n• \nOverview \nof \nWindows \nServer \n2012 Management, \n• \nManagement \ntools \navailable in Windows Server \n2012, \n• \nIntroduction to Windows \nPowerShell. \n• \nManaging Servers \n• \nUsing \nWindows \nPowerShell \nto \nManage Servers, \n• \nPerform basic administrative tasks \nusing Windows \n• \nPowerShell. \n3 \nInstall \nand \nconfigure Active \nDirectory \nDomain \nServices \n• \nOverview of AD DS \n• \nOverview \nof \nDomain \nControllers \n• \nInstalling \na \nDomain \nController, \n• \nStructure of AD DS, \n• \nPurpose \nof \ndomain \ncontrollers \n• \nInstalling a Domain Controller, \n• \nConfiguring Active Directory Domain \nServices \n4 \nManage Active \nDirectory \nDomain \nServices \nObjects \n• \nManaging User Accounts \n• \nManaging Groups \n• \nCreating \nand \nConfiguring \nUser \nAccounts in AD DS \n• \nManaging user accounts through \nGUI, \n• \nManage \ngroup \naccounts \nuser \naccounts through GUI. \n5 \nImplementing \nGroup Policy \n• \nOverview of Group Policy \n• \nGroup Policy Processing \n• \nCreating GPOs \n• \nCreate and manage Group Policy \nObjects (GPOs). \n \n \nUNIT 3: INSTALLATION AND CONFIGURATION OF LINUX SERVER. \n \n \nS. \nN \nO \n. \nLEARNING \nOUTCOMES \n \nTHEORY \n \nPRACTICAL \n1 \nInstall \nLinux \nServer \n• \nLinux Server Overview, \n• \nInstallation \nprocess \nof \nLinux Server, \n• \nPartitioning, \n• \nPost-Installation \nConfiguration of Linux Server. \n• \nInstall Linux Server, \n• \nCreate partitioning, \n• \nConfiguring Linux Server, \n• \nPerform post installation -installation \n• \nconfiguration of Linux Server.\n847-Electronics & Hardware- XI & XII \nPage 13 of 17 \n \n2 \nManage Linux \nServer \n• \nOverview of Linux Server \nManagement, \n• \nIntroduction \nto \nLinux \nterminal, \n• \nConcept of superuser, \n• \nLinux \nServer \nmanagement commands. \n• \nLogin as a superuser, \n• \nList the common administrative \ntasks, \n• \nList basic commands to manage \nserver, \n• \nUse Linux commands for basic \nadministration. \n3 \nUnderstand the \nfile structure of \nLinux \n• \nOverview \nof \nLinux \nfile \nstructure, \n• \nLinux users - superuser, \ngroup user and others, \n• \nUser permissions - read, \nwrite, execute, \n• \nCommon commands for \nsystem administration. \n• \nDraw the diagram of Linux file \nstructure, \n• \nList the various system directory, \n• \nCreate user and group, \n• \nChange user and group permissions, \n• \nPerform \nthe \nbasic \nsystem \nadministration using command \n4 \nInstall \nand \nremove \npackages \n for \nservices \n• \nOverview \nof \nvarious \nservices, \n• \nCommands for installing \npackages for various services, \n• \nCommands for removing \n• \npackages \nfor \nvarious \nservices, \n• \nUpdating packages. \n• \nList the various services and its \ncommands, \n• \nInstall packages for various services, \n• \nRemove packages, \n• \nUpdate packages. \n \n \n UNIT 4: IT SECURITY FUNDAMENTALS. \n \n \nS. \nN \nO \n. \nLEARNING \nOUTCOMES \n \nTHEORY \n \nPRACTICAL \n1 \nAppreciate IT \nSecurity \nConcepts \n• \nConcept of security, \n• \nIT security, \n• \nData Threats - Virus, \nmalware, DoS attacks, Trojan, \n• \nList different types of threats in \ncomputer system, \n• \nList the Characteristics of \n• \nPhishing \nmail \nand \nwebsites, \n \nworm, phishing attacks, man- \nRecognise \nmalicious, \naccidental \n \nin-the middle, \nthreats to data from individuals, service \n \n• \nValue of Information, \n• \nPersonal Security, \n• \nFile Security. \nproviders, external organisations, \n• \nDemonstrate to set the security \nlevel - Low, Medium or High. \n2 \nDescribe \nvulnerabilities \n• \nPorts, \n• \nServices, \n• \nCode. \n• \nList the antivirus software, \n• \nInstall the antivirus software in the \ngiven system, \n• \nScan and eradicate the virus form \nthe disk, \n• \nUpdate the antivirus software \nautomatically and manually, Check and \nchange settings of antivirus software.\n847-Electronics & Hardware- XI & XII \nPage 14 of 17 \n \n3 \nDescribe \nvulnerabilities \n• \nPorts, \n• \nServices, \n• \nCode. \n• \nList the different types of ports, \n• \nList the various services running in \ncomputer, \n• \nIdentify the errors and bugs in the \ncode for vulnerability \n4 \nDescribe \nsecurity \nprocedures \n• \nSecurity policy, \n• \nPhysical security, \n• \nSecuring the network, \n• \nSecuring devices, \n• \nSecuring applications, \n• \nO/S updates. \n• \nCheck security setting in operating \nsystem, \nChange \nsecurity \nsetting \nparameters, \n• \nCheck auto and manual updates of \noperating system \n5 \nProtect data \n• \nFile \nand \nfolder \npermissions, \n• \nEncryption, \n• \nGroup policy. \n• \nDemonstrate simple encryption and \ndecryption method, \n• \nDraw the diagram of cryptography \nprocess \n6 \nAppreciate \nthe \nuse of firewalls \n• \nFirewall, \n• \nTypes \nof \nfirewall \n- \nsoftware and hardware, \n• \nPacket filter, \n• \nStateful, \n• \nApplication level; \n• \nIntrusion \ndetection \nsystems; \n• \nIntrusion \nprevention \nsystems. \n• \nDraw a diagram of firewall, \n• \nDemonstrate \nto \nrestrict \nsites, \nChecking firewall is enabled or disabled \nin PC, \n• \nName and list intrusion related \ntools. \n• \nDraw the diagram of anti-intrusion \ntechnique-honey pot \n \nUNIT 5: BASICS OF ITIL v3. \n \n \nS. \nN \nO \n. \nLEARNING \nOUTCOMES \n \nTHEORY \n \nPRACTICAL \n1 \nAppreciate the \nconcept of ITIL \n• \nConcept of ITIL, \n• \nDefinition of ITIL, \n• \nThe business perspective \nof ITIL, The core structure of \nITIL \n• List the business perspective of \nITIL, \n• \nDraw the core structure of ITIL. \n2 \nDescribe \nthe \nconcepts of \nService \n• \nInternal \nand \nexternal \ncustomers, \n• \nInternal \nand \nexternal \nservices, \n• \nService management, \n• \nIT service management, \nStakeholders \nin \nservice \nmanagement \n• \nIdentify the internal and external \ncustomer, \n• \nList the internal and external \nservices, \n• \nList the benefits of IT service \nmanagement, \n• \nList the stakeholders in service \nmanagement\n847-Electronics & Hardware- XI & XII \nPage 15 of 17 \n \n3 \nDescribe \nthe \nstructure of the \nITIL \nservice \nlifecycle \n• \nStructure \nof \nthe \nITIL \nservice lifecycle, \n• \nConcept of critical success \nfactors (CSF), \n• \nConcept \nof \nKey \nperformance indicators (KPI), \n• \nConcept of Service Level \n• \nAgreement (SLA), \n• \nThe Five Core Processes \n• \nService Strategy, \n• \nService Design, \n• \nService Transition, \n• \nService Operation \n• \nDetermine the CSF and KPI for the \ngiven problem, \n• \nList the components of service \nstrategy, \n• \nList the components of service \ndesign, \n• \nList the components of service \ntransition, \n• \nList the components of service \noperation, \n4 \nProblem \nmanagement \n• \nProblem \nmanagement \nprocess flow, Determination \nresolution \nProblem \nmanagement, \n• \nTracking report and control \nmeasures. \n• \nDraw the problem management \nprocess flow, \n• \nList the significant problems, \n• \nDetermine the resolution of the \ngiven problem \n \n \n \nTEACHING/TRAINING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field \nvisits. Students should be taken to field visits for interaction with experts and to expose them to the various \ntools, equipment, materials, procedures and operations in the workplace. Special emphasis should be laid \non the occupational safety, health and hygiene during the training and field visits. \nCLASSROOM ACTIVITIES - Classroom activities are an integral part of this course and interactive lecture \nsessions, followed by discussions should be conducted by trained teachers. Teachers should make \neffective use of a variety of instructional aids, such as audio-video materials, colour slides, charts, \ndiagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart \ntraining to the students. \nPRACTICAL WORK IN LABORATORY/WORKSHOP - Practical work may include but not limited to \nhands-on-training, simulated training, role play, case based studies, exercises, etc. Equipment and \nsupplies should be provided to enhance hands-on learning experience of students. Only trained personnel \nshould teach specialized techniques. A training plan that reflects tools, equipment, materials, skills and \nactivities to be performed by the students should be submitted by the vocational teacher to the Head of \nthe Institution. \nFIELD VISITS/ EDUCATIONAL TOUR - In field visits, children will go outside the classroom to obtain \nspecific information from experts or to make observations of the activities. A checklist of observations to \nbe made by the students during the field visits should be developed by the Teachers for systematic \ncollection of information by the students on the various aspects. Principals and Teachers should identify \nthe different opportunities for field visits within a short distance from the school and make necessary \narrangements for the visits. At least three field visits should be conducted in a year. \n \n \nSKILL ASSESSMENT (PRACTICAL) - Assessment of skills by the students should be done by the \nassessors/examiners on practical demonstration of skills by the candidate. The assessors assessing the\n847-Electronics & Hardware- XI & XII \nPage 16 of 17 \n \nskills of the students should possess a current experience in the industry and should have undergone an \neffective training in assessment principles and practices. \nPractical examination allows candidates to demonstrate that they have the knowledge and understanding \nof performing a task. This will include hands-on practical exam, viva voce and student portfolio \n(File/journal). \nProject Work (individual or group project) is a great way to assess the practical skills on a certain time \nperiod or timeline. Project work should be given on the basis of the capability of the individual to perform \nthe tasks or activities involved in the project. Projects should be discussed in the class and the teacher \nshould periodically monitor the progress of the project and provide feedback for improvement and \ninnovation. Field visits should be organized as part of the project work. Field visits can be followed by a \nsmall-group work/project work. When the class returns from the field visit, each group might be asked to \nuse the information that they have gathered to prepare presentations or reports of their observations. \nProject work should be assessed on the basis of practical file or student portfolio Student Portfolio is a \ncompilation of documents that supports the candidate’s claim of competence. Documents may include \nreports, articles, and photos of products prepared by students in relation to the unit of competency. \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video \nrecording can be done at the time of viva voce. The number of external examiners would be decided as \nper the existing norms of the Board and these norms should be suitably adopted/adapted as per the \nspecific requirements of the vocational subject. Viva voce should also be conducted to obtain feedback on \nthe student’s experiences and learning during the project work/field visits. \n ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS: \n \nIn a year, at least 3 field visits/educational tours should be organised for the students to expose them to \nthe activities in the workplace. \nVisit a computer assembly and service centre and observe the following: Location, Site, Computer systems \nand peripheral devices. During the visit, students should obtain the following information from the owner \nor the supervisor: \n1. Computer System of various brands. \n2. Computer parts and peripherals of various brands. \n3. Specifications of various parts of computer system. \n4. Comparison of various brands. \n5. Types of computers. \n6. Types of printers. \n7. Types of scanners. \n8. External and Internal Hard Disk. \n9. Storage capacity of various storage devices. \n10. Comparison of various parts based on cost. \n11. Tools and equipment required for computer assembly. \n12. Cost benefit analysis to purchase computer. \n13. Specifications of computer based on the work requirement.\n847-Electronics & Hardware- XI & XII \nPage 17 of 17 \n \nLIST OF EQUIPMENT AND MATERIALS \nThe list given below is suggestive and an exhaustive list should be prepared by the vocational teacher. \nOnly basic tools, equipment and accessories should be procured by the Institution so that the routine tasks \ncan be performed by the students regularly for practice and acquiring adequate practical experience. \n \n \nTools \nEquipment \nMaterials \n● \nComponents / Dividers \n● \nOscilloscope \n● \nRulers \n● \nT-square \n● \nMulti-tester \n● \nPliers \n● \nCutters \n● \nScrew drivers \n● \nGoggles \n● \nGloves \n● \nProtractor \n● \nSteel rule \n● \nLAN tester \n● \nUtility softwares \n● \nAnti-static wrist wrap \n● \nMasks \n● \nCrimping tools \n● \nFlashlights \n● \nSharp pointed tweezers \n● \nMirror (inspection) \n● \nSoldering gun \n \n \n \n \n \n● \nHubs/switches \n● \nCDROMs \n● \nModem/router \n● \nPrinters \n● \nHubs \n● \nServer \n● \nPeripherals \n● \nDesktop \nComputers \n \n \n● \nUTP Cat. 5 cables \n● \nUTP Cat.3 cables \n● \nRJ 45 modular plug \n● \nLearning Manuals \n● \nWork Instruction \n● \nHand-outs \n● \nBoard marker \n● \nWhite board \n● \nSchematic diagrams \n● \nCharts \n● \nBlock diagrams \n● \nLayout plans \n● \nLocation Plans \n● \nInstrumentation diagrams \n● \nLoop diagrams \n● \nSystem Control diagrams \n● \nDrawing boards \n \n \nTEACHER’S/TRAINER’S QUALIFICATION: \n \nQualification and other requirements for appointment of vocational teachers/trainers on contractual basis should \nbe decided by the State/UT. The suggestive qualifications and minimum competencies for the vocational teacher \nshould be as follows: \nMinimum Qualification \nMinimum \nCompetencies \nAge Limit \nBachelor \nof \nEngineering \n/ \n \nThe candidate should have a \nminimum of 1 year of work \nexperience in the same job \nrole. S/He should be able to \ncommunicate in English and \nlocal language. S/He should \nhave \nknowledge \nof \nequipment, tools, material, \nSafety, Health & Hygiene. \n \nTechnology in Electronics or \n \nComputer Science / Technology \n \nOR \nMaster \nof \nComputer \n \nApplication (MCA) OR Master of \n \nScience (Computer Science) OR \nMaster of Science (Information \nTechnology) OR NIELIT “B” \nLevel Certificate. It is \n18-37 years (as on Jan. 01 (year)) \nAge relaxation to be provided as \nper Govt. rules \nrecommended \nto \nhave \n \nadditional qualification such as \n \nCCNA, \nCCP \nor \nany \nother \n \ndiploma in computer hardware \n \nmaintenance."
+}

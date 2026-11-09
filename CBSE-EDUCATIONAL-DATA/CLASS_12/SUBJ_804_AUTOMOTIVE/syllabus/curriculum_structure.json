@@ -1,0 +1,241 @@
+{
+  "subject_name": "Automotive",
+  "subject_code": "804",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE.pdf",
+  "sha256": "f73efd35209f0a79a1c4fa08881c04f8189fc9b328b4e598d5855b6df5c7d80a",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Measuring & service Equipment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Steering system",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Suspension system",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Transmission and Final Drive system",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Automotive Electrical and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Motor Vehicle Act and Rules",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "CommunicationSkills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-managementSkills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "InformationandCommunicationTechnologySkills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "EntrepreneurialSkills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "GreenSkills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Automotive Electrical and electronic system",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Measuring & service",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Transmission and Final",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Automotive Electrical",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Motor Vehicle Act and",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit1:CommunicationSkills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit2:Self-managementSkills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit3:InformationandCommunicationTechnologySkills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit4:EntrepreneurialSkills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit5:GreenSkills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1:Measuring & service Equipment"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Steering system"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3:Suspension system"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4:Transmission and Final Drive system"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5:Automotive Electrical and electronic system"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Unit 6:Motor Vehicle Act and Rules"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Inspection of an engine."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Washing of an engine."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Tuning of an engine."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Tuning of the ignition system of an engine."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Replace engine oil and oil filter of a car."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Servicing of cooling systems."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Engine Timing and engine sound test after setting."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Servicing of transmission system."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Servicing of clutch system."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Adjust clutch pedal free play."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Overhauling of clutch."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Replace gear and different oil."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Adjust gear lever free play."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Servicing of wheel assembly."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Hub greasing and bearing play adjustments."
+    },
+    {
+      "chapter_number": 16,
+      "title": "Tyre Rotation of a car."
+    },
+    {
+      "chapter_number": 17,
+      "title": "Tyre puncture repair."
+    },
+    {
+      "chapter_number": 18,
+      "title": "Servicing of brakes system."
+    }
+  ],
+  "full_text_excerpt": "AUTOMOTIVE (SUBJECT CODE 804) \nClass XII (Session-2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \n \n \nUNITS \nNO. OF HOURS \nFor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \n \nPart A \nEmployability Skills \n \nUnit 1:Communication Skills-IV \n13 \n2 \nUnit 2:Self-Management Skills-IV \n07 \n2 \nUnit 3: ICT Skills-IV \n13 \n2 \nUnit 4:Entrepreneurial Skills-IV \n10 \n2 \nUnit 5: Green Skills-IV \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit1:Measuring & service Equipment \n30 \n10 \nUnit 2: Steering system \n15 \n07 \nUnit 3:Suspension system \n15 \n06 \nUnit 4: Transmission and Final Drive system \n15 \n07 \nUnit 5 : Automotive Electrical and \nelectronic system \n35 \n15 \nUnit 6:Motor Vehicle Act and Rules \n10 \n05 \nTotal \n120 \n50 \n \nPart C \nPractical Work \n \nProject \n \n60 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab \nActivities \n60 \n10 \nTotal \n90 \n40 \n \nGRAND TOTAL \n260 \n100\nDETAILED CURRICULUM/TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit1:CommunicationSkills-IV \n13 \n2. \nUnit2:Self-managementSkills-IV \n07 \n3. \nUnit3:InformationandCommunicationTechnologySkills-IV \n13 \n4. \nUnit4:EntrepreneurialSkills-IV \n10 \n5. \nUnit5:GreenSkills-IV \n07 \n \nTOTALDURATION \n50 \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website. \nPart-B-SUBJECT SPECIFIC SKILLS (Class XII) \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1:Measuring & service Equipment \n30 \n2. \nUnit 2: Steering system \n15 \n3. \nUnit 3:Suspension system \n15 \n4. \nUnit 4:Transmission and Final Drive system \n15 \n5. \nUnit 5:Automotive Electrical and electronic system \n35 \n6. \nUnit 6:Motor Vehicle Act and Rules \n10 \n \nTOTAL DURATION \n120\nUNIT \nTOPIC \nACTIVITY/PRACTICAL \nUnit1: Measuring & service \nEquipment \n1.1.1 Air Compressor \nDemonstration of air compressor \n1.1.2 Car Washer \nProcedure of automatic car washer \n1.1.3 Tyre Inflators \nDemonstration of tyre Inflator \n1.1.4 Spark Plug Cleaner and \nTester \nModel of Spark Plug Cleaner and \nTester \n1.5 \nWheel \nBalancing \n- \nProcedure of Wheel Balancing/ \nWorking of Wheel Balancing \nMachine. \n \nUnit 2: Steering system \n2.2.1 \nAckerman’s \nSteering \nPrinciple \nof Working Model of Ackerman’s \nPrinciple of Steering \n2.2.2Steering Geometry \nModel of steering geometry \n2.2.3Steering Gear Box \nDemonstration of rack & pinion and \nre-circulating type of steering gear \nbox \n2.2.4Steering Linkages \nDemonstration of steering system \nWith all components. \n2.2.5PowerSteering \nDemonstration of hydraulic power \nsteering \n2.2.6 \nTrouble \nRemedies \nShooting \nand Discussion of \nvarious problems \nWith its remedies. \nUnit 3: Suspension system \n3.2.1Introduction \nLocation of suspension system. \n3.2.2Types of Suspension System \nWorking \nsystem. \nModels of suspension \n3.2.3Description of Suspension \nSystem \nDemonstration \nof \nparts \nof \nSuspension system. \n3.2.4Components of a Suspension \nsystem Servicing of shock absorber \nDemonstration \nof shock \nabsorber \nUnit 4:Transmission and Final \nDrive system \n4.1.1Transmission & Final Drive \nSystem \n(Propeller \nShaft \n& \nUniversal Joint Propeller Shaft \nTypes of Universal Joint \nTypes of Universal Joint \n4.1.2Transmission & Final Drive \nSystem \n(Propeller \nShaft \n& \nUniversal Joint Universal Joint \nTrouble \nshooting chart for \nTransmission and Final Drive \nSystem Trouble Shooting Chart for \nClutch, Trouble Shouting Chart for \nGearbox \nTrouble Shooting Chart for Clutch, \nTrouble \nShouting \nChart \nfor \nGearbox, Trouble shooting Chart \nfor the Rear Axle \n4.2.1 Transmission & Final Drive \nSystem (Differential and Rear Axle) \nFinal Drive \nComponents of final drive \n4.2.2 Transmission & Final Drive \nSystem (Differential and Rear Axle) \nDifferential \nDemonstration of Differential\nUNIT \nTOPIC \nACTIVITY/PRACTICAL \n \n4.2.3Transmission & Final Drive \nSystem (Differential and Rear Axle) \nRear Axle \nModel on various types of rear axle \nUnit 5: Automotive Electrical \nand electronic system \n5.1.1Introduction \nImportance \nof \nAuto electrical \nsystem. \n5.1.2 \nPurpose \nof \nAutomotive \nElectrical System \nPurpose of Automotive Electrical \nSystem \n5.1.3 Layout of an Automotive \nElectrical System \nLayout of an Automotive Electrical \nSystem \n(Charging & Starting System & \nDifferent Electrical Circuit) \n5.2.1ChargingSystem \nDemonstration of charging system \n5.2.2 Starting System \n5.2.3 Different Circuit Diagrams of \na Car \n5.4.2 \nAutomobile \nDC Generator \n5.4.4. Construction of Alternator \nDemonstration starting system \n \n \nDemonstration of DC Generator \nPractical on Alternator \nUnit 6:Motor Vehicle Act and \nRules \n6.1.1 Provision regarding Issue of \nDriving \nDocuments required for registration, \nInsurance, claims, Transfer of \nOwnership and fitness certificates \n6.1.2 Registration of Vehicle \n6.1.3 Insurance \n6.1.4 Claims \n6.1.5 \nTransfer \nof \nOwnership \nLicense \n6.1.6Fitness Certificate \n6.2.1 Indian Traffic Rules & Signs \n \nModels of Road signs and practical \ndemo on hand signals. \n6.2.2 Hand Signals used by the \nDrivers \n6.2.3The Driving Hand Signals \nused by the Driver \n6.2.4 Hand Signals used by the \nTraffic Personnel \n6.2.5 Traffic Police Hand Signals \n(Manual) \n6.3.1 Emission \n \nDemonstration of PCV system and \nEvaporative Emission Control \nsystem. \n6.3.2 Sources of Emission \n6.3.3 Types of Emission \n6.3.4 Emission Control \n6.3.5 Emission Norms in India\nPRACTICAL GUIDELINES FOR CLASS XI \n \nAssessment of performance: \n \nThe two internal examiners, assigned for the conduct and assessment of Practical Examinations each \nin Senior Secondary School Curriculum (Under NSQF). Question for the viva examinations should be \nconducted by both the examiners. Question to be more of General nature, project work or the \ncurriculum. Investigatory Project especially those that show considerable amount of effort and \noriginality, on the part of the student, should get suitable high marks, while project of a routine or stereo \ntyped nature should only receive MEDIOCRE marks. \nProcedure for Record of Marks in the Practical answer-books: \n \nThe examiner will indicate separately marks of practical examination on the title page of the answer- \nbooks under the following heads:- \nProject - 10 marks \n \nProjects for the final practical are given below. Student may be assigned \nGuidelines for Project Preparation: \n \nThe final project work should encompass chapters on: \n \na) Introduction, \n \nb) Identification of core and advance issues, \n \nc) Learning and understanding \n \nd) Observation during the project period. \n \nViva based on Project - 05 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the project, \nif any, done by the student. Alternatively, if no project has been assigned to the students, viva may be \nbased on questions of practical nature from the field of subject as per the Curriculum \nPractical File - 15 Marks \n \nStudents to make a power point presentations / session assignment / practical file / report. \n \nSuggested list of Practical- \n \n1. Inspection of an engine. \n \n2. Washing of an engine. \n \n3. Tuning of an engine.\n4. Tuning of the ignition system of an engine. \n \n5. Replace engine oil and oil filter of a car. \n \n6. Servicing of cooling systems. \n \n7. Engine Timing and engine sound test after setting. \n \n8. Servicing of transmission system. \n \n9. \nServicing of clutch system. \n \n10. Adjust clutch pedal free play. \n \n11. Overhauling of clutch. \n \n12. Replace gear and different oil. \n \n13. Adjust gear lever free play. \n \n14. Servicing of wheel assembly. \n \n15. Hub greasing and bearing play adjustments. \n \n16. Tyre Rotation of a car. \n \n17. Tyre puncture repair. \n \n18. Servicing of brakes system. \n \nDemonstration of skill competency in Lab Activities - 10 marks \n \nInternal Examiner shall allot marks based on whole year performance of students during regular practicals. \nPractical performance/Periodic Test marks/Notebook Presentation shall be considered.\nPRACTICAL GUIDELINES FOR CLASS XII \n \n \nAssessment of performance: \n \nIn class XII: One Internal and one External examiner, assigned for the conduct and assessment of Practical \nExaminations each in Senior Secondary School Curriculum (Under NSQF). Question for the viva \nexaminations should be conducted by both the examiners. Question to be more of General nature, \nproject work or the curriculum. Investigatory Project especially those that show considerable amount of \neffort and originality, on the part of the student, should get suitable high marks, while project of a routine \nor stereo typed nature should only receive MEDIOCRE marks. \nProcedure for Record of Marks in the Practical answer-books: \n \nThe examiner will indicate separately marks of practical examination on the title page of the answer- \nbooks under the following heads:- \nProject - 10 marks \n \nProjects for the final practical are given below. Student may be assigned \nGuidelines for Project Preparation: \n \nThe final project work should encompass chapters on: \n \na) Introduction, \n \nb) Identification of core and advance issues, \n \nc) Learning and understanding \n \nd) Observation during the project period. \n \nViva based on Project - 05 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the project, \nif any, done by the student. Alternatively, if no project has been assigned to the students, viva may be \nbased on questions of practical nature from the field of subject as per the Curriculum \nPractical File - 15 Marks \nStudents to perform activities listed Part-B-SUBJECT SPECIFIC SKILLS/ make a power point \npresentations / session assignment / practical file / report. \nDemonstration of skill competency in Lab Activities - 10 marks \n \nInternal Examiner shall allot marks based on whole year performance of students during regular practical. \nPractical performance/Periodic Test marks/Notebook Presentation shall be considered."
+}

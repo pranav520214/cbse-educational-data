@@ -1,0 +1,220 @@
+{
+  "subject_name": "Retail",
+  "subject_code": "801",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Management",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XI.pdf",
+  "sha256": "d02df4bbd2b45dccb032623fcf4e9b096c4156a777c6c7f729cec4bb54a013bb",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Fundamentals of Retailing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Process of Credit Application",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Mechanism for Customers to Choose",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Specialist Support to Customers",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Health and Safety Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Shelves for Stacking Products"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Shopping Cart"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Signage Board Retail"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Offer / Policy Signage"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Big Poster (at POS) for offer related advertisement"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Gondola"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Products for display (Dummy Cameras and Mobiles)"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Danglers"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Coupons and Vouchers"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Carry Bags"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Physical Bill Copy"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Bar Code Machine"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Customer Feedback Form"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Safety and security equipments on site-"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Housekeeping equipments on site"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer"
+    },
+    {
+      "chapter_number": 2,
+      "title": "LCD Projector"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Projection Screen"
+    },
+    {
+      "chapter_number": 4,
+      "title": "White/Black Boards"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Flip Charts"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Fundamentals of Retailing"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Process of Credit Application"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Mechanism for Customers to Choose"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Specialist Support to Customers"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Health and Safety Management"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Fundamentals"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Process"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Mechanism for"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Specialist"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Health and"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nRETAIL (SUBJECT CODE - 801) \nJOB ROLE: SALES ASSOCIATE \nClass XI \n \nCOURSE OVERVIEW \n \nA retailer is one who stocks the manufactured goods and is involved in the act of selling to \nthe final customer or consumer, at a margin of profit. Retailing is the last link that \nconnecting the individual consumer with the manufacturing and distribution chain. It adds \nvalue in terms of bulk breaking and providing a wide variety of goods and services to \ncustomers as per their needs. \nThe retail industry is divided into organised and unorganized sectors. Organised retailing \nrefers to trading activities undertaken by licensed retailers, that is, those who are registered \nfor sales tax, income tax, etc. These include the corporate- backed hypermarkets and retail \nchains, and also the privately owned large retail businesses. Unorganized retailing, on the \nother hand, refers to the traditional formats of low-cost retailing, like, the local kirana shops, \nowner manned general stores, paan/beedi shops, convenience stores, hand cart and \npavement vendors, etc. \nOrganised retail can be categorized by the type of products retailed as well as the by the \ndifferent kind of retail formats. The major retail formats include Department store, \nSupermarkets, Hypermarket, Specialist Stores, Convenience Stores, and Kiosks. The \nvarious operations involved in store operation and management include Store Operations, \nBack \nend \noperations, \nMerchandising, \nLogistics \nand \nDistribution, \nMarketing, \nProcurement/Purchase, and Corporate Services. \nAfter completion of this course the learner would be able to work as store operations \nassistant in organised retailing and may look after overall store operations. He/she can \nalso motivate other co- workers and who assist customers in finding merchandise, \nintroduce customers to new merchandise, and move the goods from racks to billing \ncounters. He also serves internal and external customers in a retail environment with \nrespect to product receiving, movement, storage and delivery. He needs to be physically fit \nto withstand working in a retail environment whilst being customer responsive towards \nservice delivery.\nOBJECTIVES OF THE COURSE: \n \nIn this course, the students will be introduced to the fundamental concepts of Retail \nManagement and the career opportunities available in this field. This course provides an \ninsight to the students regarding various issues associated with store operation, visual \nmerchandising, merchandising, inventory management, retail sales etc. Class participation \nwould be fundamental for the development of transferrable skills. \nFollowings are the main objectives of this course. \n \n• \nTo familiarize the students regarding various dimensions of retail management and career \nopportunities available in these fields. \n• \nTo develop practical understanding among the students associated with retailing through \nclassroom discussion/ participation and projects. \n• \nTo develop transferrable skills among the students for managing retail operation efficiently \nso that they could be ready to join the retail industry. \n• \nTo provide knowledge to students in concise and understandable format so that students \ncould learn and apply these concepts in their career for the growth. \n• \nTo provide brief insight about floor operation, product display, product handling, inventory \nmanagement and retail sales. \n \n \nSALIENT FEATURES: \n \n• \nRetailing involves direct interaction among buyers and sellers. \n \n• \nAcross the world, the number of retail outlet is more than any other forms of the business. \nIndia is known as nation of the shop as there are more than 13 million retail outlets in the \ncountry. \n• \nRetail business primarily deals with B to C market rather than B to B market. In retailing, \nsales volume is comparatively large in quantity but lesser in monetary value. \n• \nLocation and lay out design of the store are critical success factor for the growth of the \nstore. \n• \nRetail is very localized business and it is in transition phase; mergers, acquisition among \nthe retail firms are taking place across the globe. \n• \nRetailers are developing new business format. On line retailers are growing at very high \npace and it is impacting the business of traditional store.\nLIST OF EQUIPMENT AND MATERIALS: \n \nThe list given below is suggestive and an exhaustive list should be prepared by the \nvocational teacher. Only basic tools, equipment and accessories should be procured by \nthe Institution so that the routine tasks can be performed by the students regularly for \npractice and acquiring adequate practical experience. \nMaterial Required for Store Operations Assistant \n \n1. \nShelves for Stacking Products \n2. \nShopping Cart \n3. \nSignage Board Retail \n4. \nOffer / Policy Signage \n5. \nBig Poster (at POS) for offer related advertisement \n6. \nGondola \n7. \nProducts for display (Dummy Cameras and Mobiles) \n8. \nDanglers \n9. \nCoupons and Vouchers \n10. Carry Bags \n11. Physical Bill Copy \n12. Bar Code Machine \n13. Customer Feedback Form \n14. Safety and security equipments on site- \n• \nFire extinguisher \n• \nSecurity cameras \n• \nLCD screens \n• \nSafety sign boards \n• \nPersonal protective equipments (PPE) like gloves, helmets, jackets, harness etc. \n• \nLocking systems \n15. Housekeeping equipments on site \n• \nVacuum cleaner \n• \nMops \n• \nCleaning chemicals \n• \nCleaning Robots \n• \nAir purifiers \n• \nFiltering machines \n• \nSpill Absorbents \n• \nTermite treatment \nTeaching/Training Aids: \n1. \nComputer \n2. \nLCD Projector \n3. \nProjection Screen \n4. \nWhite/Black Boards \n5. \nFlip Charts\nCAREER OPPORTUNITIES: \n \nRetail is the sector which provides huge career opportunities to all age group of people \nirrespective of qualification, gender, race and religion. Following career opportunities are available \nin this field. Students can make their career in any field based on their interest and suitability. \n➢ Supply chain management \n➢ Visual Merchandising \n➢ Category Management \n➢ Store operation \n➢ Mall Management \n➢ Inventory Management \n \n \nVERTICAL MOBILITY: \n \nAt BBA/B.Com level, students may start their career as a business executive and they can \nreach at managerial level over the period of time. For the career progression, following \ncareer options are available in retail field. \n➢ Retail sales executive \n➢ Visual merchandising executive \n➢ Retail account executive \n➢ Store operation executive \n➢ Executive (Logistics and supply chain). \n➢ Executive (Inventory management) \n \nCURRICULUM: \n \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI and XII opting for Skills subject \nalong with other subjects.\nRETAIL - XI (SUBJECT CODE - 801) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \n \nUnit 1 : Communication Skills-III \n13 \n2 \nUnit 2 : Self-Management Skills-III \n07 \n2 \nUnit 3 : ICT Skills-III \n13 \n2 \nUnit 4 : Entrepreneurial Skills-III \n10 \n2 \nUnit 5 : Green Skills-III \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \n \nUnit 1: Fundamentals of Retailing \n23 \n7 \nUnit 2: Process of Credit Application \n22 \n7 \nUnit 3: Mechanism for Customers to Choose \nRight Products \n25 \n11 \nUnit 4: Specialist Support to Customers \n25 \n13 \nUnit 5: Health and Safety Management \n25 \n12 \nTotal \n120 \n50 \nPart C \nPractical Work \n \n \nProject \n \n \n \n90 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab \nActivities \n10 \nTotal \n90 \n40 \n \nGRAND TOTAL \n260 \n100\nDETAILED CURRICULUM/TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Communication Skills-III \n13 \n2. \nUnit 2: Self-management Skills-III \n07 \n3. \nUnit 3: Information and Communication Technology Skills-III \n13 \n4. \nUnit 4: Entrepreneurial Skills-III \n10 \n5. \nUnit 5: Green Skills-III \n07 \n \nTOTAL DURATION \n50 \n \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website. \n \n \nPart-B - SUBJECT SPECIFIC SKILLS (Class - XI) \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Fundamentals of Retailing \n23 \n2. \nUnit 2: Process of Credit Application \n22 \n3. \nUnit 3: Mechanism for Customers to Choose \nRight Products \n \n25 \n4. \nUnit 4: Specialist Support to Customers \n25 \n5. \nUnit 5: Health and Safety Management \n25 \n \nTOTAL DURATION \n120\nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n1. Fundamentals \nof Retailing \n1.1 Basics of \nRetailing \nSession 1: \n• \nMeaning and significance of retail business \n• \nOrganized and unorganized retailing \n• \nDifferent types of retail business \n• \nFunctions of Retailer \n1.2 Sales Associate \nServices to \nCustomers \nSession 2: \n• \nConcept of Customer \n• \nDifference between Customer and Consumer \n• \nConcept of Customer Service \n• \nThe 4 P’s of Customer Service \n• \nCustomer satisfaction and its importance \n1.3 Skills for Handling \nRetail Business \nSession 3: \n• \nMeaning of Skill \n• \nEssentials of Skill Development \n• \nSkills for Sales Associate \n1.4 Duties and \nResponsibilities of \nSales-Associate \nSession 4: \n• \nDuties and Responsibilities of \nSales-Associate \n• \nSpecial activities of Customer Service \nAssociate \nACTIVITY \n• \nA field visit to learn the skills for handling \nretail business. \n• \nDemonstrate the duties of a sales associate \nin a retail store. \n• \nPerform the responsibilities of a sales \nassociate in a retail store. (ROLEPLAY) \n2. Process \nof Credit \nApplication \n2.1 Features and conditions \nof Credit Sales \nSession 1: E- Retailing Logistics \n• \nExplain the meaning, advantages and \nshortcomings of e-retailing \n• \nIdentify relevance of e-retailing resources, \ninformation & communication technology \n• \nIdentify success factors for e-retailing \n2.2 Credit Checks and \nGetting Authorisation \nSession 2: \n• \nUnderstanding the Features and conditions \nfor credit sales \n• \nCharacteristics of Credit Sales \n• \nDefinition of Retail Credit facility and \nstructure of credit agreement. \n• \nEssential elements of contract of sale \n• \nDifferentiate between Condition and \nWarranty \n2.3 Processing Credit \nRequisitions \nSession 3: \n• \nDiscussion on credit requisition \n• \nIdentify the various process of \ncredit facilities to customers\n2.4 Techniques for \nDetermining Credit \nWorthiness \nSession 4: \n• \nApprise the concept of Creditworthiness \n• \nIdentify methods to check the \nCreditworthiness \n• \nDiscuss the techniques of Creditworthiness \n \nACTIVITY \n• \nA role-play to learn the process of credit sales \nin retail business. \n• \nMake a presentation on checking the \ncreditworthiness of a borrower. \n• \nDemonstrate the knowledge of techniques \nused for determining credit worthiness of \ncustomers. \nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n3. Mechanism for \nCustomers to \nChoose \nRight Products \n3.1 Methods of Selling \nSession 1: \n• \nUnderstanding the various methods of Selling. \n• \nMeaning, Needs and Procedure for \narrangements of Products \n3.2Sales Promotional \nActivities \nSession 2: \n• \nUnderstanding the Sales promotional \nactivities. \n• \nObjectives of sales Promotion \n• \nSales Promotion Techniques \n• \nAcquire knowledge of the nature of product \n3.3 Responding to \nQuestions and Comments \nSession 3: \n• \nLogical questions with Customers \n• \nDealing with different types of Customers \n3.4 Techniques of Closing \na Sale \nSession 4: \n• \nFactors influencing the closing of Sales \n• \nTechniques of closing a Sale \n \nACTIVITY \n• \nPrepare a chart on different methods of \nselling in different retail formats. \n• \nDemonstrate the proper checking of the \nproduct packaging. \n4. Specialist \nSupport to \nCustomers \n4.1 Providing Product \nInformation \nSession 1: \n• \nMeaning and features of a Product \n• \nNeed for product information \n• \nWays of providing product information \n4.2 Techniques to \nEncourage \nCustomers to Buy \nProducts \nSession 2: \n• \nMeaning of Customer Motivation \n• \nWays to motivate customers to buy \n• \nCustomer Service Policy \n4.3 Provide Personalised \nService \nSession 3: \n• \nCustomer Service Standards \n• \nCustomized Sales Support \n• \nSteps involved in Personalised sales support\nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n \n4.4 Post sales Service \nSupport \nSession 4: \n• \nMeaning and Types of Post sales service \nsupport \n• \nDiscussion on Customer Data \n• \nProtection of Customer Data \n• \nTypes of promises to customers. \nACTIVITY \n• \nDemonstrate the various techniques for \nclosing a sale. \n• \n Identify the types and techniques of closing \nsales. \n5. Health and \nSafety \nManagement \n5.1 Health and Safety \nRequirements \nSession 1: \n• \nUnderstanding the meaning of health \nand safety \n• \nHealth and safety requirements laid \nby the retailer and the Law. \n5.2 Equipments and \nMaterials \nSession 2: \n• \nTypes of potential risks at Retail store \n• \nEquipment used for health and safety in stores \n• \nDealing with risks at retail outlets. \n5.3 Dealing with Accidents \nand Emergencies \nSession 3: \n• \nReasons for accidents in Retail store \n• \nMeaning of Emergency \n• \nEmergency Action Plan \n5.4 Reporting Accidents \nand Emergencies \nSession 4: \n• \nMeaning of Reporting \n• \nLegal Policies and Procedures for Retailers \n• \nSystem of reporting in emergency and \naccidents. \nACTIVITY \n• \nPerform the role-play on need for motivating \ncustomers to buy products in a given \ncondition. \n• \nClassify the policies for providing information \nto the customers."
+}

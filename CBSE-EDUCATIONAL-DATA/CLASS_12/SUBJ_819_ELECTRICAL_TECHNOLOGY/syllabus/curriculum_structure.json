@@ -1,0 +1,885 @@
+{
+  "subject_name": "Electrical Technology",
+  "subject_code": "819",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XII.pdf",
+  "sha256": "fc7994c75dbd806b89d94ae90569b0ed2f81d9f9e399c99f0dcfa138900fb40d",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "A.C. Circuits",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Single-Phase Transformer",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "(A) D.C. Motors",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Three Phase Induction Motors",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Measuring Instruments-II",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Electrical Appliances",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The relevant basic concepts and principles in basic science s"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The basic concepts in engineering drawing."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The concepts, principles of working, maintenance, constructio"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Testing, installation, fault identification and repairing of"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Different types of electrical wiring."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Testing, installation, commissioning, fault location, repairi"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Undertaking complete house wiring jobs, testing, location of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "An analytical approach while working on a job."
+    },
+    {
+      "chapter_number": 2,
+      "title": "An open mind while locating/rectifying faults."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Respect for working with his/her own hands."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Respect for honesty, punctuality and truthfulness."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "A.C Circuits"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Single-Phase Transformer"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Three Phase Induction Motors: Principle, working & starting o"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Measuring Instruments-II"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Electrical appliances:"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Work Bench 1.8 m × 1.2 m and 1.5 m × 1.5 m, Heavy duty legs 7"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Bench Vice -"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Pipe Vice : 2 nos., size - 1 No."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Hammers Ball Pien, 100 gms"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Mallets of wood different size."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Hammers of Plastic head (Plastic Mallets) of different size"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Micrometer 0 to 25 mm Japanese Mitutoyo."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Inside Micrometer 5 to 30 mm Japanese Mitutoyo."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Depth gauge 20 cm Mitutoyo."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Try Square 15 cm Japanese or English"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Marking Blocks Adjustable"
+    },
+    {
+      "chapter_number": 12,
+      "title": "V. Block 7.5 cm one set with clamp"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Surface plate 45 cm × 45 cm"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Centre Punch 10 cm length"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Wire gauge SWG"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Cold Chiesel 15 cm to 20 cm"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Drills High speed steel 0.5 mm to 6 mm, 1/6"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Crimping Tools"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Diamond Tip Glass Cutter"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Hand Reamers 20 mm or other required size"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Tap sets with handle 1/8″ to 3/8″ BSW"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Dies sets with stocks 1/8″ to 3/8″ BSW"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Screw Driver Non-breakable handle Assorted"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Philips Head Screw Driver-Set of 10 Nos. 2 Sets"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Pliers-Combination Insulated 15 cm, Long Nose, 15 cm, Side Cu"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Bend Nose 15 cm"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Round Nose Seal Remover Pliers 20 cm"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Adjustable Wrench 25 cm-30 cm"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Pipe Wrench 25 cm-2.5 cm"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Pipe type spanner set of 8-Spanners-SURA make"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Double End open spanner set of 12 spanners"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Ring Spanners set of 24 spanners Make Jhalani/Taparia"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Box Spanner-set of 24 spanners"
+    },
+    {
+      "chapter_number": 35,
+      "title": "T. spanner set from 4 No. to 13 No."
+    },
+    {
+      "chapter_number": 36,
+      "title": "Allen Key set - Set of 12 pcs."
+    },
+    {
+      "chapter_number": 37,
+      "title": "Bearing/Pulley Puller"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Grease Gun manual Operated"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Oil cane"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Oil Stove"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Blower Stove"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Scissor 20 cm"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Sheet cutter 25 cm Blade length"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Rawl Plugs"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Wooden saw 30 cm to 45 cm"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Adjustable Hacksaw"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Fix Hacksaw"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Junior Saw"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Wooden Chisels (Sathari)/ (Chaursi)"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Electrician Knife"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Photo cutter (9″ and 1″)"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Poker"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Scale 15 cm and 30 cm stainless steel Japanese make"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Wooden Planer Wood"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Steel Planer (Anant Make)"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Wooden Planner for Design for one sided for groovewith access"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Phase or Neon tester (Taparia)"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Soldering Iron 35 Watts to 120 Watts, 35 Watts and 65 Watts ("
+    },
+    {
+      "chapter_number": 60,
+      "title": "Thermocouple prone type for temp. control"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Bimetallic relay (Faridge and other relays)"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Thermostat for refrigerator, for Geyser, for Hot case"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Dynamo D.C. small (Cycle Dynamo)"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Universal motor - 1/4 HP and 1/2 HP"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Soldering Iron stand"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Demonstrational Transformer Ratio 1 : 1"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Air Break Contractor"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Voltage Transformer 440 V/110 V"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Current transformer 5/100 amps."
+    },
+    {
+      "chapter_number": 70,
+      "title": "Auto Transformer 0 to 270 V 15 amps.single phase AE"
+    },
+    {
+      "chapter_number": 71,
+      "title": "Electrical Sprayer Pilot-make 800 gram capacity"
+    },
+    {
+      "chapter_number": 72,
+      "title": "D.O.L. Starter-Make GEC, Cromptom, Kirlosker, ABB upto 5 HP 3"
+    },
+    {
+      "chapter_number": 73,
+      "title": "Star Delta Starter-Manually operated upto 15 HP"
+    },
+    {
+      "chapter_number": 74,
+      "title": "Star Delta Starter-Semi Automatic upto 15 HP"
+    },
+    {
+      "chapter_number": 75,
+      "title": "Star Delta Starter-Fully automatic with additional accessorie"
+    },
+    {
+      "chapter_number": 76,
+      "title": "Torch of 4 cells portable"
+    },
+    {
+      "chapter_number": 77,
+      "title": "Flourescent Tube Fixture with choke and starter complete"
+    },
+    {
+      "chapter_number": 78,
+      "title": "Heating Element of different types used in industrial closed"
+    },
+    {
+      "chapter_number": 80,
+      "title": "Rotary Switches of different types as AGI make R 416, R 316,"
+    },
+    {
+      "chapter_number": 81,
+      "title": "I.C.T.P. and I.C.D.P. Main switches"
+    },
+    {
+      "chapter_number": 82,
+      "title": "Distribution Boards"
+    },
+    {
+      "chapter_number": 83,
+      "title": "Bus Bar"
+    },
+    {
+      "chapter_number": 84,
+      "title": "Old Ceiling fan with complete parts"
+    },
+    {
+      "chapter_number": 85,
+      "title": "Old Table fan with complete parts"
+    },
+    {
+      "chapter_number": 86,
+      "title": "Exhaust fan with complete parts"
+    },
+    {
+      "chapter_number": 87,
+      "title": "Old Shaded pole Motor 1/2 HP"
+    },
+    {
+      "chapter_number": 88,
+      "title": "Different types of Centrifugal Switch Assembly complete make"
+    },
+    {
+      "chapter_number": 89,
+      "title": "Single Phase capacitor start capacitor run Motor"
+    },
+    {
+      "chapter_number": 90,
+      "title": "Single Phase 1440 RPM old motor with complete parts"
+    },
+    {
+      "chapter_number": 91,
+      "title": "A.C. Induction squirrel cage 3 phase motor 1440RPM old with c"
+    },
+    {
+      "chapter_number": 92,
+      "title": "Hand drill Machine 6 mm capacity"
+    },
+    {
+      "chapter_number": 93,
+      "title": "Electrical Gun drill machine-portable 6 mm max."
+    },
+    {
+      "chapter_number": 94,
+      "title": "Electrical Gun drill machine portable 12 mm"
+    },
+    {
+      "chapter_number": 95,
+      "title": "Bench Drill machine pillar type capacity upto 12 mm or 18 mm"
+    },
+    {
+      "chapter_number": 96,
+      "title": "Bench Grinder 1 HP 220 V, Single Phase, Three Phase power 288"
+    },
+    {
+      "chapter_number": 97,
+      "title": "Electrical Welding machine upto 250 AMp.capacity single phase"
+    },
+    {
+      "chapter_number": 98,
+      "title": "Winding Machine for Motor coil winding Hand operated"
+    },
+    {
+      "chapter_number": 99,
+      "title": "Winding Machine for Transformer winding hand operated single"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Ammeter MI type 0-5-10 Amps."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Ammeter MC type 0-1-5 Amps."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Voltmeter MI type 0-300 Volts"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Voltmeter MI type 0-600 volts"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Voltmeter MC type 0-300 volts"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Voltmeter MC type 0-15 volts"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Watt metre Dynameter type 0-300 5 amp./10 amp."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Energy meter 230 V, 5 amps."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Insulation megger - 500 volts"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Earth tester"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Neon tester"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Multimeter"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Clip on meter"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Growler inside and outside"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Phase sequence indicator"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Frequency meter Pointer type"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Frequency meter digital type"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Power factor meter"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Conduct Pipe Tee"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Bulbs 60 Watts"
+    },
+    {
+      "chapter_number": 1,
+      "title": "P.V.C. wire 3/22"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Wooden Batten 12 mm × 18 mm"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Casing Copping (Standard Size)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Link Clips Standard size"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Nail Standard size 12 mm"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Wooden screws standard size"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Round Blocks standard size"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Wooden Board standard size"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Insulation Tape"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Batton Holder"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Pendant Holder"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Angle Holder"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Intermediate Switch"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Electric Press Connector"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Piano Type Switch Saps"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Conduit Pipe 18 mm, 25 mm"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Junction Box"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Conduit Pipe Tee"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Grease"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Lubricating Oil"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Insulating Varnish"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To test and repair a defective cycle dynamo."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Dismantling, study and reassembling of a D.C. motor."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Measurement of resistance of series, shunt field and armature"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Testing, fault finding and repair of a D.C. motor."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Overhauling of a D.C. motor."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Dismantling, study and reassembling of a D.C. motor starter."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Study of (i) Voltage Transformer, (ii) Current Transformer an"
+    },
+    {
+      "chapter_number": 8,
+      "title": "To rewind the given 230/12 v transformer."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Dismantling, study and reassembling of an A.C. motor."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Dismantling, study and reassembling of an A.C. motor starter."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Testing, fault finding and repair of an A.C. motor starter."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Connecting, starting, running and reversing of an A.C. Univer"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Installation of D.C. motor."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Installation of A.C. motor."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Dismantling and reassembling of geyser: (i) instant, (ii) sto"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Testing and repair of geyser: (i) storage, (ii) instant."
+    },
+    {
+      "chapter_number": 17,
+      "title": "Connection of fluorescent tube-lamp circuit."
+    },
+    {
+      "chapter_number": 18,
+      "title": "Testing and repair of: (i) table lamp, (ii) night lamp, (iii)"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Testing and repair of: (i) electric bell, (ii) buzzer, and (i"
+    },
+    {
+      "chapter_number": 20,
+      "title": "To prepare series/parallel testing board."
+    },
+    {
+      "chapter_number": 21,
+      "title": "To connect fan regulator with a ceiling fan."
+    },
+    {
+      "chapter_number": 22,
+      "title": "To fit MCB in a circuit in place of fuse."
+    },
+    {
+      "chapter_number": 23,
+      "title": "Polarity test of installation."
+    },
+    {
+      "chapter_number": 24,
+      "title": "Testing, fault finding, repair and overhauling of blower type"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Testing, fault finding, repair and overhauling of room cooler"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Testing, fault finding, repair of emergency light and voltage"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Testing, fault finding, repair and overhauling of motors used"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Winding/re-winding of electrical motor used in domestic appli"
+    },
+    {
+      "chapter_number": 29,
+      "title": "To study emergency light circuit."
+    },
+    {
+      "chapter_number": 30,
+      "title": "To study speed control, and speed rerersal of DC Motors."
+    },
+    {
+      "chapter_number": 31,
+      "title": "Start-Stop of 3 phase induction motors"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Study forward & reverse of 3 phase induction motors"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Study of analog and digital multimeter and study vatious para"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Study of power meter and test various loads."
+    }
+  ],
+  "full_text_excerpt": "819-Electrical Technology - Class XII \nPage 1 of 12 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nELECTRICAL TECHNOLOGY (SUB. CODE - 819) \nJOB ROLE: FIELD TECHNICIAN \nCLASS -XII \n \n1. Introduction \nAfter successfully completing the two years of Senior Secondary Skill Course the student would have acquired \nrelevant appropriate and adequate technical knowledge together with professional skills and competencies in the \nfield of Electrical Technology so that he/she is properly equipped to take up gainful employment in this vocation. \n \n2. Course Objectives \nA. \nUnderstanding of \n1. \nThe relevant basic concepts and principles in basic science subjects (Physics, Chemistry and \nMathematics) so that he/she is able to understand the different subjects. \n2. \nThe basic concepts in engineering drawing. \n3. \nThe concepts, principles of working, maintenance, constructional details and functions of electrical \nmotors, electrical appliances, measuring and testing instruments and electrical circuits. \n4. \nTesting, installation, fault identification and repairing of electrical motors, appliances and instruments. \n5. \nDifferent types of electrical wiring. \nB. \nAdequate Professional Skills and Competencies in \n1. \nTesting, installation, commissioning, fault location, repairing, servicing and major repairs of electrical \nmotors, appliances and instruments. \n2. \nUndertaking complete house wiring jobs, testing, location of faults and repairing of house wiring. \nC. \nA Healthy and Professional Attitude so that He/ She has \n1. \nAn analytical approach while working on a job. \n2. \nAn open mind while locating/rectifying faults. \n3. \nRespect for working with his/her own hands. \n4. \nRespect for honesty, punctuality and truthfulness. \n \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing employability and \nSkills competencies of students of Class XII opting for Skill subject along with general education subjects \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\n819-Electrical Technology - Class XII \nPage 2 of 12 \n \nELECTRICAL TECHNOLOGY (CODE NO. 819) \nCLASS XII SESSION 2026-2027 \nThe unit-wise distribution of Periods and marks for Class XII is as follows: \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. \nMARKS \nfor Theory and \nPractical \n \n \n \n \nEmployability Skills \n \nUnit 1 : Communication Skills-IV \n10 \n2 \nUnit 2 : Self-Management Skills- IV \n10 \n2 \nUnit 3 : ICT Skills- IV \n10 \n2 \nUnit 4 : Entrepreneurial Skills- IV \n15 \n2 \nUnit 5 : Green Skills- IV \n05 \n2 \nTotal \n50 \n10 \n \n \n \n \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit 1: A.C. Circuits \n10 \n10 \n04 \nUnit 2: Single-Phase Transformer \n10 \n10 \n08 \nUnit 3: (A) D.C. Motors \n(B) Single Phase A.C. Motors \n15 \n15 \n12 \n13 \n8 \n8 \nUnit 4: Three Phase Induction Motors \n15 \n15 \n04 \nUnit 5: Measuring Instruments-II \n15 \n10 \n04 \nUnit6: Electrical Appliances \n30 \n30 \n14 \nTotal \n110 \n100 \n50 \n \n \n \n \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n30 \n \n \n \n \nProject Work/Field Visit \n \n10 \nPractical File/ Student Portfolio \n \nTotal \n10 \n \nGRAND TOTAL \n260 \n100\n819-Electrical Technology - Class XII \nPage 3 of 12 \n \nCLASS XII \n4. CONTENTS: \n \n \nPART A: EMPLOYABILITY SKILLS \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n10 \n2. \nUnit 2: Self-management Skills- IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n10 \n4. \nUnit 4: Entrepreneurial Skills- IV \n15 \n5. \nUnit 5: Green Skills- IV \n05 \n \nTOTAL \n50 \n \nNote: The detailed curriculum/ topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \nPART B - SKILLS \n1. A.C Circuits \nGeneration of A.C. voltage, its generation and wave shape. Cycle, frequency, peak value (maximum value), average \nvalue, instantaneous value , R.M.S. value, form factor, crest factor, phase, phase difference, power and power \nfactor, A.C. Series Circuits with (i) resistance and inductance (ii) resistance and capacitance and (iii) resistance \ninductance and capacitance, Q factor of R.L.C. series circuits. \n \n2. Single-Phase Transformer \nTypes of transformer - step-up and step-down transformer, voltage and current transformer, auto-transformer. \nConstruction, working principles and applications of different types of transformers, rewinding of transformers, \ncooling of transformers. Safety measures precautions from operational point of view. \n \n3(A) D.C. Motors \nTypes of motor - series, shunt, compound and universal, construction, working principles, characteristics, winding \ndetails and applications of different types of motors including fractional horse power, starting and starters for D.C. \nmotors. Installation of D.C. motor. \n \n(B) Single Phase A.C. Motor \nTypes of A.C. Motors - induction motor (Split phase and repulsion start), capacitor motor, shaded pole motor, \nuniversal motor, construction, working principles, special characteristics, winding details and applications of \ndifferent types of fractional horse power motors. Starting and starters for different motors. \n4. Three Phase Induction Motors: Principle, working & starting of three phase induction motor. \n \n5. Measuring Instruments-II \nInduction type Energy meter analog multi meter, digital multi meter, dynamometer type wattmeter- their circuit \nconnection & application for measurement, operation & application\n819-Electrical Technology - Class XII \nPage 4 of 12 \n \n6. Electrical appliances: \n(i) \nImmersion Heater and Geyser: \nConstruction, working principle and use of immersion heater. Common faults - their causes, testing and repairs. \nConstruction, working principles and use of geyser and thermostat, common defects, their causes, testing and \nrepairs. Testing and installation of geyser. Precautions in using immersion heater and geyser. \n \n(ii) Electric Mixer, Grinder and Blender: \nConstruction, working principles, characteristics and applications of electric mixer, grinder and blender. Common \nfaults, their causes, testing and repairs, servicing, maintenance and over. \n \n(iii) Room Cooler: \nConstruction and working details of room cooler, desert cooler, Common cooler faults, their causes, testing and \nrepair, Installation of room cooler/desert cooler. \n \n(iv) Electric Motor Used in Domestic Appliances \n \nSplit phase, capacitor start, capacitor-run, shaded-pole motors, two speed motors, reverse motors, universal \nmotors, components testing, trouble shooting, and servicing. \n \n(v) Basic Occupational and Safety Practices \nSafety signs, lighting and handling loads, moving heavy equipments, Electrical safety- safety practices- first aid, \nPractice safe methods- lifting and handling of heavy objects, Rescue a person from live wire, Artificial respiration- \nNelson’s arm and Schafer’s Method. \n \n \n \n5. TEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field visits. \nStudents should be taken to field visits for interaction with experts and to expose them to the various tools, \nequipment, materials, procedures and operations in the workplace. Special emphasis should be laid on the \noccupational safety, health and hygiene during the training and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by discussions \nshould be conducted by trained teachers. Teachers should make effective use of a variety of instructional or \nteaching aids, such as audio-video materials, colour slides, charts, diagrams, models, exhibits, hand-outs, online \nteaching materials, etc. to transmit knowledge and impart training to the students. \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based studies, \nexercises, etc. Equipment and supplies should be provided to enhance hands-on learning experience of students. \nOnly trained personnel should teach specialized techniques. A training plan that reflects tools, equipment,\n819-Electrical Technology - Class XII \nPage 5 of 12 \n \nmaterials, skills and activities to be performed by the students should be submitted by the teacher to the Head of \nthe Institution. \n \nFIELD VISITS/ EDUCATIONAL TOUR \n \nIn field visits, children will go outside the classroom to obtain specific information from experts or to make \nobservations of the activities. A checklist of observations to be made by the students during the field visits should \nbe developed by the teachers for systematic collection of information by the students on the various aspects. \nPrincipals and Teachers should identify the different opportunities for field visits within a short distance from the \nschool and make necessary arrangements for the visits. At least three field visits should be conducted in a year. \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of practical \ndemonstration of skills by the candidate, Practical examination allows candidates to demonstrate that they have \nthe knowledge and understanding of performing a task. This will include hands-on practical exam and viva voce. \nFor practical, there should be a team of evaluators. The same team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain time period or \ntimeline. Project work should be given on the basis of the capability of the individual to perform the tasks or \nactivities involved in the project. Projects should be discussed in the class and the teacher should periodically \nmonitor the progress of the project and provide feedback for improvement and innovation. Field visits should be \norganised as part of the project work. Field visits can be followed by a small-group work/project work. When the \nclass returns from the field visit, each group might be asked to use the information that they have gathered to \nprepare presentations or reports of their observations. Project work should be assessed on the basis of practical \nfile or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. Documents \nmay include reports, articles, photos of products prepared by students in relation to the unit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video \nrecording can be done at the time of viva voce. The number of external examiners would be decided as per the \nexisting norms of the Board and these norms should be suitably adopted/adapted as per the specific requirements \nof the subject. Viva voce should also be conducted to obtain feedback on the student’s experiences and learning \nduring the project work/field visits. \n \n \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \n \nIn a year, at least 3 field visits/educational tours should be organised for the students to expose them to the \nactivities in the workplace. \n \n7. LIST OF EQUIPMENT AND MATERIAL \n \n1. Work Bench 1.8 m × 1.2 m and 1.5 m × 1.5 m, Heavy duty legs 7.5 cm × 7.5 cm with one 2.5 cm thick top of \nShisham and hard wood with spirit polish. \n \n2. Bench Vice - \n1 No. \n2 No. \n3 No. \n4 No. \nSize \n6 each \n6 each \n2 each \n2 each\n819-Electrical Technology - Class XII \nPage 6 of 12 \n \n1 \n3. Pipe Vice : 2 nos., size - 1 No. \n \n \n4. Hammers Ball Pien, 100 gms \n6 each \nBall Pien, 0.25 kg \n6 each \nBall Pien, 0.5 kg \n4 each \nBall Pien, 1 kg \n2 each \nBall Pien, 2.5 kg \n1 No. \n5. Mallets of wood different size. \n6 each \n6. Hammers of Plastic head (Plastic Mallets) of different size \n3 each size \n7. Micrometer 0 to 25 mm Japanese Mitutoyo. \n2 No. \n8. Inside Micrometer 5 to 30 mm Japanese Mitutoyo. \n2 No. \n9. Depth gauge 20 cm Mitutoyo. \n1 No. \n10. Try Square 15 cm Japanese or English \n6 No. \n11. Marking Blocks Adjustable \n2 sets \n12. V. Block 7.5 cm one set with clamp \n2 sets \n13. Surface plate 45 cm × 45 cm \n1 No. \n14. Centre Punch 10 cm length \n10 No. \n15. Wire gauge SWG \n1 No. \nNeedle files of different shapes \n3 each \n17. Cold Chiesel 15 cm to 20 cm \nTaparia/Jhalani or other standard make \n6 Nos. \n18. Drills High speed steel 0.5 mm to 6 mm, 1/6 \n3 + 3 set \nI.T . Make 6 mm to 18 mm,1/4″ to 3./4″ \n1 + 1 set \n19. Crimping Tools \n2 No. \n20. Diamond Tip Glass Cutter \n2 No. \n21. Hand Reamers 20 mm or other required size \n1 No. \n22. Tap sets with handle 1/8″ to 3/8″ BSW \n1 Set \n″ \n″ \n1 Set \nTap set with handle 3/ to 3/8 BSF \nTap sets with handle 0″ to10″ BA \n1 Set \n23. Dies sets with stocks 1/8″ to 3/8″ BSW \n1 Set \nDies sets with stocks 3/16″ to 3/8″ BSF \n1 Set \nDies sets with stocks 0″ to 10″ BA \n1 Set \n24. Screw Driver Non-breakable handle Assorted \n2 Set \n25. Philips Head Screw Driver-Set of 10 Nos. 2 Sets \n26. Pliers-Combination Insulated 15 cm, Long Nose, 15 cm, Side Cutting, \nPliers 15 cm, Flat Nose 15 cm, Round Nose 15 cm \n10 Nos. each \n27. Bend Nose 15 cm \n2 No. \n28. Round Nose Seal Remover Pliers 20 cm \n2 No. \n \n \n1 . Files of different length, grade and shapes Length (10 cm to 30 cm), Grade Bastered, smooth \ndead smooth. Shapes flat, Round, Half round, Triangular, \nSquare, knife edge, Mill file, wooden file (Rasp file) \n6 each\n819-Electrical Technology - Class XII \nPage 7 of 12 \n \n29. Adjustable Wrench 25 cm-30 cm \n2 each \n30. Pipe Wrench 25 cm-2.5 cm \n2 Nos. each \n31. Pipe type spanner set of 8-Spanners-SURA make \n1 Set \n32. Double End open spanner set of 12 spanners \n2 Sets \n33. Ring Spanners set of 24 spanners Make Jhalani/Taparia \n1 Set \n \n34. Box Spanner-set of 24 spanners \nMake Jhalani/Taparia or imported \n1 Set \n35. T. spanner set from 4 No. to 13 No. \n2 Set \n36. Allen Key set - Set of 12 pcs. \n1 Set \n37. Bearing/Pulley Puller \n1 No. \n38. Grease Gun manual Operated \n1 No. \n39. Oil cane \n1 No. \n40. Oil Stove \n1 No. \n41. Blower Stove \n2 No. \n42. Scissor 20 cm \n6 Nos. \n43. Sheet cutter 25 cm Blade length \n2 Nos. \n44. Rawl Plugs \n5 Sets \n45. Wooden saw 30 cm to 45 cm \n10 Nos. \n46. Adjustable Hacksaw \n10 Nos. \n47. Fix Hacksaw \n10 Nos. \n48. Junior Saw \n2 Nos. \n49. Wooden Chisels (Sathari)/ (Chaursi) \n10 each \n50. Electrician Knife \n20 Nos. \n51. Photo cutter (9″ and 1″) \n1 each \n52. Poker \n20 Nos. \n53. Scale 15 cm and 30 cm stainless steel Japanese make \n10 each \n54. Wooden Planer Wood \n10 Nos. \n55. Steel Planer (Anant Make) \n5 Nos. \n \n56. Wooden Planner for Design for one sided for groovewith accessories \n2 Sets \n57. Phase or Neon tester (Taparia) \n20 Nos. 58. Morce Taper Socket 2.3 for drill machine 1 No \n59. Soldering Iron 35 Watts to 120 Watts, 35 Watts and 65 Watts (make Raj/Toni) 10 Nos. each a. 120 \nWatts (Raj/Toni make) \n2 Nos. \nb. 15 WAtts \n10 Nos. \n60. Thermocouple prone type for temp. control \n2 Nos. \nThermocouple rod type for temp. control \n2 Nos.\n819-Electrical Technology - Class XII \nPage 8 of 12 \n \n61. Bimetallic relay (Faridge and other relays) \n2 Nos. \n62. Thermostat for refrigerator, for Geyser, for Hot case \n2 Nos. each \n63. Dynamo D.C. small (Cycle Dynamo) \n5 Nos. \n64. Universal motor - 1/4 HP and 1/2 HP \n1 No. each \n65. Soldering Iron stand \n66. Demonstrational Transformer Ratio 1 : 1 \n20 Nos. \n230/230 V with 25%, 50%, 85.6% voltage tapping on both side \n3 Nos. \n67. Air Break Contractor \n2 Nos. \n68. Voltage Transformer 440 V/110 V \n2 Nos. \n69. Current transformer 5/100 amps. \n2 Nos. \n70. Auto Transformer 0 to 270 V 15 amps.single phase AE \n2 Nos \n71. Electrical Sprayer Pilot-make 800 gram capacity \n1 No. \n72. D.O.L. Starter-Make GEC, Cromptom, Kirlosker, ABB upto 5 HP 3 \n3 Nos. \n73. Star Delta Starter-Manually operated upto 15 HP \n2 Nos. \n74. Star Delta Starter-Semi Automatic upto 15 HP \n2 Nos. \n75. Star Delta Starter-Fully automatic with additional accessories upto 10 HP \n2 Nos. \n76. Torch of 4 cells portable \n2 Nos. \n77. Flourescent Tube Fixture with choke and starter complete \n78. Heating Element of different types used in industrial closed type Heating \n10 Nos. \nelements as Round Kettle and type other shapes \n2 each \n79. 3 Phase Reversing switch L & T, other best make \n80. Rotary Switches of different types as AGI make R 416, R 316, R 216, \n2 each type \n216 K, 216 KF, RT 415, R 415 F, R 415 D \n2 Nos. each \n81. I.C.T.P. and I.C.D.P. Main switches \n4 each \n82. Distribution Boards \n2 Nos. \n83. Bus Bar \n2 Nos. \n84. Old Ceiling fan with complete parts \n4 Nos. \n85. Old Table fan with complete parts \n4 Nos. \n86. Exhaust fan with complete parts \n4 Nos. \n87. Old Shaded pole Motor 1/2 HP \n4 Nos \n88. Different types of Centrifugal Switch Assembly complete make Cromptom/GEC \netc. \n4 Nos. each \n89. Single Phase capacitor start capacitor run Motor \n2 Nos. \n90. Single Phase 1440 RPM old motor with complete parts \n2 Nos. \n91. A.C. Induction squirrel cage 3 phase motor 1440RPM old with complete parts \n2 Nos. \n92. Hand drill Machine 6 mm capacity \n93. Electrical Gun drill machine-portable 6 mm max. \ncapacity High speed with accessories \n94. Electrical Gun drill machine portable 12 mm \n10 Nos. \n \n1 No.\n819-Electrical Technology - Class XII \nPage 9 of 12 \n \ncapacity low speed with accessories \n95. Bench Drill machine pillar type capacity upto 12 mm or 18 mm Taper Drill and 9 \nmm Drill chuck capacity with all accessories and Drill chuck with key with motor \nsingle phase or 3 phase 1 HP as per facility of electricityavailable \n1 No. \nin the lab. \n1 No. \n96. Bench Grinder 1 HP 220 V, Single Phase, Three Phase power 2880 RPM \nwith one smooth and one medium grinding wheel of Carborundum \n97. Electrical Welding machine upto 250 AMp.capacity single phase 250Volt AC supply oil \nfilled tank type or air cooled type with all accessories as screen, \n1 No. \nwelding lead and holder, earth clamp etc. \n1 Set \n98. Winding Machine for Motor coil winding Hand operated \n2 Nos. \n99. Winding Machine for Transformer winding hand operated single coil \n1 No. \n100.D.C. Motor series - 1 HP, D.C. Motor Shunt-1 HPRMP 1500 \n1 No. \nD.C. Motor Compound - 1 HP RMP 1500 \n1 No. \n101.A.C. Motor, Single Phase, condenser Start Motor 1/2 HP and 1 HP \n1 each \n102. Single phase condenser run motor Fractional H.P. \n3 Nos. \n103. Three Phase Induction Motor 2 HP, 410 V, 1450 RMP \n1 No. \n104. Shade Pole Motor 1/2 HP, 1/4 HP or small \n105. Demonstrational AC Single phase Squirrel cage induction conden Run F.H.P. \nMotor all terminal of Motors. Condenser mounted on Bakelite plate of 12 mm \nthickness fitted with motor on separate Mild Steel Channels \n106. Demonstrational type A.C. Single phase squirrel cage inducation condenser start \nMotor 1/2 HP terminals of running winding, starting winding, condenser and \ncentrifugal switches, mounted on bakelite 12 mm thick plate fittedwith \nmotor on separate mild steel channels \n107. Demonstrational Model for study of Transistor circuits (circuit fitted on sun mica 3 \nmm board with proper terminals I. common base, II. commonemitter, \nIII. common collector \n108. Demonstrational Model for study of Transistor Amplifier circuit I common base II \ncommon Emitter III common collector. Circuit fitted on sunmica \nboard with proper Terminals \n109. Solenoid coil of copper wire (HTP) Highly insulated bobin (Formula R of coil) made of \nmica and bakelite operating on 220 V. Copper Wire 29 SWG, length of coil at least 10 \ncm with two terminals mounted on side of coil. Coil will be fixed on 12 mm ply and \nsunmica table or 2 mm sunmica \nBoard with 50 cm wooden or plastic rule and Core Material Free Cutting \nGrade Steel, Cost Iron, Copper, Brass, Aluminium, Carbon Steel one each. \n110. Apparatus for comparison of Aluminium and copper conductivity, resistivity and \nmagnetic field strength. Design-table bedsize 45 cm × 30 cm of 12 mm ply with \nsunmica/bakelite sheet 3 mm fitted with identical coils (one copper coil wounded \nand one coil aluminium wounded gauge and turn of wire will be same operating on \n220 V one metre rule of wood or plastic will be fitted with screws on both side of \ncoil."
+}

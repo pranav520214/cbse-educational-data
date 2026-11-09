@@ -1,0 +1,33 @@
+{
+  "subject_code": "834",
+  "subject_name": "Food, Nutrition & Dietetics",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Nutrition",
+  "directory_name": "SUBJ_834_FOOD_NUTRITION_DIETETICS",
+  "directory_path": "CLASS_11/SUBJ_834_FOOD_NUTRITION_DIETETICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Food, Nutrition & Dietetics (834-FOOD_NUTRITION_DIETETICS_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/834-FOOD_NUTRITION_DIETETICS_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "e4ba00c7038e25bf87c14994c2deea2c5eff95781f98ac5e3aacdcee3619ad66",
+    "file_size_bytes": 178903,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

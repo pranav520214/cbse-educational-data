@@ -1,0 +1,35 @@
+{
+  "subject_code": "052",
+  "subject_name": "Applied Arts",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Visual Arts",
+  "directory_name": "SUBJ_052_APPLIED_ARTS",
+  "directory_path": "CLASS_12/SUBJ_052_APPLIED_ARTS",
+  "resources": {
+    "syllabus": [],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Applied Arts",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Applied_Arts_SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Applied Arts",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Applied_Arts_MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "initialized"
+}

@@ -1,0 +1,33 @@
+{
+  "subject_code": "826",
+  "subject_name": "Shorthand (Hindi)",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Office",
+  "directory_name": "SUBJ_826_SHORTHAND_HINDI",
+  "directory_path": "CLASS_11/SUBJ_826_SHORTHAND_HINDI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Shorthand (Hindi) (826-SHORTHAND-HINDI-XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/826-SHORTHAND-HINDI-XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "adf291a2708c088d41c1490784421ff2e5f95418dd7ac8a15786cf0aeb99c1d1",
+    "file_size_bytes": 2498753,
+    "units_extracted": 10,
+    "chapters_extracted": 5
+  }
+}

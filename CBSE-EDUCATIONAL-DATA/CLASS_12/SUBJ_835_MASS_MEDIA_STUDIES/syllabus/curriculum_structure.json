@@ -1,0 +1,685 @@
+{
+  "subject_name": "Mass Media Studies",
+  "subject_code": "835",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Media",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/835-MASS_MEDIA_STUDIES.pdf",
+  "sha256": "febe5fc8f6dffb652946a54adef03d0f026c5f2b2ff0a6eddfdeb7346a0b86e5",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction of Mass",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Evolution of the Media",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Understanding Media",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Preproduction Skills",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Selling / Marketing/ Exhibiting a",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Introduction to the Production Process",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "New Media",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Creative Contributions of the Key",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "INTRODUCTION TO MASS COMMUNICATION",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "EVOLUTION OF THE MEDIA",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "UNDERSTANDING MEDIA",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Pre-Production Skills",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Pre-Production Skills (Project)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "SELLING/MARKETING/EXHIBITING A PRODUCT THROUGH ADVERTISING",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "INTRODUCTION TO THE PRODUCTION PROCESS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "NEW MEDIA",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "CREATIVE CONTRIBUTIONS OF THE KEY PEOPLE",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to the comprehensive understanding of the five p"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Introduction to the evolution of Mass Media"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To understand how the content and presentation of mass media"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Analysis of the ways in which content is created in media"
+    },
+    {
+      "chapter_number": 5,
+      "title": "To understand creative and technical processes involved in ne"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Introduction to the organization of media and entertainment i"
+    },
+    {
+      "chapter_number": 7,
+      "title": "To delineate the roles and responsibilities of creative, tech"
+    },
+    {
+      "chapter_number": 8,
+      "title": "To familiarize with the career options in media and entertain"
+    },
+    {
+      "chapter_number": 9,
+      "title": "To analyze the vital importance of mass media in the function"
+    },
+    {
+      "chapter_number": 10,
+      "title": "To understand the convergence of mass media as the futuristic"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Definition and functions of Mass Media and Mass Communication"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Aspects of Mass Communication"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Barriers to Communication"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Hindi Cinema"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Satyajit Ray and non-mainstream cinema"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Doordarshan in the first phase of local stations and black an"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Pre and post-independence development of radio in India"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Evolution of the internet in India"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction of Media Literacy"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Introduction to Mass Media"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Audience Theories"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Media Ownership"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Media Representation"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Media and Violence"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The concept of mise en scene"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Film Analysis"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Short film-fiction (5) Short film-nonfiction (5)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Feature film"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The concept of a soap opera - Daily soap, Weekly soap"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Genres of Soap Opera, primary audience of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Segmented nature of the audience"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Gaze of the audience, concept of a flow, continuous"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Culture of Film based"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Culture of Music based"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Educational TV, non-fiction on TV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The Macro composition of a daily-various sections like the fr"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Micro composition of a daily-proportion of visual and tex"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The Macro composition of a periodical - various sections like"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The Micro composition of a periodical - proportion of visual"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Story as a self content world"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Story as a subjective experience"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Content of a story"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Techniques of story telling"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Fiction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Researcher"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Script"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Storyboard"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Nonfiction"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Product"
+    },
+    {
+      "chapter_number": 2,
+      "title": "specifications"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Targeting"
+    },
+    {
+      "chapter_number": 4,
+      "title": "buyers"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Promotion of product"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Drive sales"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Build a brand identity"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Increase the buzz"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Print-newspapers, magazines, brochures, fliers, posters"
+    },
+    {
+      "chapter_number": 2,
+      "title": "O OH-billboards, kiosks, tradeshows events"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Broadcast advertising - Radio, TV, digital Internet + mobile"
+    },
+    {
+      "chapter_number": 4,
+      "title": "In film' promos"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Celebrity endorsements"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Cross promotions"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Merchandise"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Games (Mobile and computer"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Covert advertising"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Product Advertising"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Institutional Advertising (Corporate)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Social Service - PSA Advocacy Advertising"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Comparative Advertising Cooperative Advertising Direct Mail."
+    },
+    {
+      "chapter_number": 5,
+      "title": "A Point-of-Purchase Advertising."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Informational Advertising."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Pre- shooting stage."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Shooting Stage."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Post-shooting Stage."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Planning, writing, editing, designing."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Planning, recording, editing, transmission."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Planning, Creating and delivering."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Internet as the meeting point of all the mass media."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Broadcasting"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Mass communication model of a few transmitting to a vast numb"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Gigantic organization."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Huge technical infra-structure"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Large scale revenue."
+    },
+    {
+      "chapter_number": 7,
+      "title": "The changed paradigm due to the Internet."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Empowering an individual to post data on the Internet."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Information, message in one medium triggering off activity in"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Many sources of the same information."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Distribution of the information between individuals on an unp"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Rapidity of opinion generation on a local, national and globa"
+    },
+    {
+      "chapter_number": 13,
+      "title": "The socio-political implications of the new information order"
+    },
+    {
+      "chapter_number": 14,
+      "title": "The strengthening of democracy."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Emerging trends in Mass Communication"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Contributions made by Writer, Director, Producer, Actor, Cine"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Contributions made by Reporter, Sub-editor, Editor."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Contributions made by artist, speaker, interviewer, recordist"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Contributions made by writer, conceptualizer, editor, designe"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Subjects of the films should be suitable for the audience of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Social issues like Gender issues, Environmental issues, Educa"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Themes to illustrate facets of other arts could also be chose"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Portraits of personalities with respect to their contribution"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Basic Handycam video cameras and basic editing software like"
+    },
+    {
+      "chapter_number": 6,
+      "title": "The preparation is as important as the product and will carry"
+    },
+    {
+      "chapter_number": 7,
+      "title": "The time limit of 3-5 minutes is to be strictly observed. Any"
+    },
+    {
+      "chapter_number": 8,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "One DSLR minimum 18 mega pixels, output 18-55mm and 70-300mm"
+    },
+    {
+      "chapter_number": 2,
+      "title": "One HD handycam video camera with external microphone connect"
+    },
+    {
+      "chapter_number": 3,
+      "title": "One tripod."
+    },
+    {
+      "chapter_number": 1,
+      "title": "One gun microphone with RCA output."
+    },
+    {
+      "chapter_number": 2,
+      "title": "One lapel microphone with RCA output."
+    },
+    {
+      "chapter_number": 1,
+      "title": "One computer system windows or Mac. Software required FCP (fi"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Green Chroma wall."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Teleprompter."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Monitor."
+    }
+  ],
+  "full_text_excerpt": "835 - Mass Media Studies - XI & XII \nPage 1 of 11 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \n \nMASS MEDIA STUDIES (SUB. CODE 835) \nJOB ROLE: MEDIA ASSISTANT \nCLASS - XI & XII \n1. Introduction \nThis course aims at grooming the natural talent of students and exposing them to ever-changing skills \nneeded in the media and entertainment industry with hands-on experience. The course is designed to \nprovide fundamental information on analysis of film, TV (including News), print articles, understanding \nof the pipeline multiple products of the media & Entertainment industry (TV show/segment, film, \narticle, ad - film, etc.), concept of assembly line, animation, roles people play, skills & specializations, \nthe creative process, aesthetics, design, framing, composition, writing, ideation and finally technology \nusage in the media & entertainment industry. \n \nIn the last two decades changes of phenomenal proportion have occurred in the field of Mass Media \nStudies. Mass Media has taken a quantum leap forward in terms of scale content and convergence. \nThe media experience is an important part of globalization and civil society. The media has become an \nindispensable part of life at the national and local level. It has become an important factor in shaping \nyoung minds. \n \n2. Course Objectives \n1. Introduction to the comprehensive understanding of the five principles of Mass Media viz, Film, TV, \nPrint, Radio and New Media \n2. Introduction to the evolution of Mass Media \n3. To understand how the content and presentation of mass media shapes our thoughts, vision, ethics \nand action \n4. Analysis of the ways in which content is created in media \n5. To understand creative and technical processes involved in newsprint, radio, television production, \nfilmmaking and the internet \n6. Introduction to the organization of media and entertainment industries - the financial and commercial \naspects. \n7. To delineate the roles and responsibilities of creative, technical and administrative people in media \n8. \nTo familiarize with the career options in media and entertainment industry \n9. To analyze the vital importance of mass media in the functioning of a secular, liberal, democracy like \nIndia \n10. To understand the convergence of mass media as the futuristic trend opening up more and more \nexciting career and creative opportunities \n \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing employability and \nSkills competencies of students of Class XI & XII opting for Skills subject along with general education \nsubjects. \n \nCLASS \nTHEORY \nPRACTICAL \nTOTAL \nClass XI \n60 marks \n40 marks \n100 marks \nClass XII \n60 marks \n40 marks \n100 marks\n835 - Mass Media Studies - XI & XII \nPage 2 of 11 \n \nMASS MEDIA STUDIES (SUB. CODE 835) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \n \nNO. OF HOURS \nfor Theory and Practical \nMAX. \nMARKS for \nTheory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills-III \n10 \n2 \nUnit 2: Self-management Skills-III \n10 \n2 \nUnit 3: ICT Skills-III \n10 \n2 \nUnit 4: Entrepreneurial Skills-III \n15 \n2 \nUnit 5: Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nUnit 1: Introduction of Mass \nCommunication \n10 \n15 \n07 \nUnit 2: Evolution of the Media \n25 \n20 \n09 \nUnit 3: Understanding Media \n30 \n45 \n17 \nUnit 4: Preproduction Skills \n25 \n40 \n17 \nTotal \n90 \n120 \n50 \nPart C \nPractical Work \n \nPractical Examination / Written Test \n \n15 \nViva Voce \n \n05 \nTotal \n20 \nPart D \nProject Work/Field Visit/ Practical \nFile/ Student Portfolio \n \n15 \nViva Voce \n \n05 \nTotal \n20 \n \n260 \n100\n835 - Mass Media Studies - XI & XII \nPage 3 of 11 \n \nMASS MEDIA STUDIES (SUB. CODE 835) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory \nand Practical \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills-IV \n10 \n2 \nUnit 2: Self-management Skills-IV \n10 \n2 \nUnit 3: ICT Skills-IV \n10 \n2 \nUnit 4: Entrepreneurial Skills-IV \n15 \n2 \nUnit 5: Green Skills-IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nUnit 1: Selling / Marketing/ Exhibiting a \nProduct through Advertising \n30 \n20 \n17 \nUnit 2: Introduction to the Production Process \n30 \n40 \n17 \nUnit 3: New Media \n20 \n40 \n08 \nUnit 4: Creative Contributions of the Key \nPeople \n20 \n10 \n08 \nTotal \n100 \n110 \n50 \nPart C \nPractical Work \n \nPractical Examination / Written Test \n-- \n15 \nViva Voce \n-- \n05 \nTotal \n-- \n20 \nPart D \nProject Work/Field Visit/ Practical File/ \nStudent Portfolio \n \n15 \nViva Voce \n \n05 \nTotal \n-- \n20 \nGRAND TOTAL \n260 \n100\n835 - Mass Media Studies - XI & XII \nPage 4 of 11 \n \n4. CONTENTS \nDETAILED CURRICULUM/TOPICS FOR CLASS XI \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-III \n10 \n2. \nUnit 2: Self-management Skills-III \n10 \n3. \nUnit 3: Information and Communication Technology Skills-III \n10 \n4. \nUnit 4: Entrepreneurial Skills-III \n15 \n5. \nUnit 5: Green Skills-III \n05 \nTOTAL DURATION \n50 \n \nNote: The detailed curriculum/ topics to be covered under Part A: Employability Skills can \nbe downloaded from CBSE website \n \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nUNIT-I: INTRODUCTION TO MASS COMMUNICATION \n11. Definition and functions of Mass Media and Mass Communication \n12. Aspects of Mass Communication \n13. Barriers to Communication \n \n \nUNIT-II: EVOLUTION OF THE MEDIA \n \nEvolution of Cinema \n1. Hindi Cinema \n• \nDG Phalke and silent era \n• \nComing of sound, Studio era, Post-Independence era \n2. Satyajit Ray and non-mainstream cinema \n \nEvolution of Television \n1. Doordarshan in the first phase of local stations and black and white transmission \nSite Experiment \n• \nColour television, AASUAD 1982-Satellite Transmission (INSAT) \n• \nEvolution of Print media \n• \nDevelopment of print journalism in India \n \nEvolution of radio \n1. Pre and post-independence development of radio in India \n \nEvolution of new media \n1. Evolution of the internet in India\n835 - Mass Media Studies - XI & XII \nPage 5 of 11 \n \nUNIT-III: UNDERSTANDING MEDIA \n \nChapter 1: Media Literacy \n1. Introduction of Media Literacy \n2. Introduction to Mass Media \n3. Audience Theories \n4. Media Ownership \n5. Media Representation \n6. Media and Violence \n \nChapter 2: Analysis of Films \n1. The concept of mise en scene \n2. Film Analysis \n1. Short film-fiction (5) Short film-nonfiction (5) \nOR \n2. Feature film \n \nChapter 3: Analysis of TV Programmes \n1. \nThe concept of a soap opera - Daily soap, Weekly soap \n2. \nGenres of Soap Opera, primary audience of \neach genre \n3. \nThe Segmented nature of the audience \n4. \nGaze of the audience, concept of a flow, continuous \ninterruption \n5. \nCulture of Film based \nprogrammes \n6. \nCulture of Music based \nprogrammes \n7. \nEducational TV, non-fiction on TV \n \nChapter4: Content Analysis of Radio Programmes \nNews - the format, the language, frequencyTalks, magazine programmes-unidirectional \nnature, feedback with a time phase difference Dramas - the unique nature of radio plays \nInteractive programmes - phone in, live interaction, music, experiences, memories as \ncontent of these programmes \n \nChapter 5: Content Analysis of Newspapers and Periodicals \nNewspapers - \n1. The Macro composition of a daily-various sections like the front page, edit \npage, sports page, business page. \n2. The Micro composition of a daily-proportion of visual and text, \nlanguage, highlighting. \nPeriodicals - \n1. The Macro composition of a periodical - various sections like the cover \npage, cover story, features, columns, business page. \n2. The Micro composition of a periodical - proportion of visual and text, \nlanguage, highlighting.\n835 - Mass Media Studies - XI & XII \nPage 6 of 11 \n \nUNIT-IV: Pre-Production Skills \n \nUnderstanding Fiction \n1. Story as a self content world \n2. Story as a subjective experience \n3. Content of a story \nTheme/subject Plot, time and space Characters \n4. Techniques of story telling \nDescription \nDialogue View point \nUNIT-V: Pre-Production Skills (Project) \n1. Fiction \n2. Researcher \n3. Script \n4. Storyboard \n5. Nonfiction \n \nDETAILED CURRICULUM/ TOPICS FOR CLASS XII \nPART-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n10 \n2. \nUnit 2: Self-management Skills-IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n10 \n4. \nUnit 4: Entrepreneurial Skills-IV \n15 \n5. \nUnit 5: Green Skills-IV \n05 \nTOTAL DURATION \n50 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \n \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nUNIT-I: SELLING/MARKETING/EXHIBITING A PRODUCT THROUGH ADVERTISING \n \nChapter 1: Advertising concept & process \n1. Product \n2. specifications \n3. Targeting \n4. buyers \nChapter 2: Functions of Advertising \n1. Promotion of product \n2. Drive sales \n3. Build a brand identity \n4. Increase the buzz\n835 - Mass Media Studies - XI & XII \nPage 7 of 11 \n \nChapter 3: Types of advertising \n1. \nPrint-newspapers, magazines, brochures, fliers, posters \n2. \nO OH-billboards, kiosks, tradeshows events \n3. \nBroadcast advertising - Radio, TV, digital Internet + mobile \n4. \nIn film' promos \n5. \nCelebrity endorsements \n6. \nCross promotions \n7. \nMerchandise \n8. \nGames (Mobile and computer \n9. \nCovert advertising \nChapter 4: Forms of Advertising \n1. \nProduct Advertising \n2. \nInstitutional Advertising (Corporate) \n3. \nSocial Service - PSA Advocacy Advertising \n4. \nComparative Advertising Cooperative Advertising Direct Mail. \n5. \nA Point-of-Purchase Advertising. \n6. \nInformational Advertising. \n \n \nUNIT II: INTRODUCTION TO THE PRODUCTION PROCESS \nChapter 1: Film \n1. \nPre- shooting stage. \n2. \nShooting Stage. \n3. \nPost-shooting Stage. \nChapter 2: TV \n1. \nPre- shooting stage. \n2. \nShooting Stage. \n3. \nPost-shooting Stage. \nChapter 3: Print \n1. \nPlanning, writing, editing, designing. \nChapter 4. Radio \n1. \nPlanning, recording, editing, transmission. \nChapter 5. Internet \n1. \nPlanning, Creating and delivering. \n \n \nUNIT III: NEW MEDIA \nChapter-1: Convergence and the New Possibilities of Communication \nEarlier models of communication \n1. \nInternet as the meeting point of all the mass media. \n2. \nBroadcasting \n3. \nMass communication model of a few transmitting to a vast number of receivers. \n4. \nGigantic organization. \n5. \nHuge technical infra-structure \n6. \nLarge scale revenue. \n7. \nThe changed paradigm due to the Internet. \n8. \nEmpowering an individual to post data on the Internet.\n835 - Mass Media Studies - XI & XII \nPage 8 of 11 \n \n9. \nInformation, message in one medium triggering off activity in the others. \n10. Many sources of the same information. \n11. Distribution of the information between individuals on an unprecedented global \nscale. \n12. Rapidity of opinion generation on a local, national and global scale. \n13. The socio-political implications of the new information order. \n14. The strengthening of democracy. \n15. Emerging trends in Mass Communication \n \nUNIT IV: CREATIVE CONTRIBUTIONS OF THE KEY PEOPLE \nChapter 1: Film: \n1. \nContributions made by Writer, Director, Producer, Actor, Cinematographer, \nAudiographer, Editor, Art Director, Music composer. \nChapter 2: TV: \n1. \nContributions made by Writer, Director, Producer, Actor, Cinematographer, \nAudiographer, Editor, Art Director, Music composer. \nChapter 3: Print: \n1. \nContributions made by Reporter, Sub-editor, Editor. \nChapter 4: Radio: \n1. \nContributions made by artist, speaker, interviewer, recordist, programme \nproducer, station director. \nChapter 5: Internet: \n1. \nContributions made by writer, conceptualizer, editor, designer. \n \n5. TEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field visits. \nStudents should be taken to field visits for interaction with experts and to expose them to the various tools, \nequipment, materials, procedures and operations in the workplace. Special emphasis should be laid on the \noccupational safety, health and hygiene during the training and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a variety of \ninstructional or teaching aids, such as audio-video materials, colour slides, charts, diagrams, models, \nexhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart training to the \nstudents. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based \nstudies, exercises, etc. Equipment and supplies should be provided to enhance hands-on learning experience \nof students. Only trained personnel should teach specialized techniques. A training plan that reflects tools, \nequipment, materials, skills and activities to be performed by the students should be submitted by the l \nteacher to the Head of the Institution.\n835 - Mass Media Studies - XI & XII \nPage 9 of 11 \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of practical \ndemonstration of skills by the candidate, Practical examination allows candidates to demonstrate that they \nhave the knowledge and understanding of performing a task. This will include hands-on practical exam and \nviva voce. For practical, there should be a team of two evaluators. The same team of examiners will conduct \nthe viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain time period \nor timeline. Project work should be given on the basis of the capability of the individual to perform the tasks \nor activities involved in the project. Projects should be discussed in the class and the teacher should \nperiodically monitor the progress of the project and provide feedback for improvement and innovation. Field \nvisits should be organised as part of the project work. Field visits can be followed by a small-group \nwork/project work. When the class returns from the field visit, each group might be asked to use the \ninformation that they have gathered to prepare presentations or reports of their observations. Project work \nshould be assessed on the basis of practical file or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, photos of products prepared by students in relation to the unit of \ncompetency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video \nrecording can be done at the time of viva voce. The number of external examiners would be decided as per \nthe existing norms of the Board and these norms should be suitably adopted/adapted as per the specific \nrequirements of the subject. Viva voce should also be conducted to obtain feedback on the student’s \nexperiences and learning during the project work/field visits. \n \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \nIn field visits, children will go outside the classroom to obtain specific information from experts or to make \nobservations of the activities. A checklist of observations to be made by the students during the field visits \nshould be developed by the Teachers for systematic collection of information by the students on the various \naspects. Principals and Teachers should identify the different opportunities for field visits within a short \ndistance from the school and make necessary arrangements for the visits. At least three field visits should \nbe conducted in a year. \n \n7. PRACTICAL GUIDELINES \nPortfolio Assessment: \nThe Portfolio will consist of a compilation of all written submissions over the duration of the course. It is the \nsum total of the creative work executed by the student over the year. The Portfolio will consist of all written \nsubmissions over the duration of the course. The assignments would include written, project work and \nproduction output will be collected. The submission would include both the original and improved versions \nof assigned tasks reflective of gradual improvement. \n \nAims of the exercise of Portfolio are - \n• \nTo create a desire in the student to go beyond the text and class room learning \n• \nTo inculcate in the student the spirit of research \n• \nTo offer the scope for imaginative thinking \n• \nTo develop the power of interpretation \n• \nTo imbibe the notions of subjectivity and objectivity Objectives of the exercise of Portfolio are -\n835 - Mass Media Studies - XI & XII \nPage 10 of 11 \n \n• \nThe student begins to think independently and critically about the subject \n• \nThe student learns to develop his/her own themes \n• \nThe student learns to systematically gather facts and sift the data \n• \nThe student learns to use the data in a coherent and logical manner \n• \nThe student learns to follow one’s imagination to create an original work \n• \nThe student learns the difference between analyzing someone else’s work and creating one’s own \n• \nThe student learns to develop distinct creative approaches to Fiction and Nonfiction \n• \nThe student learns to conceive and execute ideas that are medium-specific \n• \nThe student learns to identify upon his/her own strengths and weaknesses \n \nAssessment of the Portfolio- \nThe basic guideline for Assessment of the Portfolio is to judge the student’s individual growth along the aims \nand objectives stated above. Both quality and quantity of the work done cumulatively should receive equal \nconsideration. \n \nPROJECT - NON-FICTION: STUDENTS WILL CONCEIVE, WRITE, DIRECT AND EDIT A NON-FICTION FILM \nPROJECT OF 3-5 MINUTES DURATION. \n \nGuidelines \nIn this, they will follow the film making process of going through the pre- production, production and post- \nproduction process. The idea will be submitted to the teacher first. It shall be discussed and approved. It is \nonly after that, the student can undertake to do further research and writing of the script. The script shall \nbe submitted along with the shooting schedule, the same will be approved by teacher and only after the \nclearance from the teacher will the shooting take place. Students will complete the project on video tape \nand submit it along as a video tape as well as in the DVD format with the docket containing all the paper \nwork done by them. \n1. Subjects of the films should be suitable for the audience of their own age group. \n2. Social issues like Gender issues, Environmental issues, Education, Health, Livelihood, Rights on \ndisability, Access, Road Safety, documentaries on Historical monuments, Art and Craft can be chosen. \nInitial research is very important with regard to pre-production and production. Students must \nunderstand and read about media ethics and understand the sensitivity of the issue concerned. \nStudents must take up issues which they closely relate to in their everyday lives and are able to work \non within their academic concerns. \n3. Themes to illustrate facets of other arts could also be chosen. Issues relating to media could also be a \ndomain. Students must understand their roots and cultural heritage which surrounds them. It is part of \nwhat they are. This consists of not just historical monuments; it surpasses subjects like rituals, \ntraditional medicinal practices, folklore and anecdotes from their grandparents, about the city they live \nin, various performing arts and more. \n4. Portraits of personalities with respect to their contribution to life may also be chosen. People who have \nmade a difference within their community, their role models, people they look up to, those who inspire \nthem or have encouraged them, they could be their relative, teacher, a ho"
+}

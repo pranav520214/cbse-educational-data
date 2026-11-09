@@ -1,0 +1,33 @@
+{
+  "subject_code": "805",
+  "subject_name": "Financial Markets Management",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Finance",
+  "directory_name": "SUBJ_805_FINANCIAL_MARKETS_MANAGEMENT",
+  "directory_path": "CLASS_12/SUBJ_805_FINANCIAL_MARKETS_MANAGEMENT",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Financial Markets Management (805-FMM.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/805-FMM.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "c7c73f39a8df9d7f23e21f058e94929d38de931c5678a7f27b98603c47a49c13",
+    "file_size_bytes": 384334,
+    "units_extracted": 28,
+    "chapters_extracted": 5
+  }
+}

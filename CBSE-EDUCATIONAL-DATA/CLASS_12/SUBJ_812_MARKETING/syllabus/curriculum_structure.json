@@ -1,0 +1,254 @@
+{
+  "subject_name": "Marketing",
+  "subject_code": "812",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Management",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XII.pdf",
+  "sha256": "0dd726928042c3b6238f34cd282cda08acca5cf9fda34e7a96645caf401e2477",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Product",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Price Decision",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Place Decision: Channels of",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Promotion",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Emerging Trends in",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Place Decision: Channels of Distribution",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Emerging Trends in Marketing",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Chart paper and Sketch pens"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer"
+    },
+    {
+      "chapter_number": 2,
+      "title": "LCD Projector"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Product"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Price Decision"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Place Decision: Channels of Distribution"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Promotion"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Emerging Trends in Marketing"
+    },
+    {
+      "chapter_number": 1,
+      "title": "PRODUCT"
+    },
+    {
+      "chapter_number": 1,
+      "title": "While developing a product"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Prepare"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To develop a package of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "PRICE"
+    },
+    {
+      "chapter_number": 3,
+      "title": "PLACE"
+    },
+    {
+      "chapter_number": 4,
+      "title": "PROMOTION"
+    },
+    {
+      "chapter_number": 5,
+      "title": "EMERGING"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create a detailed practical file highlighting the movement of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Collect various 20 to 25 packages for fast moving consumer go"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create a project report on pricing policy adoption by differe"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Create a project by visiting different marketing organisation"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Create a project on promotion mix practices followed by India"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Prepare a project report on emerging trends on marketing incl"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Develop your own product."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Why is price the most crucial element of marketing mix?"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Determination of price of any product. (Good or Service); Own"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Following Consideration:-"
+    },
+    {
+      "chapter_number": 11,
+      "title": "A ppt can be made on:"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Which channel is suitable for consumer durable/ non-durable/"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Decision of promotion with the elements of promotional mix."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Factors in the selection of promotional mix."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Comparative analysis of various modes of promotion."
+    },
+    {
+      "chapter_number": 16,
+      "title": "Emerging trends in marketing."
+    },
+    {
+      "chapter_number": 17,
+      "title": "Analysis on the criteria on service quality assessment."
+    },
+    {
+      "chapter_number": 18,
+      "title": "Develop your own web page for adult digital marketing."
+    },
+    {
+      "chapter_number": 19,
+      "title": "Facebook, twitter (Social Media Marketing)."
+    },
+    {
+      "chapter_number": 20,
+      "title": "Comparative analysis on the above."
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \nMARKETING (SUBJECT CODE-812) \nJOB ROLE: MARKETING EXECUTIVE \n \n \n \nCOURSE OVERVIEW: \nCLASS - XII \nThis is the basic course in Marketing where students will get the exposure of Marketing. The \nsubject gives them a vast and wide insight of the traditional and contemporary aspects in \nMarketing. The input of basic fundamentals, coupled with the practical knowledge will be \ngiven to the students to help them in understanding of contemporary marketing tactics and \nstrategies. \nOBJECTIVES OF THE COURSE: \nFollowings are the main objectives of this course. \n \n• To understand the classical marketing perspectives and contrasts these with newer \nviews from relational and service-based schools of marketing \n• To understand the dynamics of various environmental factors on marketing so that \nstudents can think about a feasible marketing plan (process) \n• To understand the utility of STP of marketing (i.e. segmentation, targeting, positioning) \n \n• To have an elementary knowledge of marketing mix, consumer behavior, and other \npreliminary concepts and roles of marketing in society \n• Familiarize the students regarding various dimensions of retail management and \ncareer opportunities available in these fields. \nSALIENT FEATURES: \n \n• \nTo views from relational and service-based schools of marketing \n• \nTo understand the dynamics of various environmental factors on marketing so that \nstudents can think about a feasible marketing plan (process) \n• \nTo understand the utility of STP of marketing (i.e. segmentation, targeting, \npositioning) \n• \nTo have an elementary knowledge of marketing mix, consumer behavior, and other \npreliminary concepts and roles of marketing in society. \n• \nThis course will empower the students to gain insights into what marketing \npractitioners actually do and the decisions they have to make in day to day \nmarketing. This course is an effort to teach marketing in more creative and visual \nway with the coverage of advances in new technology and the social web and how \nto take advantage of these in marketing context. This course will also recognize the \nneed to go further than the traditional 4P’s approach and reflect on newer \nperspective, covering both the classical and modern theories of marketing.\nLIST OF EQUIPMENT AND MATERIALS: \nThe list given below is suggestive and an exhaustive list should be prepared by the skill \nteacher. Only basic tools, equipment and accessories should be procured by the Institution \nso that the routine tasks can be performed by the students regularly for practice and \nacquiring adequate practical experience. \nMaterial Required for: \n1. Chart paper and Sketch pens \nTeaching/Training Aids: \n1. Computer \n2. LCD Projector \n \nCAREER OPPORTUNITIES: \nThis basic course of marketing will teach the students to learn how to analyses consumer \ndemand and promote products to consumers. This course will allow students to work in \nmany different areas of sales and marketing. While all teach marketing concept, this course \nis tailored for particular objective in order to most effectively prepare the students for their \nmarketing career, which can range from marketing executive to other upper ladder in \nmarketing domain \nVERTICAL MOBILITY: \nThis course will assist the participating students to further update their career by vertically \nmoving either to B.Com BBA, BBA (marketing) and Diploma in sales and marketing and \nother marketing oriented applied undergraduate courses of different university or they may \nalso move to their corporate career by starting at M-1 level of corporate ladder in role of \nmarketing executives to different sector. After completing these marketing courses after \n12th. students can land into a wide range of job opportunities in high and reputed profile \nsuch as marketing manager , brand manager, marketing research analyst etc. \nCURRICULUM: \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XII opting for Skills subject along \nwith other subjects.\nMARKETING (SUBJECT CODE- 812) \nCURRICULUM FOR CLASS-XII (SESSION 2026-\n2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \n220 \nMAX. MARKS for \nTheory and \nPractical 100 \n \n \n \n \nEmployability Skills \n \nUnit 1 : Communication Skills-IV \n13 \n2 \nUnit 2 : Self-Management Skills-IV \n07 \n2 \nUnit 3 : ICT Skills-IV \n13 \n2 \nUnit 4 : Entrepreneurial Skills-IV \n10 \n2 \nUnit 5 : Green Skills-IV \n07 \n2 \nTotal \n50 \n10 \n \n \n \n \nSubject Specific Skills \n \nUnit 1: Product \n30 \n10 \nUnit 2: Price Decision \n30 \n10 \nUnit 3: Place Decision: Channels of \nDistribution \n30 \n10 \nUnit 4: Promotion \n30 \n10 \nUnit 5: Emerging Trends in \nMarketing \n30 \n10 \nTotal \n150 \n50 \n \n \n \n \nPractical Work \n \nProject \n60 \n10 \nViva \n10 \nPractical File \n10 \nDemonstration of skill competency \nvia Lab Activities \n10 \nTotal \n60 \n40 \n \nGRAND TOTAL \n260 \n100\nDETAILED CURRICULUM/TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. Units \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n13 \n2. \nUnit 2: Self-management Skills-IV \n07 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n13 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n07 \n \nTOTAL DURATION \n50 \n \n \nDetailed Curriculum/ Topics to be covered under \nPart A: Employability Skills can be downloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nS. No. Units \nDuration in Hours \n1. \nUnit 1: Product \n30 \n2. \nUnit 2: Price Decision \n30 \n3. \nUnit 3: Place Decision: Channels of Distribution \n30 \n4. \nUnit 4: Promotion \n30 \n5. \nUnit 5: Emerging Trends in Marketing \n30 \n \nTOTAL DURATION \n150\nUNIT \nSESSION/ TOPIC \nACTIVITY/PRACTICAL \n1. PRODUCT \nPRODUCT LIFE CYCLE \nPACKAGING \n1. While developing a product \nin practical students will \nunderstand the \ndifferent \nstages of PLC. \n2. Prepare \na \nlist \nof \nproducts \n(own \nan \nexisting \nproduct) \nto \ncompare and observe \nhow they have moved \nthrough different stages \nof PLC. \n3. To develop a package of \nany FMCG to understand \nthe importance and levels \nof packaging \n2. PRICE \nOBJECTIVES OF PRICING \nAn activity to understand the\nobjectives of pricing. \nTaking today’s example students \nwill \ncompare \nthe \nprice \nand \navailability of masks, sanitizers \netc. on and after 24th MARCH \n2020 till date \nWhy is the price of three layer \nmasks prescribed by doctors is \navailable for more than 100rs? \nHowever market is flooded with \nmasks @ of 10rs each \n \nDIFFERENTIAL PRICING \n \n \nSKIMMING PRICING \n3. PLACE \nFUNCTIONS PERFORMED BY \nCHANNELS OF DISTRIBUTION \nStudents \nwill be \ndivided \nin \ngroup/(s) 1st group performing \ntransactional \nfunctions \nother \nlogistical functions and other \nproviding facilitating functions\n4. PROMOTION \nADVANTAGES \nAND \nA comparative table to be made \nby the students to analyse why \nthey dislike tele-marketing as a \nconsumer on one hand and on \nthe other hand if they are the \nsellers what advantages will be \nreaped by them? \n \nActivity - \n• Brochures- Brochures can \ncontain a great deal of \ninformation. \n• Direct mail - Customized \neMail sent directly to suit \ntheir nature and needs. \n• E-mail messages -- E- mail \nvs. voice mail.) \n• Magazines - Magazine ads \nNewsletters -- This can be \npowerful means to conveying \nthe \nnature \nof \nyour \norganization and its services. \n \nLIMITATIONS \nOF \nYELLOW \n \nPAGES, \nMOBILES \nAND \n \nTELEPHONES \nAND \nCINEMA \n \nADVERTISING \n \n \n(TOPIC)- Modes of \n \nAdvertisement\n• Radio announcements-- A \nmajor advantage of radio \nads is they are usually \ncheaper than television \nads, and many people still \nlisten to the \nradioTelemarketing -- The \nuse of telemarketing is on \nthe rise. (See \nTelemarketing.) \n• Television ads -- Many \npeople don't even consider \ntelevision ads because of \nthe impression that the ads \nare very expensive. \n• Web pages -- You probably \nwould not have seen this \nmeans of advertising on a \nlist of advertising methods.) \n• Yellow Pages --The Yellow \nPages can be very \neffective advertising \n5. EMERGING \nTRENDS IN \nMARKETING \nUnderstanding service \nmarketing . Types of \nservices , service qualities \nA PPT will be made by \nstudents showing online and \nsocial \nmedia \nmarketing \n \nOnline marketing , social \nmeaning, \nadvantages \nand \n \nmedia marketing , their \ndisadvantages when they are \n \nmeaning , advantages and \ngoing to spread an awareness \n \ndisadvantages . Identifying \nof \ntheir \nown \ndeveloped \n \nvarious social media \nproduct in their market. \n \nplatforms used for social \n \n \nmedia marketing\nPRACTICAL GUIDELINES FOR CLASS - XII \n \nAssessment of performance: \n \nTwo examiners, assigned for the conduct and assessment of Practical Examinations each in \nSenior Secondary School Curriculum (Under NSQF) of which one Examiner Is \nEXTERNAL appointed by CBSE and the other Examiner should be from the home \nschool. Question for the viva examinations should be conducted by internal as well as \nexternal examiner. Question to be more of General nature, project work or the curriculum. \nInvestigatory Project especially those that show considerable amount of effort and originality, \non the part of the student, should get suitable high marks, while project of a routine or \nstereotyped nature should only receive MEDIOCRE marks. \nProject -10 marks \n \nProjects for the final practical is given below. Student may be assigned \n \nViva based on Project -10 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the \nstudents, viva may be based on questions of practical nature from the field of subject as per the \nCurriculum Practical File -10 Marks \n \nStudents to make a power point presentation / assignment / practical file / report. \nInstructor shall assign them any outlet to study the elements in retailing. \nSuggested list of Practical - \n \n1. Create a detailed practical file highlighting the movement of few (8-10) products through \ndifferent stages of product life cycle. Diagrammatic representation and creative inputs \nare welcome. Encourage the students to take products from Aviation industries, semi \nconductors Arms and ammunitions for self-reliant india, railway coaches, and IT sectors \n2. \n \nCollect various 20 to 25 packages for fast moving consumer goods. Create a \npractical file demonstrating environmental friendly packaging and labeling strategies \nadopted by various firms keeping in mind sustainable development goals \n3. Create a project report on pricing policy adoption by different manufacturing and service \nfirms. Collect various (20-25) packages for fast moving consumer goods. Create a \npractical\n4. Create a project by visiting different marketing organisations in your locality (retailers, \nwholesalers, distributor etc.). Take 5 products of your choice and find out which type of \nchannel was involved before it reaches your hand. Also discuss functions of various \nintermediaries. \n5. Create a project on promotion mix practices followed by Indian firms. \n6. Prepare a project report on emerging trends on marketing including social media platforms , use \nof web pages and websites \n7. Develop your own product. \nTANGIBLE \nINTANGIBLE \nGood \n \nName of your product \n \nDevelop Brand for your product \n \nLogo for us your product \n \nDescribe its components \n \nCore product \n \nAssociated feature \n \nLabel for your product \n \nPackaging for your product \n \nWith front Labeling \n \nWith side Labeling \n \nWith back Labeling \n \nLevels of Packaging \n \nModes of Transportation \n \nClassify it \nConsumer \n+ Industries \nFeatures \n Features \n \nUnique Characteristic, if any \n \nIn which Stage your product is? Why \n \nMarketing Strategy adopted during this \nstage and why? \n \nImportance of Labeling in the current \ncontent \n \n8. Why is price the most crucial element of marketing mix? \n \n9. Determination of price of any product. (Good or Service); Own OR already existing in the \nmarket\n10. Following Consideration:- \n \na. Objectives of pricing. \n \nb. Internal & external factors. \n \nc. Analysis of market situations. \n \nd. Methods of pricing. (Supporting a numerical example.) \n \n11. A ppt can be made on: \n \n• \nDescribing direct and indirect channels of distribution. \n \n• \nUnderstanding the role of distribution channel intermediaries \n \n• \nUnderstanding the functions of intermediaries. \n \n12. Which channel is suitable for consumer durable/ non-durable/ FMCG/ Industrial \nGoods & Why? \n13. Decision of promotion with the elements of promotional mix. \n \n14. Factors in the selection of promotional mix. \n \n15. Comparative analysis of various modes of promotion. \n \n16. Emerging trends in marketing. \n \n17. Analysis on the criteria on service quality assessment. \n \n18. Develop your own web page for adult digital marketing. \n \n19. Facebook, twitter (Social Media Marketing). \n \n20. Comparative analysis on the above. \n \nDemonstration of skill competency in Lab Activities -10 marks \n \nGuidelines for Project Preparation: \n \nThe final project work should encompass chapters on: \na) Introduction, \nb) Identification of core and advance issues, \nc) Learning and understanding and \nd) Observation during the project period."
+}

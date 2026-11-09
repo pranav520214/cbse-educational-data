@@ -1,0 +1,48 @@
+{
+  "subject_code": "065",
+  "subject_name": "Infomatics Practices",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Computing / Commerce",
+  "directory_name": "SUBJ_065_INFOMATICS_PRACTICES",
+  "directory_path": "CLASS_11/SUBJ_065_INFOMATICS_PRACTICES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Infomatics Practices",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Informatics_Practices_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Infomatics Practices",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 11 Informatics Practices",
+        "url": "https://ncert.nic.in/textbook/pdf/keip101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ff92a1d9c1c2a4d6b923a7ff80b59353e9c6d3575e9e7628057e751f9da3ee26",
+    "file_size_bytes": 226088,
+    "units_extracted": 4,
+    "chapters_extracted": 28
+  }
+}

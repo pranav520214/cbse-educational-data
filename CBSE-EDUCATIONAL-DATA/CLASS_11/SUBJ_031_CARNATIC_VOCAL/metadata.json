@@ -1,0 +1,40 @@
+{
+  "subject_code": "031",
+  "subject_name": "Carnatic Vocal",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_031_CARNATIC_VOCAL",
+  "directory_path": "CLASS_11/SUBJ_031_CARNATIC_VOCAL",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Carnatic Vocal",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Vocal_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Carnatic Vocal",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Vocal_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "1899f278ae6f8ae86df84d70dbbca8148e1aff7ff0907ddb336b364413322669",
+    "file_size_bytes": 549069,
+    "units_extracted": 0,
+    "chapters_extracted": 5
+  }
+}

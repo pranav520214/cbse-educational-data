@@ -1,0 +1,34 @@
+{
+  "subject_code": "000",
+  "subject_name": "Introduction to Senior Secondary Curriculum",
+  "class": "12",
+  "group": "Curriculum-Framework",
+  "stream": "Mandatory Framework",
+  "directory_name": "SUBJ_000_INTRODUCTION_TO_SENIOR_SECONDARY_CURRICULUM",
+  "directory_path": "CLASS_12/SUBJ_000_INTRODUCTION_TO_SENIOR_SECONDARY_CURRICULUM",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Introduction to Senior Secondary Curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Curriculum_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Introduction to Senior Secondary Curriculum",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Curriculum_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "initialized"
+}

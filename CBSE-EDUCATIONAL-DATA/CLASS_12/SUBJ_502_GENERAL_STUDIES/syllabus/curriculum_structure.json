@@ -1,0 +1,246 @@
+{
+  "subject_name": "General Studies",
+  "subject_code": "502",
+  "class": "12",
+  "group": "Internal",
+  "stream": "Compulsory",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/GeneralStudies_SrSec_2024-25.pdf",
+  "sha256": "2e56bf71a1dc79528eee99ca821b7f10ce6259fa070bcb6fc4a561d700a19dd9",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-2",
+      "title": "Contemporary Problems of Indian Society",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Career Pathways",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Social Responsibility",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Human Rights",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "SCIENCE AND TECHNOLOGY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "CURRENT TRENDS IN SOCIO - ECONOMIC STRUCTURE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "NATION BUILDING",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "PROMOTING GLOBAL NDERSTANDING",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "WORKFORCE EDUCATION",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "SCIENCE AND SOCIETY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "CONTEMPORARY PROBLEMS OF",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "CAREER PATHWAYS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "SOCIAL RESPONSIBILITY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "HUMAN RIGHTS",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Start with a clear and concise overview of the topic: Provide"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Use interactive methods of teaching: Engage students in the l"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Encourage students to ask questions: Encourage students to as"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Provide real-world examples: Use real-world examples and case"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Use technology: Use technology such as online resources, educ"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Evaluate learning: Regularly assess students' understanding o"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Encourage self-directed learning: Encourage students to take"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Create a positive learning environment: Create a positive and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Projects"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Questionnaires"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Role Play"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Interview"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Guest lecturers"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Info Graphics"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Debate"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Case Study"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Field trips"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Outline the challenges faced by the freedom fighters"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Appreciate the contribution of freedom fighters"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Delineate the significant life events of Indian Freedom fight"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Respect our Nation’s freedom"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Appreciate the democratic ethos of our country"
+    },
+    {
+      "chapter_number": 1,
+      "title": "less is more"
+    },
+    {
+      "chapter_number": 2,
+      "title": "IT'S ALL ABOUT VISION-TRACKING"
+    },
+    {
+      "chapter_number": 3,
+      "title": "GIVE ME SPACE Enough"
+    },
+    {
+      "chapter_number": 4,
+      "title": "US USE A CONSISTENT STYLE"
+    },
+    {
+      "chapter_number": 5,
+      "title": "DON'T MESS WITH ALIGNMENT AND SPACING"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Canva"
+    },
+    {
+      "chapter_number": 2,
+      "title": "visme"
+    },
+    {
+      "chapter_number": 3,
+      "title": "venngage"
+    },
+    {
+      "chapter_number": 4,
+      "title": "infogram"
+    },
+    {
+      "chapter_number": 1,
+      "title": "What is automation and how has it impacted the manufacturing"
+    },
+    {
+      "chapter_number": 2,
+      "title": "What are some potential benefits and drawbacks of automation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "What is the \"skills gap\" and why is it a concern in the conte"
+    },
+    {
+      "chapter_number": 4,
+      "title": "What are some strategies that policymakers and business leade"
+    },
+    {
+      "chapter_number": 5,
+      "title": "How can entrepreneurship and small business development creat"
+    },
+    {
+      "chapter_number": 6,
+      "title": "What are some potential ethical considerations related to the"
+    },
+    {
+      "chapter_number": 7,
+      "title": "How might the impact of automation on employment differ acros"
+    },
+    {
+      "chapter_number": 8,
+      "title": "What role do workers play in adapting to and benefiting from"
+    }
+  ],
+  "full_text_excerpt": "General Studies (503) Syllabus 2024-25 | Page 6 of 71 \n \nCOURSE STRUCTURE- CLASS XII \nS.No \nUnit \nNo. of periods \nUNIT 1 \n \nScience and Society \n \nNature of Science \n \nScience as a Social Enterprise \n10 \nUNIT 2 \nContemporary Problems of Indian Society \n \nIssues related to women \n \nHealth Care System \n \nContemporary phase \n10 \nUNIT 3 \nCareer Pathways \n \nGoal Setting \n \nCommon career paths \n \nInternship as a medium of transition from Schools \nto Universities \n12 \nUNIT 4 \nSocial Responsibility \n \nTypes of Social responsibility \n \nRole of Students within a group \n \nPrinciples of Socially Responsible behaviour \n10 \nUNIT 5 \nHuman Rights \n \nThe Universal Declaration of Human Rights and \nits significance \n \nThe responsibility of individuals, communities, and \nbusinesses in promoting human rights \n \nThe relationship between human rights and \nsustainable development \n12\nGeneral Studies (503) Syllabus 2024-25 | Page 7 of 71 \n \nGUIDELINES FOR INTERNAL ASSESSMENT \nGeneral studies focus on the “affective domains” by exposing students to be a better \nglobal citizen Even though it is a subject for internal assessment, students can be \nassessed through activities to make the subject more interactive and interesting. \nThe aim of assessing is not to evaluate the students based on the knowledge that they \nhave acquired. The assessment is to ensure that they are sensitized towards the \ndevelopment of personal, social, environmental tolerance and the awareness towards \nour constitution and global understandings. \nTeachers can determine the frequency of assessment based on intensity of the content \nand the requirements of the topics. The assessment activities will be focusing on the \n21st century skills and experiential learning which provides a holistic approach to the \nlearners to understand the world and the Nation at large. These assessments can be \ndone through “Multiple Assessment Techniques” like surveys, debates, researches, \nreviews and many more. \n \nMULTIPLE ASSESSMENT TECHNIQUES \nThe subject teachers would determine the type and frequency of multiple assessments. \nThis would make assessment more comprehensive and provide schools/teachers \nflexibility to use multiple and diverse techniques to assess learners viz. observation, oral \ntests, individual or group work, class discussion, field-work, concept maps, graphic \norganizers, visual representation etc. Hence, the schools are given autonomy to use \nalternate modes of assessment as per the demand of the subject and the context \ntowards addressing the goal of assessment for and as learning, such as, quizzes, \nproject-work, Self and peer assessment, collaborative projects, experiments, classroom \ndemonstrations, etc. Developing simple scoring criteria and rubrics becomes of equal \nimportance when deciding to use a particular technique. \nSUGGESTIONS TO THE TEACHERS \nTeachers should encourage participation of each student in some activity or the others. \nThey must ensure that no child is left out from participation in activities organized at \nschool. Consider using rubrics to assess student performance. Rubrics provided in the \nannexures make it easier for teachers to evaluate student work. Examine the behaviour \n/ skills / competencies of children in the class on all possible occasions, teachers will \nmaintain records of the performance of learners. Schools should encourage teachers to \nwork collaboratively with other teachers for facilitating and assessing learner’s \nperformance and then finally assigning grades.\nGeneral Studies (503) Syllabus 2024-25 | Page 8 of 71 \n \n \n \nSCHEME OF ASSESSMENT \nThe evaluation of General Studies is done by the schools. They are expected to \nassess the performance of all the students on a 9-Point scale as given below and \nreport it to the Board: \nGrade \nDescription \nA1 \nTop1/8th of the passed candidates \nA2 \nNext 1/8th of the passed candidates \nB1 \nNext 1/8th of the passed candidates \nB2 \nNext 1/8th of the passed candidates \nC1 \nNext 1/8th of the passed candidates \nC2 \nNext 1/8th of the passed candidates \nD1 \nNext 1/8th of the passed candidates \nD2 \nNext 1/8th of the passed candidates \nE \nEssential Repeat\nGeneral Studies (503) Syllabus 2024-25 | Page 9 of 71 \n \nPassing in General Studies is a basic condition of eligibility for earning the Senior School \nCertificate from the Board. The result of a student who fails to get a grade higher than \n'E' in General Studies will be withheld but not for more than a year. This arrangement \nimposes an additional responsibility on the teaching staff of a school. \nAs has been emphasized, the major objectives of teaching General Studies lie in the \n‘affective domain’. Accordingly, evaluation should be based on observational methods \nassessing students' interests, attitudes and personality traits.\nGeneral Studies (503) Syllabus 2024-25 | Page 10 of 71 \n \nGUIDELINES FOR CONTENT DELIVERY \n \nTeachers must ensure that the content delivery is aligned with the learning outcomes \nand objectives, and that the students are able to achieve their full potential. \nTo effectively deliver general studies content to students, teachers should: \n \n1. Start with a clear and concise overview of the topic: Provide a brief overview of the \nkey concepts, facts, and theories related to the topic. \n \n2. Use interactive methods of teaching: Engage students in the learning process by \nusing interactive methods suggested in the manual such as discussions, debates, role-\nplays, and simulations. \n3. Encourage students to ask questions: Encourage students to ask questions and \nclarify their doubts. This will help them understand the topic better and also foster \ncritical thinking.. \n4. Provide real-world examples: Use real-world examples and case studies to help \nstudents relate the topic to their daily lives. \n5. Use technology: Use technology such as online resources, educational apps, and \nonline simulations to enhance the learning experience. \n6. Evaluate learning: Regularly assess students' understanding of the topic through \nmultiple assessments like quizzes, role-plays, and projects. \n7. Encourage self-directed learning: Encourage students to take ownership of their \nlearning by assigning independent research projects or encouraging them to seek \nadditional resources. \n8. Create a positive learning environment: Create a positive and supportive \nlearning environment by being approachable, encouraging, and engaging with \nstudents. This will foster a love for learning and help students perform better.\nGeneral Studies (503) Syllabus 2024-25 | Page 11 of 71 \n \n \n \n \n \n \n \nClass XI\nGeneral Studies (503) Syllabus 2024-25 | Page 12 of 71 \n \nUNIT-1 \nSCIENCE AND TECHNOLOGY \n \nScience and technology are interdependent fields that influence and shape each other. \nScience provides the knowledge and understanding of natural phenomena, while \ntechnology utilizes this knowledge to develop practical applications and innovations. \nThese innovations, in turn, drive further scientific inquiry by creating new questions and \nareas for investigation. This close relationship between science and technology has led \nto significant advances in many areas, including medicine, transportation, \ncommunication, and energy production, among others. The continued interaction and \ncollaboration between science and technology will likely lead to even more \nbreakthroughs in the future and play a crucial role in shaping our world. \nExploring emerging technologies is important for staying current with advancements \nand their potential impacts. Emerging technologies like artificial intelligence, robotics, \nbiotechnology, and the Internet of Things (IoT) have the potential to revolutionize many \naspects of our lives and create new opportunities for growth and development. \nIt is also crucial to analyze the impact of science and emerging technologies on our \nlives. This includes considering both the benefits and potential drawbacks, such as \nprivacy concerns, job displacement, and ethical implications. By examining the impact \nof these technologies, we can make informed decisions about how to best use them to \nimprove our lives and address societal challenges. \nOverall, science and technology are central to our lives and will continue to play an \nincreasingly important role in shaping the future. By staying informed and engaged with \nthese developments, we can maximize their benefits and minimize any negative \nconsequences.\nGeneral Studies (503) Syllabus 2024-25 | Page 13 of 71 \n \nAPPLICATION OF SCIENCE IN EVERYDAY LIFE \nSPECIFIC LEARNING OBJECTIVES: \nStudents will be able to \n \nanalyze the impact of scientific advancements on society and culture, including \ntheir potential benefits and drawbacks. \n \ndescribe the role of science in healthcare, including the use of medical technology, \npharmaceuticals, and diagnostic procedures. \n \ndiscuss the importance of environmental science in understanding and addressing \nenvironmental issues, such as climate change, pollution, and resource depletion. \nTEACHING LEARNING PROCESS \nTeachers can coordinate and \n \nhave students participate in a local clean up event to experience the impact of \npollution on the environment and research a specific environmental issue, such as \nclimate change or deforestation. \n \narrange a visit to a local hospital or medical facility to learn about the various \ntechnologies used in healthcare, and conduct research on a specific medical \ncondition to understand the role of science in its diagnosis and treatment. \n \nprovide opportunities to do research and discuss the impact of a specific scientific \nadvancement, such as artificial intelligence, on society and culture, and present \ntheir findings to the class. \nLEARNING OUTCOME WITH SPECIFIC COMPETENCIES \nStudents will be able to \n \nidentify and explain the scientific principles and concepts behind a specific \ntechnology. They will also be able to understand the role of science in healthcare \nand its impact on diagnosis, treatment, and patient outcomes. \n \ndemonstrate their understanding of environmental issues facing society and the \nrole of science in addressing them. \n \nevaluate the role of science in solving problems in society and appreciate both \npotential benefits and drawbacks of such advancements.\nGeneral Studies (503) Syllabus 2024-25 | Page 14 of 71 \n \n \nSUB TOPIC 2: EMERGING TECHNOLOGIES \nSPECIFIC LEARNING OBJECTIVES: \nStudents will be able to \n \nimprove communication and presentation skills through the use of digital tools \n \ndevelop teamwork and collaboration skills through technology-based projects and \nactivities \nTEACHING LEARNING PROCESS \nTeachers can initiate \n \nguest speaker events with technology professionals to learn about various careers \nin the field and also encourage students to create their own digital content using \nmultimedia tools such as video production and graphic design software. \n \nInnovative competitions that challenge students to come up with new and creative \nsolutions using technology. \n \ncollaborative project-based learning using technology to solve real-world problems, \nparticipating in hackathons or coding competitions. \n \ndebates or public speaking by Incorporating technology as a theme. \nLEARNING OUTCOME WITH SPECIFIC COMPETENCIES \nStudents will be able to \n \nacquire knowledge and skills in using a variety of digital tools, technologies, and \nplatforms. \n \ndemonstrate their understanding of the range of careers in the technology field and \nthe skills required for those careers. \n \npresent their views of ethical considerations and best practices for the safe, \nresponsible, and effective use of technology.\nGeneral Studies (503) Syllabus 2024-25 | Page 15 of 71 \n \nSCIENCE AND TECHNOLOGY IN THE SOCIAL CONTEXT \nSPECIFIC LEARNING OBJECTIVES: \nStudents will be able to \n \nanalyze the impact of science and technology on the environment, including the \nconsequences of environmental degradation and sustainability efforts. \n \nappreciate the role of science and technology in promoting social justice and \nequality, including efforts to reduce disparities in access to technology and digital \nliteracy. \nTEACHING LEARNING PROCESS \nTeachers can \n \nprovide students with case studies of real-world scenarios that highlight the social, \nethical, and political implications of science and technology. This will help students \nunderstand the interplay between science, technology, and society. \n \nencourage students to undertake environmental science projects that focus on \nsustainability and environmental conservation. This can help students understand \nthe impact of science and technology on the environment and promote \nenvironmental awareness \n \ncollaborative project-based learning using technology to solve real-world problems, \nparticipating in hackathons or coding competitions. \n \ndebate or public speaking by Incorporating technology as a theme. \nLEARNING OUTCOME WITH SPECIFIC COMPETENCIES \nStudents will be able to \n \ncommunicate complex scientific and technological ideas to a non-expert audience, \nand develop the ability to articulate their own opinions and perspectives on science \nand technology. \n \nunderstand the role of science and technology in promoting social justice and \nequality, and appreciate the importance of reducing disparities in access to \ntechnology and digital literacy. \n \ninfer the impact of science and technology on the environment and appreciate the \nrole of technology in promoting sustainability and environmental conservation.\nGeneral Studies (503) Syllabus 2024-25 | Page 16 of 71 \n \nSUGGESTED TRANSACTIONAL STRATEGIES: \n Visits to fields/ College of Agriculture and discussions with farmers and Experts. \n Visit to a local hospital or medical facility \n Group discussions on recent applications of Artificial Intelligence and also on how \ntechnology has changed society over time. This can include discussions on the \nimpact of the printing press, the industrial revolution, and the internet. \n Read journals relating to gene editing and impact of Artificial Intelligence and \npresent it to the class. \n Analyze social media trends and the impact of social media on society. This can \ninclude discussions on the impact of social media on political discourse, the spread \nof fake news, and the impact of social media on mental health.\nGeneral Studies (503) Syllabus 2024-25 | Page 17 of 71 \n \nUNIT- 2 \nCURRENT TRENDS IN SOCIO - ECONOMIC STRUCTURE \n \nThe Economy of the country is determined by the social status of the citizens. The \nfactors that influence socio-economic structures are occupation, ethnic origin or \nreligious background and the place of residence (Urban & Rural). \nThe socio - economic status often reveals inequalities in access to resources as well \nas issues related to privilege, power and control. \nA country’s socio-economic structure depends on the three levels (High, Middle and \nLow). \nA socio - economic structure of a country can also be strongly influenced by natural \ndisasters, wars etc. \n \nSUB TOPIC - 1: PROMOTING LABOUR MARKET \n \nSPECIFIC LEARNING OBJECTIVES: \n \n Students will be able to \n \n \nanalyse the quality of labour such as skilled Labour, unskilled Labour, bonded \nlabour and child labour (agriculture, industry, constructions)., \n \nknow about the acts passed by various governments for the welfare and protection \nof all kinds of labour. \n \nTEACHING LEARNING PROCESS: \n \n Teacher will, \n \n assign students to present a project which will describe the quality of the labours \nworking in various fields and they will be suggesting measures for improvement of \nthe condition of the labours.\nGeneral Studies (503) Syllabus 2024-25 | Page 18 of 71 \n \n arrange a debate regarding the problems of the waged labourers and their \nunstable working conditions. \n arrange a field trip to nearby industries to analyse the prevailing conditions of \nlabour pertaining to wages, safety and working environment. \nLEARNING OUTCOMES WITH SPECIFIC COMPETENCIES: \n \n Students will be able to \n \nunderstand the quality of labour in the various fields such as agriculture, industry, \nconstructions etc., \n \nanalyse the measures and protection acts taken by the state and central \ngovernments to improve the conditions of labours. \n \nsuggest solutions to improve the conditions of the labours, through innovative \nideas to improve the wages, safety and working environment. \n \nSUB TOPIC - 2: MANAGING ECONOMIC AND SOCIAL RISKS \nSPECIFIC LEARNING OBJECTIVES: \nStudents will be learning to, \n \nunderstand the socio-economic risk in the field of education by comparing the \nfacilities provided in the urban and rural areas. \n \nunderstand the disparity in public and private health sector of the country. \n \nrealise the depletion of the resources in the environment through newspapers, \njournals or media. \n \nTEACHING LEARNING PROCESS: \nTeacher will initiate \n \nthe students to collect the statistics and debate pertaining to the problems faced by \nurban and rural stakeholders in the field of education. \n \nstudents to do a survey and understand how socio-economic backgrounds play a \nvital role in the health and safety of citizens. \n \nstudents to collect evidences from journals, newspapers and media and do the \ncomparative study pertaining to climate change, depletion of resources etc.,\nGeneral Studies (503) Syllabus 2024-25 | Page 19 of 71 \n \nLEARNING OUTCOMES WITH SPECIFIC COMPETENCIES: \nStudents will be able to, \n analyse the statistics and present the solutions to reduce the problems faced by \nurban and rural stakeholders in the field of education. \n write the petition based on the survey done pertaining to health and safety. \n present an article / clipping and post it on the social media to create an awareness \non climate change, depletion of resources etc. \n \n \nSUB TOPIC - 3: CREATING MORE EMPLOYMENT \nOPPORTUNITIES \n \nSPECIFIC LEARNING OBJECTIVES: \nStudents will be able to \n analyze the impact of unemployment problems prevailing in our country. \n describe the importance of employment opportunities to eradicate poverty and \n illiteracy. \n discuss the importance of various technical skills and training to the unskilled \n people to upskill those who are seeking jobs for a livelihood. \n \n \nTEACHING LEARNING PROCESS: \nTeachers will initiate \n students to collect information about unemployed and underemployed persons \nliving in a particular area. \n to research and prepare a report of the labor community / low income group on \nhow they are balancing between their income and daily essentials. \n arrange a visit to the nearby Taluk Office, VAO Office to collect the statistical data \nof the population with various income groups.\nGeneral Studies (503) Syllabus 2024-25 | Page 20 of 71 \n \nLEARNING OUTCOMES WITH SPECIFIC COMPETENCIES: \nStudents will be able to \n analyze the collected information of unemployed & underemployed laborers and \nsuggest specific training to upskill themselves. \n submit an article to a magazine or newspaper based on the research. \n categorize the budget of low income, middle income and high income groups and \nhow they manage their economy. \n \nSUGGESTED TRANSACTIONAL STRATEGIES: \n visit nearby manufacturing units to know the real conditions of workers. \n read the newspaper, journals which are giving more importance to solving the \nproblems of workers. \n group discussions regarding the improvement of workers, provide in service \ntraining as per their requirement. \n visit a village co - operative societies, urban banks to know about the facilities \nprovided by the government to the labours/underemployed.\nGeneral Studies (503) Syllabus 2024-25 | Page 21 of 71 \n \nUNIT-3 \nNATION BUILDING \n \n Nation Building is a multidimensional process. A country’s law plays a vital role in \nnation building and in the development of human rights which includes political, civil, \neconomic and social reforms. To build a strong nation, there should be a feeling of \noneness, in spite of the fact that peo"
+}

@@ -1,0 +1,152 @@
+{
+  "subject_name": "Infomatics Practices",
+  "subject_code": "065",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Computing / Commerce",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+  "sha256": "ff92a1d9c1c2a4d6b923a7ff80b59353e9c6d3575e9e7628057e751f9da3ee26",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Computer System",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Introduction to Python",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Database concepts and the Structured Query Language",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Introduction to the Emerging Trends",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Prerequisite. None"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Learning Outcomes"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Distribution of Marks and Periods"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit Wise syllabus"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Suggested Practical List"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To find average and grade for given marks."
+    },
+    {
+      "chapter_number": 2,
+      "title": "To find sale price of an item with given cost and discount (%"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To calculate perimeter/circumference and area of shapes such"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To calculate Simple and Compound interest."
+    },
+    {
+      "chapter_number": 5,
+      "title": "To calculate profit-loss for given Cost and Sell Price."
+    },
+    {
+      "chapter_number": 6,
+      "title": "To calculate EMI for Amount, Period and Interest."
+    },
+    {
+      "chapter_number": 7,
+      "title": "To calculate tax - GST / Income Tax."
+    },
+    {
+      "chapter_number": 8,
+      "title": "To find the largest and smallest numbers in a list."
+    },
+    {
+      "chapter_number": 9,
+      "title": "To find the third largest/smallest number in a list."
+    },
+    {
+      "chapter_number": 10,
+      "title": "To find the sum of squares of the first 100 natural numbers."
+    },
+    {
+      "chapter_number": 11,
+      "title": "To print the first ‘n’ multiples of given number."
+    },
+    {
+      "chapter_number": 12,
+      "title": "To count the number of vowels in user entered string."
+    },
+    {
+      "chapter_number": 13,
+      "title": "To print the words starting with a alphabet in a user entered"
+    },
+    {
+      "chapter_number": 14,
+      "title": "To print number of occurrences of a given alphabet in each st"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Create a dictionary to store names of states and their capita"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Create a dictionary of students to store names and marks obta"
+    },
+    {
+      "chapter_number": 17,
+      "title": "To print the highest and lowest values in the dictionary."
+    },
+    {
+      "chapter_number": 1,
+      "title": "To create a database"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To create student table with the student id, class, section,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To insert the details of at least 10 students in the above ta"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To display the entire content of table."
+    },
+    {
+      "chapter_number": 5,
+      "title": "To display Rno, Name and Marks of those students who are scor"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To display Rno, Name, DOB of those students who are born betw"
+    }
+  ],
+  "full_text_excerpt": "Informatics Practices (2024-25) \nCLASS XI Code No. 065 \n \n 1. Prerequisite. None \n \n 2. Learning Outcomes \n \nAt the end of this course, students will be able to: \n● Identify the components of computer system. \n● Create Python programs using different data types, lists and dictionaries. \n● Understand database concepts and Relational Database Management Systems. \n● Retrieve and manipulate data in RDBMS using Structured Query Language \n● Identify the Emerging trends in the fields of Information Technology. \n \n3. Distribution of Marks and Periods \nUnit \nNo \nUnit Name \nMarks \nPeriods \nTheory \nPeriods \nPractical \nTotal \nPeriod \n1 \nIntroduction to computer system \n10 \n10 \n- \n10 \n2 \nIntroduction to Python \n25 \n35 \n28 \n63 \n3 \nDatabase concepts and the \nStructured Query Language \n30 \n23 \n17 \n40 \n4 \nIntroduction to Emerging \nTrends \n5 \n7 \n- \n7 \n \nPractical \n30 \n- \n- \n- \n \nTotal \n100 \n75 \n45 \n120 \n \n4. Unit Wise syllabus \n \nUnit 1: Introduction to Computer System \n \n \n \n \n \n \n \n \n \nIntroduction to computer and computing: evolution of computing devices, components of a \ncomputer system and their interconnections, Input/output devices. \nComputer Memory: Units of memory, types of memory - primary and secondary, data \ndeletion, its recovery and related security concerns. \nSoftware: purpose and types - system and application software, generic and specific \npurpose software. \n \nUnit 2: Introduction to Python \n \n \n \n \n \n \n \n \n \n \nBasics of Python programming, execution modes: - interactive and script mode, the \nstructure of a program, indentation, identifiers, keywords, constants, variables, types of \noperator, precedence of operators, data types, mutable and immutable data types, \nstatements, expression evaluation. comments, input and output statements, data type \nconversion, debugging. \nControl Statements: if-else, if-elif-else, while loop, for loop\nLists: list operations - creating, initializing, traversing and manipulating lists, list methods \nand built-in functions - len(),list(),append(),insert(), count(),index(),remove(), pop(), \nreverse(), sort(), min(),max(),sum() \n \nDictionary: concept of key-value pair, creating, initializing, traversing, updating and deleting \nelements, dictionary methods and built-in functions - dict(), len(), keys(), values(), items(), \nupdate(), del, clear() \n \n \nUnit 3: Database concepts and the Structured Query Language \n \n \n \n \nDatabase Concepts: Introduction to database concepts and its need, Database \nManagement System. \n \nRelational data model: Concept of domain, tuple, relation, candidate key, primary key, \nalternate key \n \nAdvantages of using Structured Query Language, Data Definition Language, Data Query \nLanguage and Data Manipulation Language, Introduction to MySQL, creating a database \nusing MySQL, Data Types \n \nData Definition: CREATE DATABASE, CREATE TABLE, DROP, ALTER \n \nData Query: SELECT, FROM, WHERE with relational operators, BETWEEN, logical \noperators, IS NULL, IS NOT NULL \n \nData Manipulation: INSERT, DELETE, UPDATE \n \nUnit 4: Introduction to the Emerging Trends \n \n \n \n \n \n \n \n \nArtificial Intelligence, Machine Learning, Natural Language Processing, Immersive \nexperience (AR, VR), Robotics, Big data and its characteristics, Internet of Things (IoT), \nSensors, Smart cities, Cloud Computing and Cloud Services (SaaS, IaaS, PaaS); Grid \nComputing, Block chain technology. \n \nPractical Marks Distribution \nS.No. \nUnit Name \nMarks \n1 \nProblem solving using Python programming language \n11 \n2 \nCreating database using MySQL and performing Queries \n7 \n3 \nPractical file (minimum of 14 python programs, and 14 SQL \nqueries) \n7 \n4 \nViva-Voce \n5 \n \nTotal \n30\n5. Suggested Practical List \n \n5.1 Programming in Python \n \n1. To find average and grade for given marks. \n2. To find sale price of an item with given cost and discount (%). \n3. To calculate perimeter/circumference and area of shapes such as triangle, \nrectangle, square and circle. \n4. To calculate Simple and Compound interest. \n5. To calculate profit-loss for given Cost and Sell Price. \n6. To calculate EMI for Amount, Period and Interest. \n7. To calculate tax - GST / Income Tax. \n8. To find the largest and smallest numbers in a list. \n9. To find the third largest/smallest number in a list. \n10. To find the sum of squares of the first 100 natural numbers. \n11. To print the first ‘n’ multiples of given number. \n12. To count the number of vowels in user entered string. \n13. To print the words starting with a alphabet in a user entered string. \n14. To print number of occurrences of a given alphabet in each string. \n15. Create a dictionary to store names of states and their capitals. \n16. Create a dictionary of students to store names and marks obtained in 5 subjects. \n17. To print the highest and lowest values in the dictionary. \n \n5.2 Data Management: SQL Commands \n \n1. To create a database \n2. To create student table with the student id, class, section, gender, name, dob, and \nmarks as attributes where the student id is the primary key. \n3. To insert the details of at least 10 students in the above table. \n4. To display the entire content of table. \n5. To display Rno, Name and Marks of those students who are scoring marks more \nthan 50. \n6. To display Rno, Name, DOB of those students who are born between ‘2005- 01-01’ \nand ‘2005-12-31’. \n \nSuggested material \nNCERT Informatics Practices - Text book for class - XI (ISBN- 978-93-5292-148-5)"
+}

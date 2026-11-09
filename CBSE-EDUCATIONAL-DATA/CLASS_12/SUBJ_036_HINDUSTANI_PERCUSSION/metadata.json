@@ -1,0 +1,40 @@
+{
+  "subject_code": "036",
+  "subject_name": "Hindustani Percussion",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_036_HINDUSTANI_PERCUSSION",
+  "directory_path": "CLASS_12/SUBJ_036_HINDUSTANI_PERCUSSION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Hindustani Percussion",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Percussion_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Hindustani Percussion",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Percussion_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "3d4cd979912a8b135489719d4539a4dfed52938916f17d754c6d49c44bf8ad6a",
+    "file_size_bytes": 344555,
+    "units_extracted": 0,
+    "chapters_extracted": 23
+  }
+}

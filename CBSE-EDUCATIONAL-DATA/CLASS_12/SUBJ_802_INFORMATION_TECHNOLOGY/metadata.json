@@ -1,0 +1,33 @@
+{
+  "subject_code": "802",
+  "subject_name": "Information Technology",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Computing",
+  "directory_name": "SUBJ_802_INFORMATION_TECHNOLOGY",
+  "directory_path": "CLASS_12/SUBJ_802_INFORMATION_TECHNOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Information Technology (802-IT.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/802-IT.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "c85720f1a12459593ed5096fed7d7f2b36cfed88f89cd897806b66cc993364c7",
+    "file_size_bytes": 242547,
+    "units_extracted": 17,
+    "chapters_extracted": 5
+  }
+}

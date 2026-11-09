@@ -1,0 +1,207 @@
+{
+  "subject_name": "Psychology",
+  "subject_code": "037",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Humanities",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+  "sha256": "edee3bd5d426095873f8fe301c8c93363b89426a0c3aa1b3772c1e964517b00a",
+  "assessment": {
+    "theory_marks": 70,
+    "internal_assessment_marks": 30,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-I",
+      "title": "Variations in Psychological Attributes",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Self and Personality",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Meeting Life Challenges",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Psychological Disorders",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Therapeutic Approaches",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VI",
+      "title": "Attitude and Social Cognition",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VII",
+      "title": "Social Influence and Group Processes",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Individual Differences in Human Functioning"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Assessment of Psychological Attributes"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Intelligence"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Psychometric Theories of Intelligence, Information"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Individual Differences in Intelligence"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Culture and Intelligence"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Emotional Intelligence"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Special Abilities: Aptitude: Nature and Measurement"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Creativity"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Self and Personality"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Concept of Self"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Cognitive and Behavioural aspects of Self"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Culture and Self"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Concept of Personality"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Major Approaches to the Study of Personality"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Assessment of Personality"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nature, Types and Sources of Stress"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Effects of Stress on Psychological Functioning and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Coping with Stress"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Promoting Positive Health and Well-being"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Concepts of Abnormality and Psychological Disorders"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Classification of Psychological Disorders"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Factors Underlying Abnormal Behaviour"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Major Psychological Disorders"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Nature and Process of psychotherapy"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of Therapies"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rehabilitation of the Mentally Ill"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Explaining Social Behaviour"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Nature and Components of Attitudes"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Attitude Formation and Change"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Prejudice and Discrimination"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Strategies for Handling Prejudice"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nature and Formation of Groups"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Type of Groups"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Influence of Group on Individual Behaviour"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Psychology, Class XI, Published by NCERT"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Psychology, Class XII, Published by NCERT"
+    }
+  ],
+  "full_text_excerpt": "COURSE STRUCTURE \nCLASS XII (2024-2025) \n Theory Paper 3 Hours \nMarks: 70 \nUnits \nTopics \nNo. of \nperiods \nMarks \nI \nVariations in Psychological Attributes \n30 \n13 \nII \nSelf and Personality \n32 \n13 \nIII \nMeeting Life Challenges \n23 \n9 \nIV \nPsychological Disorders \n30 \n12 \nV \nTherapeutic Approaches \n25 \n9 \nVI \nAttitude and Social Cognition \n16 \n8 \nVII \nSocial Influence and Group Processes \n14 \n6 \n \nTotal \n170 \n70 \n \nCOURSE CONTENT \nUnit I \nVariations in Psychological Attributes \nThe topics in this unit are: \n1. Introduction \n2. Individual Differences in Human Functioning \n3. Assessment of Psychological Attributes \n4. Intelligence \n5. Psychometric Theories of Intelligence, Information \nProcessing Theory: Planning, Attention-arousal and \nSimultaneous successive Model of Intelligence, \nTriarchic Theory of Intelligence; Theory of Multiple \nIntelligences. \n6. Individual Differences in Intelligence \n7. Culture and Intelligence \n8. Emotional Intelligence \n9. Special Abilities: Aptitude: Nature and Measurement \n10. Creativity \n30 Periods \nUnit II \nSelf and Personality \nThe topics in this unit are: \n1. Introduction \n2. Self and Personality \n3. Concept of Self \n4. Cognitive and Behavioural aspects of Self \n32 Periods\n5. Culture and Self \n6. Concept of Personality \n7. Major Approaches to the Study of Personality \n Type Approaches \n Trait Approaches \n Psychodynamic Approach and Post Freudian \nApproaches \n Behavioural Approach \n Cultural Approach \n Humanistic Approach \n8. Assessment of Personality \n Self-report Measures \n Projective Techniques \n Behavioural Analysis \nUnit III \nMeeting Life Challenges \nThe topics in this unit are: \n1. Introduction \n2. Nature, Types and Sources of Stress \n3. Effects of Stress on Psychological Functioning and \nHealth \n Stress and Health \n General Adaptation Syndrome \n Stress and Immune System \n Lifestyle \n4. Coping with Stress \n Stress Management Techniques \n5. Promoting Positive Health and Well-being \n Life Skills \n Positive Health \n23 periods \nUnit IV \nPsychological Disorders \nThe topics in this unit are: \n1. Introduction \n2. Concepts of Abnormality and Psychological Disorders \n Historical Background \n3. Classification of Psychological Disorders \n4. Factors Underlying Abnormal Behaviour \n5. Major Psychological Disorders \n30 Periods\n Anxiety Disorders \n Obsessive-Compulsive and Related Disorders \n Trauma-and Stressor-Related Disorders \n Somatic Symptom and Related Disorders \n Dissociative Disorders \n Depressive Disorder \n Bipolar and Related Disorders \n Schizophrenia Spectrum and Other Psychotic \nDisorders \n Neurodevelopmental Disorders \n Disruptive, Impulse-Control and Conduct Disorders \n Feeding and Eating Disorders \n Substance Related and Addictive Disorders \nUnit V \nTherapeutic Approaches \nThe topics in this unit are: \n1. Nature and Process of psychotherapy \n Therapeutic relationship \n2. Types of Therapies \n Behaviour Therapy \n Cognitive Therapy \n Humanistic-Existential Therapy \n Alternative Therapies \n Factors contributing to healing in Psychotherapy \n Ethics in Psychotherapy \n3. Rehabilitation of the Mentally Ill \n25 Periods \nUnit VI Attitude and Social Cognition \nThe topics in this unit are: \n1. Introduction \n2. Explaining Social Behaviour \n3. Nature and Components of Attitudes \n4. Attitude Formation and Change \n Attitude Formation \n Attitude Change \n Attitude-Behaviour Relationship \n5. Prejudice and Discrimination \n6. Strategies for Handling Prejudice \n16 Periods\nUnit VII \nSocial Influence and Group Processes \n \n \nThe topics in this unit are: \n1. Introduction \n2. Nature and Formation of Groups \n3. Type of Groups \n4. Influence of Group on Individual Behaviour \n Social Loafing \n Group Polarisation \n14 Periods \nPractical \n \n \n 30 Marks \nA. Development of case profile: \nUsing appropriate methods like interview, observation & \npsychological tests. \nB. Test administration: \nStudents are required to administer and interpret five \npsychological tests related to various psychological attributes like \nintelligence, aptitude, attitude, personality, etc. \nC. In the Practical examination, the student will be required to \nadminister and interpret two psychological tests. \n \nDistribution of Marks: \n Practical File and Case Profile \n10 Marks \n Viva Voce (Case Profile & Two Practicals) 05 Marks \n Two Practicals (5 marks for conduct of \npracticals and 10 marks for reporting) \n15 Marks \nTotal \n30 Marks \n \n60 Periods\nQUESTION PAPER DESIGN \nCLASS - XII (2024-25) \nI. Board Examination: Theory \n \nTime: 3 Hours Maximum Marks: 70 \nS. \nNo. \nCompetencies \nTotal \nMarks \n% \nWeightag\ne \n1 \nRemembering \nand \nUnderstanding: \nExhibiting \nmemory of previously learned material by recalling facts, \nterms, basic concepts, and answers; Demonstrating \nunderstanding of facts and ideas by organizing, \ncomparing, translating, interpreting, giving descriptions \nand stating main ideas \n25 \n35% \n2 \nApplying: Solving problems to new situations by \napplying acquired knowledge, facts, techniques and rules \nin a different way \n31 \n45% \n3 \nFormulating, Analysing, Evaluating and Creating: \nExamining and breaking information into parts by \nidentifying motives or causes; Making inferences and \nfinding evidence to support generalizations; Presenting \nand defending opinions by making judgments about \ninformation, validity of ideas, or quality of work based on a \nset of criteria; Compiling information together in a different \nway by combining elements in a new pattern or proposing \nalternative solutions \n14 \n20% \n \n \n \nTotal \n70 \n \n100% \n \nII. Practical: 30 Marks \n \nPrescribed Books: \n1. Psychology, Class XI, Published by NCERT \n2. Psychology, Class XII, Published by NCERT \nNote: The above textbooks are also available in Hindi medium."
+}

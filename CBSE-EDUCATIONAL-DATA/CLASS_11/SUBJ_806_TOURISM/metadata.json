@@ -1,0 +1,33 @@
+{
+  "subject_code": "806",
+  "subject_name": "Tourism",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "directory_name": "SUBJ_806_TOURISM",
+  "directory_path": "CLASS_11/SUBJ_806_TOURISM",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Tourism (806-Tourism.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/806-Tourism.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "0240d19bcf1c51257380ea415de41096286bbdca5e5cbca5d7c3cf964d41950a",
+    "file_size_bytes": 248898,
+    "units_extracted": 17,
+    "chapters_extracted": 32
+  }
+}

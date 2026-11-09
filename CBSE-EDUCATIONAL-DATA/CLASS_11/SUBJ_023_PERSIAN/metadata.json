@@ -1,0 +1,40 @@
+{
+  "subject_code": "023",
+  "subject_name": "Persian",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_023_PERSIAN",
+  "directory_path": "CLASS_11/SUBJ_023_PERSIAN",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Persian",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Persian_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Persian",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Persian_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "2302b338478d7eb02e4bea6ec2b64f144ea430cce280be94926a58a1796809ae",
+    "file_size_bytes": 781457,
+    "units_extracted": 0,
+    "chapters_extracted": 5
+  }
+}

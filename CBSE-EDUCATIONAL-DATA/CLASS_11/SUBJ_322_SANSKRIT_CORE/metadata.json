@@ -1,0 +1,40 @@
+{
+  "subject_code": "322",
+  "subject_name": "Sanskrit Core",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_322_SANSKRIT_CORE",
+  "directory_path": "CLASS_11/SUBJ_322_SANSKRIT_CORE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Sanskrit Core",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Core_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Sanskrit Core",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Core_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "5f8ed8aa9bd09609b17f0189e1d255bd6b7d17685ce72c73a3f6e9ec8877a237",
+    "file_size_bytes": 1243230,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

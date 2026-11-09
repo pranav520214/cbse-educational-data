@@ -1,0 +1,40 @@
+{
+  "subject_code": "114",
+  "subject_name": "Assamese",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_114_ASSAMESE",
+  "directory_path": "CLASS_11/SUBJ_114_ASSAMESE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Assamese",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Assamese_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Assamese",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Assamese_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "3e632f92c4407a5c17a14f8044d3222fa0861be7ed43fa06e6eca5307670d417",
+    "file_size_bytes": 538970,
+    "units_extracted": 4,
+    "chapters_extracted": 7
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "subject_code": "819",
+  "subject_name": "Electrical Technology",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "directory_name": "SUBJ_819_ELECTRICAL_TECHNOLOGY",
+  "directory_path": "CLASS_12/SUBJ_819_ELECTRICAL_TECHNOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Electrical Technology (819-ELECTRICAL_TECHNOLOGY-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "fc7994c75dbd806b89d94ae90569b0ed2f81d9f9e399c99f0dcfa138900fb40d",
+    "file_size_bytes": 264314,
+    "units_extracted": 13,
+    "chapters_extracted": 200
+  }
+}

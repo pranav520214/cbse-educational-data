@@ -1,0 +1,68 @@
+{
+  "subject_name": "Bio Technology",
+  "subject_code": "045",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf",
+  "sha256": "f821c326ad9ee6a5b361f979fefa2c5df9c7e40662f9d8d179ee8014283c28b0",
+  "assessment": {
+    "theory_marks": 70,
+    "internal_assessment_marks": 30,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-I",
+      "title": "Biotechnology: An overview",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Molecules of Life",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Genetics and Molecular Biology",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Cells and Organisms",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Preparation of buffers and pH determination"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Sterilization techniques"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Preparation of bacterial growth medium"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Cell counting"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Sugar Estimation using Di Nitro Salicylic Acid test (DNS test"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Assay for amylase enzyme"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Protein estimation by biuret method"
+    }
+  ],
+  "full_text_excerpt": "Biotechnology (Code 045) \n2024-25 \n \nAn unprecedented growth of human knowledge in the field of Biological Sciences \ncoupled with equally significant developments in the field of technology have brought \nsignificant changes into existing social and economic systems. The emerging field of \nBiotechnology is likely to further enhance the applications of Science and Technology \nfor human welfare. Modern Biotechnology processes encompass a wide range of new \nproducts such as antibiotics, vaccines, monoclonal antibodies and many more. \nFurthermore, developments in recombinant DNA technology have yielded numerous \nnew useful products in the fields of healthcare and agriculture. The present syllabus \ntakes care of all these aspects. Due emphasis has been laid on familiarizing the \nlearners with the fundamental concepts, basic techniques and their applications. It is \nexpected that the knowledge gained through the study of different topics and the skills \nacquired through the prescribed practical work will make the learners competent to \nmeet the challenges of academic as well as professional courses after studying the \nsubject at senior secondary stage. \n \nObjectives \nThe broad objectives of teaching Biotechnology at senior secondary level are to: \n help the learners know and understand basic facts and concepts of the \nsubject at elementary stage. \n expose the students to different basic processes and basic \ntechniques used in Biotechnology. \n familiarize the learners to understand the relationship of the subject to \nhealth, nutrition, environment, agriculture and industry, etc. \n develop conceptual competence in the learners so as to cope up with \nprofessional courses in future career. \n acquaint students with different applications of Biotechnology in everyday life. \n develop an interest in students to study Biotechnology as a discipline.\nCLASS- XI (2024-25) \nCOURSE \nSTRUCTURE \nOne Paper \nTime: 3 hrs. \nMax. Marks 70+30 \n \nUnits \nMarks \nUnit- I \nBiotechnology: An overview \n5 \nUnit-II \nMolecules of Life \n20 \nUnit-III \nGenetics and Molecular Biology \n20 \nUnit-IV \nCells and Organisms \n25 \nPractical \n30 \nTotal \n100 \n \n \n \nCLASS XI \n(Theory) \n \nOne Paper Time: 3 hrs. \n \n \n \n \n \n Total Marks: 70 \n \nUnit-I Biotechnology: An overview \n \n \n \n \n \n \n5 Marks \nChapter 1: Biotechnology: An Overview \n \nHistorical Perspectives, Technology and Applications of Biotechnology, Global market \nand Biotech Products. \n \nUnit-II Molecules of Life \n \n \n \n \n \n \n 20 Marks \nChapter 1: Biomolecules: Building Blocks \n \nBuilding Blocks of Carbohydrates - Sugars and their Derivatives, Building Blocks of \nProteins \n- Amino Acids, Building Blocks of Lipids - Simple Fatty Acids, Glycerol and \nCholesterol, Building Blocks of Nucleic Acids - Nucleotides. \nChapter 2: Macromolecules: Structure & Function \n \nCarbohydrates - The Energy Givers, Proteins - The Performers, Enzymes - The \nCatalysts, Lipids and Biomembranes - The Barriers, Nucleic Acids - The Managers\nUnit-III Genetics and Molecular Biology \n \n \n \n \n 20 Marks \nChapter 1: Concepts of Genetics \nHistorical Perspective, Multiple Alleles, Linkage and Crossing Over, Genetic Mapping. \n \nChapter 2: Genes and Genomes: Structure and Function \n \nDiscovery of DNA as Genetic Material, DNA Replication, Fine Structure of the \nGenes, From Gene to Protein, Transcription - The Basic Process, Genetic Code, \nTranslation, Mutations, Human Genetic Disorders. \nUnit IV Cells and Organisms \n25 Marks \n \nChapter 1: The Basic Unit of Life \n \nCell Structure and Components, Organization of Life \n \nChapter 2: Cell Growth and Development \n \nCell Division, Cell Cycle, Cell Communication, Nutrition, Reproduction, Immune \nResponse in Animals. \n \n \nPRACTICALS \n \nNote: Every student is required to do the following experiments during the \nacademic session. \n \n1. \nPreparation of buffers and pH determination \n2. \nSterilization techniques \n3. \nPreparation of bacterial growth medium \n4. \nCell counting \n5. \nSugar Estimation using Di Nitro Salicylic Acid test (DNS test) \n6. \nAssay for amylase enzyme \n7. \nProtein estimation by biuret method \n \n \nScheme of Evaluation \n \nTime: 3 Hours \nMax. Marks 30 \n \nThe scheme of evaluation at the end of session will be as under: \nTwo experiments \n \n: \n20 \nMarks Viva on experiments : \n5 \nMarks Practical record \n \n : \n5 Mark"
+}

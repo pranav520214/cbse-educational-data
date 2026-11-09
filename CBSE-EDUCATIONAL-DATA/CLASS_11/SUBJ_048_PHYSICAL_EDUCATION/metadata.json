@@ -1,0 +1,40 @@
+{
+  "subject_code": "048",
+  "subject_name": "Physical Education",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Physical Education",
+  "directory_name": "SUBJ_048_PHYSICAL_EDUCATION",
+  "directory_path": "CLASS_11/SUBJ_048_PHYSICAL_EDUCATION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Physical Education",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PhysicalEducation_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Physical Education",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "0d74daab51e545695faecbc98b77e12c49809cd1c4d4afe9087b03e223fa89aa",
+    "file_size_bytes": 499763,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

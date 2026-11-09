@@ -1,0 +1,265 @@
+{
+  "subject_name": "Tourism",
+  "subject_code": "806",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/806-Tourism.pdf",
+  "sha256": "0240d19bcf1c51257380ea415de41096286bbdca5e5cbca5d7c3cf964d41950a",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Introduction to Travel &",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- Operations of Travel Agency",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- Transport Network",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- Itinerary Planning",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- Tour Packaging & Programming",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "- Package Tour Costing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "- Government and Professional",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "- Global Distribution System",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Introduction to Travel & Tour Operations Business",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "- Government and Professional Bodies",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1 - Introduction to Travel & Tour Operations Business"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2 - Operations of Travel Agency"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3 - Transport Network"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4 - Itinerary Planning"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5 - Tour Packaging & Programming"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Unit 6 - Package Tour Costing"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Unit 7 - Government and Professional Bodies"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Unit 8 - Global Distribution System"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introductio"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Transport"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Itinerary"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tour"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Package Tour"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Government"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Global"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Students will prepare tourism brochures/ posters advertising"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Students will create a report by investigating tourism market"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Student will organize school cultural shows as a form of deli"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Students will compare items of information such as brochures"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Students will demonstrate a broad knowledge and understanding"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Students will enlist and explain the different types of caree"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Students will document and explain skills and attributes of p"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Students will collect detailed information on other industrie"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Students will write detailed information on the effects on in"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Students will create a portfolio of newspaper reports on the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Students will visit, Study, research and analyze any governme"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Students will create a development plan for a tourism product"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Students will visit and collect information about a tourism a"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Students will study a Global Distribution System based online"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Students will visit a Travel Agency/ Tour Operator and find o"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Students will study a local tourism product/ service and cont"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Students will research and collect data in relation to travel"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Students will interview tourism-related organizations includi"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Students will form a profile of any one destination from its"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Students will research the latest trends in the tourism indus"
+    }
+  ],
+  "full_text_excerpt": "Page 11 of 21 \nTourism-Class XI-XII-2026-27 \n \nTOURISM (SUBJECT CODE 806) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF \nHOURS \nfor Theory \nand Practical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \n \nUnit 1: Communication Skills-IV \n10 \n2 \nUnit 2: Self-Management Skills-IV \n10 \n2 \nUnit 3: ICT Skills-IV \n10 \n2 \nUnit 4: Entrepreneurial Skills-IV \n15 \n2 \nUnit 5: Green Skills-IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \n \nUnit 1 - Introduction to Travel & \nTour Operations Business \n20 \n6 \nUnit 2 - Operations of Travel Agency \n10 \n4 \nUnit 3 - Transport Network \n15 \n6 \nUnit 4 - Itinerary Planning \n10 \n5 \nUnit 5 - Tour Packaging & Programming \n15 \n8 \nUnit 6 - Package Tour Costing \n15 \n8 \nUnit 7 - Government and Professional \nBodies \n20 \n8 \nUnit 8 - Global Distribution System \n15 \n5 \nTotal \n120 \n50 \nPart C \nPractical Work \n \n \nProject \n \n \n90 \n20 \nViva \n05 \nPractical File /Portfolio /Power Point \npresentation \n10 \nDemonstration of Skill competency via \nLab Activities \n05 \nTotal \n90 \n40 \n \nGRAND \nTOTAL \n260 \n100\nPage 12 of 21 \nTourism-Class XI-XII-2026-27 \n \n \n \nDETAILED CURRICULUM/TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration \nin \nHours \n1. \nUnit 1: Communication Skills-IV \n10 \n2. \nUnit 2: Self-management Skills-IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- \nIV \n10 \n4. \nUnit 4: Entrepreneurial Skills-IV \n15 \n5. \nUnit 5: Green Skills-IV \n05 \n \nTOTAL DURATION \n50 \n \nThe detailed Curriculum/ Topics to be covered under Part A: Employability Skills can \nbe downloaded from CBSE website. \n \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nS. No. \nUnits \nDuration \nin \nHours \n1. \nUnit 1 - Introduction to Travel & Tour Operations Business \n20 \n2. \nUnit 2 - Operations of Travel Agency \n10 \n3. \nUnit 3 - Transport Network \n15 \n4. \nUnit 4 - Itinerary Planning \n10 \n5. \nUnit 5 - Tour Packaging & Programming \n15 \n6. \nUnit 6 - Package Tour Costing \n15 \n7. \nUnit 7 - Government and Professional Bodies \n20 \n8. \nUnit 8 - Global Distribution System \n15 \n \nTOTAL DURATION \n120\nUNIT \n \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n1. \nIntroductio \nn to Travel \n& Tour \nOperations \nBusiness \n1.1 Evolution of Travel \nBusiness \nSession: History of Travel \nSession: Travel Trade in India \n● Understanding the development of Travel \nTrade in India through the development of \nvarious organizations. \nSession: Meaning & concepts of Travel Business \n1.2 Type and Organizational \nStructure of TA & TO: \nSession: What is the Travel Agency? \n● Understanding the working of a Travel \nAgency \n● Learning about the different types of \nTravel Agencies \nSession: Who is a Tour Operator? \n● Understanding the working of a Tour \nOperator \n• \nLearning about the different types of \nTravel Agencies \nSession: Organizations Structure of \nTravel/Tour Company \n• \nUnderstanding the design of \nOrganization Structure within a travel/ \nTour Company \n1.3 Difference between Travel \nAgencies and Tour Operators \nSession: A comparative Analysis between \nRoles, Functions & Working of a TA &TO \n1.4 Market Trends & Travel \nAgency Business scenario \nSession: Understanding the reasons that led \nto changes in the Business Handling in the \nTravel Agencies \n• \nChange in commission system \n• \nIntroduction of Internet \n1.5 Business Integration \nSession: Understanding the chain of \ndistributions within the Travel and Tourism \nBusiness \n• \nHorizontal Integration \n• \nVertical Integration \n2.Operations \nof Travel \nAgency \n2.1 Agent \nSession: Who is an Agent? How does an Agent \nOperate? \n2.2 Origins of Travel Agency \nSession: Learning about the Origin of \nTravel Agencies \n• \nCox & Kings \n• \nThomas Cook \n \n \nPage 13 of 21 \nTourism-Class XI-XII-2026-27\n2.3 Operations of Travel \nAgency \nSession: How do Travel Agencies make Profits \nand ensure safety against possible commercial \nfailures? \n2.4 Organization of Travel \nAgency \nSession: Understanding the Principles, \nCharacteristics and range of tasks undertaken by \na travel agent \n2.5 Commissions \nSession: What is commission? How does it work? \n2.6 Travel Agencies in the 21st \nCentury \nSession: Understanding the development of G.D.S \n3. Transport \nNetwork \n3.1 Transportation \nSession: Understanding the Importance of \nTransportations in Tourism Industry \n3.2 Tourism & Transport \nSession: Learning about the relationship between \nTourism & Transport \n \n3.3 Air Transport \nSession: Understanding the Evolution & Categories \nof Air Transport \n \n3.4 Rail Transport \nSession: Understanding the Importance of Rail \nTransport & It’s Challenges \n3.5 Road Transport \nSession: Understanding the importance of Road \nTransport & Learning about the Phases of National \nHighway Development Projects \nSession: Learning about car travel and coach \ntravel. Understanding the Car Rental System. \n3.6 Shipping \nSession: Learning about shipping and the cruise \nindustry. Understanding evolution of Cruise \nbusiness and major cruise lines. Information about \nIndian waterways. \n3.7 Mass Transportation \nSession: Understanding the Definition and \nSignificance of Mass Transportation system \n4. Itinerary \nPlanning \n4.1 Itinerary Planning \nSession: Understanding meaning and features of \nItinerary \n4.2 Importance of \nTravel Itinerary \nSession: Learning about the different type \nof Itineraries \n• \nHow they are differentiated from person to \nperson \n• \nPrerequisites of Itinerary \n• \nThings to consider \n• \nStep by Step procedure \n• \nDos/Don’ts \n4.3 Packages or Inclusive \nTours \nSession: What is the Package Tour? What does it \nEntail? \n5. Tour \nPackaging & \nProgramming \n5.1 Meaning and \nClassifications of \nTour Packages \nSession: Types of Tour Packages \n5.2 Components of Tour \nPackage \nSession: What are the Various Elements of the \nPackage Tour? \n \nPage 14 of 21 \nTourism-Class XI-XII-2026-27\n5.3 Customized or Tailor- \nMade Package and \nGroup Inclusive Tours \nSession: Learning about the methods of \ndevelopment customize and tailor-made packages \n \n5.4 Tour Formulation \n& Designing Process \nSession: Learning about the process through \nwhich package Tour may be designed \n5.5 Tour Brochure Designing Activity: Learning how to promote Tour Package \nthrough Tour Brochures(Create a Brochure) \n5.6 Tour Programming and \nIts Importance \nSession: Understanding the role of Programming \nto add more value to the package \n6. Package Tour \nCosting \n6.1 Meaning of type of cost \nSession: Understanding the definition of cost \n \n6.2 Concept of Tour Costing Session: Learning about the different type of cost \nused in a package Tour \nSession: How to prepare a cost sheet to workout \ncosting systematically \n6.3 Components of Tour Cost Session: Learning about the various components \nthat are incorporated to create a cost sheet \n6.4 Pricing Package Tour \nSession: Understanding how to price for package \nTour \n6.5 Pricing Strategies \nSession: Formulation of pricing strategies for \ngreater sale \n• \nTraditional pricing strategies \n• \nRecent pricing strategies \n7. Government \nand Professional \nBodies \n7.1 Integration between \nGovernment and \nProfessional Bodies \nSession: Understanding the importance of \nIntegration \n• \nCharacteristics \n• \nSignificance \n7.2 Rules for setting up \nTravel \nAgency and Tour Operators \nSession: Understanding the approval procedure for \nsetting up TA &TO \n7.3 Department of Tourism \n(DoT) Different Schemes \nand \nPolicies \nSession: What are the different Government \nscheme and policy for establishing Travel Business \n7.4 Professional Bodies \nand their Activities \nSession: Learning about the various national \nand international professional bodies \n• \nRoles \n• \nFunctions \n• \nObjectives \n8. Global \nDistribution \nSystem \n8.1 Global Distribution \nSystem \nSession: Defining and understanding GDS \n8.2 The Evolution of Global \nDistribution System \nSession: History and development of GDS. Halo- \neffect and regulation of GDS. Learning about the \nvarious interfaces of GDS. \nPage 15 of 21 \nTourism-Class XI-XII-2026-27\n8.3 Amadeus and GDS \nSession: Understanding display fares, display \nairlines schedules and availability and display of \nonline portals \n• Amadeus \n• Galileo International \n• SABRE \n• World span \n \n8.4 Display Airlines \nSchedules and availability \nSession: Understanding Airlines inventories through \navailability display \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPage 16 of 21 \nTourism-Class XI-XII-2026-27\nPage 17 of 21 \nTourism-Class XI-XII-2026-27 \n \nPRACTICAL GUIDELINES FOR CLASS XI \nAssessment of performance: \nIn class XI: The two internal examiners, assigned for the conduct and assessment of Practical \nExaminations each in Senior Secondary School Curriculum (Under NSQF). Question for the viva \nexaminations should be conducted by both the examiners. Question to be more of General \nnature, project work or the curriculum. Investigatory Project especially those that show \nconsiderable amount of effort and originality, on the part of the student, should get suitable high \nmarks, while project of a routine or stereotyped nature should only receive mediocre marks. \nProcedure for Record of Marks in the Practical: \nFor the purpose of evaluation of marks, the following heads must be kept in mind and each \nstudent must be evaluated accordingly. \nProject-20 marks \nA ‘project’ can be an assessment task given to an individual student or a group of students on a \ntopic related to the subject. The project results in a ‘product’ that is assessed. The project may \ninvolve both in-class and out-of class research and development. The project should be primarily \na learning experience, not solely an assessment task. Because a great deal of time and effort \ngoes into producing a quality product from a project assignment task, you should allow class time \nto work on the project. Projects options for the final practical are given below. \nSuggested list of Projects - \n1. Students will prepare tourism brochures/ posters advertising any one of the UNESCO \nWorld Heritage Sites in India. The report will highlight the main features, facilities, services \nand uniqueness of the chosen destination. Students will also write an advertising script \npromoting tourism of chosen the destination. \n2. Students will create a report by investigating tourism marketing through linkages with \nevent tourism such as a cultural show or event in their region. It shall include information \ncollected from the show/event, photographs, advertising material used and highlights of \nthe show/event. \n3. Student will organize school cultural shows as a form of delivering tourism information to \nthe communities and the province. The report shall include a detailed documentation of \nthe process, the final product and feedback from the audience. \n4. Students will compare items of information such as brochures obtained at travel agencies, \npages downloaded from the internet, articles and advertisements in the general media. \nThey will create a report on the objectives of each piece of information? What are the \ntarget audiences? And what are the various channels of distribution of information? \n5. Students will demonstrate a broad knowledge and understanding of a range of issues \nwhich impact tourism at the local, national and international level by creating a report on \nany one tourism product in their region. The report shall include a detailed study of the \ntourism product, its potential and suggestions on its development to encourage tourism \nactivity. \n6. Students will enlist and explain the different types of career paths in tourism. Describe \nvarious jobs found in the tourism industry, including tour guide, tourism information officer, \nconference coordinator, tourism coordinator, inbound tourism coordinator, outbound \nTourism coordinator, etc. The report shall include evidence of the research done to find \njobs such as employment sections of newspapers and careers websites. \n7. Students will document and explain skills and attributes of people who work in the tourism \nindustry. The report shall include personal presentation and required work ethics.\nPage 18 of 21 \nTourism-Class XI-XII-2026-27 \n \n8. Students will collect detailed information on other industries such as transport, \naccommodation, and other services. The report shall highlight how these industries are \nimportant and are linked to the tourism industry. \n9. Students will write detailed information on the effects on infrastructural development, \npolicy and government due to increases in tourism activities at a destination. \n10. Students will create a portfolio of newspaper reports on the economics or business of \ntourism in the current environment. The report shall include evidence of the research done \nsuch as newspapers headlines, newspaper articles and information from tourism websites. \nViva based on Project -05 marks \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, \nviva may be based on questions of practical nature from the field of subject as per the curriculum. \nPractical File/ Portfolio/ Power Point presentation -10 Marks \nPortfolios provide evidence for judgments of student achievement in a range of contexts. A \nportfolio contains a specific collection of student work or evidence. This collection of work should \nprovide a fair, valid and informative picture of the student’s accomplishments. Instructor shall \nassign students any outlet to study the elements in tourism. \nField trips- \nField trips are an essential part of the study of Tourism Studies. They facilitate the understanding \nof the tourism and hospitality industry and provide opportunities for students to experience \nfirsthand the potential of their local areas for tourism. Field trips enable students to: \n➢ Acquire knowledge about local tourism by observing a variety of places. \n➢ Explore the tourism attraction centers or information offices that make tourism possible. \n➢ Identify various ways of promoting tourism, including promotion, information, and \ncommunication to help in interpreting, leading and decision making about tourism \nsatisfaction • identify, select, organize and communicate tourism information. \n➢ Explore a variety of tourism information, including statistics, data and promotional materials \nrelated to tourism. \n➢ Understand the importance of cultural sensitivity. \n➢ Participate in authentic learning experiences. \n➢ Develop and communicate knowledge of their local environment. \nDemonstration of skill competency in Lab Activities -05 marks \nStudents should be asked to demonstrate acquired knowledge through in-lab activities such as \nMaps, Charts, Role-play, etc. \nGuidelines for Project Preparation: \n \nThe final project work should encompass chapters on: \n \na) Introduction, \nb) Identification of core and advance issues, \nc) Learning and understanding and \nd) Observation during the project period.\nPage 19 of 21 \nTourism-Class XI-XII-2026-27 \n \nPRACTICAL GUIDELINES FOR CLASS XII \nAssessment of performance: \nIn class XII: One internal and one external examiner, assigned for the conduct and assessment \nof Practical Examinations each in Senior Secondary School Curriculum (Under NSQF). Question \nfor the viva examinations should be conducted by both the examiners. Question to be more of \nGeneral nature, project work or the curriculum. Investigatory Project especially those that show \nconsiderable amount of effort and originality, on the part of the student, should get suitable high \nmarks, while project of a routine or stereotyped nature should only receive mediocre marks. \nProcedure for Record of Marks in the Practical: \nFor the purpose of evaluation of marks, the following heads must be kept in mind and each \nstudent must be evaluated accordingly. \nProject -20 marks \nA ‘project’ can be an assessment task given to an individual student or a group of students on a \ntopic related to the subject. The project results in a ‘product’ that is assessed. The project may \ninvolve both in-class and out-of class research and development. The project should be primarily \na learning experience, not solely an assessment task. Because a great deal of time and effort \ngoes into producing a quality product from a project assignment task, you should allow class time \nto work on the project. Projects for the final practical are given below. \nSuggested list of Projects - \n1. Students will visit, Study, research and analyze any government tourism service in their \nregion. The project shall include marketing strategy, strengths, scope for improvement and \ncomparison with private services, if any. \n2. Students will create a development plan for a tourism product in their area. It shall include a \ndetailed study of the tourism product, its potential and suggestions on its development, to \nencourage tourism activity. \n3. Students will visit and collect information about a tourism agency/organization and create a report \non its working. It shall include information about its aims/objectives, services offered, marketing \nstrategies and vision. \n4. Students will study a Global Distribution System based online travel agency in detail and create a \nreport on it. It shall highlight customer friendly features, easy navigation tips, distribution channels \nused, target market, tips to optimize search and available offers. \n5. Students will visit a Travel Agency/ Tour Operator and find out information about its functioning. \nThe report shall include target audience, tours offered, services offered promotional and marketing \nstrategy. \n6. Students will study a local tourism product/ service and contrast tourism operations locally and \ninternationally. The report shall include a detailed study of both services offered locally as well \nas internationally. The report will be a comparison of services offered and tourism mechanisms \nused. \n7. Students will research and collect data in relation to travel documents, travel insurance,\nPage 20 of 21 \nTourism-Class XI-XII-2026-27 \n \nweather, currency, accommodation, attractions of any one destination within their country. It \nshall include possible itineraries, information brochures and marketing strategies. It shall \nhighlight the strengths of the chosen destination. \n8. Students will interview tourism-related organizations including hotels, resorts, tour operators, \ntravel agencies to collect information on roles of employers and individual employees in the \nindustry. The report shall highlight the required skills and attributes of a person engaged in the \ntourism industry. \n9. Students will form a profile of any one destination from its past and present tourism statistics. \nThe report shall include what do these statistics tell us about how the destination has changed \nover time? What implications does this have for the present state and future of the \ndestination? \n10. Students will research the latest trends in the tourism industry both locally and internationally \nand create a report on it. The report shall include new travel and tourism marketing strategies, \nupcoming tourism markets, target customer base for the recent trends and recent changes in \npromotion and marketing of tourism products. \nViva based on Project -05 marks \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, \nviva may be based on questions of practical nature from the field of subject as per the curriculum. \nPractical File / Portfolio/ Power Point presentation -10 Marks \nPortfolios provide evidence for judgments of student achievement in a range of contexts. A \nportfolio contains a specific collection of student work or evidence. This collection of work should \nprovide a fair, valid and informative picture of the student’s accomplishments. Instructor shall \nassign students any outlet to study the eleme"
+}

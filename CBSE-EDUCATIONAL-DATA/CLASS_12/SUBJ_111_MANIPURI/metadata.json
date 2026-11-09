@@ -1,0 +1,70 @@
+{
+  "subject_code": "111",
+  "subject_name": "Manipuri",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_111_MANIPURI",
+  "directory_path": "CLASS_12/SUBJ_111_MANIPURI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Manipuri",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Manipuri_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Manipuri",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Manipuri_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Manipuri",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/ManipuriDance-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      },
+      {
+        "title": "Class 12 SQP: Manipuri",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Manipuri-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Manipuri",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/ManipuriDance-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      },
+      {
+        "title": "Class 12 Marking Scheme: Manipuri",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Manipuri-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 6,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "403a1a2d92e0a6d22e4f345ef7e31c1e60c5af146c1bad8dff520108f5d5b8f8",
+    "file_size_bytes": 273510,
+    "units_extracted": 0,
+    "chapters_extracted": 26
+  }
+}

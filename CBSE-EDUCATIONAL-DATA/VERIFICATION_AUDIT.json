@@ -1,0 +1,62 @@
+{
+  "audit_timestamp": "2026-11-09T11:23:00+05:30",
+  "manifest_total_resources_discovered": 560,
+  "total_downloads_verified": 218,
+  "class_11": {
+    "class": "11",
+    "total_subjects": 114,
+    "subjects_processed": 112,
+    "subjects_pending": 2,
+    "total_units_identified": 744,
+    "total_chapters_identified": 2617,
+    "syllabus_md_generated": 112,
+    "structure_json_generated": 112,
+    "ai_jsonl_generated": 112,
+    "missing_resources": [
+      {
+        "subject_code": "000",
+        "subject_name": "Introduction to Senior Secondary Curriculum",
+        "missing": "syllabus_extracted"
+      },
+      {
+        "subject_code": "UNKNOWN",
+        "subject_name": "ReadingMaterial",
+        "missing": "syllabus_extracted"
+      }
+    ]
+  },
+  "class_12": {
+    "class": "12",
+    "total_subjects": 116,
+    "subjects_processed": 112,
+    "subjects_pending": 4,
+    "total_units_identified": 915,
+    "total_chapters_identified": 3438,
+    "syllabus_md_generated": 112,
+    "structure_json_generated": 112,
+    "ai_jsonl_generated": 112,
+    "missing_resources": [
+      {
+        "subject_code": "000",
+        "subject_name": "Introduction to Senior Secondary Curriculum",
+        "missing": "syllabus_extracted"
+      },
+      {
+        "subject_code": "051",
+        "subject_name": "Sculpture",
+        "missing": "syllabus_extracted"
+      },
+      {
+        "subject_code": "052",
+        "subject_name": "Applied Arts",
+        "missing": "syllabus_extracted"
+      },
+      {
+        "subject_code": "UNKNOWN",
+        "subject_name": "ReadingMaterial",
+        "missing": "syllabus_extracted"
+      }
+    ]
+  },
+  "overall_verification_status": "VERIFIED_VALID"
+}

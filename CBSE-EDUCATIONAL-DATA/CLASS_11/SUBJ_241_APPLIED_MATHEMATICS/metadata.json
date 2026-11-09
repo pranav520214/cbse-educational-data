@@ -1,0 +1,40 @@
+{
+  "subject_code": "241",
+  "subject_name": "Applied Mathematics",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Commerce / Humanities / Science",
+  "directory_name": "SUBJ_241_APPLIED_MATHEMATICS",
+  "directory_path": "CLASS_11/SUBJ_241_APPLIED_MATHEMATICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Applied Mathematics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Applied_Mathematics_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Applied Mathematics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Applied_Mathematics_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "8ac1b020f321bbaf15deb59207526b9d3bdb02004f60f122b6a1674a0e6c46cb",
+    "file_size_bytes": 997612,
+    "units_extracted": 8,
+    "chapters_extracted": 7
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "subject_code": "301",
+  "subject_name": "English Core",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_301_ENGLISH_CORE",
+  "directory_path": "CLASS_11/SUBJ_301_ENGLISH_CORE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "English Core",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_core_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "English Core",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_core_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 11 English Core (Hornbill)",
+        "url": "https://ncert.nic.in/textbook/pdf/kehb101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 11 English Core (Snapshots)",
+        "url": "https://ncert.nic.in/textbook/pdf/kesp101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "4fbfc12d16390171e41669b815f9ffa3753386bd9a4fe3028393af47a9959ecb",
+    "file_size_bytes": 854156,
+    "units_extracted": 0,
+    "chapters_extracted": 18
+  }
+}

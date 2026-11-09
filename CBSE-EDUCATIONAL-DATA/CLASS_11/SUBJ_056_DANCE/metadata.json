@@ -1,0 +1,40 @@
+{
+  "subject_code": "056",
+  "subject_name": "Dance",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_056_DANCE",
+  "directory_path": "CLASS_11/SUBJ_056_DANCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Dance",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Dance",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ecf326faa9334401595b2d51ed71f0676601d0dce3136508a882298ef2ecdb20",
+    "file_size_bytes": 681379,
+    "units_extracted": 0,
+    "chapters_extracted": 13
+  }
+}

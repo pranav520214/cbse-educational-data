@@ -1,0 +1,33 @@
+{
+  "subject_code": "816",
+  "subject_name": "Horticulture",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "directory_name": "SUBJ_816_HORTICULTURE",
+  "directory_path": "CLASS_11/SUBJ_816_HORTICULTURE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Horticulture (816-Horticulture-XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-Horticulture-XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "52b1fcf78b23976035424ff62dfdd2048648f4a0a40e65534e8767e95d7cc9c2",
+    "file_size_bytes": 164363,
+    "units_extracted": 14,
+    "chapters_extracted": 219
+  }
+}

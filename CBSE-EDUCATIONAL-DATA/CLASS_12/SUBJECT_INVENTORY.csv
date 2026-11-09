@@ -1,0 +1,117 @@
+subject_code,subject_name,class,group,stream,total_resources,directory_name,status
+000,Introduction to Senior Secondary Curriculum,12,Curriculum-Framework,Mandatory Framework,2,SUBJ_000_INTRODUCTION_TO_SENIOR_SECONDARY_CURRICULUM,initialized
+027,History,12,Group-A,Humanities,4,SUBJ_027_HISTORY,initialized
+028,Political Science,12,Group-A,Humanities,4,SUBJ_028_POLITICAL_SCIENCE,initialized
+029,Geography,12,Group-A,Humanities,4,SUBJ_029_GEOGRAPHY,initialized
+030,Economics,12,Group-A,Commerce / Humanities,6,SUBJ_030_ECONOMICS,initialized
+031,Carnatic Vocal,12,Group-A,Performing Arts,4,SUBJ_031_CARNATIC_VOCAL,initialized
+032,Carnatic Melodic,12,Group-A,Performing Arts,4,SUBJ_032_CARNATIC_MELODIC,initialized
+033,Carnatic Percussion,12,Group-A,Performing Arts,4,SUBJ_033_CARNATIC_PERCUSSION,initialized
+034,Hindustani Vocal,12,Group-A,Performing Arts,2,SUBJ_034_HINDUSTANI_VOCAL,initialized
+035,Hindustani Melodic,12,Group-A,Performing Arts,2,SUBJ_035_HINDUSTANI_MELODIC,initialized
+036,Hindustani Percussion,12,Group-A,Performing Arts,2,SUBJ_036_HINDUSTANI_PERCUSSION,initialized
+037,Psychology,12,Group-A,Humanities,4,SUBJ_037_PSYCHOLOGY,initialized
+039,Sociology,12,Group-A,Humanities,4,SUBJ_039_SOCIOLOGY,initialized
+041,Mathematics,12,Group-A,Science / Commerce,8,SUBJ_041_MATHEMATICS,initialized
+042,Physics,12,Group-A,Science,6,SUBJ_042_PHYSICS,initialized
+043,Chemistry,12,Group-A,Science,6,SUBJ_043_CHEMISTRY,initialized
+044,Biology,12,Group-A,Science,5,SUBJ_044_BIOLOGY,initialized
+045,Bio Technology,12,Group-A,Science,2,SUBJ_045_BIO_TECHNOLOGY,initialized
+046,Engineering Graphics,12,Group-A,Science / Technical,2,SUBJ_046_ENGINEERING_GRAPHICS,initialized
+048,Physical Education,12,Group-A,Physical Education,4,SUBJ_048_PHYSICAL_EDUCATION,initialized
+049,Fine Arts,12,Group-A,Visual Arts,4,SUBJ_049_FINE_ARTS,initialized
+051,Sculpture,12,Group-A,Visual Arts,2,SUBJ_051_SCULPTURE,initialized
+052,Applied Arts,12,Group-A,Visual Arts,2,SUBJ_052_APPLIED_ARTS,initialized
+054,Business Studies,12,Group-A,Commerce,6,SUBJ_054_BUSINESS_STUDIES,initialized
+055,Accountancy,12,Group-A,Commerce,6,SUBJ_055_ACCOUNTANCY,initialized
+056,Dance,12,Group-A,Performing Arts,4,SUBJ_056_DANCE,initialized
+064,Home Science,12,Group-A,Interdisciplinary,4,SUBJ_064_HOME_SCIENCE,initialized
+065,Infomatics Practices,12,Group-A,Computing / Commerce,5,SUBJ_065_INFOMATICS_PRACTICES,initialized
+066,Entrepreneurship,12,Group-A,Commerce / Elective,4,SUBJ_066_ENTREPRENEURSHIP,initialized
+073,Knowledge Tradition - Practices India,12,Group-A,Humanities / Elective,2,SUBJ_073_KNOWLEDGE_TRADITION_PRACTICES_INDIA,initialized
+074,Legal Studies,12,Group-A,Humanities / Elective,4,SUBJ_074_LEGAL_STUDIES,initialized
+076,NCC,12,Group-A,General / Defense,4,SUBJ_076_NCC,initialized
+083,Computer Science,12,Group-A,Science / Computing,5,SUBJ_083_COMPUTER_SCIENCE,initialized
+241,Applied Mathematics,12,Group-A,Commerce / Humanities / Science,6,SUBJ_241_APPLIED_MATHEMATICS,initialized
+001,English Elective,12,Group-L,Languages,4,SUBJ_001_ENGLISH_ELECTIVE,initialized
+002,Hindi Elective,12,Group-L,Languages,4,SUBJ_002_HINDI_ELECTIVE,initialized
+003,Urdu Elective,12,Group-L,Languages,4,SUBJ_003_URDU_ELECTIVE,initialized
+016,Arabic,12,Group-L,Languages,4,SUBJ_016_ARABIC,initialized
+021,Russian,12,Group-L,Languages,4,SUBJ_021_RUSSIAN,initialized
+022,Sanskrit Elective,12,Group-L,Languages,4,SUBJ_022_SANSKRIT_ELECTIVE,initialized
+023,Persian,12,Group-L,Languages,4,SUBJ_023_PERSIAN,initialized
+104,Punjabi,12,Group-L,Languages,4,SUBJ_104_PUNJABI,initialized
+105,Bengali,12,Group-L,Languages,4,SUBJ_105_BENGALI,initialized
+106,Tamil,12,Group-L,Languages,4,SUBJ_106_TAMIL,initialized
+107,Telugu AP,12,Group-L,Languages,2,SUBJ_107_TELUGU_AP,initialized
+108,Sindhi,12,Group-L,Languages,4,SUBJ_108_SINDHI,initialized
+109,Marathi,12,Group-L,Languages,4,SUBJ_109_MARATHI,initialized
+110,Gujarati,12,Group-L,Languages,4,SUBJ_110_GUJARATI,initialized
+111,Manipuri,12,Group-L,Languages,6,SUBJ_111_MANIPURI,initialized
+112,Malayalam,12,Group-L,Languages,4,SUBJ_112_MALAYALAM,initialized
+113,Odia,12,Group-L,Languages,4,SUBJ_113_ODIA,initialized
+114,Assamese,12,Group-L,Languages,4,SUBJ_114_ASSAMESE,initialized
+115,Kannada,12,Group-L,Languages,4,SUBJ_115_KANNADA,initialized
+117,Tibetan,12,Group-L,Languages,4,SUBJ_117_TIBETAN,initialized
+118,French,12,Group-L,Languages,4,SUBJ_118_FRENCH,initialized
+120,German,12,Group-L,Languages,4,SUBJ_120_GERMAN,initialized
+124,Nepali,12,Group-L,Languages,4,SUBJ_124_NEPALI,initialized
+125,Limboo,12,Group-L,Languages,4,SUBJ_125_LIMBOO,initialized
+126,Lepcha,12,Group-L,Languages,4,SUBJ_126_LEPCHA,initialized
+189,Telugu Telangana,12,Group-L,Languages,2,SUBJ_189_TELUGU_TELANGANA,initialized
+191,Kokborok,12,Group-L,Languages,4,SUBJ_191_KOKBOROK,initialized
+192,Bodo,12,Group-L,Languages,4,SUBJ_192_BODO,initialized
+193,Tangkhul,12,Group-L,Languages,4,SUBJ_193_TANGKHUL,initialized
+194,Bhoti,12,Group-L,Languages,8,SUBJ_194_BHOTI,initialized
+195,Bhutia,12,Group-L,Languages,4,SUBJ_195_BHUTIA,initialized
+196,Spanish,12,Group-L,Languages,4,SUBJ_196_SPANISH,initialized
+197,Kashmiri,12,Group-L,Languages,4,SUBJ_197_KASHMIRI,initialized
+198,Mizo,12,Group-L,Languages,4,SUBJ_198_MIZO,initialized
+301,English Core,12,Group-L,Languages,6,SUBJ_301_ENGLISH_CORE,initialized
+302,Hindi Core,12,Group-L,Languages,4,SUBJ_302_HINDI_CORE,initialized
+303,Urdu Core,12,Group-L,Languages,4,SUBJ_303_URDU_CORE,initialized
+322,Sanskrit Core,12,Group-L,Languages,4,SUBJ_322_SANSKRIT_CORE,initialized
+801,Retail,12,Group-S,Skill / Management,3,SUBJ_801_RETAIL,initialized
+802,Information Technology,12,Group-S,Skill / Computing,1,SUBJ_802_INFORMATION_TECHNOLOGY,initialized
+803,Web Application,12,Group-S,Skill / Computing,1,SUBJ_803_WEB_APPLICATION,initialized
+804,Automotive,12,Group-S,Skill / Engineering,3,SUBJ_804_AUTOMOTIVE,initialized
+805,Financial Markets Management,12,Group-S,Skill / Finance,1,SUBJ_805_FINANCIAL_MARKETS_MANAGEMENT,initialized
+806,Tourism,12,Group-S,Skill / Hospitality,3,SUBJ_806_TOURISM,initialized
+807,Beauty & Wellness,12,Group-S,Skill / Personal Care,1,SUBJ_807_BEAUTY_WELLNESS,initialized
+808,Agriculture,12,Group-S,Skill / Agriculture,3,SUBJ_808_AGRICULTURE,initialized
+809,Food Production,12,Group-S,Skill / Hospitality,1,SUBJ_809_FOOD_PRODUCTION,initialized
+810,Front Office Operations,12,Group-S,Skill / Hospitality,1,SUBJ_810_FRONT_OFFICE_OPERATIONS,initialized
+811,Banking,12,Group-S,Skill / Finance,3,SUBJ_811_BANKING,initialized
+812,Marketing,12,Group-S,Skill / Management,3,SUBJ_812_MARKETING,initialized
+813,Health Care,12,Group-S,Skill / Healthcare,1,SUBJ_813_HEALTH_CARE,initialized
+814,Insurance,12,Group-S,Skill / Finance,3,SUBJ_814_INSURANCE,initialized
+816,Horticulture,12,Group-S,Skill / Agriculture,3,SUBJ_816_HORTICULTURE,initialized
+817,Typography & Computer Applications,12,Group-S,Skill / Office,1,SUBJ_817_TYPOGRAPHY_COMPUTER_APPLICATIONS,initialized
+818,Geospatial Technology,12,Group-S,Skill / Tech,1,SUBJ_818_GEOSPATIAL_TECHNOLOGY,initialized
+819,Electrical Technology,12,Group-S,Skill / Engineering,1,SUBJ_819_ELECTRICAL_TECHNOLOGY,initialized
+820,Electronics Technology,12,Group-S,Skill / Engineering,1,SUBJ_820_ELECTRONICS_TECHNOLOGY,initialized
+821,Multi-Media,12,Group-S,Skill / Media,1,SUBJ_821_MULTI_MEDIA,initialized
+822,Taxation,12,Group-S,Skill / Finance,3,SUBJ_822_TAXATION,initialized
+823,Cost Accounting,12,Group-S,Skill / Finance,1,SUBJ_823_COST_ACCOUNTING,initialized
+824,Office Procedures and Practices,12,Group-S,Skill / Office,1,SUBJ_824_OFFICE_PROCEDURES_AND_PRACTICES,initialized
+825,Shorthand (English),12,Group-S,Skill / Office,1,SUBJ_825_SHORTHAND_ENGLISH,initialized
+826,Shorthand (Hindi),12,Group-S,Skill / Office,1,SUBJ_826_SHORTHAND_HINDI,initialized
+827,Air-Conditioning & Refrigeration,12,Group-S,Skill / Engineering,1,SUBJ_827_AIR_CONDITIONING_REFRIGERATION,initialized
+828,Medical Diagnostics,12,Group-S,Skill / Healthcare,1,SUBJ_828_MEDICAL_DIAGNOSTICS,initialized
+830,Design,12,Group-S,Skill / Design,7,SUBJ_830_DESIGN,initialized
+831,Salesmanship,12,Group-S,Skill / Management,3,SUBJ_831_SALESMANSHIP,initialized
+833,Business Administration,12,Group-S,Skill / Management,1,SUBJ_833_BUSINESS_ADMINISTRATION,initialized
+834,"Food, Nutrition & Dietetics",12,Group-S,Skill / Nutrition,1,SUBJ_834_FOOD_NUTRITION_DIETETICS,initialized
+835,Mass Media Studies,12,Group-S,Skill / Media,1,SUBJ_835_MASS_MEDIA_STUDIES,initialized
+836,Library & Information Science,12,Group-S,Skill / Information,1,SUBJ_836_LIBRARY_INFORMATION_SCIENCE,initialized
+837,Fashion Studies,12,Group-S,Skill / Design,1,SUBJ_837_FASHION_STUDIES,initialized
+841,Yoga,12,Group-S,Skill / Wellness,3,SUBJ_841_YOGA,initialized
+843,Artificial Intelligence,12,Group-S,Skill / Emerging Tech,1,SUBJ_843_ARTIFICIAL_INTELLIGENCE,initialized
+844,Data Science,12,Group-S,Skill / Emerging Tech,1,SUBJ_844_DATA_SCIENCE,initialized
+845,Physical Activity Trainer,12,Group-S,Skill / Sports,1,SUBJ_845_PHYSICAL_ACTIVITY_TRAINER,initialized
+846,Land Transportation Associate,12,Group-S,Skill / Logistics,1,SUBJ_846_LAND_TRANSPORTATION_ASSOCIATE,initialized
+847,Electronics & Hardware,12,Group-S,Skill / Engineering,1,SUBJ_847_ELECTRONICS_HARDWARE,initialized
+500,Health and Physical Education,12,Internal,Compulsory,2,SUBJ_500_HEALTH_AND_PHYSICAL_EDUCATION,initialized
+501,Work Experience,12,Internal,Compulsory,2,SUBJ_501_WORK_EXPERIENCE,initialized
+502,General Studies,12,Internal,Compulsory,2,SUBJ_502_GENERAL_STUDIES,initialized
+UNKNOWN,ReadingMaterial,12,Other,General,89,SUBJ_UNKNOWN_READINGMATERIAL,initialized

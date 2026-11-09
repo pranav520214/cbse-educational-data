@@ -1,0 +1,256 @@
+{
+  "subject_name": "Food Production",
+  "subject_code": "809",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XI.pdf",
+  "sha256": "1b503d62194eba649969fbd528a60164267c4ab9719e58a37020782d1147908c",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Hospitality Industry as a Career",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "The Food Production department",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Uniform, Safety and Hygiene in",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Kitchen Equipments / Appliances",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Kitchen Commodities",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Storage of Commodities",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Techniques for Pre-preparation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Methods of Cooking",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Salads",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Soups",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-11",
+      "title": "Egg Cookery",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To develop skills of entrepreneurship in the Industry."
+    },
+    {
+      "chapter_number": 2,
+      "title": "To find employment as food production personnel and assistant"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The course enables the students to establish and manage a sma"
+    },
+    {
+      "chapter_number": 4,
+      "title": "It also equips the student to find employment in canteens, re"
+    },
+    {
+      "chapter_number": 5,
+      "title": "It also helps to develop culinary skills."
+    },
+    {
+      "chapter_number": 6,
+      "title": "The course can attain its objective only if it is taught by s"
+    },
+    {
+      "chapter_number": 7,
+      "title": "The school should also negotiate with neighborhood food servi"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Communication Skills - III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Self-management Skills - III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Entrepreneurial Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Green Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/ EDUCATIONAL"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIALS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Gas Cooking Range with oven and grill."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Two gas burners (double)."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Stainless steel sinks (double with drains board)."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Mixer e.g. Sumeet."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Refrigerator (double door)."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Pressure Cooker."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Weighing scale."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Heavy duty pot with lid (S.S.)."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Pastry cutter (set)."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Palette knife (set)."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Patty tins."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Tablespoons (S.S.)."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Forks (S.S.)."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Cake Tins (Assorted)."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Cooling Racks."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration S.S. table with shelve one locking drawer for o"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Working table for general use, storage of equipment stainless"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Work table with Cupboard for storing equipment and general us"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Black Board 180 × 120 cm."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Grinding stones."
+    }
+  ],
+  "full_text_excerpt": "809- Food Production - Class-XI-2026-27 \nPage 1 of 7 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nFOOD PRODUCTION (SUBJECT CODE -809) \nJOB ROLES: TRAINEE COMMIE \nCLASS -XI \n1. Introduction \nThe Hospitality service industry is fast growing and evolving. The development of Catering Institutions has closely \nfollowed the changes in food habits of people. Food changes are determined by socio-economic conditions and \ndemographic shifts. Industrialization, Migration and International trade have resulted in greater employment for \nboth men and women worldwide. This led to increased need for people to depend on various food services \noperational for their meals outside their homes. \nThe course intends to introduce you to the basics of cooking food coupled with the scientific approach by trying \nto understand the basic commodities utilized in preparation of food. \nCooking of food is a skill based education that requires both the style of art and the method of science. Describe \nkitchen operations including culinary terminology, operational software, cooking methods, and basic food \nhandling skills: such as food safety and food quality. Demonstrate proper kitchen management systems, such \nas cost control, labour control, inventory control, production scheduling, sales history, menu development, and \nforecasting. \n2. Course Objectives \nThe Skill Course in \"Food Production\" is designed with the following objectives: \n1. \nTo develop skills of entrepreneurship in the Industry. \n2. \nTo find employment as food production personnel and assistant manager in small scale food service \nunit. \n3. \nThe course enables the students to establish and manage a small scale food service unit. It provides \nthem with the necessary knowledge and skill to run and control all operations in the unit. \n4. \nIt also equips the student to find employment in canteens, restaurants, hostel, railway catering and mobile \ncatering. \n5. \nIt also helps to develop culinary skills. \n6. \nThe course can attain its objective only if it is taught by skilled teacher and the prescribed infrastructure \nprovided by the school. \n7. \nThe school should also negotiate with neighborhood food service units for on-the-job training. \n \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing employability and \nSkills competencies of students of Class XI opting for Skills subject along with general education subjects. \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\n809- Food Production - Class-XI-2026-27 \nPage 2 of 7 \n \nFOOD PRODUCTION (SUBJECT CODE - 809) \nCLASS XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \nThe unit-wise distribution of Periods and marks for Class XI is as follows: \nUNITS \nNo. of Periods for \nTheory and \nPractical \n260 \nMax. Marks for \nTheory and \nPractical \n100 \nPart A \nEmployability Skills \nUnit 1: Communication Skills-III \n10 \n2 \nUnit 2: Self-management Skills-III \n10 \n2 \nUnit 3: Information and Communication \nTechnology Skills-III \n10 \n2 \nUnit 4: Entrepreneurial Skills-III \n15 \n2 \nUnit 5: Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory Practical \nUnit 1: Hospitality Industry as a Career \n08 \n05 \n03 \nUnit 2: The Food Production department \n09 \n07 \n05 \nUnit 3: Uniform, Safety and Hygiene in \nkitchen \n09 \n06 \n05 \nUnit 4: Kitchen Equipments / Appliances \n09 \n05 \n05 \nUnit 5: Kitchen Commodities \n20 \n05 \n07 \nUnit 6: Storage of Commodities \n13 \n06 \n03 \nUnit 7: Techniques for Pre-preparation \n14 \n12 \n05 \nUnit 8: Methods of Cooking \n11 \n10 \n05 \nUnit 9: Salads \n09 \n12 \n04 \nUnit 10: Soups \n09 \n12 \n04 \nUnit 11: Egg Cookery \n09 \n10 \n04 \nTotal \n120 \n90 \n50 \nPart C \nPractical Work \nPractical Examination \n-- \n15 \nWritten Test \n-- \n10 \nViva Voce \n-- \n05 \nTotal \n-- \n30 \nPart D \nProject Work/Field Visit \nPractical File/Student Portfolio \n-- \n10 \n \nTotal \n-- \n10 \nGrand Total \n \n100\n809- Food Production - Class-XI-2026-27 \nPage 3 of 7 \n \n4. CONTENTS \n \n \nCLASS XI (SESSION 2026-2027) \n \nPART A: EMPLOYABILITY SKILLS \n \nUNITS \n1. \nCommunication Skills - III \n2. \nSelf-management Skills - III \n3. \nInformation and Communication Technology Skills-III \n4. \nEntrepreneurial Skills - III \n5. \nGreen Skills - III \nDetailed curriculum of Employability Skills is available separately \n \nPART B: SUBJECT SPECIFIC SKILLS \n \nTOPIC \nSUB-TOPIC \n1 \nHospitality Industry as a \nCareer \n• Introduction - Scope of hospitality industry Core and allied \nareas \n• Career opportunities in hospitality industry \n• Qualities required in a personnel willing to join hospitality \nIndustry \n2 \nThe Food Production \ndepartment \n• Introduction Sections in a kitchen \n• Knowledge, Skill and Attitude development Kitchen \nOrganizational Structure \n• Duties and responsibilities \n3 \nUniform, Safety and \nHygiene in kitchen \n• Uniform & protective clothing General safety precautions \nMaintaining hygiene - \no \nPersonal \no \nWorkplace \no \nSafe food handling \n4 \nKitchen Equipments / \nAppliances \n• Classification of equipment Care of equipment & \nappliances \n• Kitchen knives & their maintenance \n• Safety procedures in handling equipment& appliances \n5 \nKitchen Commodities \n• Plant origin: \no \nCereal \no \nPulses \no \nFruits \no \nNuts \no \nVegetables \no \nSpices / Herbs \no \nOil \no \nSugar \n• Animal origin: \no \nDairy products \no \nEggs \no \nMeats \no \nFish & other Seafood \no \nFats \n• Others \no \nSalt \n6 \nStorage of Commodities \n• Perish ability of a commodity Storage techniques \n• Stock Levels \n• Maintaining records of storage and issues\n809- Food Production - Class-XI-2026-27 \nPage 4 of 7 \n \nTOPIC \nSUB-TOPIC \n• Goods received book \n• Bin card \n7 \nTechniques for Pre- \npreparation \n• Techniques of pre-preparation Using knives \n• Vegetable and fruits cuts \n8 \nMethods of Cooking \n• Aims and objectives of cooking food Classification: \no \nDry \no \nMoist \no \nMedium of fat \n• Effect of heat on vegetables and fruits \n• Tips for preservation of nutrients while processing fruits \nand vegetables \n• Applying simple methods of cooking-(For Practical) \no \nBoiling (Beans/Rice/Beetroot) \no \nGrilling (Bell pepper/ Zucchini/Potato) \no \nBlanching Tomatoes \no \nBroiling (Cumin seed) \no \nFrying (Potatoes) \n9 \nSalads \n• Classification of a salad Parts of Salads- \no \nBase \no \nBody \no \nDressing \no \nGarnish \n• Recipes for-(For Practical) \no \nSalad Waldorf \no \nSalad Nicoise \no \nGrilled chicken salad or Sprouts salad \no \nPasta salad \n• Importance of salads in diet \n10 Soups \n• Definition \n• Classification of soups \n• Recipes for-(For Practical) \no \nCream of Tomato soup \no \nPuree of Carrot soup \no \nCold soup - Gazpacho \no \nChicken veloute \n• Importance of soups in diet \n11 Egg Cookery \n• Structure of an egg Gradation of eggs Storage of eggs \n• Selection of eggs \n• Uses of eggs \n• Methods of cooking egg\n809- Food Production - Class-XI-2026-27 \nPage 5 of 7 \n \n5. TEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and \nfield visits. Students should be taken to field visits for interaction with experts and to expose them \nto the various tools, equipment, materials, procedures and operations in the workplace. Special \nemphasis should be laid on the occupational safety, health and hygiene during the training and field \nvisits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a \nvariety of instructional or teaching aids, such as audio-video materials, colour slides, charts, \ndiagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and \nimpart training to the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case \nbased studies, exercises, etc. Equipment and supplies should be provided to enhance hands-on \nlearning experience of students. Only trained personnel should teach specialized techniques. A \ntraining plan that reflects tools, equipment, materials, skills and activities to be performed by the \nstudents should be submitted by the teacher to the Head of the Institution. \n \nSKILL ASSESSMENT (PRACTICAL) \nAssessment of skills by the students should be done by the assessors/examiners on the basis of \npractical demonstration of skills by the candidate, Practical examination allows candidates to \ndemonstrate that they have the knowledge and understanding of performing a task. This will include \nhands-on practical exam and viva voce. For practical, there should be a team of evaluators. The \nsame team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain \ntime period or timeline. Project work should be given on the basis of the capability of the individual \nto perform the tasks or activities involved in the project. Projects should be discussed in the class \nand the teacher should periodically monitor the progress of the project and provide feedback for \nimprovement and innovation. Field visits should be organised as part of the project work. Field visits \ncan be followed by a small-group work/project work. When the class returns from the field visit, each \ngroup might be asked to use the information that they have gathered to prepare presentations or \nreports of their observations. Project work should be assessed on the basis of practical file or student \nportfolio. \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, photos of products prepared by students in relation to the \nunit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or \nvideo recording can be done at the time of viva voce. The number of external examiners would be \ndecided as per the existing norms of the Board and these norms should be suitably adopted/adapted \nas per the specific requirements of the subject. Viva voce should also be conducted to obtain \nfeedback on the student’s experiences and learning during the project work/field visits.\n809- Food Production - Class-XI-2026-27 \nPage 6 of 7 \n \n6. ORGANISATION OF FIELD VISITS/ EDUCATIONAL \nTOURS \n \nIn field visits, children will go outside the classroom to obtain specific information from experts or to \nmake observations of the activities. A checklist of observations to be made by the students during \nthe field visits should be developed by the Teachers for systematic collection of information by the \nstudents on the various aspects. Principals and Teachers should identify the different opportunities \nfor field visits within a short distance from the school and make necessary arrangements for the \nvisits. At least three field visits should be conducted in a year. \n \n7. LIST OF EQUIPMENT AND MATERIALS \n \n(For a batch of 20 students) \n \nName of the Equipment \nQty. \nKitchen \n1. \nGas Cooking Range with oven and grill. \n3 nos. \n2. \nTwo gas burners (double). \n7 nos. \n3. \nStainless steel sinks (double with drains board). \n3 nos. \n4. \nMixer e.g. Sumeet. \n1 no. \n5. \nRefrigerator (double door). \n290 ltr. 2 nos. \n6. \nPressure Cooker. \n7.5 ltr.1 no. \n7. \nWeighing scale. \n(app. 5 kg.) 1 no. \n8. \nHeavy duty pot with lid (S.S.). \n20 litres 1 no. \n9. \nPastry cutter (set). \n2 nos. \n10. \nPalette knife (set). \n5 nos. \n11. \nPatty tins. \n20 nos. \n12. \nTablespoons (S.S.). \n20 nos. \n13. \nForks (S.S.). \n20 nos. \n14. \nCake Tins (Assorted). \n20 nos. \n15. \nCooling Racks. \n(S.S. 25 cm × 20 cm. )10 nos. \nSmall Equipment \nMeasuring Jug (S.S.).1 ltr. \n2 nos \nS.S. Basin.30 cm. \n10 nos. \nSoup stainers (stainless steel). \n10 nos. \nBrass or heavy gauze (Al. pan with lid 25 cm dia.). \n10 nos.\n809- Food Production - Class-XI-2026-27 \nPage 7 of 7 \n \nBrass or heavy gauze (Al. pan with lid 20 cm dia.). \n10 nos. \nRolling pins.35 cm \n10 nos. \nFlat spoons.30 cm \n10 nos. \nFrying spoons.30 cm \n10 nos. \nRound spoons.30 cm \n10 nos. \nWooden spoons.30 cm \n10 nos. \nAluminium pie dish.20 cm × 15 cm \n20 nos. \nS.S. Mugs.500 ml \n20 nos. \nJelly moulds. \n500 ml \n10 nos. \nKarahi (Black iron).20 cm \n10 nos. \nFry pan (aluminium).20 cm \n10 nos. \nIron tawa. \n25 cm \n10 nos. \nThalis (S.S.). \n30 cm \n20 nos. \nNylocast chopping board.45 × 30 × 2.5 cm \n10 nos. \nStainless steel graters. \n10 nos. \nAl. stock pot with lid.20 lts. \n2 nos. \nAtta sieve 30 cm dia. \n5 nos. \nStainless steel trays.60 × 60 cm \n5 nos. \nLime squeezer (aluminium). \n6 nos. \nPiping bags with star nozzle. \n10 nos. \nGarbage bins with lid (syntex medium size). \n4 nos. \nPotato peeler. \n10 nos. \nEgg beater (S.S.). \n10 nos. \nFurniture \n1. \nDemonstration S.S. table with shelve one locking drawer for one set of small.1 no. \nequipment 180 × 990 cm. \n2. \nWorking table for general use, storage of equipment stainless steel. \n10 nos. \ntops 75 × 75 × 80 cm. \n3. \nWork table with Cupboard for storing equipment and general use. \n2 nos. \n4. \nBlack Board 180 × 120 cm. \n1 no. \n5. \nGrinding stones. \n2 Nos."
+}

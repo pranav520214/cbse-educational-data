@@ -1,0 +1,40 @@
+{
+  "subject_code": "034",
+  "subject_name": "Hindustani Vocal",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_034_HINDUSTANI_VOCAL",
+  "directory_path": "CLASS_12/SUBJ_034_HINDUSTANI_VOCAL",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Hindustani Vocal",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Vocal_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Hindustani Vocal",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Vocal_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "fe22a32aab33f942946b3a2cd84c0da116fbb14d6d06531015fec8aa08afaa49",
+    "file_size_bytes": 407724,
+    "units_extracted": 0,
+    "chapters_extracted": 21
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "subject_code": "836",
+  "subject_name": "Library & Information Science",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Information",
+  "directory_name": "SUBJ_836_LIBRARY_INFORMATION_SCIENCE",
+  "directory_path": "CLASS_12/SUBJ_836_LIBRARY_INFORMATION_SCIENCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Library & Information Science (836-Library_InformationSciences-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "d5d933758791a7b70dde82ca14dd872f3dca41b2f7ee7f101f238ca00c066983",
+    "file_size_bytes": 173993,
+    "units_extracted": 22,
+    "chapters_extracted": 9
+  }
+}

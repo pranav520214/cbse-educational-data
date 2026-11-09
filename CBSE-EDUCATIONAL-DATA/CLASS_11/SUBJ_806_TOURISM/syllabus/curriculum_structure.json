@@ -1,0 +1,233 @@
+{
+  "subject_name": "Tourism",
+  "subject_code": "806",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/806-Tourism.pdf",
+  "sha256": "0240d19bcf1c51257380ea415de41096286bbdca5e5cbca5d7c3cf964d41950a",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Tourism",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Tourism: A Historical Account",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Concepts of Tourism",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Tourism Components - I",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Tourism Components - II",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Inter Linkage between Geography",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Inter Linkage between History",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Tourism Organizations and Trends",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Inter Linkage between Geography and Tourism",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Inter Linkage between History and Tourism",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Globe"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Maps"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Charts"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Atlases"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Models"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Clocks"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Travel itinerary samples"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Brochures"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Pamphlets"
+    },
+    {
+      "chapter_number": 10,
+      "title": "News Paper"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Tariff of hotels"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Travel guidebooks"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Travel magazines"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Travel catalogues"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Visa application forms"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Passport application forms"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Advertising material"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Basic art supplies for poster, pamphlets and brochure making."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Internet"
+    },
+    {
+      "chapter_number": 3,
+      "title": "LCD Projector"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Projection Screen"
+    },
+    {
+      "chapter_number": 5,
+      "title": "White/Black Boards"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Flip Charts"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Video and audio recorders"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "TOURISM: A"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Concepts of Tourism"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Tourism Components -I"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tourism Components-II"
+    },
+    {
+      "chapter_number": 6,
+      "title": "INTER LINKAGE"
+    },
+    {
+      "chapter_number": 8,
+      "title": "TOURISM"
+    }
+  ],
+  "full_text_excerpt": "Page 1 of 21 \nTourism-Class XI-XII-2026-27 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nTOURISM (SUBJECT CODE 806) \nJOB ROLE: TRAVEL AGENT/ TOUR OPERATOR \n \nCLASS-XI & XII \n \nCOURSE OVERVIEW: \nIn an increasingly globalized world with the changing paradigm of urbanized living the \ndemand for Tourism has increased manifold the world over. India has emerged as an \nattractive tourism destination for all types of tourists around the year resulting in Travel & \nTourism taking its place among the key industries in the economy. It employs large \nnumber of work forces and its contribution to the national income is very substantial. \nThis course will deepen the students understanding about tourism as an activity, how \ntourism industry is organized and developed, and how tourism influences society locally, \nnationally and globally. The tourism industry covers several sectors such as hotels, \nairlines, destination, attractions, transportation, cruises, events, activity providers, \nshopping centers, tourist services, travel agents, tour operators and many others. \nMost jobs in the tourism industry are about creating experiences for the traveler. This is \nwhat makes this industry especially interesting. When studying tourism one needs to \nlearn how to create these memorable experiences. Keeping these aspects in mind the \ncourse is a strong balance between the theoretical and the practical components of the \nindustry. \nThis course meets the growing needs of the tourism industry to shape highly skilled and \nknowledgeable professionals, so that they can assume leading roles in the management \nof tourism organizations. The course blends the required operational knowledge and \nskills, with managerial competencies, in order to educate the new generation of tourism \nexecutives. It emphasizes the cross-cultural, moral, ethical, institutional and \nenvironmental issues in the management of tourism organizations, while covering all \nbusiness and operational skills. \nOBJECTIVES OF THE COURSE: \nThe course is a planned sequence of instructions that familiarizes students with the \nfundamental concepts of the tourism industry and aims at giving a comprehensive \nintroduction of the tourism industry to encourage further study and stimulate interest in \nthe subject area, employability and vocational competencies. The course aims at \nproviding insight to the students regarding various aspects and sectors associated with \nthe tourism industry. \nFollowings are the main objectives of this course. \n• \nTo familiarize the students regarding various dimensions of tourism industry and \ncareer opportunities available in this field. \n• \nTo develop practical understanding among the students associated with tourism \nbusiness through classroom discussion/ participation and projects. \n• \nTo equip all students with knowledge, understandings, skills, attitudes and values \nneeded for future success. \n• \nTo develop transferrable skills among the students for managing various \noperations efficiently so that they could be ready to join the tourism industry. \n• \nTo provide knowledge to students in concise and understandable format so that\nPage 2 of 21 \nTourism-Class XI-XII-2026-27 \n \nstudents could learn and apply these concepts in their career. \n• \nTo demonstrate an understanding of the impact of tourism at individual, local, \nnational, regional and global levels. \n• \nTo demonstrate an understanding of the principles of good management and \ncustomer service. \n \nSALIENT FEATURES: \n• \nTourism industry is a people-based industry and is commonly referred to as \nService Industry. \n• \nIn the tourism industry service is far more important than the product. \n• \nTravel and tourism is the largest earner of foreign exchange around the world and \nemploys a large number of people directly or indirectly through corresponding \nservice industries \n• \nHoteliers, Transporters, Travel Agents, Tour Guide and many more jointly play a \nvery key role in making the final product and delivering it to the customers. \n• \nTourism is the fastest growing industry in the world, with career opportunities in \nlodging, transportation, attraction, events, food services and many more. \n• \nTourism \nis \nrelated \nto broader economic and \nsocial issues including \ncommoditization and globalization of culture, hospitality, friendship, pleasure, and \nplaces as well as their attractions. \n• \nTravel business is an economic activity, which is related with continuous and \nregular buying and selling of travel related services. \n \nLIST OF EQUIPMENT AND MATERIALS: \n \nThe list given below is suggestive and an exhaustive list should be prepared by the \nvocational teacher. Only basic tools, equipment and accessories should be procured by \nthe Institution so that the routine tasks can be performed by the students regularly for \npractice and acquiring adequate practical experience. \nMaterial Required: \n1. Globe \n2. Maps \n3. Charts \n4. Atlases \n5. Models \n6. Clocks \n7. Travel itinerary samples \n8. Brochures \n9. Pamphlets \n10. News Paper \n11. Tariff of hotels\nPage 3 of 21 \nTourism-Class XI-XII-2026-27 \n \n12. Travel guidebooks \n13. Travel magazines \n14. Travel catalogues \n15. Visa application forms \n16. Passport application forms \n17. Advertising material \n18. Basic art supplies for poster, pamphlets and brochure making. \nTeaching/Training Aids: \n1. Computer \n2. Internet \n3. LCD Projector \n4. Projection Screen \n5. White/Black Boards \n6. Flip Charts \n7. Video and audio recorders \n \nCAREER OPPORTUNITIES: \nTourism sector provides huge career opportunities to all age group of people irrespective \nof qualification, gender, race and religion. The following career opportunities are \navailable in the field of tourism. Students can choose any field based on their interest \nand suitability. \n➢ Travel Blogger \n➢ Airline Staff \n➢ Hotelier \n➢ Tourism manager \n➢ Travel consultant \n➢ Front office executive \n➢ Travel executive \n➢ Tourist guide \n➢ Transport agent \n➢ Tour operator \nCURRICULUM: \nThis course is a planned sequence of instructions consisting of Units meant for \ndeveloping employability and Skills competencies of students of Class XI and XII opting \nfor Skills subject along with other subjects.\nPage 4 of 21 \nTourism-Class XI-XII-2026-27 \n \nTOURISM (SUBJECT CODE 806) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60+Practical-40) \n \n \n \nUNITS \nNO. OF \nHOURS \nfor Theory \nand Practical \nMAX. \nMARKS for \nTheory and \nPractical \n \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills-III \n10 \n2 \nUnit 2: Self-Management Skills-III \n10 \n2 \nUnit 3: ICT Skills-III \n10 \n2 \nUnit 4: Entrepreneurial Skills-III \n15 \n2 \nUnit 5: Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit 1: Introduction to Tourism \n15 \n8 \nUnit 2: Tourism: A Historical Account \n20 \n6 \nUnit 3: Concepts of Tourism \n20 \n8 \nUnit 4: Tourism Components - I \n15 \n5 \nUnit 5: Tourism Components - II \n15 \n6 \nUnit 6: Inter Linkage between Geography \nand Tourism Industry \n10 \n4 \nUnit-7: Inter Linkage between History \nand Tourism Industry \n15 \n6 \nUnit-8: Tourism Organizations and Trends \n10 \n7 \nTotal \n120 \n50 \n \nPart C \nPractical Work \n \nProject \n \n \n90 \n20 \nViva \n05 \nPractical File /Portfolio /Power Point \npresentation \n10 \nDemonstration of Skill competency via Lab \nActivities \n05 \nTotal \n90 \n40 \n \nGRAND \nTOTAL \n260 \n100\nPage 5 of 21 \nTourism-Class XI-XII-2026-27 \n \nDetailed Curriculum/Topics: \n \nPart A Employability Skills \n \nS. No. \nUnits \nDuration in hours \n1 \nUnit 1: Communication Skills-III \n10 \n2 \nUnit 2: Self-management Skills-III \n10 \n3 \nUnit 3: Information and Communication Technology \n \nSkills-III \n10 \n4 \nUnit 4: Entrepreneurial Skills-III \n15 \n5 \nUnit 5: Green Skills-III \n05 \n \nTotal Duration \n50 \n \n \nThe detailed Curriculum/ Topics to be covered under Part A: Employability Skills \nCan be downloaded from CBSE website. \n \n \nPart B Subject Specific Skills (Class XI) \n \nS. No. \nUnits \nDuration in hours \n1 \nUnit 1: Introduction to Tourism \n15 \n2 \nUnit 2: Tourism: A Historical Account \n20 \n3 \nUnit 3: Concepts of Tourism \n20 \n4 \nUnit 4: Tourism Components - I \n15 \n5 \nUnit 5: Tourism Components - II \n15 \n6 \nUnit 6: Inter Linkage between Geography and Tourism \nIndustry \n10 \n7 \nUnit-7: Inter Linkage between History and Tourism \nIndustry \n15 \n8 \nUnit-8: Tourism Organizations and Trends \n10 \n \nTotal \n120\nPage 6 of 21 \nTourism-Class XI-XII-2026-27 \n \nUNIT \nSUB-UNIT \nSESSION/ACTIVITY/PRACTICAL \n1. Introduction to \nTourism \n1.1 Introduction \nSession: Understanding the Scope of \nTourism \n1.2 Defining Tourism \nSession: Evolution history of the word \nTourism and the definition of Tourism. \n1.3 Elements of \nTourism \nSession: What are the basic fundamental \nactivities involved in tourism? \n1.4 Identifying the \nTourist \nSession: The evolution of the definition of a \ntourist. Who is an excursionist? \n1.5 Linkage between \nLeisure, Recreation \nand Tourism \nSession: Understanding the relationship \nbetween leisure time and tourism. Learning \nabout the recreation activity continuum. \n1.7 Characteristics of \nTourism Industry \nSession: What is service industry? \n• Learning about the various \ncharacteristics of tourism \n• Which characteristics are specific to \nthe tourism industry? \n1.8 Components of \nTourism \nSession: What are the various components \nor A’s of the tourism industry? \n1.9 Summary \nSession: Revisiting all the topics covered \nin the unit \n2. TOURISM: A \nHISTORICAL ACCOUNT \n2.1 Introduction \nSession: A brief introduction about the \ndevelopment of tourism activities over the \nyears. \n2.2 Travel in Early \nTimes \nSession: What were the primary reasons \nfor travel? \n• Which early empires promoted \ntourism? \n• Silk Route \n• Dark Ages \n2.3 Renaissance and \nthe Grand Tour \nSession: The age of new beginning. \n• Grand Tour \n2.4 Industrial \nRevolution and \nTourism \nSession: What was the industrial \nrevolution? \n• Thomas Cook \n• Steam engine and travel by ships. \n2.5 Tourism in \nModern Times \nSession: The modern tourism era \n• Development of jet aircrafts \n• Development of Cruise Ships \n2.6 Tourism in India: \nAn Account \nSession: India and tourism. \n• Travel in ancient times \n• Famous travelers \n• Domestic and international tourist \nindustry \n2.6.1 Tourism Circuit \nSession: What is a tourism circuit? Why is \nit developed? \n2.7 Summary \nSession: Revisiting all the topics covered \nin the unit\nPage 7 of 21 \nTourism-Class XI-XII-2026-27 \n \n3. Concepts of Tourism \n3.1 Introduction \nSession: Factors that drive tourism \n3.2 Tourism System \nSession: Understanding the mechanism of \ntourism. \n3.3 Tourism \nMotivators \nSession: What are the various factors that \nencourage a tourist to visit a destination? \n3.4 Barriers to \nTourism \nSession: What are the deterrents that \ndiscourage a tourist from traveling to a \ndestination? \n3.5 Forms of \nTourism \nSession: Understanding the different forms \nand flow of tourism. \n3.6 Types of Tourism \nSession: Purpose of travel. \n• Personal \n• Business \n• Various types of tourism based on \nthe purpose of travel. \n3.6.1 Introduction to \nMICE \nSession: What does business tourism \nentail? \n3.7 Types of Tour \nPackages \nSession: What is a tour? \n• Defining a Tour Package \n• All inclusive Tours: Its types and \nforms. \n3.8 Defining Tourism \nImpacts \nSession: The changes that occur in the \nenvironment and community due to tourism \n• Socio-Cultural \n• Economic \n• Environmental \n3.9 Summary \nSession: Revisiting all the topics covered \nin the unit \n4. Tourism Components -I \n4.1 Introduction \nSession: Different industries and services \nengaged in tourism. \n4.2 Defining \nAttractions \nSession: What attracts a tourist to a \ndestination? \n4.3 Types of \nAttractions \nSession: Tourist attractions: \n• Natural \n• Built \n• Symbiotic \n4.4 Accessibility- \nModes of \nTransportation and \nSignificance \nSession: How is transport a fundamental \ncomponent of tourism? \n4.4.1 Surface \nTransport \nSession: What are the various categories \nof surface transport? \n• Road Transport \n• Rail Transport \n4.4.2 Air Transport \nSession: The aviation industry and the \ndevelopment of air transport. \n4.4.3 Water \nTransport \nSession: Indian waterways and domestic \nhouseboats/cruise ships. \n4.5 Amenities: Health \nand Hygiene, \nSecurity \nSession: Types of amenities. \n• Health and hygiene \n• Security\nPage 8 of 21 \nTourism-Class XI-XII-2026-27 \n \n \n4.6 Summary \nSession: Revisiting all the topics covered \nin the unit \n5. Tourism Components-II \n5.1 Introduction \nSession: The role of accommodation at a \ndestination. \n5.2 Significance of \nAccommodation \nSession: How accommodation is a basic \ncomponent of tourism? \n5.3 Types of \naccommodation \nSession: All categories of accommodation \n• Organised Sector \n• Unorganised Sector \n5.4 Meal Plan of \nBooking \nAccommodation \nSession: What is a meal plan? Why is it \nimportant? What are its various types? \nWhat do they include? \n5.5 Available \nPackages \nSession: How the availability of a package \ntour impacts the choice of a tourist? \n5.6 Activities \nSession: Why is it important for a \ndestination to incorporate various activities \nfor the tourists? \n5.7 Ancillary \nServices \nSession: The role of support services for a \ntourist? \n• Documentation \n5.8 Summary \nSession: Revisiting all the topics covered \nin the unit \n6. INTER LINKAGE \nBETWEEN GEOGRAPHY \nAND TOURISM \nINDUSTRY \n6.1 Introduction \nSession: What is the spatial characteristic \nof geography? \n6.2 Significance of \nGeography in \nTourism \nSession: Types of geography. \n• Physical geography \n• Human Geography \n6.3 Defining Latitude \nand Longitude \nSession: The fundamental concepts of \ngeography. \n6.3.1 Identification of \nLocation \nSession: The importance identifying the \nlocation of a destination. \n6.3.2 Calculation of \nLocal Time \nSession: Understanding time calculation \n• GMT \n6.4 Physical \nGeography and \nCultural Geography \nSession: Physical geography and Cultural \ngeography \n6.5 Geographical \nFeatures and its Role \nin Tourism \nSession: How different geographical \nfeatures attract tourists? \n6.6 Map Reading \nand Cartography \nSession: The study and process of making \nmaps \n• Scale \n• Legends \n• Projections \n6.7 Indian \nGeography \nSession: India’s geographical placement \n6.7.1 Physical \nFeatures \nSession: Understanding the topography of \nIndia \n6.7.2 Seasons \nSession: Learning the terminologies of \nseasons \n6.7.3 Monsoon \nSession: North East monsoon and South\nPage 9 of 21 \nTourism-Class XI-XII-2026-27 \n \n \n \nWest monsoon \n6.8 Summary \nSession: Revisiting all the topics covered \nin the unit \n7. INTER LINKAGE \nBETWEEN HISTORY \nAND TOURISM \nINDUSTRY \n7.1 Introduction \nSession: History, heritage and culture \n7.2 Significance of \nHistory in Tourism \nSession: Understanding the role of history \nin encouraging tourism \n7.3 Heritage Tourism \nSession: Heritage and its resources. \n7.4 Defining Heritage, \nHistorical Sites and \nArchaeological Sites \nSession: Understanding the difference \nbetween Heritage sites, Historical Sites and \nArchaeological Sites. \n7.5 Guiding around \nthe Heritage Sites \nSession: The importance of guides. \n• What are V.I.Cs? \n7.6 Role of A.S.I \nSession: The evolution history of A.S.I. \n• Functions of A.S.I. \n• Monuments \n7.7 World Heritage \nSites in India \nSession: What are UNESCO World \nHeritage Sites? \n• Selection criteria \n• Cultural World Heritage Sites in India \n• Natural Reserves & Hill Forts of India \n7.8 Summary \nSession: Revisiting all the topics covered \nin the unit \n8. TOURISM \nORGANISATIONS AND \nTRENDS \n8.1 Introduction \nSession: Tourism organinisations and \nterminologies \n8.2 Role of Ministry of \nTourism, Government \nof India \nSession: What is an N.T.O? \n• M.O.T roles and functions \n8.3 Role of State \nTourism \nDevelopment \nCorporations \nSession: What does an S.T.D.C do? \n8.4 Public-Private \nPartnerships in \nTourism \nSession: How does it work? Why is it \nimportant? \n8.5 Role of Local \nBodies and NGOs \nSession: How do local bodies like \nMunicipal corporations and N.G.Os help the \nindustry? \n8.6 Functions of \nSome Important \nOrganisations \n \n8.6.1 United Nations \nWorld Tourism \nOrganisation \n(UNWTO) \nSession: Understanding the evolution \nhistory of U.N.W.T.O. \n• Timeline \n• Functions \n8.6.2 International Air \nTransport Association \n(IATA) \nSession: What is A.I.T.A? \n• Functions\nTourism-Class XI-XII-2025-26 \n \n \n8.6.4 Indian \nAssociation of Tour \nOperators (IATO) \nSession: What is I.A.T.O? \n• Objectives \n• Functions \n8.7 Factors \nResponsible for \nGrowth and \nDevelopment of \nTourism \nSession: What has led to the rapid growth \nof tourism? \n8.8 General Trends in \nNational and \nInternational Tourism \nSession: Discuss the reasons behind the \ngrowth of domestic and international \ntourism. \n8.8.1 Emerging \nTrends \nSession: Understanding the new trends \nand concepts of tourism. \n8.9 Summary \nSession: Revisiting all the topics covered \nin the unit \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nPage 10 of 21"
+}

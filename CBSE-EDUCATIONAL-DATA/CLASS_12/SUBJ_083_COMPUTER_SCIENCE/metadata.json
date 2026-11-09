@@ -1,0 +1,64 @@
+{
+  "subject_code": "083",
+  "subject_name": "Computer Science",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Science / Computing",
+  "directory_name": "SUBJ_083_COMPUTER_SCIENCE",
+  "directory_path": "CLASS_12/SUBJ_083_COMPUTER_SCIENCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Computer Science",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Computer_Science_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Computer Science",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 12 Computer Science",
+        "url": "https://ncert.nic.in/textbook/pdf/lecs101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Computer Science",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/ComputerScience-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Computer Science",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/ComputerScience-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 5,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "7aef221c10543ba15ab9ba693852ffbbfc3fff81807f8754e23c36bf311a142e",
+    "file_size_bytes": 459181,
+    "units_extracted": 3,
+    "chapters_extracted": 10
+  }
+}

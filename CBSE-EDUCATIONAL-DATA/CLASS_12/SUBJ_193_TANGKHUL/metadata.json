@@ -1,0 +1,56 @@
+{
+  "subject_code": "193",
+  "subject_name": "Tangkhul",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_193_TANGKHUL",
+  "directory_path": "CLASS_12/SUBJ_193_TANGKHUL",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Tangkhul",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tangkhul_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Tangkhul",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tangkhul_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Tangkhul",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Tangkhul-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Tangkhul",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Tangkhul-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "8093cc00d7ed23a944784103598132ac5020ccf0a97edd46ff73c526ffdf50fc",
+    "file_size_bytes": 364447,
+    "units_extracted": 0,
+    "chapters_extracted": 23
+  }
+}

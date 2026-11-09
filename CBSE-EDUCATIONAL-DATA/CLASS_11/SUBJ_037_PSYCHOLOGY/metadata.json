@@ -1,0 +1,40 @@
+{
+  "subject_code": "037",
+  "subject_name": "Psychology",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Humanities",
+  "directory_name": "SUBJ_037_PSYCHOLOGY",
+  "directory_path": "CLASS_11/SUBJ_037_PSYCHOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Psychology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Psychology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "edee3bd5d426095873f8fe301c8c93363b89426a0c3aa1b3772c1e964517b00a",
+    "file_size_bytes": 259219,
+    "units_extracted": 8,
+    "chapters_extracted": 62
+  }
+}

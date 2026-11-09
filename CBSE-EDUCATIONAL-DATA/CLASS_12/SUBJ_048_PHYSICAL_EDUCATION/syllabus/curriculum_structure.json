@@ -1,0 +1,650 @@
+{
+  "subject_name": "Physical Education",
+  "subject_code": "048",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Physical Education",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf",
+  "sha256": "0d74daab51e545695faecbc98b77e12c49809cd1c4d4afe9087b03e223fa89aa",
+  "assessment": {
+    "theory_marks": 30,
+    "internal_assessment_marks": 70,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Changing Trends & Career in Physical Education",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Olympic Value Education",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Yoga",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Physical Education & Sports for CWSN",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Physical Fitness, Wellness",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Test, Measurements & Evaluation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Fundamentals of Anatomy and Physiology in Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Fundamentals of Kinesiology and Biomechanics in Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Psychology and Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Training & Doping in Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Changing Trends and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Olympism Value",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Physical Education and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Physical Fitness,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Test, Measurement &",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Fundamentals of",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Fundamentals Of",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Management of Sporting Events",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Children and Women in Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Yoga as Preventive measure for Lifestyle Disease",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Physical Education & Sports for (CWSN)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Sports & Nutrition",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Test and Measurement in Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Physiology & Injuries in Sport",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Biomechanics and Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Training in Sports",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Management of",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Children & Women in",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Yoga as Preventive",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Physical Education",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Test & Measurement",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Physiology & Injuries",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Biomechanics and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Psychology and",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Rationale"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Learning Objectives"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Course Structure"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Course Content"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Prescribed Textbooks Class XI & XII"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Suggested Reading XI & XII"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Optimum Development of Child’s Physical Growth, Including Int"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Imparting and Development of Positive Approach among Children"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Developing Management Skills to Understand and Organize Sport"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Learn and Understand the Motor Abilities like Strength, Speed"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Acquire knowledge about the Human Body and Its Functioning an"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Understand the Process of Growth and Development and its Posi"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Develop Socio-Psychological Aspects like Control of Emotions,"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Learn and Understand the Effect of Physical and Physiological"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Develop the Habit of Practicing Yoga Asanas and Pranayama Dai"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Learning about Nutrition and the Importance of a Balanced Die"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Understand the application of Laws and Principles of Physics"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Understanding the Characteristics of Children with Special Ne"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Learning the procedure and application of different Physical"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Learning and understanding different Games and Sports."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept, Aims &"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Development of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Changing Trends in"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Career options in"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Khelo-India Program"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Olympism - Concept"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Olympic Value"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Ancient and Modern"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Olympics - Symbols,"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Olympic Movement"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Meaning and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Introduction to"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Yogic Kriyas (Shat"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pranayama and its"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Active Lifestyle and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept of Disability"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of Disability, its"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Disability Etiquette"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Aim and objectives of"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Role of various"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Meaning & importance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Components/Dimensio"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Traditional Sports &"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Leadership through"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Introduction to First"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define Test,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Importance of Test,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Calculation of BMI,"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Somato Types"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Measurements of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Definition and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Functions of Skeletal"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Properties and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Structure and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Principles of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Kinetics and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Types of Body"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Axis and Planes -"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Definition &"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Developmental"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Adolescent Problems"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Team Cohesion and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Training Load: Over"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Warming-up &"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Concept of Skill,"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Concept of Doping"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Functions of Sports"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Various Committees"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Fixtures and their"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Intramural &"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Community sports"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Exercise guidelines of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Common"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Women’s"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Special consideration"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Female athlete triad"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Obesity: Procedure,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Diabetes:"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Asthma: Procedure,"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Hypertension:"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Back Pain and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Organizations"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Concept of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Concept of Inclusion"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Advantages of"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Strategies to make"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept of balanced"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Macro and Micro"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Nutritive & Non-"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Eating for Weight"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Importance of Diet in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Fitness Test - SAI"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Measurement of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Computing Basal"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Rikli & Jones - Senior"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Johnsen - Methney"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Physiological factors"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Effect of exercise on"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Physiological"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Sports injuries:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Newton’s Law of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of Levers and"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Equilibrium -"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Friction & Sports"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Projectile in Sports"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Personality; its"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Motivation, its type &"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Exercise Adherence:"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Meaning, Concept &"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Psychological"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept of Talent"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Introduction to Sports"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Types & Methods to"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Circuit Training -"
+    }
+  ],
+  "full_text_excerpt": "2 \n \n \nPhysical Education Syllabus 2024-25 \n \n TABLE OF CONTENT \nS. No. \nContent \nPage No. \n1. \nRationale \n03 \n2. \nLearning Objectives \n04 \n \nClass XI \n \n3. \nCourse Structure \n05 \n4. \nCourse Content \n06 \n5. \nGuidelines for internal assessment (Practical/ Projects etc.) \n14 \n \nClass XII \n \n6. \nCourse Structure \n15 \n7. \nCourse Content \n16 \n8. \nGuidelines for internal assessment (Practical/ Projects etc.) \n28 \n9. \nPrescribed Textbooks Class XI & XII \n29 \n10. \nSuggested Reading XI & XII \n30\n3 \n \n \nPhysical Education Syllabus 2024-25 \n \nRATIONALE \nSri Aurobindo believed, “For the body to be effective physical education must be rigorous and detailed, far-sighted and methodological. \nThis will be translated into habits. These habits should be controlled and disciplined while remaining flexible enough to adapt themselves \nto circumstances and to the needs of growth and development of the being”. \nPhysical education programs at all levels help students develop the knowledge, skills, attitudes, values, and behaviours to initiate and \nmaintain a physically active lifestyle that will continue into and through adulthood. Students are encouraged to use physical activity to \ndevelop personal initiative, responsibility, and caring about others and the community. \nA positive, supportive environment is essential to the success of the physical education program. This inclusive learning environment \nallows students to experience positive, challenging, and enjoyable physical activity while learning the benefits and importance of such \naction. Such an environment accommodates a variety of individual differences such as cultural identity, previous movement experiences, \nfitness and skill levels, and intellectual, physical, and socio-emotional maturity. \nAppropriate instruction in physical education incorporates best practices derived from research and experiences in teaching students. \nThis physical education curriculum sets forth developmental and instructional proper rules in designing, implementing, and evaluating \nphysical education programs. \nTherefore, the Physical education committee created a tool, ‘The Physical Education Curriculum’ - which has been researched and \ndesigned to provide consistency, coherence, and rigor in the content and process of teaching physical education throughout the schools \nof the CBSE all over the world. \nThe Physical education curriculum provides all students with enjoyable and worthwhile learning opportunities where they develop the \nmovement skills and competencies to participate and perform in various physical activities competently, confidently, and safely. It builds \nstudents’ motivation and commitment to physical activity and sports within and beyond school. It can encourage students to participate in \nleadership roles, irrespective of their previous experiences or ability in physical activity. The physical education program also prepares \nstudents to develop their careers in physical education and sports. It is one of the dynamic fields, providing numerous opportunities for \ndiverse career options like being a teacher, coach, sports manager, and many more. \nLooking into today’s context, physical education is the only subject that not only develops mental, physical, and social attributes among \nus but also contributes to our overall sense of well-being in our life.\n4 \n \n \nPhysical Education Syllabus 2024-25 \n \nLEARNING OBJECTIVES \n1. Optimum Development of Child’s Physical Growth, Including Intellectual Development, Emotional Development, Social \nDevelopment, Personal Development, and Character Building. \n2. Imparting and Development of Positive Approach among Children to opt for Physical Education as a Profession. \n3. Developing Management Skills to Understand and Organize Sports Tournaments. \n4. Learn and Understand the Motor Abilities like Strength, Speed, Endurance, Coordination, And Flexibility. \n5. Acquire knowledge about the Human Body and Its Functioning and Effects on Physical Activities. \n6. Understand the Process of Growth and Development and its Positive Relationship with Physical Activities. \n7. Develop Socio-Psychological Aspects like Control of Emotions, Balanced Behavior, Development of Leadership and Followership \nQualities, and Team Spirit. \n8. Learn and Understand the Effect of Physical and Physiological Training on Women Athletes. \n9. Develop the Habit of Practicing Yoga Asanas and Pranayama Daily to Minimize Hypokinetic Diseases. \n10. Learning about Nutrition and the Importance of a Balanced Diet. \n11. Understand the application of Laws and Principles of Physics in Sports and Games. \n12. Understanding the Characteristics of Children with Special Needs (CWSN) and Learning the Importance of Physical Activates for \nthem. \n13. Learning the procedure and application of different Physical and Physiological tests for different Age Categories. \n14. Learning and understanding different Games and Sports.\n5 \n \n \nPhysical Education Syllabus 2024-25 \n \nCLASS XI \nCOURSE STRUCTURE \nUNIT NO. \nUNIT NAME \nNO. OF PERIODS \n(190 HRS) \nTHE WEIGHTAGE (MARKS) \nALLOTTED \n \n \n \n \nUNIT 1 \nChanging Trends & Career in Physical Education \n15 \n04 + 04b* \nUNIT 2 \nOlympic Value Education \n10 \n05 \nUNIT 3 \nYoga \n14 \n06+01b* \nUNIT 4 \nPhysical Education & Sports for CWSN \n13 \n04+03b* \nUNIT 5 \nPhysical Fitness, Wellness \n10 \n05 \nUNIT 6 \nTest, Measurements & Evaluation \n15 \n08 \nUNIT 7 \nFundamentals of Anatomy and Physiology in Sports \n15 \n08 \nUNIT 8 \nFundamentals of Kinesiology and Biomechanics in Sports \n15 \n04+04b* \nUNIT 9 \nPsychology and Sports \n13 \n07 \nUNIT 10 \nTraining & Doping in Sports \n14 \n07 \nPRACTICAL \n(LAB)# \nIncluding 3 Practical \n56 \n30 \nTOTAL \nTheory 10 + Practical 3 \n134 + 56 = 190hrs \nTheory 70 + Practical 30 = \n100 \nNote: b*are the Concept based questions like Tactile diagram/data interpretation/case base study for visually Impaired Child.\n6 \n \n \nPhysical Education Syllabus 2024-25 \n \nCLASS XI \nCOURSE CONTENT \nUnit \nNo. \nUnit Name & Topics \n \nSpecific learning objectives \nSuggested Teaching \nLearning process \nLearning Outcomes with \nspecific Competencies \nUnit 1 \nChanging Trends and \nCareers in Physical \nEducation \n1. Concept, Aims & \nObjectives of Physical \nEducation \n \n2. Development of \nPhysical Education in \nIndia - Post \nIndependence \n \n3. Changing Trends in \nSports- playing \nsurface, wearable \ngear and sports \nequipment, \ntechnological \nadvancements \n \n4. Career options in \nPhysical Education \n \n5. Khelo-India Program \nand Fit - India \nProgram \n \n• To make the students \nunderstand the meaning, \naims, and objectives of \nPhysical Education. \n \n• To Teach students about the \ndevelopment of physical \neducation in India after \nIndependence. \n \n• To educate students about \nthe development of sports \nsurfaces, wearable gear, \nsports equipment, and \ntechnology. \n \n \n• To make students know the \ndifferent career options \navailable in the field. \n \n• To make them know about \nthe Khelo India Program \n \n \n \n• Lecture-based \ninstruction, \n \n• Technology-based \nlearning, \n \n• Group learning, \n \n• Individual learning, \n \n• Inquiry-based learning, \n \n• Kinesthetic learning, \n \n• Game-based learning \nand \n \n• Expeditionary learning. \n \nAfter completing the unit, the \nstudents will be able to: \n• \nRecognize the concept, aim, \nand objectives of Physical \nEducation. \n \n• \nIdentify the Post-\nindependence development \nin Physical Education. \n \n• \nCategorize Changing Trends \nin Sports- playing surface, \nwearable gear, sports \nequipment, technological \n \n• \nExplore different career \noptions in the field of \nPhysical Education. \n \n• \nMake out the development of \nKhelo India and Fit India \nProgram.\n7 \n \n \nPhysical Education Syllabus 2024-25 \n \nUnit 2 \nOlympism Value \nEducation \n \n1. Olympism - Concept \nand Olympics Values \n(Excellence, \nFriendship & Respect) \n \n2. Olympic Value \nEducation - Joy of \nEffort, Fair Play, \nRespect for Others, \nPursuit of Excellence, \nBalance Among Body, \nWill & Mind \n \n3. Ancient and Modern \nOlympics \n \n4. Olympics - Symbols, \nMotto, Flag, Oath, and \nAnthem \n5. Olympic Movement \nStructure - IOC, NOC, \nIFS, Other members \n \n \n \n• To make the students aware \nof Concepts and Olympics \nValues (Excellence, \nFriendship & Respect) \n \n• To make students learn \nabout Olympic Value \nEducation - Joy of Effort, \nFair Play, Respect for \nOthers, Pursuit of \nExcellence, Balance Among \nBody, Will & Mind \n \n• To make students \nunderstand ancient and \nmodern Olympic games. \n \n• To make the students aware \nof Olympics - Symbols, \nMotto, Flag, Oath, and \nAnthem \n \n• To make students learn \nabout the working and \nfunctioning of IOC, NOC and \nIFS, and other members. \n \n \n• Lecture-based \ninstruction, \n \n• Technology-based \nlearning, \n \n• Group learning, \n \n• Individual learning, \n \n• Inquiry-based learning, \n \n• Kinesthetic learning, \n \n• Game-based learning \nand \n \n• Expeditionary learning. \n \nAfter completing the unit, the \nstudents will be able to: \n \n• Incorporate values of \nOlympism in your life. \n \n• Differentiate between Modern \nand Ancient Olympic Games, \nParalympics, and Special \nOlympic games \n \n• Identity the Olympic Symbol \nand Ideals \n \n• Describe the structure of the \nOlympic movement structure\n8 \n \n \nPhysical Education Syllabus 2024-25 \n \nUnit 3 \nYoga \n1. Meaning and \nimportance of Yoga \n \n2. Introduction to \nAstanga Yoga \n \n3. Yogic Kriyas (Shat \nKarma) \n \n4. Pranayama and its \ntypes. \n \n5. Active Lifestyle and \nstress management \nthrough Yoga \n• To make the students aware \nof the meaning and \nimportance of yoga \n \n• To make them learn about \nAstanga yoga. \n \n• To teach students about \nyogic kriya, specially shat \nkarmas. \n \n• To make the learn and \npractice types of Pran \n \n• To make them learn the \nimportance of yoga in stress \nmanagement. \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game-based learning \nand \n• Expeditionary learning. \nAfter completing the unit, the \nstudents will be able to: \n• Recognize the concept of \nyoga and be aware of the \nimportance; of it \n• Identify the elements of yoga \n• Identify the Asanas, \nPranayama’s, meditation, \nand yogic kriyas \n• Classify various yogic \nactivities for the \nenhancement of \nconcentration \n• Know about relaxation \ntechniques for improving \nconcentration \nUnit 4 \nPhysical Education and \nSports for Children with \nSpecial Needs \n \n1. Concept of Disability \nand Disorder \n \n2. Types of Disability, its \ncauses & nature \n(Intellectual disability, \nPhysical disability). \n \n3. Disability Etiquette \n \n4. Aim and objectives of \n• To make the students aware \nconcept of Disability and \nDisorder. \n \n• To make students aware of \ndifferent types of disabilities. \n \n• To make students learn \nabout Disability Etiquette \n \n• To make the students \nUnderstand the aims and \nobjectives Adaptive Physical \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game-based learning \nand \n• Expeditionary learning. \n \n \nAfter completing the unit, the \nstudents will be able to: \n \n• Identify the concept of \nDisability and Disorder. \n \n• Outline types of disability and \ndescribe their causes and \nnature. \n \n• Adhere to and respect \nchildren with special needs \nby following etiquettes.\n9 \n \n \nPhysical Education Syllabus 2024-25 \n \nAdaptive Physical \nEducation. \n5. Role of various \nprofessionals for \nchildren with special \nneeds (Counselor, \nOccupational \nTherapist, \nPhysiotherapist, \nPhysical Education \nTeacher, Speech \nTherapist, and Special \nEducator) \nEducation \n \n• To make students aware of \nrole of various professionals \nfor children with special \nneeds. \n \n• Identify possibilities and \nscope in adaptive physical \neducation \n \n• Relate various types of \nprofessional support for \nchildren with special needs \nalong with their roles and \nresponsibilities. \nUnit 5 \nPhysical Fitness, \nWellness, and Lifestyle \n1. Meaning & importance \nof Wellness, Health, \nand Physical Fitness. \n \n2. Components/Dimensio\nns of Wellness, \nHealth, and Physical \nFitness \n \n3. Traditional Sports & \nRegional Games for \npromoting wellness \n \n4. Leadership through \nPhysical Activity and \nSports \n \n• To make the students \nunderstand the Meaning & \nimportance of Wellness, \nHealth, and Physical Fitness \n \n• To make students aware of \nthe Components/ Dimensions \nof Wellness, Health, and \nPhysical Fitness \n \n• To make students learn \nTraditional Sports & Regional \nGames to promote wellness \n \n• To develop Leadership \nqualities through Physical \nActivity and Sports in \nstudents \n \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game-based learning \nand \n• Expeditionary learning. \n \nAfter completing the unit, the \nstudents will be able to: \n• Explain wellness and its \nimportance and define the \ncomponents of wellness. \n \n• Classify physical fitness and \nrecognize its importance in \nlife. \n \n• Distinguish between skill-\nrelated and health-related \ncomponents of physical \nfitness. \n \n• Illustrate traditional sports \nand regional games to \npromote wellness.\n10 \n \n \nPhysical Education Syllabus 2024-25 \n \n5. Introduction to First \nAid - PRICE \n• To make students learn First \nAid and its management \nskills \n• Relate leadership through \nphysical activity and sports \n \n• Illustrate the different steps \nused in first aid - PRICE. \nUnit 6 \nTest, Measurement & \nEvaluation \n1. Define Test, \nMeasurements and \nEvaluation. \n \n2. Importance of Test, \nMeasurements and \nEvaluation in Sports. \n \n3. Calculation of BMI, \nWaist - Hip Ratio, \nSkin fold \nmeasurement (3-site) \n \n4. Somato Types \n(Endomorphy, \nMesomorphy & \nEctomorphy) \n \n5. Measurements of \nhealth-related fitness \n• To Introduce the students \nwith the terms like test, \nmeasurement and evaluation \nalong with its importance \n \n• To Introducing them the \nmethods of calculating BMI, \nWaist- hip ratio and Skin fold \nmeasurement. \n \n• To make the students aware \nof the different somatotypes. \n \n• To make the students learn \nthe method to measure \nhealth-related fitness. \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game-based learning \nand \n• Expeditionary learning. \n \nAfter completing the unit, the \nstudent s will be able to: \n \n• Define the terms test, \nmeasurement, and \nevaluation, \n \n• Differentiate norm and \ncriterion referenced \nstandards, \n \n• Differentiate formative and \nsummative evaluation, \n \n• Discuss the importance of \nmeasurement and evaluation \nprocesses, \n \n• Understand BMI: A popular \nclinical standard and its \ncomputation \n \n• Differentiate between \nEndomorphy, Mesomorphy & \nEctomorphy h describe the \nprocedure of Anthropometric\n11 \n \n \nPhysical Education Syllabus 2024-25 \n \nMeasurement \nUnit 7 \nFundamentals of \nAnatomy, Physiology in \nSports \n1. Definition and \nimportance of \nAnatomy and \nPhysiology in Exercise \nand Sports. \n \n2. Functions of Skeletal \nSystem, Classification \nof Bones, and Types \nof Joints. \n \n3. Properties and \nFunctions of Muscles. \n \n4. Structure and \nFunctions of \nCirculatory System \nand Heart. \n \n5. Structure and \nFunctions of \nRespiratory System. \n• The students will learn the \nmeaning and definition & \nidentify the importance of \nanatomy, physiology, and \nkinesiology. \n \n• Students will understand the \nmain functions and \nClassification of Bone and \nthe Types of Joints. \n. \n• The students will learn the \nProperties and Functions of \nMuscles. \n \n• The students will learn the \nStructure and Functions of \nthe Circulatory System and \nHeart. \n \n• The students will learn the \nStructure and Functions of \nRespiratory System. \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game - based learning \nand Expeditionary \nlearning. \n \nAfter completing the unit, the \nstudents will be able to: \n• Identify the importance of \nanatomy and physiology. \n \n• Recognize the functions of \nthe skeleton. \n \n• Understand the functions of \nbones and identify various \ntypes of joints. \n \n• Figure out the properties and \nfunctions of muscles and \nunderstand how they work. \n \n• Understand the anatomy of \nthe respiratory system and \ndescribe it’s working. \n \n• Identify and analyses the \nlayout and functions of \nCirculatory System. \nUnit 8 \nFundamentals Of \nKinesiology And \nBiomechanics in Sports \n \n1. Definition and \nImportance of \n• The students will learn the \nmeaning and definition & \nidentify the importance of \nKinesiology and \nBiomechanics in sports. \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \nAfter completing the unit, the \nstudents will be able to: \n \n• Understand Kinesiology and \nBiomechanics with their\n12 \n \n \nPhysical Education Syllabus 2024-25 \n \nKinesiology and \nBiomechanics in \nSports. \n \n2. Principles of \nBiomechanics \n \n3. Kinetics and \nKinematics in Sports \n \n4. Types of Body \nMovements - Flexion, \nExtension, Abduction, \nAdduction, Rotation, \nCircumduction, \nSupination & \nPronation \n \n5. Axis and Planes - \nConcept and its \napplication in body \nmovements \n \n• To make the students learn \nthe principles of \nbiomechanics. \n \n• To make the students \nunderstand the concept of \nKinetics and Kinematics in \nSports \n \n• To make the students learn \nabout different types of body \nmovements. \n \n• To make the students \nunderstand the concept of \nAxis and Planes and its \napplication in body \nmovements. \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game-based learning \nand \n• Expeditionary learning. \n \napplication in sports. \n \n• Explain biomechanical \nprinciples and their utilization \nin sports and physical \neducation. \n \n• Illustrate fundamental body \nmovements and their basic \npatterns. \n \n• Learn about the Axis and \nPlanes and their application \nwith body movements. \nUnit 9 \nPsychology and Sports \n1. Definition & \nImportance of \nPsychology in \nPhysical Education & \nSports; \n \n2. Developmental \nCharacteristics at \nDifferent Stages of \nDevelopment; \n• The students will identify the \ndefinition and importance of \nPsychology in Physical \nEducation and sports. \n \n• The students will be able to \ndifferentiate characteristics of \ngrowth and development at \ndifferent stages. \n \n• Lecture-based \ninstruction, \n• Technology-based \nlearning, \n• Group learning, \n• Individual learning, \n• Inquiry-based learning, \n• Kinesthetic learning, \n• Game-based learning \nand \nAfter completing the unit, the \nstudents will be able to: \n• Identify the role of \nPsychology in Physical \nEducation and Sports \n \n• Differentiate characteristics \nof growth and development \nat different stages.\n13 \n \n \nPhysical Education Syllabus 2024-25 \n \n \n3. Adolescent Problems \n& their Management; \n \n4. Team Cohesion and \nSports; \n \n5. Introduction to \nPsychological \nAttributes: Attention, \nResilience, Mental \nToughness \n• - Students will be able to \nidentify the issues and \nmanagement related to \nadolescents. \n \n• The students will be able to \nunderstand the importance of \nteam cohesion in sports. \n \n• Students will distinguish \ndifferent Psychological \nAttributes like Attention, \nResilience, and Mental \nToughness. \n• Expeditionary learning. \n \n• Explain the issues related to \nadolescent behavior and \nTeam Cohesion in Sports \n \n• Correlate the psychological \nconcepts with the sports and \nathlete specific situations \n \n \nUnit \n10 \nTraining & Doping in \nSports \n1. Concept and \nPrinciples of Sports \nTraining \n \n2. Training Load: Over \nLoad, Adaptation, and \nRecovery \n \n3. Warming-up & \nLimbering Down - \nTypes, Method & \nImportance \n \n4. Concept of Skill, \nTechnique, Tactics & \nStrategies \n• To make the students aware \nabout of concepts and \nprinciples of sports training. \n \n• To make student"
+}

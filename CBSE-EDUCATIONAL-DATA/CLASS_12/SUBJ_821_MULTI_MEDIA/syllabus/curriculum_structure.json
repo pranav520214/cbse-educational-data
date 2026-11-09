@@ -1,0 +1,511 @@
+{
+  "subject_name": "Multi-Media",
+  "subject_code": "821",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Media",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XII.pdf",
+  "sha256": "bf3c5520b5b8f2c0666c8ca31fddeb876bef3c6657df43e272e6b12a398a227e",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "3D Production Pipeline",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Basics of Video and Sound Editing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Basic Tools and Techniques of Animation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Basic Tools and Techniques of Animation in Autodesk MAYA",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Apply effective oral and written communication skills to inte"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify the principal components of a computer system;"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstrate the basic skills of using computer;"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Demonstrate self-management skills;"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Demonstrate the ability to provide a self-analysis in context"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Demonstrate the knowledge of the importance of green skills i"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Demonstrate the knowledge of uses and applications of Animati"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Demonstrate the knowledge of principles of Animation"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Demonstrate the knowledge of basics compositing"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Demonstrate the knowledge of various features of 2D Animation"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Demonstrate the knowledge of the concept of 3D production pip"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Demonstrate the concept of bouncing balls and various other s"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Demonstrate the knowledge of project setting and animation re"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills- IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Story boarding - layouts"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Use of Adobe Photoshop"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Preparation of a flow chart of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Identification of the various"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrate the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Texturing and modeling"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Basic standards followed in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Creation of model for stop"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Texturing of character"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Lighting and rigging"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of use of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Importance of lighting in"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Demonstrate the post -"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Animatics"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Creating .avi files to see"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Creating Animatics"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Post-production"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Exporting animation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Use Adobe"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept of work spaces"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Video and Sound editing"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the use of tool"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Edit the video"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Video editing work flow"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Timeline panel"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Clips and its types"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of editing the video"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Handling the linking Audio or"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The procedure of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the use of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Giving the demo of editing of the"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Edit the sound"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Various ways of editing audio"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Multi Track Sound Editing"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rendering the output audio file"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of increasing or"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of editing the"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstrate audio output in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstrate the use"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Key Frame Animation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the use of Maya"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Changing the settings in Maya"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Use of Auto Keying Animation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Disadvantages of auto key"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Maya timeline"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Frame, timing and frame rate"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Reasons for using key frame"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Aspects of key frame? (picture"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Concept of setting key frames"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identification of number of frames,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of the difference"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstration of setting key"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Importance of the Set key"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create and edit"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Use of Graphic Editor"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Editing animation curves"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Create a bouncing ball"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Representation of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Details of bouncing ball"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Implementing the principles"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the knowledge"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Creating bouncing ball -"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOUR"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Adobe After Effects"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Adobe Flash"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adobe Photoshop"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Adobe Premiere Pro"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Art Gum Eraser"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Autodesk Maya"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Brushes"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Computer System"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Demonstration Charts"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Digital Camera"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Drawing Pencil Sets"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Drawing sheets"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Flipbook"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Internet Connection"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Marker/Chalk"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Non-Photo Blue Pencils"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Paints"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Printer"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Scanner"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Watercolors, Markers, and Pastels"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Whiteboard"
+    }
+  ],
+  "full_text_excerpt": "821- Multi Media - Class XII - 2026-27\nPage 1 of 6\nCBSE | DEPARTMENT OF SKILL EDUCATION\nCURRICULUM FOR SESSION 2026-2027\nMULTI - MEDIA (SUB. CODE-821)\nJOB ROLE: ANIMATOR\nCLASS XII\n1. Introduction\nAn Animator is an artist who creates multiple images, which when displayed in rapid sequence\ngive an illusion of movement called animation. An Animator needs to refer to the concept of\nartwork prepared by animation artists to produce a sequence of 2D or 3D images by producing\nmultiple images called frames, which when sequenced together rapidly create an illusion of\nmovement. The images can be made up of digital or hand-drawn pictures, models or puppets.\nAn Animator has the responsibilities of developing animation as per client requirement and\nwork with editors to composite the various layers of animation.\n2. Course Objectives\n1.\nApply effective oral and written communication skills to interact with people and\ncustomers;\n2.\nIdentify the principal components of a computer system;\n3.\nDemonstrate the basic skills of using computer;\n4.\nDemonstrate self-management skills;\n5.\nDemonstrate the ability to provide a self-analysis in context of entrepreneurial skills and\nabilities;\n6.\nDemonstrate the knowledge of the importance of green skills in meeting the challenges\nof sustainable development and environment protection;\n7.\nDemonstrate the knowledge of uses and applications of Animation;\n8.\nDemonstrate the knowledge of principles of Animation\n9.\nDemonstrate the knowledge of basics compositing\n10. Demonstrate the knowledge of various features of 2D Animation\n11. Demonstrate the knowledge of the concept of 3D production pipeline\n12. Demonstrate the concept of bouncing balls and various other steps of animation\n13. Demonstrate the knowledge of project setting and animation rendering\n3. Curriculum\nThis course is a planned sequence of instructions consisting of Units meant for developing\nemployability and Skills competencies of students of Class XII opting for Skills subject along with\ngeneral education subjects.\nTheory\n50 marks\nPractical\nTotal\nMarks\n100\nmarks\nThe unit-wise distribution of Periods and marks for Class XII is given on the next page.\n821- Multi Media - Class XII - 2026-27\nPage 2 of 6\nMULTI - MEDIA (SUB. CODE-821)\nClass XII\nTotal Marks: 100 (Theory- 50 + Practical- 50)\nUNITS\nNO. OF HOURS\nfor Theory and\nPractical\nMAX. MARKS\nfor Theory and\nPractical\nPart A\nEmployability Skills\nUnit 1: Communication Skills- IV\n10\n2\nUnit 2: Self-Management Skills- IV\n10\n2\nUnit 3: ICT Skills- IV\n10\n2\nUnit 4: Entrepreneurial Skills- IV\n15\n2\nUnit 5: Green Skills- IV\n05\n2\nTotal\n50\n10\nPart B\nSubject Specific Skills\nTheory\nPractical\nMarks\nUnit 1: 3D Production Pipeline\n20\n20\n10\nUnit 2: Basics of Video and Sound Editing\n20\n40\n10\nUnit 3: Basic Tools and Techniques of Animation\ninAutodesk MAYA\n50\n60\n20\nTotal\n90\n120\n40\nPart C\nPractical Work\nPractical Examination\n15\nWritten Test\n10\nViva Voce\n10\nTotal\n35\nPart D\nProject Work/ Field Visit\nPractical File/ Student Portfolio\n10\nViva-Voce\n05\nTotal\n15\nGRAND TOTAL\n260\n100\n821- Multi Media - Class XII - 2026-27\nPage 3 of 6\nDETAILED CURRICULUM/ TOPICS FOR CLASS XII:\nPart-A: EMPLOYABILITY SKILLS\nS. No.\nUnits\nDuration(in Hours)\n1.\nUnit 1: Communication Skills- IV\n10\n2.\nUnit 2: Self-management Skills- IV\n10\n3.\nUnit 3: Information and Communication Technology Skills- IV\n10\n4.\nUnit 4: Entrepreneurial Skills- IV\n15\n5.\nUnit 5: Green Skills- IV\n05\nTOTAL DURATION\n50\nNote: The detailed curriculum/ topics to be covered under Part A: Employability\nSkills can be downloaded from CBSE website.\nPart-B - SUBJECT SPECIFIC SKILLS\nUnit 1: 3D Production Pipeline\nLearning Outcome\nTheory\nPractical\n1. Describe the\nPreproduction\nactivities\n1. Story boarding - layouts\nmodelsheets and animatic\n2. Use of Adobe Photoshop\nfor UVMapping and\nTexturing\n3. 3D animation in Autodesk\nMAYA\n1.\nDemonstration\nof\npreproduction activities\n2.\nPreparation of a flow chart of\npre- production activities and\nrequired\nmaterials/\nequipment\n3.\nIdentification of the various\ndrawing and text tools and\nthe utility of the same\n(geometric, line, pen, brush,\ntext, stroke, fill, point, erase,\netc.)\n2. Demonstrate the\n1.\nTexturing and modeling\n2. Basic standards followed in\ntexturing and modeling\n1.\nCreation of model for stop\nconceptof texturing in\nAdobe Photoshop and\nmotion 3D animation\n2. Texturing of character\nmodeling in Autodesk\nMAYA (Production 1)\n3. Demonstrate the\nconceptof lighting and\nrigging in Autodesk\nMAYA (Production 2)\n1.\nLighting and rigging\n2. Basic standards followed in\nlighting and rigging\n1.\nDemonstration of the\nconcept oflighting and\nrigging\n2.\nDemonstration of use of\nlighting to create a bright\nimage\n3.\nImportance of lighting in\nanimation\n821- Multi Media - Class XII - 2026-27\nPage 4 of 6\n4. Demonstrate the post -\nproduction activities\n1.\nAnimatics\n2. Creating .avi files to see\nthe flowof animation and\nits timing\n3.\nCreating Animatics\n4. Post-production\nprocess ofanimation\n5. Exporting animation\nsequencesand rendering\n1. Demonstration\nof\nPost-\nproduction\nactivities\n2. Preparation of a flow chart of\npost-production activities and\nrequired\nmaterials/\nequipment\nUnit 2: Basics of Video and Sound Editing\nLearning Outcome\nTheory\nPractical\n1. Use Adobe\nPremiereCS/CC\n1. Concept of work spaces\n2. Video and Sound editing\nprojectsand its creation\n1. Demonstration of the use of tool\nboxof Adobe Premiere CS/CC\n2. Edit the video\n1. Video editing work flow\n2. Timeline panel\n3. Basic standards followed in\neditinga video\n4. Clips and its types\n1. Demonstration of editing the video\n2. Handling the linking Audio or\nBack- ground Music with the\nVideo in AudioTracks in Adobe\nPremiere\n3. Use Adobe\nSoundBooth\n1. The procedure of\nincreasing ordecreasing\nthe amplitude of\narrange by using the volume\npopup\nmenu\n1. Demonstration of the use of\nAdobeSound Booth\n2. Giving the demo of editing of the\nbeginning or end of an audio\ntrack\n4. Edit the sound\n1. Various ways of editing audio\ntrack\n2. Multi Track Sound Editing\n3. Rendering the output audio file\nforplaying in any Media Player\n1. Demonstration of increasing or\ndecreasing the length of the\nrange by clicking and dragging\nthe start and endpoints of the\naudio track\n2. Demonstration of editing the\nsoundtrack\n3. Demonstrate audio output in\n.WAV\nand .MP3 audio file format\nUnit 3: Basic Tools and Techniques of Animation in Autodesk MAYA\nLearning Outcome\nTheory\nPractical\n1. Demonstrate the use\n1. Key Frame Animation\n1. Demonstration of the use of Maya\ntimeline, workspace, view ports,\ntools\n2. Changing the settings in Maya\ntimeline\nof edit keys in timeline\n2. Use of Auto Keying Animation\n3. Disadvantages of auto key\n4. Maya timeline\n2. Demonstrate the\npurpose of frames,\ntiming, frame rate and\nkey frames\n1. Frame, timing and frame rate\n2. Reasons for using key frame\n3. Aspects of key frame? (picture\nsize,position, rotation)\n4. Concept of setting key frames\n1. Identification of number of frames,\ntiming, frame rate and key frame in\nanimation\n2. Demonstration of the difference\nbetween tweening and key frame\n3. Demonstration of setting key\nframes\n5. Importance of the Set key\n821- Multi Media - Class XII - 2026-27\nPage 5 of 6\n3. Create and edit\nanimation sequence\ngraph using Graphic\nEditor\n1. Use of Graphic Editor\n2. Editing animation curves\nusingGraphic Editor\n1.Demonstration of editing\nanimationsin the Graphic Editor\n4. Create a bouncing ball\n1. Representation of\ndifferentbouncing balls\n2. Details of bouncing ball\n3. Implementing the principles\nof animation on bouncing\nball(e.g. Squash and\nStretch, Ease In/Out)\n1. Demonstration of the knowledge\nof use of middle-mouse button\n2. Creating bouncing ball -\nanimation of200 frames by\nimplementing two principles of\nanimation\nTEACHING ACTIVITIES\nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field\nvisits. Students should be taken to field visits for interaction with experts and to expose them to the various\ntools, equipment, materials, procedures and operations in the workplace. Special emphasis should be laid\non the occupational safety, health and hygiene during the training and field visits.\nCLASSROOM ACTIVITIES\nClassroom activities are an integral part of this course and interactive lecture sessions, followed by\ndiscussions should be conducted by trained teachers. Teachers should make effective use of a variety of\ninstructional or teaching aids, such as audio-video materials, colour slides, charts, diagrams, models,\nexhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart training to the\nstudents.\nPRACTICAL WORK IN LABORATORY/WORKSHOP\nPractical work may include but not limited to hands-on-training, simulated training, role play, case based\nstudies, exercises, etc. Equipment and supplies should be provided to enhance hands-on learning\nexperience of students. Only trained personnel should teach specialized techniques. A training plan that\nreflects tools, equipment, materials, skills and activities to be performed by the students should be\nsubmitted by the teacher to the Head of the Institution.\nSKILL ASSESSMENT (PRACTICAL)\nAssessment of skills by the students should be done by the assessors/examiners on the basis of practical\ndemonstration of skills by the candidate, Practical examination allows candidates to demonstrate that they\nhave the knowledge and understanding of performing a task. This will include hands-on practical exam\nand viva voce. For practical, there should be a team of evaluators. The same team of examiners will\nconduct the viva voce.\nProject Work (individual or group project) is a great way to assess the practical skills on a certain time\nperiod or timeline. Project work should be given on the basis of the capability of the individual to perform\nthe tasks or activities involved in the project. Projects should be discussed in the class and the teacher\nshould periodically monitor the progress of the project and provide feedback for improvement and\ninnovation. Field visits should be organised as part of the project work. Field visits can be followed by a\nsmall-group work/project work. When the class returns from the field visit, each group might be asked to\nuse the information that they have gathered to prepare presentations or reports of their observations.\nProject work should be assessed on the basis of practical file or student portfolio.\n821- Multi Media - Class XII - 2026-27\nPage 6 of 6\nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence.\nDocuments may include reports, articles, photos of products prepared by students in relation to the unit\nof competency.\nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video\nrecording can be done at the time of viva voce. The number of external examiners would be decided as\nper the existing norms of the Board and these norms should be suitably adopted/adapted as per the\nspecific requirements of the subject. Viva voce should also be conducted to obtain feedback on the\nstudent’s experiences and learning during the project work/field visits.\n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOUR\nIn field visits, children will go outside the classroom to obtain specific information from experts or to make\nobservations of the activities. A checklist of observations to be made by the students during the field visits\nshould be developed by the teachers for systematic collection of information by the students on the various\naspects. Principals and teachers should identify the different opportunities for field visits within a short\ndistance from the school and make necessary arrangements for the visits. At least three field visits should\nbe conducted in a year.\n7. LIST OF EQUIPMENT AND MATERIAL\nThe list given below is suggestive and an exhaustive list should be prepared by the teacher. Only basic\ntools, equipment and accessories should be procured by the Institution so that the routine tasks can be\nperformed by the students regularly for practice and acquiring adequate practical experience.\n1.\n3-Hole Punched Paper\n2.\nAdobe After Effects\n3.\nAdobe Flash\n4.\nAdobe Photoshop\n5.\nAdobe Premiere Pro\n6.\nArt Gum Eraser\n7.\nAutodesk Maya\n8.\nBrushes\n9.\nComputer System\n10. Demonstration Charts\n11. Digital Camera\n12. Drawing Pencil Sets\n13. Drawing sheets\n14. Flipbook\n15. Internet Connection\n16. Marker/Chalk\n17. Non-Photo Blue Pencils\n18. Paints\n19. Printer\n20. Scanner\n21. Watercolors, Markers, and Pastels\n22. Whiteboard"
+}

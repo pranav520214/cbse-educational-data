@@ -1,0 +1,259 @@
+{
+  "subject_name": "Front Office Operations",
+  "subject_code": "810",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XII.pdf",
+  "sha256": "c9a6cb555e588248e2a42ea9116593b349ed6a57699df2f3cb81d0da12e35cf0",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Evolution of Hotels in India",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Etiquettes and manners for Hospitality",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Hotel Organisation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Organisation of Front Office Department",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Introduction to basic Front Office Operation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Safety and Security in Hotels",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Problem Solving & Situation Handling",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Responsible Hotels",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To develop interest and attitudes in hospitality industry."
+    },
+    {
+      "chapter_number": 2,
+      "title": "To develop sufficient trained manpower for Hotels, Motels, Re"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To assist in the tourism development programmes."
+    },
+    {
+      "chapter_number": 4,
+      "title": "To develop necessary employable skills in the students."
+    },
+    {
+      "chapter_number": 5,
+      "title": "To develop entrepreneurship."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 6,
+      "title": "This course is a planned sequence of instructions consisting"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Reservation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Check-in"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Check -out"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills- IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIALS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Lobby Desk"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Computer with Internet Facility"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Printer"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Property Management System"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Foreign Currency Exchange Board"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Credit Card Imprinter / EDC Machine"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Luggage Rack"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Luggage Trolley"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Key Rack"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Message Rack"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Information Rack"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Bell Desk"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Reception Counter"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Projector"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Pen"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Pencil"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Ruler"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Register"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Note Pads"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Sketch Pens"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Charts"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nFRONT OFFICE OPERATIONS (SUB.CODE-810) \nJOB ROLE: COUNTER SALES EXECUTIVE \n \nCLASS XII \n1. Introduction \n \n \nThe Hospitality industry is a broad category of fields within the service industry that includes lodging, \nevent planning, theme parks, transportation, cruise line and additional fields within the tourism \nindustry. The hospitality industry is a several billion dollar industry that mostly depends on the \navailability of leisure time and disposable income. A hospitality unit such as a restaurant, hotel, or \neven an amusement park consists of multiple groups such as facility maintenance, direct operations \n(servers, housekeepers, porters, kitchen workers, bartenders, management, marketing, and human \nresources etc). \n \n \nThis course is an overview of the management practices utilized to direct, operate and control front \noffice. This course will teach practical knowledge of appropriate service behaviors for a variety of \nguest types, understand the concept and techniques of good service and demonstrate the skills \nacquired and capacity and demonstrate various service techniques. \n \n2. Course Objectives \n1. \nTo develop interest and attitudes in hospitality industry. \n2. \nTo develop sufficient trained manpower for Hotels, Motels, Restaurants, Railway Catering \nServices, Flight Catering Services etc. \n3. \nTo assist in the tourism development programmes. \n4. \nTo develop necessary employable skills in the students. \n5. \nTo develop entrepreneurship. \n3. Curriculum \n \n6. \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XII opting for Skills subject along \nwith general education subjects. \n \n \n \n \n \n \n \n \n \n \n \n \n810 - Front Office Operations - Class XII - 2026-27 \nPage 1 of 6 \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\n810 - Front Office Operations - Class XII - 2026-27 \nPage 2 of 6 \n \n \nFRONT OFFICE OPERATIONS XII (SUB.CODE-810) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills- IV \n10 \n2 \nUnit 2: Self-Management Skills- IV \n10 \n2 \nUnit 3: ICT Skills- IV \n10 \n2 \nUnit 4: Entrepreneurial Skills- IV \n15 \n2 \nUnit 5: Green Skills- IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory Practical \nMarks \nUnit 1: Evolution of Hotels in India \n10 \n-- \n05 \nUnit 2: Etiquettes and manners for Hospitality \nProfessionals \n10 \n12 \n05 \nUnit 3: Hotel Organisation \n15 \n-- \n05 \nUnit 4: Organisation of Front Office Department \n20 \n-- \n08 \nUnit 5: Introduction to basic Front Office Operation \n1. Reservation \n2. Check-in \n3. Check -out \n25 \n36 \n10 \nUnit 6: Safety and Security in Hotels \n15 \n14 \n08 \nUnit 7: Problem Solving & Situation Handling \n10 \n24 \n04 \nUnit 8: Responsible Hotels \n15 \n04 \n05 \nTotal \n120 \n90 \n50 \nPart C \nPractical Work \n \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n \n30 \nPart D \nProject Work/ Field Visit \n \nPractical File/ Student Portfolio \n \n10 \nTotal \n \n10 \n \nGRAND TOTAL \n260 \n100\n810 - Front Office Operations - Class XII - 2026-27 \nPage 3 of 6 \n \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XII: \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration(in Hours) \n1. \nUnit 1: Communication Skills- IV \n10 \n2. \nUnit 2: Self-management Skills- IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n10 \n4. \nUnit 4: Entrepreneurial Skills- IV \n15 \n5. \nUnit 5: Green Skills- IV \n05 \n \nTOTAL DURATION \n50 \n \nNote: The detailed curriculum/ topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \nPart-B - SUBJECT SPECIFIC SKILLS \n \n \nS. No. \nUnits \nSub-Topics \nPractical \n \n \n \n1 \nEvolution of \nHotels in India \nOrigin and Growth of the \nHotel Industry \n \nMajor Hotel Chains of \nIndia \nPrepare a chart and write down the timeline \nhistory of any hotel of your choice. \nMajor International Hotel \nChains \nPrepare a project of various international \nchain hotels which are operating in India. \n \nPrepare a project of any five hotels of your \nchoice along with its location, logo and photo. \n \n \n2 \nEtiquettes And \nManners for \nHospitality \nProfessionals \nEtiquettes and Mannerism \nfor service professionals \nPrepare a chart on basic Etiquettes and \nMannerism for Service Professionals \nGolden rules for good \ntelephone techniques. \nList any ten attributes required for a good \nhospitality professional \nAttributes of hospitality \nprofessional \n \n \n \n \n3 \nHotel \nOrganization \nDepartmental organization \non the basis of functions. \nPrepare a list of 10 single unit hotels and 10 \nchain hotels. \nDepartmental organization \non the basis of revenue. \nPrepare a chart depicting classification of \nhotels on the basis of various parameters. \n \nPrepare a chart on Departmental \nOrganisation and staff organisation of large \nand medium size hotels \n \n \n4 \nOrganization \nOf Front Office \nDepartment \nOperational structure of \nFront Office \nPrepare a chart on the organization structure \nof Front Office department. \nHotel Front Office \nsections \nDraw and label the positioning of Front desk. \nStaff qualities and \ncompetencies\n5 \nIntroduction To \nThe Basic \nFront Office \nOperation: \n• Reservation \n• Check in \n• Check out \nIntroduction to basic Front \nOffice operation \nWrite the steps in handling reservation of a \nguest. \n \nGlobal distribution system \nWrite a note on group reservation. \nModes of reservation \nList and discuss the reports used in \nreservation process \nImportance of Reservation \n \n \n6 \nSafety and \nSecurity in \nHotels \nSecurity \ndepartment \nin \nhotel management. \nPrepare a list of various equipments used as a \nsafety tool in the hotels. \nKey control and access \ncontrol \nPrepare a plan of action on how you as a \nsecurity head of a 5 star hotel will deal with a \nsudden fire threat at your hotel. \n \nSecurity of hotels \n \n \n \n7 \nProblem \nSolving And \nSituation \nHandling \n \nTypes of complaints \n \nRole play on handling different complaints in \nhotels. \nIdentifying and handling \ncomplaints. \n \n \n8 \nResponsible \nHotels \nIntroduction to Ecotourism \nPrepare a list of activities you will inculcate in \nyour hotel to be able to make it a green hotel \nCriteria of Eco-hotels \nPrepare a report on the various environment \nfriendly activities performed by any 5 star \nproperty of your choice. \nCharacteristics of Eco- \nhotels \n \n \n5. TEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field \nvisits. Students should be taken to field visits for interaction with experts and to expose them to the \nvarious tools, equipment, materials, procedures and operations in the workplace. Special emphasis \nshould be laid on the occupational safety, health and hygiene during the training and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a variety \nof instructional or teaching aids, such as audio-video materials, colour slides, charts, diagrams, models, \nexhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart training to the \nstudents. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based \nstudies, exercises, etc. Equipment and supplies should be provided to enhance hands-on learning \nexperience of students. Only trained personnel should teach specialized techniques. A training plan that \nreflects tools, equipment, materials, skills and activities to be performed by the students should be \nsubmitted by the teacher to the Head of the Institution. \n810 - Front Office Operations - Class XII - 2026-27 \nPage 4 of 6\n810 - Front Office Operations - Class XII - 2026-27 \nPage 5 of 6 \n \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of practical \ndemonstration of skills by the candidate, Practical examination allows candidates to demonstrate that \nthey have the knowledge and understanding of performing a task. This will include hands-on practical \nexam and viva voce. For practical, there should be a team of evaluators. The same team of examiners \nwill conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain time \nperiod or timeline. Project work should be given on the basis of the capability of the individual to perform \nthe tasks or activities involved in the project. Projects should be discussed in the class and the teacher \nshould periodically monitor the progress of the project and provide feedback for improvement and \ninnovation. Field visits should be organised as part of the project work. Field visits can be followed by a \nsmall-group work/project work. When the class returns from the field visit, each group might be asked to \nuse the information that they have gathered to prepare presentations or reports of their observations. \nProject work should be assessed on the basis of practical file or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, photos of products prepared by students in relation to the unit \nof competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video \nrecording can be done at the time of viva voce. The number of external examiners would be decided as \nper the existing norms of the Board and these norms should be suitably adopted/adapted as per the \nspecific requirements of the subject. Viva voce should also be conducted to obtain feedback on the \nstudent’s experiences and learning during the project work/field visits. \n \n \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL \nTOURS \nIn field visits, children will go outside the classroom to obtain specific information from experts or to make \nobservations of the activities. A checklist of observations to be made by the students during the field visits \nshould be developed by the Teachers for systematic collection of information by the students on the \nvarious aspects. Principals and Teachers should identify the different opportunities for field visits within \na short distance from the school and make necessary arrangements for the visits. At least three field \nvisits should be conducted in a year. \n \n \n7. LIST OF EQUIPMENT AND MATERIALS \n \n \n1. \nLobby Desk \n2. \nComputer with Internet Facility \n3. \nPrinter \n4. \nProperty Management System \n5. \nForeign Currency Exchange Board \n6. \nCredit Card Imprinter / EDC Machine \n7. \nLuggage Rack \n8. \nLuggage Trolley \n9. \nKey Rack\n810 - Front Office Operations - Class XII - 2026-27 \nPage 6 of 6 \n \n \n10. \nMessage Rack \n11. \nInformation Rack \n12. \nBell Desk \n13. \nReception Counter \n14. \nProjector \n15. \nPen \n16. \nPencil \n17. \nRuler \n18. \nRegister \n19. \nNote Pads \n20. \nSketch Pens \n21. \nCharts"
+}

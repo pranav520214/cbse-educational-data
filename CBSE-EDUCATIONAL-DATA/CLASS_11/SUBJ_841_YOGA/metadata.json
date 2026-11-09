@@ -1,0 +1,49 @@
+{
+  "subject_code": "841",
+  "subject_name": "Yoga",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Wellness",
+  "directory_name": "SUBJ_841_YOGA",
+  "directory_path": "CLASS_11/SUBJ_841_YOGA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Yoga (841-YOGA_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Yoga",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/841_Yoga_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: Yoga",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/841_Yoga_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "d9f6bb83c448cb764d574c822f8efd44ee8f3d255eac1f17133698f8ae116daa",
+    "file_size_bytes": 156372,
+    "units_extracted": 14,
+    "chapters_extracted": 34
+  }
+}

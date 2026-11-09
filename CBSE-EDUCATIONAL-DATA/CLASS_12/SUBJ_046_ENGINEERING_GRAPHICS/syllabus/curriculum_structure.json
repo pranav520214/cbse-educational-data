@@ -1,0 +1,86 @@
+{
+  "subject_name": "Engineering Graphics",
+  "subject_code": "046",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Science / Technical",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf",
+  "sha256": "0af2998ce5dd7ec07bae9d621638c20cc8cbf654e742a8609f3d324c5fe8d2ea",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-I",
+      "title": "Isometric Projection of Solids",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Machine Drawing (as per SP46: 2003)",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Bearings"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Rod joints"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Tie-rod and Pipe joint"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Hidden lines are not required in isometric projection."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Indicate the direction of viewing."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Rod-Joints"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Tie-rod and Pipe-joint"
+    },
+    {
+      "chapter_number": 1,
+      "title": "In all Assembly drawings, half sectional front view will be a"
+    },
+    {
+      "chapter_number": 2,
+      "title": "In all Dis-assembly drawings, only two orthographic views (on"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Copy the given views"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Drawing the missing view with hidden lines"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Sketching the Isometric view without hidden edges"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To make the machine block of the above in three dimensions."
+    },
+    {
+      "chapter_number": 80,
+      "title": "FRONTVIEW"
+    }
+  ],
+  "full_text_excerpt": "(a)\nPracticals (2)\n15 Marks\n(b)\nDrawing/ Sketch\n05 Marks\n(c)\nViva-voce\n05 Marks\n(d)\nSessional Work\n05 Marks\nTotal\n30 Marks\nACTIVITY\nIndustrial Visits (Two) to any industry/manufacturing plant to acquaint the students\nwith the present - day methods & technology for better conceptual understanding.\nCOURSE STRUCTURE\nCLASS XII (2023-24)\nOne Paper (Theory): 3 Hours\n70 Marks\nOne paper (Practical): 3 Hours\n30 Marks\nS. No.\nUnit Name\nMarks\nPeriods\nI\nIsometric Projections of Solids\n25\n60\nII\nMachine Drawing\nA. Drawing of Machine parts\nB. Assembly Drawing and Dis-assembly drawings\n1.\nBearings\n2.\nRod joints\n3.\nTie-rod and Pipe joint\n45\n114\nPractical\n30\n66\nTotal Marks\n100\n240\nTHEORY\nUnit I: Isometric Projection of Solids\n60 Periods\n(i)\nConstruction of isometric scale showing main divisions of 10mm and smaller\ndivisions of 1 mm, also showing the leading angles. Drawing helping view/s such\nas triangles, pentagon, hexagon, etc., using isometric scale.\n(ii) Isometric projection (drawn to isometric scale) of solids such as cube; regular\nprisms and pyramids (triangular, square, pentagonal, and hexagonal); cone;\ncylinder; sphere; hemisphere. The axis and the base side of the solid should be\neither perpendicular to HP / VP or parallel to HP and VP.\nCLASS XII (2024-25)\nCLASS XII (2024-25)\n(iii) Combination of any two above mentioned solids keeping the base side parallel or\nperpendicular to HP/VP and placed centrally together (Axis of both the solids\nshould not be given parallel to HP).\nNote:\n1. Hidden lines are not required in isometric projection.\n2. Indicate the direction of viewing.\nUnit II: Machine Drawing (as per SP46: 2003)\n114 Periods\nA. Drawing of machine parts\n(i) Drawing to full size scale with instruments.\n30 Periods\n(Internal choice will be given between any two of the following).\nIntroduction of threads: Standard profiles of screw threads - Square,\nKnuckle, B.S.W., Metric (external and internal); Bolts - Square head,\nhexagonal head; Nuts - Square head, Hexagonal head; Plain washer,\nCombination of nut and bolt with or without washer for assembling two\nparts together.\n(ii) Free-hand sketches\n10 Periods\nConventional representation of external and internal threads; Types of studs\n- Plain stud, Square-neck stud, Collar stud; Screws (round-head, cheese-\nhead, 900 flat counter sunk-head, hexagonal socket head and grub-screw);\nTypes of rivets - Snap head, Pan head (without tapered neck), Flat head, 600\ncountersunk flat head.\nB. Assembly drawings and Dis-Assembly drawings\n(Internal choice will be given between an Assembly drawing and a Dis-Assembly\ndrawing).\n74 Periods\n1.\nBearings\n(i)\nOpen-Bearing\n(ii)\nBush- Bearing\n2.\nRod-Joints\n(i)\nCotter-joints for round-rods (Sleeve and cotter joint)\n(ii)\nCotter-joints for square rods (Gib and cotter-joint)\n3.\nTie-rod and Pipe-joint\n(i)\nTurnbuckle\n(ii)\nFlange pipe joint\nNote:\n1.\nIn all Assembly drawings, half sectional front view will be asked.\nSide/End view or Top View/Plan will be drawn without section.\n2.\nIn all Dis-assembly drawings, only two orthographic views (one of the\ntwo views may be half in section or full in section) will be asked of any\ntwo parts only.\n3.\n(a) In all sectional views, hidden lines/ edges are not to be shown.\n(b) In all full views, hidden lines/edges are to be shown.\nPRACTICALS\n66 Periods\n(i) To perform the following tasks (for One only) from the given views of the\nprescribed fifteen (15) machine blocks in ANNEXURE-I.\nValue-Points\n1.\nCopy the given views\n1\n2.\nDrawing the missing view with hidden lines\n2\n3.\nSketching the Isometric view without hidden edges\n5\n4.\nTo make the machine block of the above in three dimensions.\n(Not to scale but approximately proportionately drawn with\nAny medium i.e., Soap-cake, plasticine, clay, wax, floral foam brick\n(available with florists), etc.\n7\n(ii) Computer Aided Design (CAD) - Project\n10\nProject file to be submitted on the simple solids or machine blocks as\nprescribed in part-I by using the CollabCAD software or any equivalent\npertinent software.\n(iii)\n(a) Sessional work relating to machine blocks as prescribed.\n3\n(b) Viva-voce based on part-I and part-II\n2\nTotal Marks\n30\nACTIVITY\nIndustrial Visits (Two) to any industry/ manufacturing plant to acquaint the students\nwith the present - day methods & technology for better conceptual understanding.\nANNEXURE--1\nSIDEVIEW\nFRONTVIEW\n2\n90\nFRONTVIEW\n2\n10\nFRONTVIEW\nSIDEVIEW\nTOPVIEW\n20\n100\n88\nFRONTVIEW\nFRONTVIEW\nTOPVIEW\nTOPVIEW\nPage 1 of 3\n8\n6\nFRONTVIEW\n55\nSIDEVIEW\nFRONTVIEW\n25\n15\nTOPVIEW\nSIDEVIEW\nFRONTVIEW\n15\n80.\nFRONTVIEW\n20\n15\nSIDEVIEW\nFRONTVIEW\nTOPVIEW\nPage 2 of3\n50\nSIDEVIEW\nFRONTVIEW\nFRONTVIEW\nSIDEVIEW\n18\n30\n74\nFRONTVIEW\nSIDEVIEW\nFRONTVIEW\nSIDEVIEW\n40\n品\n35\n45\n70\n85\nSIDE VIEW\nFRONTVIEW\n？\nPage 3 of 3"
+}

@@ -1,0 +1,215 @@
+{
+  "subject_name": "German",
+  "subject_code": "120",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/German_SrSec_2024-25.pdf",
+  "sha256": "b5eaf60302ad44ea0359ba8b17d1c8ac549cd1098c5b0f948cc33ecf53226fb3",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [],
+  "chapters": [
+    {
+      "chapter_number": 2,
+      "title": "Speaking"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Reading and responding"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Writing"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Intercultural awareness"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Knowledge about language"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Language learning strategies"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Comprehension (unseen passage)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Based on stimulus compose an e-mail (approx. 80 words)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Based on stimulus compose a dialogue"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Adjective endings with and without articles"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Conjunctions"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Subjunctive (Konjunktiv II) in Hypothetical situation with ‚w"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Reflexive verbs and pronouns"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Prepositions (trotz, innerhalb, außerhalb, von, zu)"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Completing a passage with the vocabulary provided (from the t"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Comprehension (from the text book)"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Listening comprehensions"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Speaking activities (debate, express one’s views, presentatio"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Project Work"
+    },
+    {
+      "chapter_number": 1,
+      "title": "In the listening and reading comprehension, marks should not"
+    },
+    {
+      "chapter_number": 2,
+      "title": "In the written part marks should not be deducted for minor or"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Die Umwelt und Müllentsorgung (Environment and waste disposal"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Wohnen in Deutschland (Living in Germany)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Autos und Technik (German cars and technology)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Erfinderland Deutschland (German Inventions)"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Hobbys und Sportarten (Hobbies and Sports)"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Geschichte der Berliner Mauer (History of the German Wall)"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Reisen durch Deutschland / Österreich / die Schweiz"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Mode-Trends (Fashion Trends)"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Gesundheit (Healthy living)"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Feste und Ferien (Festivals and celebrations)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Based on stimulus compose an E-mail (approx. 80 words)"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Passive voice (Passiv Präsens, Passiv Präteritum)"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Subordinate clauses (als ob, da, falls, sodass, statt dass, s"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Adjectives and participle as nouns"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Future tense (Futur I - werden + Infinitiv)"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Personal pronouns in accusative and dative case"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Pläne für die Zukunft (My future plans)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Traumberufe der Jugendliche/ Mein Traumberuf"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Mission zum Mars / Ein Tag im Raumschiff (Expedition to Mars/"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Mein Traumreise / Fantasiereise (Your dream or fantasy trip)"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Schultag ohne Stress (school days without stress)"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Soziale Projekte in der Schule (Social responsibility in the"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Studentenleben in Deutschland und Indien (Life of a student i"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Als Austauchschüler in Deutschland (German Student-Exchange P"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Eine Auslandsreise (A foreign trip)"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Alltagsleben und Kultur in Deutschland / in Österreich / in d"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Feste und Feiern (Festivals and celebrations)"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Meine Erfahrungen beim Deutschlernen (My experiences while le"
+    }
+  ],
+  "full_text_excerpt": "2 \n \n listen to an audio text, comprehend \n listen to the conversation and judge someone by their behaviour \n \n2. Speaking \nBy the end of class XII students should be able to: \n talk about a topic explaining the pros and cons of an action or product \n debate on a given topic/ participate in group discussions \n talk about perspectives and probabilities in the future \n talk about historical and personal events in simple language and express opinions \n be a part of a formal or informal interview \n \n3. Reading and responding \nBy the end of class XII students should be able to: \n read simple literary texts and comprehend them \n understand rules and regulations and respond \n read a text/blog and formulate a response with the given information \n \n4. Writing \nBy the end of class XII students should be able to: \n write experiential texts \n write about future plans and feelings \n formulate texts as per the norms followed in German speaking countries \n5. Intercultural awareness \nBy the end of class XII students should be able to: \n evaluate various record breaking events in German speaking countries and discuss those in India. \n compare the school situations, youth scene, social concerns, social life in German speaking countries \nand India \n \n6. Knowledge about language \nBy the end of class XII, the students should be able to: \n understand the importance of grammar in expressing oneself better \n understand and draw comparison with unrealistic situations \n understand the relation between structures and certain activities (e.g. passive for technical processes \nor subjunctive structures to express wishes) \n understand the sentence structure using subordinate clause \n \n7. Language learning strategies \nBy the end of class XII, the students should be able to: \n use their knowledge of context and grammar to understand texts involving complex language \n understand the importance of typical characteristics of text types and use them to understand spoken \nor written texts and to form new texts .\n3 \n \nGerman Class XI \nLesson \nTopic \nCommunication \nStructure \n \nLesson \n10 \n \nRemoval of garbage \n \n To talk about changes \n To debate \n To give alternatives \n To talk about limitations \n \n \n Temporal subordinate clause with \n‘seit/seitdem’ \n Genetive preposition \n‚trotz‘ \n Double barrel conjunction \n‚entweder…oder‘ \n \nLesson \n11 \n \nTransport and \ntechnology \n \n To summarise a text \n To talk about \npreferences \n To talk about \nhypothetical situations \nand their consequences \n To talk about hobbies \n \n Preposition \n‘zu’ + Dative \n Adjective endings in dative case \nwith definite article \n Adjective endings in dative case \nwithout article \n Hypothetical situation- ‘wenn’ + \nsubjunctive (K II) \n \nLesson \n12 \n \nMemories \n \n To narrate about world \nrecords \n To remember something \n To understand and \nformulate rules and \nregulations \n \n Comparative and Superlative as \nadjectives with definite article \n Temporal Subordinate clauses \nwith ‘als’ and ‘wenn’ \n haben+ zu+ infinitive \n \n \nLesson \n13 \n \nTravel plans \n \n To give suggestions \n To question ideas and \nproposals \n To talk about the weather \n \n Reflexive Verbs with dative and \naccussative case \n Prepositions of place and time- \n‘innerhalb, außerhalb’ + genitive \n Preposition of place- ‘von’ + \ndative \n \nLesson \n14 \n \nFashion and fitness \n \n To correlate something \n To express one’s views \n \n \n Double barrel conjunctions \n‘je…desto’ \n Subordinate clause- ‘ohne dass’ \nand ‘ohne…zu + infinitive‘\n4 \n \n \nAssessment Scheme for Class XI \nANNUAL EXAMINATION \n \n \n \n \n \n \nMAX. MARKS 80 \nSection A - Reading \n \n \n \n \n \n \n \n15 Marks \n \n1. Comprehension (unseen passage) \n \n \n \n \n \n10 Marks \n \n2. Comprehension (unseen passage) \n \n \n \n \n \n05 Marks \n \nSection B - Writing \n \n \n \n \n \n \n \n10 Marks \n \n3. Based on stimulus compose an e-mail (approx. 80 words) \n \n \n05 Marks \n \n4. Based on stimulus compose a dialogue \n \n \n \n \n05 Marks \n \nSection C - Applied Grammar \n \n \n \n \n \n \n40 Marks \n5. Adjective endings with and without articles \n \n \n \n \n08 Marks \n(Nominative, accusative and dative) \n \n6. Conjunctions \n \n \n \n \n \n \n \n \n08 Marks \n(entweder…oder, seitdem, je…desto, ohne...zu, als, wenn) \n \n \n \n \n \n7. Subjunctive (Konjunktiv II) in Hypothetical situation with ‚wenn‘ \n \n08 Marks \n \n8. Reflexive verbs and pronouns \n \n \n \n \n \n \n08 Marks \n \n9. Prepositions (trotz, innerhalb, außerhalb, von, zu) \n \n \n \n08 Marks \n \n \nSection D - Textbook \n \n \n \n \n \n \n \n15 Marks \n10. Completing a passage with the vocabulary provided (from the text book) \n05 Marks \n11. Completing a passage with the vocabulary provided (from the text book) \n05 Marks \n12. Comprehension (from the text book) \n \n \n \n \n \n05 Marks\n5 \n \n \n \n \nINTERNAL ASSESSMENT \n \n \n \n \n \n \n \n Max. Marks 20 \n1. Listening comprehensions \n \n \n \n \n \n \n \n05 Marks \n2. Speaking activities (debate, express one’s views, presentations, recitation) \n \n05 Marks \n(It could be conducted as individual or group activity) \n \n3. Project Work \n \n \n \n \n \n \n \n \n \n10 Marks \n(An internet research-based project. It may be a power point presentation or an illustrated file. \nIt can be individual or group, on topics related to the history and culture of Germany.) \n \nRemarks: \n1. In the listening and reading comprehension, marks should not be deducted for grammatical and \northographical errors. \n \n2. In the written part marks should not be deducted for minor orthographical errors. \n \nPROJECT WORK: Suggested Topics \n1. Die Umwelt und Müllentsorgung (Environment and waste disposal) \n2. Wohnen in Deutschland (Living in Germany) \n3. Autos und Technik (German cars and technology) \n4. Erfinderland Deutschland (German Inventions) \n5. Hobbys und Sportarten (Hobbies and Sports) \n6. Geschichte der Berliner Mauer (History of the German Wall) \n7. Reisen durch Deutschland / Österreich / die Schweiz \n(Travelling through Germany / Austria / Switzerland) \n \n8. Mode-Trends (Fashion Trends) \n9. Gesundheit (Healthy living) \n10. Feste und Ferien (Festivals and celebrations) \n \nPRESCRIBED BOOK: Beste Freunde B1.2 (Textbook and Workbook - Chapters 10- 14) \n(Hueber Publishing House, Published in India by Goyal Publishers)\n6 \n \n \nGerman Class XII \nLesson \nTopic \nCommunication \nStructure \n \nLesson \n15 \n \nScience fiction \n \n To talk about future plans \n To make predictions \n To speculate \n To draw comparison with \nunrealistic situations \n \n Future tense -‘werden’ + \ninfinitive \n ‘als ob’ + subjunctive(K II) \n Preposition ‘von’ - in place of \ngenitive \n \n \nLesson \n16 \n \nCo-existence \n \n To talk about consequences \n To suggest an alternative \n To describe an event \n \n \n \n Subordinate clause : \n‚sodass‘/‘so…,dass‘ \n Passive - present tense and \npast tense \n Subordinate clauses- ‘(an)statt \ndass and ‘(an)statt … zu + \ninfinitive \n \nLesson \n17 \n \nSetting up a \nHouse \n \n To formulate rules \n To express one’s feelings \n To judge someone by their \nbehaviour \n \n Passive in present tense with \nmodal verbs \n(NOT TO BE TESTED IN \nGRAMMAR) \n Reciprocal verbs \n \nLesson \n18 \n \nTourism and \ncultural exchange \n \n To give reasons \n To lay down a condition \n To negotiate \n \n \n Subordinate clause - ‘da’ \n Personal pronouns in \nsentences with accusative and \ndative \n Subordinate clause - ‘falls’ \n Adjectives and past participles \nas nouns\n7 \n \nAssessment Scheme for Class XII \n \nANNUAL EXAMINATION \n \n \n \n \n \n \nMax. Marks: 80 \nSection A - Reading \n \n \n \n \n \n \n \n15 Marks \n \n1. Comprehension (unseen passage) \n \n \n \n \n \n10 Marks \n2. Comprehension (unseen passage) \n \n \n \n \n \n05 Marks \n \nSection B - Writing \n \n \n \n \n \n \n \n10 Marks \n \n3. Based on stimulus compose an E-mail (approx. 80 words) \n \n \n 05 Marks \n4. Based on stimulus compose a dialogue \n \n \n \n \n05 Marks \n \n \nSection C - Applied Grammar \n \n \n \n \n \n \n40 Marks \n \n5. Passive voice (Passiv Präsens, Passiv Präteritum) \n \n \n \n08 Marks \n \n6. Subordinate clauses (als ob, da, falls, sodass, statt dass, statt…zu) \n \n08 Marks \n7. Adjectives and participle as nouns \n \n \n \n \n \n08 Marks \n8. Future tense (Futur I - werden + Infinitiv) \n \n \n \n \n08 Marks \n9. Personal pronouns in accusative and dative case \n \n \n \n08 Marks \n \nSection D - Textbook \n \n \n \n \n \n \n \n15 Marks \n \n10. Completing a passage with the vocabulary provided (from the text book) \n05 Marks \n11. Completing a passage with the vocabulary provided (from the text book) \n05 Marks \n12. Comprehension (from the text book) \n \n \n \n \n \n05 Marks\n8 \n \nINTERNAL ASSESSMENT \n \n \n \n \n \n \n \nMax. Marks 20 \n1. Listening comprehensions \n \n \n \n \n \n \n \n05 Marks \n2. Speaking activities (debate, express one’s views, presentations, recitation) \n05 Marks \n(could be conducted as individual or group activity) \n \n3. Project Work \n \n \n \n \n \n \n \n \n10 Marks \nAn internet research-based project. It may be a power point presentation or an illustrated file. \nIt can be individual or group, on topics related to the history and culture of Germany. \n \n Remarks: \n1. In the listening and reading comprehension, marks should not be deducted for grammatical and \northographical errors. \n \n2. In the written part marks should not be deducted for minor orthographical errors. \n \nPROJECT WORK: Suggested Topics \n1. Pläne für die Zukunft (My future plans) \n2. Traumberufe der Jugendliche/ Mein Traumberuf \n(Dream Professions for the youth/ My dream profession) \n \n3. Mission zum Mars / Ein Tag im Raumschiff (Expedition to Mars/A day in a spaceship) \n4. Mein Traumreise / Fantasiereise (Your dream or fantasy trip) \n5. Schultag ohne Stress (school days without stress) \n6. Soziale Projekte in der Schule (Social responsibility in the school) \n7. Studentenleben in Deutschland und Indien (Life of a student in Germany and/or in India) \n8. Als Austauchschüler in Deutschland (German Student-Exchange Programm) \n9. Eine Auslandsreise (A foreign trip) \n10. Alltagsleben und Kultur in Deutschland / in Österreich / in der Schweiz \n(Life and culture in Germany, Austria / Switzerland) \n \n11. Feste und Feiern (Festivals and celebrations) \n12. Meine Erfahrungen beim Deutschlernen (My experiences while learning German) \n \nPRESCRIBED BOOK: \nBeste Freunde B1.2 (Textbook and Workbook - Chapters 15- 18) \n (Hueber Publishing House, Published in India by Goyal Publishers)"
+}

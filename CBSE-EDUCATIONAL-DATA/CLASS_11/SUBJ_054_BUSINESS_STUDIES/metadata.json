@@ -1,0 +1,48 @@
+{
+  "subject_code": "054",
+  "subject_name": "Business Studies",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Commerce",
+  "directory_name": "SUBJ_054_BUSINESS_STUDIES",
+  "directory_path": "CLASS_11/SUBJ_054_BUSINESS_STUDIES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Business Studies",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Business Studies",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 11 Business Studies",
+        "url": "https://ncert.nic.in/textbook/pdf/kebs101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ac3d1e72b1a5ea888010167cf59b544460f442686e0d20349af640228402e1a1",
+    "file_size_bytes": 360508,
+    "units_extracted": 11,
+    "chapters_extracted": 0
+  }
+}

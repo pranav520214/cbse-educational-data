@@ -1,0 +1,56 @@
+{
+  "subject_code": "113",
+  "subject_name": "Odia",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_113_ODIA",
+  "directory_path": "CLASS_12/SUBJ_113_ODIA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Odia",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Odia_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Odia",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Odia_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Odia",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/ODIA-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Odia",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/ODIA-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "92723f6fb900e6a399b2aa6d69907f4ec24037045aaf69602badd026f1bacdd5",
+    "file_size_bytes": 490564,
+    "units_extracted": 0,
+    "chapters_extracted": 39
+  }
+}

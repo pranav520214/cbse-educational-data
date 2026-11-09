@@ -1,0 +1,241 @@
+{
+  "subject_name": "Business Administration",
+  "subject_code": "833",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Management",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/833-BUSINESS_ADMINISTRATION.pdf",
+  "sha256": "f784143b4a57d25e76ac968a7e89172b9ca4aac69d1ed717ca5efcd07bdd9b7b",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Concept of Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Functions of Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Communication",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Motivation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Leadership",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Social Responsibility of Business",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Information Technology and Business",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1 : Introduction to Management"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2 :Concept of Management"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3 : Functions of Management"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4 : Communication"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5 : Motivation"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Unit 6 : Leadership"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Unit 7 : Social Responsibility of Business"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Unit 8 : Information Technology and Business"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Concept of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "functions of"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Communication"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Motivation"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Leadership"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Social"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Information"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit few firms of different scales Small Scale, Medium Scale"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Conduct a small survey to understand the impact of COVID 19 p"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create a project on SWOT analysis of E-commerce business sect"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Conduct a survey with your neighbours to understand the consu"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Visit few business organizations near your vicinity and diffe"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Make a project on the steps involved in the capital subscript"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Visit a firm and collect information on different types of wr"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Visit a business organization and conduct an interview with t"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Visit a business enterprise in your vicinity and interact wit"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit a business enterprise near your home and make a list of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Visit websites of Reliance Jio and Airtel. Make a comparison"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Visit a firm and make a note on the organizational structure"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Conduct a survey with manufacturing organizations to understa"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Visit a firm near your area to understand the financial incen"
+    },
+    {
+      "chapter_number": 6,
+      "title": "List out the leadership traits in five leaders in any area-cr"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Write a note on Corporate Social Responsibility with special"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Conduct a survey to assess customer satisfaction with Online"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Perform a survey to find out how many people in your society"
+    }
+  ],
+  "full_text_excerpt": "833-Business Administration-Class XI & XII - 2026-2027 \nPage 4 of 13 \n \nBUSINESS ADMINISTRATION (SUBJECT CODE 833) \nCLASS-XII FOR SESSION 2026-2027 \nTotal Marks: 100 (Theory-60 + Practical-40)\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 5 of 13 \n \nDETAILED CURRICULUM/TOPICS: \n \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Communication Skills-IV \n13 \n2. \nUnit 2: Self-management Skills-IV \n07 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n13 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n07 \nTOTAL DURATION \n50 \n \nNote: \nThe Detailed Curriculum/ Topics to be covered under Part A: Employability Skills can \nbe downloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1 : Introduction to Management \n16 \n2. \nUnit 2 :Concept of Management \n25 \n3. \nUnit 3 : Functions of Management \n25 \n4. \nUnit 4 : Communication \n16 \n5. \nUnit 5 : Motivation \n16 \n6. \nUnit 6 : Leadership \n20 \n7. \nUnit 7 : Social Responsibility of Business \n16 \n8. \nUnit 8 : Information Technology and Business \n16 \nTOTAL DURATION \n150 \n \nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n1. Introduction to \nManagement \n1.1 Meaning, \nDefinition of \nManagement \nSession: Understand the meaning, definition & \nConcept of Management. \n• Meaning of Management. \n• Definition by various management experts & \nthinkers. Concept of management.\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 6 of 13 \n \n1.2 Features, \nImportance, \nFunctions of \nManagement \nSession: Understand the characteristics and \nsignificance of management. \n• Features of management. \n• Importance of management. \n \n• Functions of management \n \nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n1.3 Levels of \nManagement \nSession: Understand the hierarchy of levels of \nmanagement \n• Understand the various levels of \nmanagement. \n• Understanding the importance of every level \nof management. \nActivity: Prepare a PPT on levels of \nmanagement of any multinational co. \n1.4 Management \nand Administration \nSession: Understanding the relation between \nmanagement and administration. \n• Meaning of Management & Administration. \n• Difference between Management & \nAdministration \nActivity: Prepare a chart highlighting the \ndifferences between Management & \nAdministration. \n2. Concept of \nManagement \n2.1 Nature of \nManagement \nSession: Understand the nature of \nmanagement. \n• Understand Management as Art. \n• Understand Management as Science. \n• Understand Management as Profession. \n2.2 Concept and \nthoughts \nof \nManagement \nSession: Understand the various thoughts & \napproaches to Management. \n• Understand Meaning & concept of Classical \nApproach \n• Understand Meaning & Concept of Scientific \nManagement \n• Understand Meaning & concept of Neo- \nClassical approach \n2.3 Principles of \nManagement \nSession: Understand the Principles of \nmanagement. \n• Understand the Need of Management \nPrinciples. \n• Understand the contribution of Taylor’s \nconcept of Scientific Management. \n• Understand the contribution of Fayola’s \nPrinciples of Management (14 Principles}\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 7 of 13 \n \n3. functions of \nmanagement \n3.1 Planning \nSession: understand the meaning and \nsignificance of Planning \n Meaning \nof Planning. \n• \nImportance of Planning. \n• \nTypes of Plans. . \n• \nProcess of Planning. \n3.2 Organizing \nSession: understand the meaning and \nsignificance of Organising \nMeaning \nof Organising. \n• \nImportance of Organising. \n• \nOrganising as a process. \n• \nOrganisation as a structure. \n• \nTypes of Organisation. \n \nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n3.3 Staffing \nSession: Understand the meaning and \nsignificance of staffing. \n• Meaning of staffing. \n• Importance of staffing. \n• Staffing process \n3.4 Directing \nSession: understand the meaning and \nsignificance of Directing \n \nMeaning of Directing. \n• Importance of Directing. \n• Elements of Directing \n3.5 Controlling \nSession: understand the meaning and Importance \nof Controlling. \n• \nMeaning of Controlling. \n• \nImportance of Controlling. \n• \nRelationship between Planning and \nControlling \n3.6 Coordination \nSession: understand the meaning and Importance \nof Coordination. \n• \nMeaning of Coordination. \n• \nImportance of Coordination. \n• \nCoordination as essence of management. \n4. Communication \n4.1 Introduction \nSession: Understand the Meaning and importance \nof Communication. \n• \nDefinition of communication. \n• \nMethod of communication. \n4.2 Significance of \nCommunication \nSession: understand the significance of \ncommunication. \n• Transfer of ideas \n• For education \n• For organizational structure \n4.3 Types of \nCommunication \nSession: understand the types of communication. \nVerbal and non-verbal \ncommunication \nFormal and informal\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 8 of 13 \n \n \ncommunication. \nVisual \ncommunication \n4.4 Features of \nEffective \nCommunication \nSession: understand the process of Effective \ncommunication. \n4.5 Hurdles of \nCommunication \nSession: understand the various hurdles of \ncommunication. \n• \nLanguage hurdles \n• \nEmotional hurdles \n• \nPhysical hurdle \n• \nSystematic hurdle \n• \nAttitudinal hurdle \n5. Motivation \n5.1 Motivation and its \nImportance \nSession: understand the Meaning and \nImportance of Motivation. \nDefinition \nof Motivation \n• \nCharacteristics of Motivation \n• \nSignificance of Motivation \n \nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n5.2 Theories of \nMotivation \nSession: understand Types of motivational theories \nContent theories in detail \n• \nDifferent motivational theories \n• \nType of Content theories \n▪ Maslow’s Theory \n▪ Herzberg Theory \n▪ ERG Theory \n5.3 Theories of \nMotivation \nSession: understand the Process of theories in \ndetail, Reinforcement theory of Motivation \n• Type of Process theories \n• Expectancy Theory \n• Equity Theory Reinforcement theory of \nmotivation. \n5.4 Theories of \nMotivation and \nMethods of \nMotivation \nSession: Understand the Behavioural Theories \nin detail and Measures of Motivation. \n• Behavioural Theories \n• McGregor Theory X and Y \n• Ou chi Theory Z Methods of Motivation \n• Financial Incentives \n• Non-Financial Incentives \n5.5 Methods of \nMotivation; \nMotivation and \nInspiration \nSession: Understand the Methods of Motivation \nand able to differentiate Motivation and \nInspiration. \n• Job Enlargement \n• Job Enrichment \n• Difference between Motivation and Inspiration\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 9 of 13 \n \n6. Leadership \n6.1 Meaning, \nDefinition and \nImportance of \nLeadership \nSession: Understand the meaning, importance \nand significance of leadership. \n• Meaning and definition of Leadership \n• Significance of Leadership \n6.2 Types of Leaders Session: Understand the Classification of \nLeaders \n• Categories of different kinds of leaders \n6.3 Characteristics of \na Good Leader \nSession: Understand the Characteristics of a \nGood leader \n• Understanding qualities which make a person \nleader. \n6.4 Leadership \nStyles \nSession: Understand the various Styles of \nLeadership \n• Comprehending different styles leaders can \nadopt \n7. Social \nResponsibility of \nBusiness \n7.1 Meaning of \nSocial Responsibility \nSession: Understand the concept of social \nresponsibility of business in society. \n7.2 Business and \nSociety \nSession: Understand the correlation between \nbusiness and society. \n7.3 Concept of Social \nResponsibility \nSession: Understand the evolution and concept of \nsocial responsibility. \n• Economic responsibility \n• Legal responsibility \n• Ethical responsibility \n• Philanthropic Responsibility \nUNIT \nSUB-UNIT \nSESSION/ ACTIVITY/ PRACTICAL \n7.4 Importance of \nSocial \nResponsibility \nSession: Understand the importance of Social \nresponsibility. \n• From employees view \n• From customer views \n• From investors views \n• From supplier views \n• From govt. views \n• From society views \n7.5 Corporate Social \nResponsibility \nSession: \n• \nUnderstand the concept of corporate social \nresponsibility. \n• \nMeaning of CSR \n• \nPotential business benefits of CSR \n8. \nInformation \ntechnology and \nbusiness \n8.1 Meaning, \nDefinition \nand \nImportance of \nInformation \nTechnology \nSession: Understand the Meaning of Information \nTechnology and Significance of Information \nTechnology \n• Meaning and definition of information technology \n• Relevance of information technology in current \nscenario\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 10 of 13 \n \n8.2 Information \ntechnology in \nFunctional areas of \nbusiness \nSession: \n• Understanding role of Information Technology in \ndifferent areas of business. \n• Usage of Information technology in various \nareas of business \n8.3 Meaning of \nEbusiness \nScope of Ebusiness \nSession: Understand the Meaning of Ebusiness \n• Information Technology in different areas of \nbusiness \n• Scope of E-business. \n• Understand the Scope of E-Business \n8.4 Merits and \nDemerits of Ebusiness \nSession: understand the merits and demerits of E- \nbusiness. \n• \nMerits of E-Business \n• \nDemerits of E- Business \n \nPRACTICAL GUIDELINES FOR CLASS XI \n \n \nAssessment of performance: \n \nThe two internal examiners, assigned for the conduct and assessment of Practical Examinations \neach in Senior Secondary School Curriculum (Under NSQF). Question for the viva examinations \nshould be conducted by both the examiners. Question to be more of General nature, project work \nor the curriculum. Investigatory Project especially those that show considerable amount of effort \nand originality, on the part of the student, should get suitable high marks, while project of a routine \nor stereotyped nature should only receive MEDIOCRE marks. \n \n \nProcedure for Record of Marks in the Practical answer-books: \nThe examiner will indicate separately marks of practical examination on the title page of the answer- \nbooks under the following heads: - \n \nProject -15 marks \nProjects for the final practical is given below. Student may be assigned \n \nViva based on Project -5 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, \nviva may be based on questions of practical nature from the field of subject as per the Curriculum\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 11 of 13 \n \nPractical File -5 Marks \nStudents to make a power point presentation / assignment / practical file / report. Instructor \nshall assign them any outlet to study the elements in business administration. Suggested list of \nPractical - \n \n1. Visit few firms of different scales Small Scale, Medium Scale and Large Scale nearby \nyour vicinity and make a list of their commercial operations. Differentiate them across \nfollowing: \n \n• \nCapital invested \n \n• \nLabour intensive or capital intensive \n \n• \nNumber of persons working \n \n2. Conduct a small survey to understand the impact of COVID 19 pandemic on small retailer \ndealing in non-essential items. \n \n3. Create a project on SWOT analysis of E-commerce business sector of Indian economy. \n \n4. Conduct a survey with your neighbours to understand the consumption habits in COVID- \n19 times. The aim should be to differentiate between the consumption of convenient \ngoods and shopping goods. \n \n5. Visit few business organizations near your vicinity and differentiate between the types \nw.r.t. Sole propertiership, co-operatives, partnership and companies. \n \n6. Make a project on the steps involved in the capital subscription process of SBI Cards and \nPayment Services Ltd. \n \n7. Visit a firm and collect information on different types of written and oral communication \nused in that organization. \n \n8. Visit a business organization and conduct an interview with the few administration \npersonnel to understand how Information Technology is useful for their business. \n \n9. Visit a business enterprise in your vicinity and interact with the HR manager to understand \nthe OB challenges faced by him. \n \nDemonstration of skill competency in Lab Activities -15 marks \nGuidelines for Project Preparation: \nThe final project work should encompass chapters on: \n \na) Introduction, \n \nb) Identification of core and advance issues, \n \nc) Learning and understanding and \n \nd) Observation during the project period\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 12 of 13 \n \nPRACTICAL GUIDELINES FOR CLASS XII \n \n \n \nAssessment of performance: \nThe two internal examiners, assigned for the conduct and assessment of Practical Examinations \neach in Senior Secondary School Curriculum (Under NSQF). Question for the viva \nexaminations should be conducted by both the examiners. Question to be more of General \nnature, project work or the curriculum. Investigatory Project especially those that show \nconsiderable amount of effort and originality, on the part of the student, should get suitable high \nmarks, while project of a routine or stereotyped nature should only receive MEDIOCRE marks. \n \n \nProcedure for Record of Marks in the Practical answer-books: \nThe examiner will indicate separately marks of practical examination on the title page of the \nanswer-books under the following heads: - \n \n \nProject -15 marks \nProjects for the final practical is given below. Student may be assigned \n \n \nViva based on Project -5 marks \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, \nviva may be based on questions of practical nature from the field of subject as per the Curriculum \n \n \nPractical File -5 Marks \n \nStudents to make a power point presentation / assignment / practical file / report. Instructor shall \nassign them any outlet to study the elements in business administration. Suggested list of \nPractical - \n \n1. \nVisit a business enterprise near your home and make a list of all the managerial \nactivities done there. Also list out the different managerial levels and designations in \nthat enterprise.\n833-Business Administration-Class XI & XII - 2026-2027 \nPage 13 of 13 \n \n2. \nVisit websites of Reliance Jio and Airtel. Make a comparison between their plans. The \nplans should include Objectives, strategies, policies and programmes. \n \n3. \nVisit a firm and make a note on the organizational structure adopted by them. \n \n4. \nConduct a survey with manufacturing organizations to understand the communication \nproblems they face while interacting with the employees. \n \n5. \nVisit a firm near your area to understand the financial incentives given by the employer \nto motivate the employees. \n \n6. \nList out the leadership traits in five leaders in any area-cricket, politics or business. \n \n7. \nWrite a note on Corporate Social Responsibility with special reference to Companies \nAct 2013. Write detailed CSR initiatives adopted by companies to Save Water. \n \n8. \nConduct a survey to assess customer satisfaction with Online shopping over Offline \nshopping. This survey can be administered with the people staying in your society. \n \n9. \nPerform a survey to find out how many people in your society use Net banking over \ndirectly visiting bank. \n \n \nDemonstration of skill competency in Lab Activities -15 marks \nGuidelines for Project Preparation: \nThe final project work should encompass chapters on: \n \na. Introduction, \n \nb. Identification of core and advance issues, \n \nc. Learning and understanding and \n \nd. Observation during the project period."
+}

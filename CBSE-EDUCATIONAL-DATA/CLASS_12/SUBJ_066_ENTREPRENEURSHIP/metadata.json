@@ -1,0 +1,56 @@
+{
+  "subject_code": "066",
+  "subject_name": "Entrepreneurship",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Commerce / Elective",
+  "directory_name": "SUBJ_066_ENTREPRENEURSHIP",
+  "directory_path": "CLASS_12/SUBJ_066_ENTREPRENEURSHIP",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Entrepreneurship",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Entrepreneurship",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Entrepreneurship",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Entrepreneurship-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Entrepreneurship",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Entrepreneurship-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "48fef7abfadb8f75972ed51e0d1986528648c0101246039b17c7663bbafde185",
+    "file_size_bytes": 284837,
+    "units_extracted": 12,
+    "chapters_extracted": 16
+  }
+}

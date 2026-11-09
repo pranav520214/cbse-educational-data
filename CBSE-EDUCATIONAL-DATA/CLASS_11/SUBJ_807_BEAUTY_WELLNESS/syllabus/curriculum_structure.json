@@ -1,0 +1,465 @@
+{
+  "subject_name": "Beauty & Wellness",
+  "subject_code": "807",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Personal Care",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XI.pdf",
+  "sha256": "a32e8f82cf96dc80bd35bedbee0af8233885c43653121bc409cb1ffb84694856",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Beauty and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Skin Care Services",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Manicure and Pedicure",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Depilation Services",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Beauty and Wellness Industry and Beauty Therapy",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Manicure and Pedicure Services",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "INTRODUCTION TO BEAUTY AND WELLNESS INDUSTRY AND BEAUTY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "SKIN CARE SERVICES",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "MANICURE&PEDICURESERVICES",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "DEPILATION SERVICES",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify various"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to beauty &"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify & enlist various"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Prepare a project report on"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify different"
+    },
+    {
+      "chapter_number": 1,
+      "title": "List different services in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of different"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Prepare"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Various set ups for"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Different sterilization and"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Method to prepare client"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Pre & post treatment"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Waste Disposal methods"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Safe &effective hygiene"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Prepare and maintain the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Fill up client record cards"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Prepare the client for"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Sterilize& disinfect equipment"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Segregate &dispose-off waste"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Maintain Health &"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Understand"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Contra-indications"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Knowledge of applicable"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Norms"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Read the information on the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify contraindications"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Storing& handling of products"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Perform"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Anatomical structure of the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Functions"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Characteristics of the skin"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Actions of the facial, neck and"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Effect of the natural ageing"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Different"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Importance"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Need"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Black"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Bleach"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Face clean-up"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Different types of masks and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Draw & label the structure"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of various"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Identification of skin type &"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Perform facial strokes on"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Demonstration"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Analysing skin sensitivity &"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Demonstration for bleach"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Identification of products"
+    },
+    {
+      "chapter_number": 10,
+      "title": "provide"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Application of mask"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Carry out cleaning of the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Perform Manicure"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Understand how to work"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Understand how to perform"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Anatomical"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Anatomy & physiology of"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Structure and functions of"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Knowledge"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Understand how to provide"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify contra-indications and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify"
+    },
+    {
+      "chapter_number": 3,
+      "title": "List the type of nail diseases."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Prepare the client for manicure"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Identify the products and tools"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Depilation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Equipment,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Anatomy and physiology of skin that"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Contra-indications & contra-actions"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Understand how to work safely"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Various techniques associated with"
+    },
+    {
+      "chapter_number": 6,
+      "title": "suitability of specific products based"
+    },
+    {
+      "chapter_number": 7,
+      "title": "method of application and removal"
+    },
+    {
+      "chapter_number": 8,
+      "title": "advantages,"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Conduct skin test to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Assess the hair growth"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstrate pre & post"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Perform waxing process"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Threading"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Types of tools and materials used"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of products suitable for pre"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Different types of threading"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Shape and proportion of the"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Method to carry out the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Select threading tools,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Application of pre &"
+    }
+  ],
+  "full_text_excerpt": "807-Beauty & Wellness - Class XI - 2026-2027 \nPage 1 of \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nBEAUTY AND WELLNESS (SUBJECT CODE-807) \nJOB ROLE: BEAUTY THERAPIST \nCLASS - XI \nCOURSE OVERVIEW \n \nThis course is designed for the students to learn about and perform the basics of beauty therapy \nand maintain hygiene and safety at workplace. The students would gain knowledge about \nvarious beauty products and will be able to perform basic depilation, manicure, pedicure and \nbasic face care services. They will be able to assist Beauty Therapist in providing advanced \nservices. The students will be trained in the correct usage and handling to perform the skin \ntreatments safely. \n \n \nSCHEME OF UNITS \n \nThis course is a planned sequence of instructions consisting of units meant for developing \nemployability and vocational competencies of students of Class XI opting for skill subject along \nwith other education subjects.\n807-Beauty & Wellness - Class XI - 2026-2027 \nPage 2 of \n \nBEAUTY AND WELLNESS (SUBJECT CODE-807) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory - 60 + Practical - 40) \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills-III \n10 \n2 \nUnit 2 : Self-Management Skills-III \n10 \n2 \nUnit 3 : ICT Skills-III \n10 \n2 \nUnit 4 : Entrepreneurial Skills-III \n15 \n2 \nUnit 5 : Green Skills-III \n05 \n2\n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit 1: Introduction to Beauty and \nWellness Industry and Beauty \nTherapy \n10 \n20 \n \n \n25 \nUnit 2: Skin Care Services \n20 \n40 \nUnit 3: Manicure and Pedicure \nServices \n10 \n40 \n \n25 \nUnit 4 : Depilation Services \n10 \n35 \nTotal \n50 \n130 \n50 \nPart C \nPractical Work \n \nPractical Examination \n15 \nWritten Test \n10 \nViva Voce \n10 \nTotal \n35 \nPart \nProject Work /Field Visit /Practical \nFile/Student Portfolio \n15 \n05 \nTotal \n05 \nGRAND TOTAL \n260 \n100\n807-Beauty & Wellness - Class XI - 2026-2027 \nPage 3 of \n \n \nDETAILED CURRICULUM/TOPICS FOR CLASS - XI \nPART-A: EMPLOYABILITY SKILLS \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-III \n10 \n2. \nUnit 2: Self-management Skills-III \n10 \n3. \nUnit 3: Information and Communication Technology Skills-III \n10 \n4. \nUnit 4: Entrepreneurial Skills-III \n15 \n5. \nUnit 5: Green Skills-III \n05 \nTOTAL DURATION \n50 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \nPART-B - SUBJECT SPECIFIC SKILLS \n \n• \nUnit 1: Introduction to Beauty and Wellness Industry and Beauty Therapy \n \n• \nUnit 2: Skin Care Services \n• \nUnit 3: Manicure and Pedicure Services \n \n• \nUnit 4: Depilation Services \nUNIT-1: INTRODUCTION TO BEAUTY AND WELLNESS INDUSTRY AND BEAUTY \nTHERAPY \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nIdentify various \n1. Introduction to beauty & \nwellness industry \n1. Identify & enlist various \ncareer \nbeauty & wellness service \nopportunities & \nproviders \nmethods within \n \nthe beauty sector. \n2. Prepare a project report on \nany organization present \n \nlocally. There port should \n \ninclude the following- \n• \nSize \n• \nService \n• \nEquipment \n• \nManpower\n807-Beauty & Wellness - Class XI - 2026-2027 \nPage 4 of \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n2. \nIdentify different \n1. List different services in \n1. Demonstration of different \nservices used in beauty \ntherapy \nservices in beauty \nbeauty therapy \ntherapy \n• Pedicure \n&Manicure \n• Threading \n• Waxing \n• Bleach \n• Face clean up \n• Makeup \n• Hairdo \n• Mehendi \n3. \nPrepare \nMaintain \narea \nand \nwork \n1. Various set ups for \ntreatment work area. \n2. Different sterilization and \ndisinfection process \n3. Method to prepare client \nrecord cards \n4. Pre & post treatment \npreparation for clients \n5. Waste Disposal methods \n6. Safe &effective hygiene \npractices for beauty \nservices \n1. Prepare and maintain the \ntreatment work area \n2. Fill up client record cards \nappropriately \n3. Prepare the client for \ntreatment \n4. Sterilize& disinfect equipment \n&tools \n5. Segregate &dispose-off waste \naccordingly. \n4. \nMaintain Health & \nSafety at Work \nArea \n1. Understand \n \nthe \nmanufacturer’s \ninstructions \nrelated to \nequipment and product \nuse and cleaning. \n2. Contra-indications \nrelated \nto \nbeauty \ntreatments. \n3. Knowledge of applicable \nlegislation relating to the \nworkplace \n4. Norms \nfor \nstoring \n&handling products, tools \nand equipment safely to \nmeet \nwith \nthe \nmanufacturer’s \ninstructions \n1. Read the information on the \nlabels of beauty products \n2. Identify contraindications \nof \nvarious beauty treatments \n3. Storing& handling of products \ntools and equipment safely.\n807-Beauty & Wellness - Class XI - 2026-2027 \nPage 5 of \n \nUNIT-2: SKIN CARE SERVICES \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nPerform \nskin \ncare services \n1. Anatomical structure of the \nskin-The \nlayers \nof \nthe \nepidermis: the dermis, the \nsubcutaneous layer; the hair \nfollicle, the hair shaft, the \nsebaceous gland, arrectorpili \nmuscle, \nsweat \ngland, \nand sensory nerve endings \n2. Functions \nof \nthe \nskin- \nSensitivity, heat regulation, \nabsorption, \nprotection, \nexcretion, \nsecretion \nand \nvitamin D production \n3. Characteristics of the skin \nand skin types- oily, dry, \ncombination etc. \n4. Actions of the facial, neck and \nshoulder muscles bones of \nthe head, neck and shoulder \ngirdle, position of the head, \nface, \nneck, \nchest \nand \nshoulder. \n5. Effect of the natural ageing \nprocess on the skin, facial \nmuscles and muscle tone \n6. Different \ntypes \nof \nskin \nproducts \nand \nmethods \nto \napply \n7. Importance \nof \ncleansing, \ntoning, patch test &bleach. \n8. Need \nfor \nskin \nwarming, \ndifferent \ntypes \nof \nskin \nwarming \ndevices \nand \nits \neffect on the skin \n9. Black \nhead/ \nwhite \nhead \nextraction \n10. Bleach \npreparation \n& \napplication \n11. Face clean-up \n12. Different types of masks and \ntheir effects on the skin \nMasks: Cream, warm oil, clay, \npeel off, thermal, etc. links \nbetween \nmask \napplication \ntiming and skin condition \n1. Draw & label the structure \nof skin. \n2. Demonstration of various \nfacial \nstrokes, \nmuscles, \npressure points &lymphatic \ndrainage \n3. Identification of skin type & \ncondition \n4. Perform facial strokes on \ndummies \n5. Demonstration \n \nof \nperforming \ncleansing \nprocess \n6. Analysing skin sensitivity & \nconduct patch test \n7. Demonstration for bleach \npreparation & application. \n8. Identification of products \nsuitable for skin type \n9. Demonstration \nof \nthe \nprocess of extraction using \ncomedon extractor \n10. provide \nfacial \nmassage \nusing \na \nmedium \nand \ntechniques suitable for the \nclient’s \nskin \ntype \nand \ncondition \n11. Application of mask \n12. Perform \ntoning \n& \nmoisturizing of skin \n13. Carry out cleaning of the \nskin \npost-procedure \nto \nensure skin is left clean, \ntoned \nand \nsuitably \nmoisturized\n807-Beauty & Wellness - Class XI - 2026-2027 \nPage 6 of \n \nUNIT-3: MANICURE&PEDICURESERVICES \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nPerform Manicure \n& Pedicure \nServices \n1. Understand how to work \nsafely and effectively when \nproviding \nmanicure \n& \npedicure services \n2. Understand how to perform\nclient consultation, treatment\nplanning and preparation \n3. Anatomical \nstructure, \nfunction, characteristics of \nnail and the process of nail \ngrowth \n4. Anatomy & physiology of \nhand &feet. \n5. Structure and functions of \nthe lymphatic vessels of \nthe lower leg, foot, hand \nand arm \n6. Knowledge \non \ndifferent \nproducts \n& \ntools \nfor \nmanicure& \npedicure \nservices. \n7. Understand \ndifferent \nmanicure \n& \npedicure \ntechniques, \n8. Understand how to provide \naftercare advice for clients \n1. Identify contra-indications and \ncontra-actions that affect or \nrestrict manicure & pedicure \nservices \n2. Identify \nnail \nshape, \nnail \ncondition (texture, disease etc) \n3. List the type of nail diseases. \n4. Identify \n& \nname \nvarious \nimportant bones &muscles of \nhand &feet \n5. Prepare the client for manicure \n&pedicure services. \n6. Identify the products and tools \nsuitable \nto \ncarry \nout \nthe \nmanicure& pedicure services- \nExfoliant, enamel remover, nail \nenamels, cuticle cream Tools: \npedicure clipper, foot scrapper, \nnail brush, nail file, cuticle \nnippers, cuticle knife, emery \nboards, \nnail \nscissors, \nnail \nclippers \n7. Demonstration \nof \nvarious \ntechniques used in manicure \n&pedicure \nservices. \nTechniques: \nFiling, \nbuffing, \napplication of cuticle cream, \nremoval \nof \ncuticle, \ncuticle \npushing, polishing.\n807-Beauty & Wellness - Class XI - 2026-2027 \nPage 7 of \n \nUNIT- 4: DEPILATION SERVICES \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nDepilation \nServices: \n \nWaxing \n1. Equipment, \nmaterials, \nproducts, \ntechniques and treatment planning \nfor waxing \n2. Anatomy and physiology of skin that \nrelates to waxing treatment \n3. Contra-indications & contra-actions \nthat \naffect \nor \nrestrict \nwaxing \ntreatments \n4. Understand how to work safely \nand \neffectively \nwhen \nproviding \nwaxing treatments to the clients \n5. Various techniques associated with \nand working temperatures for the \ndifferent types of hot wax and warm \nwax \n6. suitability of specific products based \non hair type/ hair growth \n7. method of application and removal \nof waxing products in relation to the \ndirection of hair growth \n8. advantages, \ndisadvantages \nand \nlimitations of facial waxing and \nsuitable \nalternative \nfacial \nhair \nremoval procedures e.g. sugaring, \ntweezing, \nshaving, \ndepilatory \ncreams, \nelectrical \ndepilatory, \nabrasive mitts, depilation, intensive \npulse light, laser \n1. Conduct skin test to \ncheck for reaction \n2. Assess the hair growth \npattern \n3. Demonstrate pre & post \npreparation of client for \nwaxing \n4. Demonstration \nof \nthe \nprocess for warming the \nwax \n5. Perform waxing process \nas per requirement \n2. \nThreading \n1. Types of tools and materials used \nfor \nthreading-e.g. \nscissors, \ndisposable eye brow brush etc. \nmaterials: thread \n2. Types of products suitable for pre \nand post-threading services \n3. Different types of threading \ntechniques \n4. Shape and proportion of the \neyebrows in relation to facial \nfeatures and existing eyebrow \nshape \n5. Method to carry out the \nthreading techniques \n1. Select threading tools, \nmaterials \nand \nequipment \n2. Demonstration \nof \nthreading process for \nhair removal \n3. Application of pre & \npost products during \nthreading."
+}

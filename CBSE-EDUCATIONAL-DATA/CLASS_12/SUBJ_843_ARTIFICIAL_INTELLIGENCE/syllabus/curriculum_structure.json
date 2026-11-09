@@ -1,0 +1,244 @@
+{
+  "subject_name": "Artificial Intelligence",
+  "subject_code": "843",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Emerging Tech",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XII.pdf",
+  "sha256": "b649b04e67a67ca68cfef28696306dfb5cf6b6f99cd6e770024dddab4769be03",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Python Programming - II*",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Data Science Methodology: An Analytic",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Making Machines See",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "AI with Orange Data Mining Tool*",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Introduction to Big Data and Data Analytics",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Understanding Neural Networks",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Generative AI",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Data Storytelling",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Data Science Methodology: An Analytic Approach to Capstone Project",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "PYTHON PROGRAMMING - II *(to be evaluated in practicals only)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "DATA SCIENCE METHODOLOGY: AN ANALYTIC APPROACH TO CAPSTONE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "MAKING MACHINES SEE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "AI WITH ORANGE DATA MINING TOOL (*to be evaluated in practicals only)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "INTRODUCTION TO BIG DATA AND DATA ANALYTICS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "UNDERSTANDING NEURAL NETWORKS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "GENERATIVE AI",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "DATA STORYTELLING",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Develop an informed perspective on Artificial Intelligence (A"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Understand the role of Python in AI development and its pract"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Harness the power of AI using no-code tools like Orange Data"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Comprehend the significance of Data Science Methodology in a"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Explore the fundamentals of computer vision and its applicati"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Delve into the diverse possibilities of Generative AI, includ"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Understand the structure and components of neural networks, b"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Appreciate the value of storytelling as a powerful tool to co"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Practical File:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Minimum 6 programs of Python."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Minimum 3 programs using Orange Data Mining tool."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Minimum 1 problem to create a Data Story using all steps of D"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Write Python code to create a Pandas DataFrame using any sequ"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Download dataset in the form of CSV from any public open-sour"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Python Code to Evaluate a Model."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Perform step wise procedure of Data Visualization using the O"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Perform Classification with Orange Data Mining."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Evaluate the Classification Model with Orange."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Perform Image analytics using the Orange data mining tool."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Write down steps to visualize word frequencies with Word Clou"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Capstone Project:"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nPage 1 of 12 \n \n \nCURRICULUM FOR SESSION 2026-2027 \n \nARTIFICIAL INTELLIGENCE (SUB. CODE - 843) \nJOB ROLE: AI Assistant \nCLASS - XII \nOBJECTIVES OF THE COURSE: \nArtificial Intelligence (AI) is a transformative field in computer science that focuses on creating \nintelligent systems capable of learning, adapting, and self-improving. These systems can \nprocess vast amounts of data with remarkable speed and accuracy, surpassing human \ncapabilities in many domains. AI's impact extends across disciplines, offering innovative \nsolutions to some of the world's most pressing challenges. From revolutionizing healthcare with \nadvanced diagnostics and personalized treatments to enhancing agricultural practices and \nensuring food security, AI has the power to reshape industries. It can improve access to quality \neducation, and play a pivotal role in protecting and restoring our planet's ecosystems by \ncleaning our oceans, air, and water. The possibilities for leveraging AI to create a better future \nare boundless, provided we harness its potential responsibly and ethically. \nLEARNING OUTCOMES: \nBy the end of this course, students will: \n1. Develop an informed perspective on Artificial Intelligence (AI), enabling them to think \ncritically about its implications for society and the world. \n2. Understand the role of Python in AI development and its practical applications. \n3. Harness the power of AI using no-code tools like Orange Data Mining to solve \ncomplex problems efficiently. \n4. Comprehend the significance of Data Science Methodology in a Capstone Project to \naddress real-world challenges. \n5. Explore the fundamentals of computer vision and its applications in processing and \nanalyzing digital images and videos, as well as its role in intelligent machines. \n6. Delve into the diverse possibilities of Generative AI, including image generation, text \nsynthesis, audio production, and video creation. \n7. Understand the structure and components of neural networks, building a foundational \nknowledge of deep learning. \n8. Appreciate the value of storytelling as a powerful tool to communicate ideas, insights, \nand solutions effectively in the context of AI. \nSCHEME OF UNITS: \nThis course follows a structured sequence of instructional units designed to develop \nemployability and vocational skills among students. These units are carefully crafted to \nintegrate seamlessly with other educational subjects, fostering a holistic learning experience.\nCBSE | DEPARTMENT OF SKILL EDUCATION \nPage 2 of 12 \n \n \n \n \nARTIFICIAL INTELLIGENCE (SUBJECT CODE - 843) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \nUNITS \nNO. OF \nHOURS \nMAX MARKS \nPART A \nEMPLOYABILITY SKILLS \nUnit 1: Communication Skills-IV \n15 \n2 \nUnit 2: Self-Management Skills-IV \n10 \n2 \nUnit 3: ICT Skills-IV \n15 \n2 \nUnit 4: Entrepreneurial Skills-IV \n10 \n2 \nUnit 5: Green Skills-IV \n10 \n2 \nTOTAL \n60 \n10 \nPART B \nSUBJECT SPECIFIC SKILLS \nTh. \nPrac. \nUnit 1: Python Programming - II* \n6 \n18 \n(*to be evaluated in \npracticals only) \nUnit 2: Data Science Methodology: An Analytic \nApproach to Capstone Project \n8 \n12 \n8 \nUnit 3: Making Machines See \n6 \n12 \n6 \nUnit 4: AI with Orange Data Mining Tool* \n4 \n18 \n(*to be evaluated in \npracticals only) \nUnit 5: Introduction to Big Data and Data Analytics \n7 \n12 \n6 \nUnit 6: Understanding Neural Networks \n8 \n12 \n8 \nUnit 7: Generative AI \n6 \n12 \n7 \nUnit 8: Data Storytelling \n5 \n4 \n5 \nTOTAL \n50 \n100 \n40 \nPART C \nPRACTICAL WORK / PROJECT WORK \nCapstone Project + Project Documentation \n(As per the process given in “Project Guidelines”, on page 2 of \nCBSE IBM Projects Cookbook) \n \nCapstone Project =15 Marks \n \nProject Documentation = 6 Marks \n \nVideo= 4 Marks \n25 \nPractical File \n10 \nLab Test (Python and Orange Data Mining) \n10 \nViva Voce (based on Capstone Project + Practical File) \n5 \nTOTAL \n50 \nGRAND TOTAL (THEORY + PRACTICAL) \n100 \n(NOTE: *marked units/portion is to be evaluated in practicals only)\nPage 3 of 12 \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XII \n \nPart-A: EMPLOYABILITY SKILLS \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n15 \n2. \nUnit 2: Self-management Skills-IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n15 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n10 \nTOTAL \n60 \nNOTE: The detailed curriculum/ topics to be covered under Part A: Employability Skills \ncan be downloaded from the CBSE website. \nPart-B - SUBJECT SPECIFIC SKILLS \n Unit 1: Python Programming - II* \n Unit 2: Data Science Methodology: An Analytic Approach to Capstone Project \n Unit 3: Making Machines See \n Unit 4: AI with Orange Data Mining Tool* \n Unit 5: Introduction to Big Data and Data Analytics \n Unit 6: Understanding Neural Networks \n Unit 7: Generative AI \n Unit 8: Data Storytelling \n \n(NOTE: *marked units/portion is to be evaluated in practicals only) \n \nUNIT 1: PYTHON PROGRAMMING - II *(to be evaluated in practicals only) \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nRecap of NumPy library \n● \nRecap of Pandas Library \n● \nImporting and Exporting \nData between CSV Files \nand DataFrames \n● \nHandling missing value \n● \nLinear Regression \nalgorithm (**For \nAdvanced Learners) \n● \nApply the fundamental \nconcepts of the NumPy \nand Pandas libraries to \nperform data manipulation \nand analysis tasks \n● \nImport and export data \nbetween CSV files and \nPandas Data Frames, \nensuring data integrity and \nconsistency. \n● \nImport and Export Data \nbetween CSV Files and \nDataFrames \n● \nImplement Linear \nRegression algorithm on \nGoogle Colab or any \nPython IDE. (**For \nAdvanced Learners)\nPage 4 of 12 \n \nUNIT 2: DATA SCIENCE METHODOLOGY: AN ANALYTIC APPROACH TO CAPSTONE \nPROJECT \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nIntroduction to Data \nScience Methodology \n● \nSteps for Data Science \nMethodology \n● \nModel Validation \nTechniques \n● \nModel Performance- \nEvaluation Metrics \n● \nIntegrate Data Science \nMethodology steps into \nthe Capstone Project. \n● \nIdentify the best way to \nrepresent a solution to a \nproblem. \n● \nUnderstand the \nimportance of validating \nmachine learning models \n● \nUse key evaluation \nmetrics for various \nmachine learning tasks \n● \nCalculate MSE and \nRMSE values for the \ndata given using MS \nExcel \n● \nCalculate Precision, \nRecall, F1 score, and \nAccuracy from the given \nconfusion matrix \n● \nPython Code to Evaluate \na Model (*to be \nevaluated in practicals \nonly) \nUNIT 3: MAKING MACHINES SEE \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nHow Machines See \n● \nWorking of Computer \nVision \n● \nComputer Vision Process \n● \nApplications of Computer \nVision \n● \nChallenges of Computer \nVision \n● \nExplain computer vision \nand its significance in \nvisual data analysis. \n● \nUnderstand key stages of \ncomputer vision, including \nacquisition, \npreprocessing, feature \nextraction, and analysis. \n● \nBinary Art - Recreating \nImages with 0s and 1s \n● \nCreating a Website \nContaining an ML Model \n● \nWorking with OpenCV to \nload, display and resize \nimages (**For Advanced \nLearners) \n● \nThe Future of Computer \nVision \n● Working with OpenCV \n(**For Advanced Learners) \n● \nIdentify real-world \napplications in fields like \nhealthcare, surveillance, \nand autonomous vehicles. \n● \nAnalyze challenges such \nas ethics, privacy, and \ntechnical limitations. \n● \nExplore future \nadvancements and \ntransformative potential of \ncomputer vision. \n● \nDevelop basic skills in \nusing OpenCV and \ndeploying machine \nlearning models online.\nUNIT 4: AI WITH ORANGE DATA MINING TOOL (*to be evaluated in practicals only) \nPage 5 of 12 \n \n \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nWhat is Data Mining? \n● \nIntroduction to Orange \nData Mining Tool \n● \nBeneficiaries of Orange \ndata mining \n● \nGetting started with \nOrange tool \n● \nComponents of Orange \n● \nDefault Widget Catalogue \n● \nKey domains of AI with \nORANGE DATA MINING \nTOOL \n● \nDevelop \nproficiency \nin \nutilizing the Orange Data \nMining tool, enabling them \nto navigate its interface, \nemploy its features, and \nexecute \ndata \nanalysis \ntasks effectively. \n● \nDemonstrate the ability to \napply Orange in real-world \nscenarios across diverse \ndomains \nof \nartificial \nintelligence, including data \nscience, computer vision, \nand \nnatural \nlanguage \nprocessing (NLP), through \nhands-on \nprojects \nand \ncase studies. \n● \nLoad and visualize the \nIris dataset using Scatter \nPlot and other widgets. \n● \nUse classification \nwidgets \n● \nEvaluating the \nClassification Model with \nOrange \n● \nComputer Vision with \nOrange \n● \nNatural Language \nProcessing with Orange \nUNIT 5: INTRODUCTION TO BIG DATA AND DATA ANALYTICS \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nIntroduction to Big Data \n● \nTypes of Big Data \n● \nAdvantages and \nDisadvantages of Big \nData \n● \nCharacteristics of Big \nData \n● \nBig Data Analytics \n● \nWorking on Big Data \nAnalytics \n● \nMining Data Streams \n● \nFuture of Big Data \nAnalytics \n● \nUnderstanding Big Data, \nits types, advantages and \ndisadvantages. \n● \nRecognize the \ncharacteristics of Big Data. \n● \nExplain the concept of Big \nData Analytics and its \nsignificance. \n● \nAnalyze the future trends \nin the field of Big Data \nAnalytics. \n● \nUnderstanding the term \nMining Data Streams. \n*Performing Big Data \nanalytics with Orange Data \nmining tool. \n(*to be evaluated in \npracticals only)\nUNIT 6: UNDERSTANDING NEURAL NETWORKS \nPage 6 of 12 \n \n \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nParts of a Neural Network \n● \nComponents of a Neural \nNetwork \n● \nWorking of a Neural \nNetwork \n● \nTypes of Neural Networks \n● \nFuture of Neural \nNetworks and Societal \nImpact \n● \nExplain the basic \nstructure and components \nof a neural network. \n● \nIdentify different types of \nneural networks and their \nrespective applications. \n● \nUnderstand machine \nlearning and neural \nnetworks through hands- \non projects, interactive \ntools, and Python \nprogramming. \n● \nExplore Machine Learning \nfor Kids to create a neural \nnetwork for identifying \nanimals and birds. \n● \nBuild a TensorFlow model \nto convert Celsius to \nFahrenheit (*to be \nevaluated in practicals \nonly) \n● \nUse Python Keras to \ncreate and train a neural \nnetwork predicting \nFahrenheit from Celsius. \n(**For Advanced \nLearners) \n● \nClassification problem \nusing TensorFlow \nplayground \nUNIT 7: GENERATIVE AI \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nIntroduction to \nGenerative AI \n● \nWorking of Generative AI \n● \nGenerative and \nDiscriminative models \n● \nApplications of \nGenerative AI \n● \nLLM- Large Language \nModel \n● \nFuture of Generative AI \n● \nEthical and Social \nImplications of \nGenerative AI \n● \nHow Generative AI works. \n● \nDifferentiate between \nGenerative AI and \nDiscriminative AI and \nidentify their use cases. \n● \nExplore ethical, social, \nand legal concerns. \n● \nGain hands-on \nexperience using AI tools \nto generate creative and \nanalytical outputs, such \nas images, texts, and \nvideos. \n● \nUse the Gemini API to \ndesign and deploy a \nfunctional chatbot. \n \nSigning up for Canva \nActivity. \n \nAnimaker's AI Video \nGeneration tool. \n \nUse Google Gemini to \ncraft prompts and \ngenerate text outputs. \n \nExplore ChatGPT for \nconversational text \ngeneration and creative \ntasks. \n \nWrite Python code to \ninitialize the Gemini API \nand create a chat bot. \n(**For Advanced \nLearners)\nUNIT 8: DATA STORYTELLING \nPage 7 of 12 \n \n \nSUB-UNIT \nLEARNING OUTCOMES \nACTIVITY/PRACTICALS \n● \nIntroduction to Storytelling \n● \nElements of a Story \n● \nIntroduction to Data \nStorytelling \n● \nWhy is Data Storytelling \nPowerful? \n● \nEssential Elements of \nData Storytelling \n● \nNarrative Structure of a \nData Story (Freytag’s \nPyramid) \n● \nTypes of Data and \nVisualizations for Different \nData \n● \nSteps to Create a Story \nThrough Data \n● \nEthics in Data Storytelling \n● \nUnderstand the benefits \nof storytelling. \n● \nAppreciate the role of \ndata storytelling in data \nanalysis, data science, \nand AI. \n● \nLearn to combine data, \nvisuals, and narrative to \npresent complex \ninformation effectively. \n● \nGain skills to draw \nmeaningful insights from \ndata stories. \n● \nCreate an effective data \nstory using given data. \n**Note- All portions under Advanced Learners are not to be evaluated in Theory or \nPractical Examinations. \n(NOTE: *marked units/portion is to be evaluated in practicals only)\nPage 8 of 12 \n \nPART - C: \n1. Practical File: \nThe following are to be included in the Practical File \n \n1. Minimum 6 programs of Python. \n2. Minimum 3 programs using Orange Data Mining tool. \n3. Minimum 1 problem to create a Data Story using all steps of Data Storytelling. \nOptional Programs- for practical File \n● \nDemonstration of train-test split in Linear Regression using Python. \n● \nChatbot using Google Gemini API. \n● \nOrange Data Mining for Data Analytics. \n● \nClassification problem using TensorFlow playground. \n● \nRegression problem using TensorFlow playground. \n(snapshots to be attached) \n \n \nSample programs for reference \n \nI. Python \n1. Write Python code to create a Pandas DataFrame using any sequence data type. \na) Display the DataFrame. \nb) Display first 5 records. \nc) Display last 10 records. \nd) Display the number of missing values in the dataset. \n2. Download dataset in the form of CSV from any public open-source website. \na) Read CSV File and convert it into Pandas DataFrame. \nb) Perform statistical functions on the dataset to check the data, checking missing values, filling \nmissing data etc. \n3. Python Code to Evaluate a Model. \nII. Orange Data Mining \n1. Perform step wise procedure of Data Visualization using the Orange Data Mining Tool. \n2. Perform Classification with Orange Data Mining. \n3. Evaluate the Classification Model with Orange. \n4. Perform Image analytics using the Orange data mining tool. \n5. Write down steps to visualize word frequencies with Word Cloud using the Orange Data Mining tool. \nNote: Snapshots of all the steps and outputs to be taken and pasted in the practical file. \nIII. Data Storytelling (Sample) \n \nUsing available data on student enrollment, attendance, and dropout rates, create a compelling data \nstory that explores the impact of the Mid-Day Meal Scheme (MDMS) since its launch in 1995. Uncover \ntrends, patterns, and correlations in the data to tell a story about how the implementation of the MDMS \nmay have influenced dropout rates in the state over the years. Consider incorporating visualizations, \ncharts, and graphs to effectively communicate your findings. Additionally, analyze any external factors \nor events that might have played a role in shaping these trends. Your goal is to provide a comprehensive \nnarrative that highlights the relationship between the MDMS and student dropout rates in the state.\nPage 9 of 12 \n \n2. Capstone Project: \nCapstone Project Guidelines: \n● \nIn a group, minimum 3 and maximum 5 students are allowed. \n● \nTheir projects should be aligned with any of the SDGs. \n● \nStudents will complete their Capstone Project in Class XII and complete the project \ndocumentation. \n● \nVideo of the Capstone Project should be exactly of 3 minutes duration. \n● \nThe video will have the following components: \na. Problem statement \nb. To which SDG the project is aligned to \nc. AI concept/domains/algorithms used \nd. Working of the project \ne. Conclusion \nf. \nAcknowledgement to the teacher \n \n \nPlease refer to the Project guidelines of CBSE-IBM AI PROJECT COOKBOOK (Page -2) \n \n \n \nNote for Educators: Python or No code/low code platforms like Orange Data Mining tool can be \nchosen by the students for developing their Capstone Projects.\nLIST OF EQUIPMENTS/ MATERIALS: \nPage 10 of 12 \n \n \nThe list given below is suggestive and an exhaustive list should be compiled by the teacher(s) teaching \nthe subject. Only basic tools, equipment and accessories should be procured by the Institution so that \nthe routine tasks can be performed by the students regularly for practice and acquiring adequate \npractical experience. \n \nS. NO. \nITEM NAME, DESCRIPTION & SPECIFICATION \nA \nHARDWARE \n1 \nComputer with latest configuration or minimum core I5 Processor or \nequivalent with minimum 8 GB RAM, 512 GB SSD, 17” LED Monitor, NIC \nCard, 3 button Mouse, Camera, 105 keys keyboard, speakers, mic, WiFi / \nInternet connectivity, Webcam, UPS, Dual Band Wireless Connectivity Min \n100 Mbps and integrated graphic cards \n2 \nFire extinguisher \nB \nSOFTWARE SPECIFICATIONS \n1 \nAny Operating System with antivirus activated \n2 \nPython IDLE \n3 \nAnaconda Navigator Distribution - Python IDE installed with software: \nNumPy, Pandas, Matplotlib, Scikit Learn) \n4 \nProductivity Suite: Any (Google+ Suite recommended) \n5 \nOrange Data Mining Tool \n \nAdditional Recommendations: \n \nEnsure regular updates and maintenance for all installed software to benefit from bug fixes, security \npatches, and new features. \n \nProvide licenses for commercial software, such as MS Office, as per the school's requirements and \nbudget. \n \nEncourage teachers and students to stay updated with the latest versions of the software and tools \nand provide resources for learning and support. \n \nConsider implementing version control systems (e.g., Git) to facilitate collaborative coding and \nproject management.\nTEACHER’S/ TRAINER’S QUALIFICATIONS: \nPage 11 of 12 \n \n \nThe National Quality Assurance Framework (NQAF) provides the benchmarks or quality criteriawhich \nthe different organizations involved in education and training must meet in order to be accredited by \ncompetent bodies to provide government- funded education and training/skills activities. This is \napplicable to all organizations offering NSQF-compliant qualifications. \nQualification and other requirements for appointment of teachers/trainers for teaching this subject, on \ncontractual basis should be decided by the State/ UT. The suggestive qualifications and minimum \ncompetencies for the teacher should be as follows: \n \nQualification \nMinimum Competencies \nAge Limit \nDiploma in Computer Science/ \nInformation Technology \nOR \nBachelor Degree in Computer \nApplication/ Science/ Information \nTechnology (BCA, B.Sc. Computer \nScience/ Information \nTechnology) \nOR \nGraduate with PGDCA OR DOEACCA \nLevel Certificate. \nThe suggested qualification is the \nminimum criteria. However higher \nqualifications will also be acceptable. \nThe candidate shouldhave a \nminimum of 1 year of work \nexperiencein the same job role. \n• \nS/he should be able to \ncommunicate in English \nand local language. \nS/he should have knowledge of \nequipment, tools, material, Safety, \nHealth & Hygiene. \n 18-37 years (as \nonJan. 01 (year)) \n Age relaxation to \nbe provided as \nperGovt. rules \nTeachers/Trainers form the backbone of Skill (Vocational) Education being imparted as an integral part \nof Rashtriya Madhyamik Shiksha Abhiyan (RMSA). They are directly involved in teaching of Skill \n(vocational) subjects and also serve as a link between the industry and the schools for arranging \nindustry visits, On-the-Job Training (OJT) and placement. \nThese guidelines have been prepared with an aim to help and guide the States in engaging quality \nTeachers/Trainers in the schools. Various parameters that need to be looked into while engaging the \nVocational Teachers/Trainers are mode and procedure of selection of Teachers/ Trainers, Educational \nQualifications, Industry Experience, and Certification/ Accreditation. \n \nThe State may engage Teachers/Trainers in schools approved under the component of scheme of \nVocationalisation of Secondary and Higher Secondary Education under RMSA in following ways: \n(i) \nDirectly as per the prescribed qualifications and industry experience suggested by the PSS \nCentral Institute of Vocational Education (PSSCIVE), NCERT or the respective Sector Skill \nCouncil (SSC). \nOR \n(ii) \nThrough accredited Vocational Training Providers accredited under the National Quality \nAssurance Framework (NQAF*) approved by the National Skill Qualification Committee on \n21.07."
+}

@@ -1,0 +1,40 @@
+{
+  "subject_code": "073",
+  "subject_name": "Knowledge Tradition - Practices India",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Humanities / Elective",
+  "directory_name": "SUBJ_073_KNOWLEDGE_TRADITION_PRACTICES_INDIA",
+  "directory_path": "CLASS_11/SUBJ_073_KNOWLEDGE_TRADITION_PRACTICES_INDIA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Knowledge Tradition - Practices India",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KTPI_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Knowledge Tradition - Practices India",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KTPI_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "28e5c5ed402728473e44b893d025c1f7cf5250a645c919a003d22a7dba654115",
+    "file_size_bytes": 446831,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

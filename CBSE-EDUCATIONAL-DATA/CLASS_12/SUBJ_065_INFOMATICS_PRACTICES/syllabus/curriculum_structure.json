@@ -1,0 +1,124 @@
+{
+  "subject_name": "Infomatics Practices",
+  "subject_code": "065",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Computing / Commerce",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+  "sha256": "ff92a1d9c1c2a4d6b923a7ff80b59353e9c6d3575e9e7628057e751f9da3ee26",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Data Handling using Pandas -I",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Database Query using SQL",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Introduction to Computer Networks",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Societal Impacts",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Prerequisite: Informatics Practices - Class XI"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Learning Outcomes"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Distribution of Marks and Periods"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit Wise syllabus"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Suggested Practical List"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create a panda’s series from a dictionary of values and a nda"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Given a Series, print all the elements that are above the 75t"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create a Data Frame quarterly sales where each row contains t"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Create a data frame for examination result and display row la"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Filter out rows based on different criteria such as duplicate"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Importing and exporting data between pandas and CSV file"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Given the school result data, analyses the performance of the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "For the Data frames created above, analyze, and plot appropri"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Take data of your interest from an open source (e.g. data.gov"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create a student table with the student id, name, and marks a"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Insert the details of a new student in the above table."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Delete the details of a student in the above table."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Use the select command to get the details of the students wit"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Find the min, max, sum, and average of the marks in a student"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Find the total number of customers from each country in the t"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Write a SQL query to order the (student ID, marks) table in d"
+    }
+  ],
+  "full_text_excerpt": "Informatics Practices (2024-25) \nCLASS XII Code No. 065 \n \n1. Prerequisite: Informatics Practices - Class XI \n \n2. Learning Outcomes \n \nAt the end of this course, students will be able to: \n● Create Series, Data frames and apply various operations. \n● Visualize data using relevant graphs. \n● Design SQL queries using aggregate functions. \n● Import/Export data between SQL database and Pandas. \n● Learn terminology related to networking and internet. \n● Identify internet security issues and configure browser settings. \n● Understand the impact of technology on society including gender and \ndisability issues. \n \n3. Distribution of Marks and Periods \n \nUnit \nNo \nUnit Name \nMarks \nPeriods \nTheory \nPeriods \nPractical \nTotal \nPeriod \n1 \nData Handling using Pandas \nand Data Visualization \n25 \n25 \n25 \n50 \n2 \nDatabase Query using SQL \n25 \n20 \n17 \n37 \n3 \nIntroduction to Computer \nNetworks \n10 \n12 \n- \n12 \n4 \nSocietal Impacts \n10 \n14 \n- \n14 \n \nProject \n- \n- \n7 \n7 \n \nPractical \n30 \n- \n- \n- \n \nTotal \n100 \n71 \n49 \n120 \n \n4. Unit Wise syllabus \n \nUnit 1: Data Handling using Pandas -I \n \n \n \n \n \n \n \nIntroduction to Python libraries- Pandas, Matplotlib. \nData structures in Pandas - Series and Data Frames. \nSeries: Creation of Series from - ndarray, dictionary, scalar value; mathematical \noperations; Head and Tail functions; Selection, Indexing and Slicing. \n Data Frames: creation - from dictionary of Series, list of dictionaries, Text/CSV files; \ndisplay; iteration; Operations on rows and columns: add, select, delete, rename; \nHead and Tail functions; Indexing using Labels, Boolean Indexing; \nImporting/Exporting Data between CSV files and Data Frames.\nData Visualization \n \n \n \n \n \n \n \nPurpose of plotting; drawing and saving following types of plots using Matplotlib - \nline plot, bar graph, histogram \nCustomizing plots: adding label, title, and legend in plots. \n \nUnit 2: Database Query using SQL \n \n \n \n Revision of database concepts and SQL commands covered in class XI \n \nMath functions: POWER (), ROUND (), MOD (). \n \nText functions: UCASE ()/ UPPER (), LCASE ()/ LOWER (), MID ()/ SUBSTRING () \n/SUBSTR (), LENGTH (), LEFT (), RIGHT (), INSTR (), LTRIM (), RTRIM (), TRIM \n(). \n \nDate Functions: NOW (), DATE (), MONTH (), MONTHNAME (), YEAR (), DAY (), \nDAYNAME (). \n \nAggregate Functions: MAX (), MIN (), AVG (), SUM (), COUNT (); using COUNT (*). \n \nQuerying and manipulating data using Group by, Having, Order by. \n \nWorking with two tables using equi-join \n \nUnit 3: Introduction to Computer Networks \n \n \n \n \n \n \nIntroduction to networks, Types of network: PAN, LAN, MAN, WAN. \nNetwork Devices: modem, hub, switch, repeater, router, gateway \nNetwork Topologies: Star, Bus, Tree, Mesh. \nIntroduction to Internet, URL, W W W, and its applications- Web, email, Chat, VoIP. \nWebsite: Introduction, difference between a website and webpage, static vs dynamic \nweb page, web server and hosting of a website. \nWeb Browsers: Introduction, commonly used browsers, browser settings, add-ons \nand plug-ins, cookies. \nUnit 4: Societal Impacts \n \n \n \n \n \n \n \n \n \nDigital footprint, net and communication etiquettes, data protection, intellectual \nproperty rights (IPR), plagiarism, licensing and copyright, free and open source \nsoftware (FOSS), cybercrime and cyber laws, hacking, phishing, cyber bullying, \noverview of Indian IT Act. \nE-waste: hazards and management. \nAwareness about health concerns related to the usage of technology.\nProject Work \n \n \n \n \n \n \n \n \n \nThe aim of the class project is to create tangible and useful IT application. The \nlearner may identify a real-world problem by exploring the environment. e.g. \nStudents can visit shops/business places, communities or other organizations in \ntheir localities and enquire about the functioning of the organization, and how data \nare generated, stored, and managed. \nThe learner can take data stored in csv or database file and analyze using Python \nlibraries and generate appropriate charts to visualize. \n Learners can use Python libraries of their choice to develop software for their school \nor any other social good. \nLearners should be sensitized to avoid plagiarism and violation of copyright issues \nwhile working on projects. Teachers should take necessary measures for this. Any \nresources (data, image etc.) used in the project must be suitably referenced. \nThe project can be done individually or in groups of 2 to 3 students. The project \nshould be started by students at least 6 months before the submission deadline. \n \nPractical Marks Distribution \n \nS. No. \nUnit Name \nMarks \n1 \nPrograms using Pandas and Matplotlib \n8 \n2 \nSQL Queries \n7 \n3 \nPractical file (minimum of 15 programs based on Pandas, 4 based \non Matplotlib and 15 SQL queries must be included) \n5 \n4 \nProject Work (using concepts learned in class XI and XII) \n5 \n5 \nViva-Voce \n5 \n \nTOTAL \n30 \n \n5. Suggested Practical List \n5.1 Data Handling \n1. Create a panda’s series from a dictionary of values and a ndarray \n2. Given a Series, print all the elements that are above the 75th percentile.\n3. Create a Data Frame quarterly sales where each row contains the item category, \nitem name, and expenditure. Group the rows by the category and print the total \nexpenditure per category. \n4. Create a data frame for examination result and display row labels, column labels \ndata types of each column and the dimensions \n5. Filter out rows based on different criteria such as duplicate rows. \n6. Importing and exporting data between pandas and CSV file \n \n5.2 Visualization \n1. Given the school result data, analyses the performance of the students on different \nparameters, e.g subject wise or class wise. \n2. For the Data frames created above, analyze, and plot appropriate charts with title \nand legend. \n3. Take data of your interest from an open source (e.g. data.gov.in), aggregate and \nsummarize it. Then plot it using different plotting functions of the Matplotlib library. \n5.3 Data Management \n1. Create a student table with the student id, name, and marks as attributes where the \nstudent id is the primary key. \n2. Insert the details of a new student in the above table. \n3. Delete the details of a student in the above table. \n4. Use the select command to get the details of the students with marks more than 80. \n5. Find the min, max, sum, and average of the marks in a student marks table. \n6. Find the total number of customers from each country in the table (customer ID, \ncustomer Name, country) using group by. \n7. Write a SQL query to order the (student ID, marks) table in descending order of the \nmarks."
+}

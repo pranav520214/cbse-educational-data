@@ -1,0 +1,239 @@
+{
+  "subject_name": "Food Production",
+  "subject_code": "809",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XII.pdf",
+  "sha256": "c4473a06ebbb8b271cc285bcfb410d3d2aeecc7ef0f2c41dc8341d568d2e4eda",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Indian Regional Cookery",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Indian Snacks",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Indian Gravies",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Indian Sweets",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Presentation of Indian Meals",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Fast Food",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Introduction to baking",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Menu Planning",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Food Costing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Food Safety",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To develop skills of entrepreneurship in the Industry."
+    },
+    {
+      "chapter_number": 2,
+      "title": "To find employment as food production personnel and assistant"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The course enables the students to establish and manage a sma"
+    },
+    {
+      "chapter_number": 4,
+      "title": "It also equips the student to find employment in canteens, re"
+    },
+    {
+      "chapter_number": 5,
+      "title": "It also helps to develop culinary skills."
+    },
+    {
+      "chapter_number": 6,
+      "title": "The course can attain its objective only if it is taught by s"
+    },
+    {
+      "chapter_number": 7,
+      "title": "The school should also negotiate with neighbourhood food serv"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: ICT Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/ EDUCATIONAL"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Gas Cooking Range with oven and grill.3 nos."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Two gas burners (double)."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Stainless steel sinks (double with drains board).3 nos."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Mixer e.g. Sumeet."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Refrigerator (double door)."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Pressure Cooker."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Weighing scale."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Heavy duty pot with lid (S.S.)."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Pastry cutter (set)."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Palette knife(set)."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Patty tins."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Tablespoons(S.S.)."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Forks(S.S.)."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Cake Tins (Assorted)."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Cooling Racks."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Working table for general use, storage of equipment stainless"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Work table with Cupboard for storing equipment and general us"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Grinding stones."
+    }
+  ],
+  "full_text_excerpt": "Page 1 of 6 \n809 - Food Production- Class XII - 2026-27 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nFOOD PRODUCTION (SUBJECT CODE -809) \nJOB ROLES: TRAINEE COMMIE \nCLASS -XII \nIntroduction \nThe Hospitality service industry is fast growing and evolving. The development of Catering Institutions \nhas closely followed the changes in food habits of people. Food changes are determined by socio- \neconomic conditions and demographic shifts. Industrialization, Migration and International trade have \nresulted in greater employment for both men and women worldwide. This led to increased need for \npeople to depend on various food services operational for their meals outside their homes. \nThe course intends to introduce you to the basics of cooking food coupled with the scientific approach \nby trying to understand the basic commodities utilized in preparation of food. \nCooking of food is a skill based education that requires both the style of art and the method of science. \nDescribe kitchen operations including culinary terminology, operational software, cooking methods, and \nbasic food handling skills: such as food safety and food quality. Demonstrate proper kitchen \nmanagement systems, such as cost control, labour control, inventory control, production scheduling, \nsales history, menu development, and forecasting. \n \n1. Course Objectives \nThe Skill Course in \"Food Production\" is designed with the following objectives: \n1. \nTo develop skills of entrepreneurship in the Industry. \n2. \nTo find employment as food production personnel and assistant manager in small scale food \nservice unit. \n3. \nThe course enables the students to establish and manage a small scale food service unit. It \nprovides them with the necessary knowledge and skill to run and control all operations in the unit. \n4. \nIt also equips the student to find employment in canteens, restaurants, hostel, railway catering and \nmobile catering. \n5. \nIt also helps to develop culinary skills. \n6. \nThe course can attain its objective only if it is taught by skilled teacher and the prescribed \ninfrastructure provided by the school. \n7. \nThe school should also negotiate with neighbourhood food service units for on-the-job training. \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XII opting for Skill subject along with general \neducation subjects. \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\nPage 2 of 6 \n809 - Food Production- Class XII - 2026-27 \n \n \nFOOD PRODUCTION (SUBJECT CODE - 809) \nCLASS XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \nThe unit-wise distribution of periods and marks for Class XII is as follows: \n \nUNITS \n \nNo. of Periods for \nTheory and Practical \n260 \nMax. Marks \nfor Theory \nand Practical \n100 \nPart A \nEmployability Skills \nUnit 1: Communication Skills-IV \n10 \n2 \nUnit 2: Self-management Skills-IV \n10 \n2 \nUnit 3: ICT Skills-IV \n10 \n2 \nUnit 4: Entrepreneurial Skills-IV \n15 \n2 \nUnit 5: Green Skills-IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nUnit 1: Indian Regional Cookery \n20 \n15 \n10 \nUnit 2: Indian Snacks \n07 \n10 \n05 \nUnit 3: Indian Gravies \n07 \n15 \n03 \nUnit 4: Indian Sweets \n07 \n15 \n05 \nUnit 5: Presentation of Indian Meals \n07 \n05 \n02 \nUnit 6: Fast Food \n20 \n10 \n05 \nUnit 7: Introduction to baking \n13 \n05 \n05 \nUnit 8: Menu Planning \n13 \n05 \n05 \nUnit 9: Food Costing \n13 \n05 \n05 \nUnit 10: Food Safety \n13 \n05 \n05 \nTotal \n120 \n90 \n50 \nPart C \nPractical Work \nPractical Examination \n-- \n15 \nWritten Test \n-- \n10 \nViva Voce \n-- \n05 \nTotal \n-- \n30 \nPart D \nProject Work/Field Visit /Practical \nFile/Student Portfolio \n \n-- \n10 \nTotal \n-- \n10 \nGrand Total \n \n100\nPage 3 of 6 \n809 - Food Production- Class XII - 2026-27 \n \n \n4. CONTENTS \n \nPART A: EMPLOYABILITY SKILLS \n \n \nUNITS \nNo. of \nhours \n1. \nUnit 1: Communication Skills-IV \n10 \n2. \nUnit 2: Self-management Skills-IV \n10 \n3. \nUnit 3: ICT Skills-IV \n10 \n4. \nUnit 4: Entrepreneurial Skills-IV \n15 \n5. \nUnit 5: Green Skills-IV \n05 \nNote: The detailed curriculum/ topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \nPart B: Subject Specific Skills \n \n \nTOPIC \nSUB-TOPIC \n1 \nIndian \nregional \ncookery \nIntroduction \nFactors affecting regional eating habits: History, Geography, \nReligion, Culture, Staple diet, etc. with reference to Indian \nregional cuisine - West, East, North and South zones of India \nPopular dishes from four regions \nPreparation of dishes from four regions \n2 \nIndian Snacks \nIntroduction \nRegional classification with brief descriptions \nPreparation of regional snacks (For Practical) \n3 \nIndian gravies \nClassification \nIngredients and pastes required for gravies \nPreparation of basic gravies (For Practical) \n4 \nIndian sweets \nIntroduction \nRegional \nclassification Sugar \nCookery \nPreparation of Indian sweets (For Practical) \n5 \nPresentation \nof Indian \nmeals \nBalanced diet \nAccompaniments of Indian meals \nTraditional and modern presentation of Indian meals \nTraditional presentation of Indian meals. (For Practical) \n6 \nFast Food \nDefinition \nSalient Features \nFlow of work\nPage 4 of 6 \n809 - Food Production- Class XII - 2026-27 \n \n \nTOPIC \nSUB-TOPIC \nUse of Convenience foods \nPreparation of Subs & Burgers, Pizzas, Wraps and Chinese fast \nfood (For Practical) \n7 \nIntroduction \nto baking \nBasic ingredients used in bakery \nCookies \nPreparation of varieties of cookies (For Practical) \n8 \nMenu Planning \nTypes of menu \nPrinciples of menu planning \nPlanning menus for various occasions \n9 \nFood Costing \nElements of cost \nCalculation of elements of cost \nCalculation of Profits \n10 \nFood Safety \nCauses of food contamination \nConcept of Danger Zone \nFood borne diseases \nGarbage segregation & disposal \n \n5. TEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops \nand field visits. Students should be taken to field visits for interaction with experts and to expose \nthem to the various tools, equipment, materials, procedures and operations in the workplace. \nSpecial emphasis should be laid on the occupational safety, health and hygiene during the \ntraining and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, \nfollowed by discussions should be conducted by trained teachers. Teachers should make \neffective use of a variety of instructional or teaching aids, such as audio-video materials, colour \nslides, charts, diagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit \nknowledge and impart training to the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, \ncase based studies, exercises, etc. Equipment and supplies should be provided to enhance \nhands-on learning experience of students. Only trained personnel should teach specialized \ntechniques. A training plan that reflects tools, equipment, materials, skills and activities to be \nperformed by the students should be submitted by the teacher to the Head of the Institution. \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis \nof practical demonstration of skills by the candidate, Practical examination allows candidates \nto demonstrate that they have the knowledge and understanding of performing a task. This will \ninclude hands-on practical exam and viva voce. For practical, there should be a team of \nevaluators. The same team of examiners will conduct the viva voce.\nPage 5 of 6 \n809 - Food Production- Class XII - 2026-27 \n \n \n \nProject Work (individual or group project) is a great way to assess the practical skills on a \ncertain time period or timeline. Project work should be given on the basis of the capability of \nthe individual to perform the tasks or activities involved in the project. Projects should be \ndiscussed in the class and the teacher should periodically monitor the progress of the project \nand provide feedback for improvement and innovation. Field visits should be organised as part \nof the project work. Field visits can be followed by a small-group work/project work. When the \nclass returns from the field visit, each group might be asked to use the information that they \nhave gathered to prepare presentations or reports of their observations. Project work should \nbe assessed on the basis of practical file or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of \ncompetence. Documents may include reports, articles, photos of products prepared by \nstudents in relation to the unit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. \nAudio or video recording can be done at the time of viva voce. The number of external \nexaminers would be decided as per the existing norms of the Board and these norms should \nbe suitably adopted/adapted as per the specific requirements of the subject. Viva voce should \nalso be conducted to obtain feedback on the student’s experiences and learning during the \nproject work/field visits. \n \n \n6. ORGANISATION OF FIELD VISITS/ EDUCATIONAL \nTOURS \n \nIn field visits, children will go outside the classroom to obtain specific information from experts \nor to make observations of the activities. A checklist of observations to be made by the students \nduring the field visits should be developed by the Teachers for systematic collection of \ninformation by the students on the various aspects. Principals and Teachers should identify the \ndifferent opportunities for field visits within a short distance from the school and make \nnecessary arrangements for the visits. At least three field visits should be conducted in a year. \n \n \n7. LIST OF EQUIPMENT AND MATERIAL \n \n(For a batch of 20 students) \n \nName of the Equipment \n \nQty. \nKitchen \n1. \nGas Cooking Range with oven and grill.3 nos. \n2. \nTwo gas burners (double). \n \n7 nos. \n3. \nStainless steel sinks (double with drains board).3 nos. \n4. \nMixer e.g. Sumeet. \n \n1 no. \n5. \nRefrigerator (double door). \n290 ltr \n2 nos. \n6. \nPressure Cooker. \n7.5 ltr. \n1 no. \n7. \nWeighing scale. \n(app. 5 kg.) \n1 no. \n8. \nHeavy duty pot with lid (S.S.). \n20 litre \n1 no. \n9. \nPastry cutter (set). \n \n2 nos. \n10. \nPalette knife(set). \n \n5 nos.\nPage 6 of 6 \n809 - Food Production- Class XII - 2026-27 \n \n \n11. \nPatty tins. \n20 nos. \n12. \nTablespoons(S.S.). \n20 nos. \n13. \nForks(S.S.). \n20 nos. \n14. \nCake Tins (Assorted). \n20 nos. \n15. \nCooling Racks. \n(S.S. 25 cm × 20 cm.) \n10 nos. \nSmall Equipment \nMeasuring Jug (S.S.).1 ltr. \n2 nos \nS.S. Basin.30 cm. \n10 nos. \nSoup stainers(stainless steel). \n10 nos. \nBrass or heavy gauze(Al. pan with lid 25 cm dia.). \n10 nos. \nBrass or heavy gauze (Al. Pan with lid 20 cm dia.) \n10 nos. \nRolling pins.35 cm \n10 nos. \nFlat spoons.30 cm \n10 nos. \nFrying spoons.30 cm \n10 nos. \nRound spoons.30 cm \n10 nos. \nWooden spoons.30 cm \n10 nos. \nAluminium pie dis20 cm × 15 cm \n20 nos. \nS.S. Mugs.500 ml \n20 nos. \nJelly moulds. \n500 ml \n10 nos. \nKarahi (Black iron).20 cm \n10 nos. \nFry pan (aluminium).20 cm \n10 nos. \nIron tawa. \n25 cm \n10 nos. \nThalis (S.S.). \n30 cm \n20 nos. \nNylocast chopping board.45 × 30 × 2.5 cm \n10 nos. \nStainless steel graters. \n10 nos. \nAl. stock pot with lid.20 lts. \n2 nos. \nAtta sieve 30 cm dia. \n5 nos. \nStainless steel trays.60 × 60 cm \n5 nos. \nLime squeezer (aluminium). \n6 nos. \nPiping bags with star nozzle. \n10 nos. \nGarbage bins with lid (syntex medium size). \n4 nos. \nPotato peeler. \n10 nos. \nEgg beater (S.S.). \n10 nos. \nFurniture \n1.Demonstration S.S. table with shelve one locking drawer for one set of small.1 no. \nequipment 180 × 990 cm. \n2. Working table for general use, storage of equipment stainless steel. \n10 nos. \ntops 75 × 75 × 80 cm. \n3. Work table with Cupboard for storing equipment and general use. \n2 nos. \n4.Black Board 180 × 120 cm. \n1 no. \n5. Grinding stones. \n2 Nos."
+}

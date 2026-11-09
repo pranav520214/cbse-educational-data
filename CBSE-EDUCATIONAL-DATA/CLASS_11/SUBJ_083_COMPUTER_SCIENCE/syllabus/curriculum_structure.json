@@ -1,0 +1,71 @@
+{
+  "subject_name": "Computer Science",
+  "subject_code": "083",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science / Computing",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+  "sha256": "7aef221c10543ba15ab9ba693852ffbbfc3fff81807f8754e23c36bf311a142e",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Computer Systems and Organisation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Computational Thinking and Programming - I",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Society, Law and Ethics",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Learning Outcomes"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Distribution of Marks"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit wise Syllabus"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Practical"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Lab Test (12 marks)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Report File + Viva (10 marks)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Project (that uses most of the concepts that have been"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Suggested Practical List"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Suggested Reading Material"
+    }
+  ],
+  "full_text_excerpt": "Computer Science (2024-25) \nCLASS XI Code No. 083 \n \n \n1. Learning Outcomes \nStudents should be able to: \na) develop basic computational thinking \nb) explain and use data types \nc) appreciate the notion of algorithms \nd) develop a basic understanding of computer systems- architecture and \noperating system \ne) explain cyber ethics, cyber safety, and cybercrime \nf) understand the value of technology in societies along with consideration of \ngender and disability issues. \n \n2. Distribution of Marks \nUnit No.\nUnit Name \nMarks\nPeriods \nTheory \nPractical\n1 \nComputer Systems and \nOrganisation \n10 \n10 \n10 \n2 \nComputational Thinking and \nProgramming -1 \n45 \n80 \n60 \n3 \nSociety, Law, and Ethics \n15 \n20 \n- \n \nTotal\n70\n110\n70\n \n3. Unit wise Syllabus \nUnit 1: Computer Systems and Organisation \n● Basic computer organisation: Introduction to Computer System, hardware, \nsoftware, input device, output device, CPU, memory (primary, cache and \nsecondary), units of memory (bit, byte, KB, MB, GB, TB, PB) \n● Types of software: System software (Operating systems, system utilities, device \ndrivers), programming tools and language translators (assembler, compiler, and \ninterpreter), application software \n● Operating System(OS): functions of the operating system, OS user interface \n● Boolean logic: NOT, AND, OR, NAND, NOR, XOR, NOT, truth tables and De \nMorgan’s laws, Logic circuits \n● Number System: Binary, Octal, Decimal and Hexadecimal number system;\nconversion between number systems \n● Encoding Schemes: ASCII, ISCII, and Unicode (UTF8, UTF32) \n Unit 2: Computational Thinking and Programming - I \n● Introduction to Problem-solving: Steps for Problem-solving (Analyzing the problem, \ndeveloping an algorithm, coding, testing, and debugging), representation of \nalgorithms using flowchart and pseudocode, decomposition \n● Familiarization with the basics of Python programming: Introduction to Python, \nFeatures of Python, executing a simple “hello world\" program, execution modes: \ninteractive mode and script mode, Python character set, Python tokens( keyword, \nidentifier, literal, operator, punctuator), variables, concept of l-value and r-value, use \nof comments \n● Knowledge of data types: Number(integer, floating point,complex), boolean, \nsequence(string, list, tuple), None, Mapping(dictionary), mutable and immutable \ndata types. \n● Operators: arithmetic operators, relational operators, logical operators, assignment \noperators, augmented assignment operators, identity operators (is, is not), \nmembership operators (in not in) \n● Expressions, statement, type conversion, and input/output: precedence of \noperators, expression, evaluation of an expression, type-conversion (explicit and \nimplicit conversion), accepting data as input from the console and displaying output. \n● Errors- syntax errors, logical errors, and run-time errors \n● Flow of Control: introduction, use of indentation, sequential flow, conditional and \niterative flow \n● Conditional statements: if, if-else, if-elif-else, flowcharts, simple programs: e.g.: \nabsolute value, sort 3 numbers and divisibility of a number. \n● Iterative Statement: for loop, range(), while loop, flowcharts, break and continue \nstatements, nested loops, suggested programs: generating pattern, summation of \nseries, finding the factorial of a positive number, etc. \n● Strings: introduction, string operations (concatenation, repetition, membership and \nslicing), traversing a string using loops, built-in functions/methods-len(), \ncapitalize(), title(), lower(), upper(), count(), find(), index(), endswith(), startswith(), \nisalnum(), isalpha(), isdigit(), islower(), isupper(), isspace(),lstrip(), rstrip(), strip(), \nreplace(), join(), partition(), split() \n● Lists: introduction, indexing, list operations (concatenation, repetition, membership \nand slicing), traversing a list using loops, built-in functions/methods-len(), list(), \nappend(), extend(), insert(), count(), index(), remove(), pop(), reverse(), sort(), \nsorted(), min(), max(), sum(); nested lists, suggested programs: finding the \nmaximum, minimum, mean of numeric values stored in a list; linear search on list \nof numbers and counting the frequency of elements in a list. \n● Tuples: introduction, indexing, tuple operations (concatenation, repetition, \nmembership and slicing); built-in functions/methods - len(), tuple(), count(), \nindex(), sorted(), min(), max(), sum(); tuple assignment, nested tuple; suggested \nprograms: finding the minimum, maximum, mean of values stored in a tuple; linear\nsearch on a tuple of numbers, counting the frequency of elements in a tuple. \n● Dictionary: introduction, accessing items in a dictionary using keys, mutability of a \ndictionary (adding a new term, modifying an existing item), traversing a dictionary, \nbuilt-in functions/methods - len(), dict(), keys(), values(), items(), get(), update(), \ndel, clear(), fromkeys(), copy(), pop(), popitem(), setdefault(), max(), min(), \nsorted(); Suggested programs: count the number of times a character appears in a \ngiven string using a dictionary, create a dictionary with names of employees, their \nsalary and access them. \n● Introduction to Python modules: Importing module using ‘import <module>’ and \nusing from statement, importing math module (pi, e, sqrt(), ceil(), floor(), pow(), \nfabs(), sin(), cos(), tan()); random module (random(), randint(), randrange()), \nstatistics module (mean(), median(), mode()). \n \nUnit 3: Society, Law and Ethics \n \n● Digital Footprints \n● Digital Society and Netizen: net etiquettes, communication etiquettes, social media \netiquettes \n● Data Protection: Intellectual property rights (copyright, patent, trademark), violation \nof IPR (plagiarism, copyright infringement, trademark infringement), open source \nsoftware and licensing (Creative Commons, GPL and Apache) \n● Cyber Crime: definition, hacking, eavesdropping, phishing and fraud emails, \nransomware, cyber trolls, cyber bullying \n● Cyber safety: safely browsing the web, identity protection, confidentiality \n● Malware: viruses, trojans, adware \n● E-waste management: proper disposal of used electronic gadgets. \n● Information Technology Act (IT Act) \n● Technology and society: Gender and disability issues while teaching and using \ncomputers \n \n4. Practical \n \nS.No.\nUnit Name\nMarks (Total=30)\n1. \n Lab Test (12 marks)\n \nPython program (60% logic + 20% documentation + \n20% code quality) \n12\n2. \n Report File + Viva (10 marks) \n \nReport file: Minimum 20 Python programs \n7 \nViva voce \n3\n3. \nProject (that uses most of the concepts that have been \nlearnt) \n8\n5. Suggested Practical List \nPython Programming \n \n● Input a welcome message and display it. \n● Input two numbers and display the larger / smaller number. \n● Input three numbers and display the largest / smallest number. \n● Generate the following patterns using nested loops: \nPattern-1 \nPattern-2 \nPattern-3 \n* \n** \n*** \n**** \n***** \n12345 \n1234 \n123 \n12 \n1 \nA \nAB \nABC \nABCD \nABCDE \n● Write a program to input the value of x and n and print the sum of the following \nseries: \n⮚ 1 + 𝑥+ 𝑥ଶ+ 𝑥ଷ+ 𝑥ସ+ ⋯𝑥௡ \n⮚ 1 -𝑥+ 𝑥ଶ-𝑥ଷ+ 𝑥ସ-⋯𝑥௡ \n⮚ 𝑥+\n௫\nଶ\nଶ+\n௫\nଷ\nଷ+\n௫\nସ\nସ+ ⋯\n௫\n௡\n௡ \n⮚ 𝑥+\n௫మ\nଶ! +\n௫య\nଷ! +\n௫ర\nସ! + ⋯\n௫೙\n௡! \n● Determine whether a number is a perfect number, an Armstrong number or a \npalindrome. \n● Input a number and check if the number is a prime or composite number. \n● Display the terms of a Fibonacci series. \n● Compute the greatest common divisor and least common multiple of two integers. \n● Count and display the number of vowels, consonants, uppercase, lowercase \ncharacters in string. \n● Input a string and determine whether it is a palindrome or not; convert the case of \ncharacters in a string. \n● Find the largest/smallest number in a list/tuple \n● Input a list of numbers and swap elements at the even location with the elements at \nthe odd location. \n● Input a list/tuple of elements, search for a given element in the list/tuple. \n● Create a dictionary with the roll number, name and marks of n students in a class \nand display the names of students who have marks above 75. \n6. Suggested Reading Material \n● NCERT Textbook for Computer Science (Class XI) \n● Support Material on CBSE website"
+}

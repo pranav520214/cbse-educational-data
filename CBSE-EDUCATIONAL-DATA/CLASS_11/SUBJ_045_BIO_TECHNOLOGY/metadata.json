@@ -1,0 +1,40 @@
+{
+  "subject_code": "045",
+  "subject_name": "Bio Technology",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science",
+  "directory_name": "SUBJ_045_BIO_TECHNOLOGY",
+  "directory_path": "CLASS_11/SUBJ_045_BIO_TECHNOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Bio Technology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BioTechnology_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Bio Technology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f821c326ad9ee6a5b361f979fefa2c5df9c7e40662f9d8d179ee8014283c28b0",
+    "file_size_bytes": 248785,
+    "units_extracted": 4,
+    "chapters_extracted": 7
+  }
+}

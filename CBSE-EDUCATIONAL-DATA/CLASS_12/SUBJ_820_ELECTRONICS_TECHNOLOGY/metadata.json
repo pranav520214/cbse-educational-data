@@ -1,0 +1,33 @@
+{
+  "subject_code": "820",
+  "subject_name": "Electronics Technology",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "directory_name": "SUBJ_820_ELECTRONICS_TECHNOLOGY",
+  "directory_path": "CLASS_12/SUBJ_820_ELECTRONICS_TECHNOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Electronics Technology (820-ELECTRONICS_TECHNOLOGY-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "b25089a8c25ba4b66a8ef03e2e82bb18e9c4fb5d6001f8fc0db60ca01f098558",
+    "file_size_bytes": 207933,
+    "units_extracted": 12,
+    "chapters_extracted": 100
+  }
+}

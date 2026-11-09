@@ -1,0 +1,71 @@
+{
+  "subject_code": "043",
+  "subject_name": "Chemistry",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Science",
+  "directory_name": "SUBJ_043_CHEMISTRY",
+  "directory_path": "CLASS_12/SUBJ_043_CHEMISTRY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Chemistry",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Chemistry",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 12 Chemistry Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 12 Chemistry Part 2",
+        "url": "https://ncert.nic.in/textbook/pdf/lech201.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Chemistry",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Chemistry-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Chemistry",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Chemistry-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 6,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "3d33e9eb502d192a5de11df04e3be2432cc4590975b64bcbe2e2f1468f58e4f2",
+    "file_size_bytes": 931649,
+    "units_extracted": 10,
+    "chapters_extracted": 8
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "subject_code": "813",
+  "subject_name": "Health Care",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Healthcare",
+  "directory_name": "SUBJ_813_HEALTH_CARE",
+  "directory_path": "CLASS_11/SUBJ_813_HEALTH_CARE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Health Care (813-HealthCare_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/813-HealthCare_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "dd51a76f6060ea888b8bb1e2a1ceedf19c2846b81a6ea7212453c48af51aa0aa",
+    "file_size_bytes": 172882,
+    "units_extracted": 20,
+    "chapters_extracted": 18
+  }
+}

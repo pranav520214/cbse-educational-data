@@ -1,0 +1,270 @@
+{
+  "subject_name": "Artificial Intelligence",
+  "subject_code": "843",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Emerging Tech",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XI.pdf",
+  "sha256": "3c5f083923758ceab8c5af60171bde3c95b839620a3da046cefc968eddc4a6d8",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction: Artificial Intelligence for Everyone",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Unlocking your Future in AI",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Python Programming",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Introduction to Capstone Project",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Data Literacy - Data Collection to Data Analysis",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Machine Learning Algorithms",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Leveraging Linguistics and Computer Science",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "AI Ethics and Values",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Introduction: Artificial Intelligence for Everyone",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- Unlocking your Future in AI",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- Python Programming",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- Introduction to Capstone Project",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- Data Literacy - Data Collection to Data Analysis",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "- Machine Learning Algorithms",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "- Leveraging Linguistics and Computer Science",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "- AI Ethics and Values",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- INTRODUCTION: ARTIFICIAL INTELLIGENCE FOR EVERYONE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Basic Information and Communication Technology Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- UNLOCKING YOUR FUTURE IN AI",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- PYTHON PROGRAMMING",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- INTRODUCTION TO CAPSTONE PROJECT",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- DATA LITERACY - DATA COLLECTION TO DATA ANALYSIS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "- MACHINE LEARNING ALGORITHMS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "- LEVERAGING LINGUISTICS AND COMPUTER SCIENCE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "- AI ETHICS AND VALUES",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Develop informed citizens with an understanding of AI and the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Develop engaged citizens with a rigorous understanding of how"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Stimulate interest and prepare students for further study to"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills - III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-Management Skills - III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Basic Information and Communication Technology Skills"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills - III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Practical File"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Categorize the given applications into the three domains as g"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify ten companies currently hiring employees for in spec"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Note down the technical skills and soft skills listed by any"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Python programs using operators, data types, control statemen"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Python programs on NumPy, Pandas, Scikit-learn (Level 2)"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Create an empathy map for a given scenario."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Project Abstract Creation Using Design Thinking Framework."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Python programs to demonstrate the use of mean, median, mode,"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Python programs to visualise the line graph, bar graph, histo"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Calculation of Pearson’s correlation coefficient in MS - Exce"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Demonstration of Linear regression in MS - Excel."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Create a chatbot on ordering ice-creams using any of the foll"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Summarize your insights and interpretations from the video \"H"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Comparative study of AI policies (that involve examining guid"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Understanding ethical dilemma using"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Capstone Project"
+    }
+  ],
+  "full_text_excerpt": "843 - Artificial Intelligence Class XI - 2026-2027 \nPage 1 of 12 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \nARTIFICIAL INTELLIGENCE (SUB. CODE - 843) \nJOB ROLE: AI Assistant \nCLASS - XI \nOBJECTIVES OF THE COURSE \nAI is a discipline in computer science that focuses on developing intelligent machines, machines \nthat can learn and then teach themselves. These machines, then, can process vast amounts of \ndata than humans can, and several times faster. However, AI can go across all disciplines to \nchange the world for the better- from creating new healthcare solutions, to designing hospitals \nof the future, improving farming and our food supply, helping refugees acclimatize to the new \nenvironments, improving educational resources and access, and even cleaning our oceans, air, \nand water supply. The potential for humans to improve the world through AI is endless, as long \nas we know how to use it. \n \nLEARNING OUTCOMES \nIn this course, the students will develop knowledge, skills and values to understand AI and its \nimplications for our society and the world and to use AI to solve authentic problems, now and in \nthe future. The students will engage with a host of multi-media online resources, as well as \nhands-on activities and sequence of learning experiences. \nThe following are the main objectives of the course: \n1. Develop informed citizens with an understanding of AI and the skills to think critically and \nknowledgeably about the implications of AI for society and the world. \n2. Develop engaged citizens with a rigorous understanding of how AI can be harnessed to \nimprove life and the world we live in. \n3. Stimulate interest and prepare students for further study to take up careers as AI scientists \nand developers to solve complex real-world problems. \n \nSCHEME OF UNITS \nThis course is a planned sequence of instructions consisting of units meant for developing \nemployability and vocational competencies of students opting for skill subject along with other \neducation subjects. The unit-wise distribution of hours and marks for class XI is as follows:\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 2 of 12 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \n \nARTIFICIAL INTELLIGENCE (SUBJECT CODE - 843) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \n \nUNITS \nNO. OF \nHOURS \nMAX \nMARKS \nPART A \nEmployability skills \nUnit 1: Communication Skills - III \n15 \n2 \nUnit 2: Self-Management Skills - III \n10 \n2 \nUnit 3: ICT Skills - III \n15 \n2 \nUnit 4: Entrepreneurial Skills - III \n10 \n2 \nUnit 5: Green Skills - III \n10 \n2 \nTOTAL \n60 \n10 \nPART B \nSubject specific skills \nTheory Practical \nUnit 1: Introduction: Artificial Intelligence for Everyone \n4 \n10 \n4 \nUnit 2: Unlocking your Future in AI \n6 \n10 \n5 \nUnit 3: Python Programming \n10 \n20 \n5 \nUnit 4: Introduction to Capstone Project \n6 \n15 \n5 \nUnit 5: Data Literacy - Data Collection to Data Analysis \n6 \n15 \n6 \nUnit 6: Machine Learning Algorithms \n9 \n15 \n6 \nUnit 7: Leveraging Linguistics and Computer Science \n5 \n10 \n5 \nUnit 8: AI Ethics and Values \n4 \n5 \n4 \nTOTAL \n50 \n100 \n40 \nPART C \nPRACTICAL WORK / PROJECT WORK \nIBM Skills Build Certification/any other industry certification \n5 \nCapstone Project \n12 \nBootcamps/ Internship/other startups \n7 \nPractical File \n10 \nLab Test/ Written Exam (based on practical file) \n10 \nViva Voce (based on practical file and project) \n6 \nTOTAL \n50 \nGRAND TOTAL \n100\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 3 of 12 \n \n \nDETAILED CURRICULUM/TOPICS: \nPart-A: EMPLOYABILITY SKILLS \n \n \n \n \n \n \n \n \n \nNOTE: Detailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website. \nPart-B - SUBJECT SPECIFIC SKILLS \n❖ \nUnit 1 - Introduction: Artificial Intelligence for Everyone \n❖ \nUnit 2 - Unlocking your Future in AI \n❖ \nUnit 3 - Python Programming \n❖ \nUnit 4 - Introduction to Capstone Project \n❖ \nUnit 5 - Data Literacy - Data Collection to Data Analysis \n❖ \nUnit 6 - Machine Learning Algorithms \n❖ \nUnit 7 - Leveraging Linguistics and Computer Science \n❖ \nUnit 8 - AI Ethics and Values \nUNIT 1 - INTRODUCTION: ARTIFICIAL INTELLIGENCE FOR EVERYONE \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• \nCommunicate effectively about \nAI concepts and applications in \nwritten and oral formats. \n• \nDescribe the historical \ndevelopment of AI. \n• \nDifferentiate between various \ntypes and domains of AI, \nincluding their applications. \n• \nRecognize the key terminologies \nand concepts related to machine \nlearning and deep learning. \n• \nFormulate informed opinions on \nthe potential benefits and \nlimitations of AI in various \ncontexts. \n• What is Artificial \nIntelligence? \n• Evolution of AI \n• Types of AI \n• Domains of AI \n• AI Terminologies \n• Benefits and \nlimitations of AI \n• Categorize the given \napplications into the three \ndomains. \n \nExamples of Machine \nLearning & Reinforcement \nLearning given in the course \nbelow: \n \nIBM Skills Build - \nIntroduction to AI \nS. No. \nUnits \nDuration \nin Hours \n1. \nUnit 1: Communication Skills - III \n15 \n2. \nUnit 2: Self-Management Skills - III \n10 \n3. \nUnit 3: Basic Information and Communication Technology Skills - III \n15 \n4. \nUnit 4: Entrepreneurial Skills - III \n10 \n5. \nUnit 5: Green Skills - III \n10 \nTOTAL \n60\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 4 of 12 \n \n \nUNIT 2 - UNLOCKING YOUR FUTURE IN AI \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Articulate the demand for AI \nprofessionals and the diverse \ncareer opportunities available in \nthe field. \n• Identify the requisite skills and \ntools needed to pursue a career \nin artificial intelligence. \n• Understand the potential roles \nand responsibilities of AI \nprofessionals across different \nindustries. \n• Explore resources for further \nlearning and skill development \nin the field of AI. \n• Evaluate their own interests and \nskills to determine potential \npathways for a career in AI. \n• The Global Demand \n• Some Common Job \nRoles In AI \n• Essential Skills and \nTools for Prospective AI \nCareers \n• Opportunities in AI \nacross Various \nIndustries \n• Identify ten companies \ncurrently hiring employees \nfor in specific AI positions. \n• Note down the technical \nskills and soft skills listed \nby any two companies for \nthe specific AI position. \n \nIBM Skills Build: Your \nFuture in AI: The Job \nLandscape \nUNIT 3 - PYTHON PROGRAMMING \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Explain the basics of python \nprogramming language and \nwrite programs with basic \nconcepts of tokens. \n• Use selective and iterative \nstatements effectively. \n• Gains practical knowledge on \nhow to use the libraries \nefficiently. \nLevel 1: Basics of python \nprogramming, character \nsets, tokens, modes, \noperators, datatypes, \nControl Statements \nLevel 2: CSV Files, \nLibraries - NumPy, \nPandas, Scikit-learn \n• Minimum five programs to \nbe taught using operators, \ndata types, control \nstatements (Level 1) \n• Minimum 5 programs on \nNumPy, Pandas, Scikit- \nlearn (Level 2) \n \nIBM SkillsBuild - \nPython for Data \nScience \nUNIT 4 - INTRODUCTION TO CAPSTONE PROJECT \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Decompose any problem using \nthe 5W1H method. \n• Apply Design thinking \nmethodology. \n• Create empathy maps. \n• Align problems to SDGs. \n• Apply all the learnings in solving \nreal world problems. \n• Express their solution to a \nproblem in non-technical words. \n• Design Thinking \n• Empathy Map \n• Sustainable \nDevelopment Goals \n• Capstone Project \n• Create an empathy map for \na given scenario. \n• Project Abstract Creation \nUsing Design Thinking \nFramework. \n \nIBM SkillsBuild - What is \nDesign thinking?\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 5 of 12 \n \n \nUNIT 5 - DATA LITERACY - DATA COLLECTION TO DATA ANALYSIS \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Explain the importance of data \nliteracy in AI. \n• Identify different data collection \nmethods and their applications. \n• Comprehend mathematical \nconcepts related to matrices, its \noperations, and applications. \n• Apply basic data analysis \ntechniques to analyse data. \n• Visualize the data using different \ntechniques. \n• What is Data Literacy? \n• Data Collection \n• Exploring Data \n• Statistical Analysis of \ndata \n• Representation of \ndata, Python Programs \nfor Statistical Analysis \nand Data Visualization \n• Introduction to \nMatrices \n• Data Pre-processing \n• Data in Modelling and \nEvaluation \n• Identification of the level of \nmeasurement. \n• Python programs to \ndemonstrate the use of \nmean, median, mode, \nstandard deviation and \nvariance. \n• Python programs to \nvisualise the line graph, bar \ngraph, histogram, scatter \ngraph and pie chart using \nmatplotlib. \nrainfall.csv \n \nIBM SkillsBuild - Data \nVisualisation with Python \n(Modules 1,2,3) \n \nUNIT 6 - MACHINE LEARNING ALGORITHMS \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Differentiate the different types \nof machine learning methods. \n• They will be able to understand \nthe concept behind each \nmachine learning methods. \n• Apply these methods to develop \nsimple solutions for some day- \nto-day situations. \n• Build up this knowledge to the \nnext level to apply during \nCapstone Project development. \n• Machine Learning in a \nnutshell \n• Types of Machine \nLearning \n• Supervised Learning \n• Understanding \nCorrelation, \nRegression, Finding the \nline, Linear Regression \nalgorithm \n• Classification - How it \nworks, Types, k - \nNearest Neighbour \nalgorithm \n• Unsupervised Learning \n• Clustering - How it \nworks, Types, k -means \nClustering algorithm \n• Calculation of Pearson \ncorrelation coefficient in MS \n- Excel. \n• Demonstration of Linear \nregression in MS - Excel. \n• Demonstration of Linear \nregression using python \nprogram. (**For Advanced \nLearners) \n• Demonstration of k - \nNearest Neighbour using \npython program. (**For \nAdvanced Learners) \n• Demonstration of k - \nmeans clustering using \npython program. (**For \nAdvanced Learners) \n \nIBM SkillsBuild - Machine \nlearning with Python\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 6 of 12 \n \n \nUNIT 7 - LEVERAGING LINGUISTICS AND COMPUTER SCIENCE \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Develop a better understanding \nof the complexities of language \nand the challenges involved in \nNLP tasks. \n• Learn new techniques and \nalgorithms for NLP tasks. \n• Understanding Human \nLanguage Complexity \n• Introduction to Natural \nLanguage Processing \n(NLP) - Emotion \nDetection and \nSentiment Analysis, \nClassification Problems, \nChatbot \n• Phases of NLP \n• Applications of NLP \n• Write an article on “IBM \nProject Debater - \nInteresting facts”. \n• Create a chatbot on \nordering ice-creams using \nany of the following \nplatforms: \n• Google Dialogflow \n• Botsify.com \n• Botpress.com \n• Program to print the POS \ntags of a statement. (**For \nAdvanced Learners) \n• Creating a simple rule \nbased chatbot using \nPython. (**For Advanced \nLearners) \n \nIBM SKillsBuild - \nNatural Language \nProcessing \n \nUNIT 8 - AI ETHICS AND VALUES \nS. No \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \nStudents will be able to - \n• Demonstrate an understanding \nof the fundamental principles of \nethics and gain insight into \nethical considerations related to \nAI technologies. \n• Develop an understanding of AI \nbias, its sources, and its real- \nworld implications, as well as \nthe ethical considerations. \n• Identify and apply strategies for \nmitigating bias in AI systems to \npromote fairness and \ntransparency in technology. \n• Recognize the significance of AI \npolicies in promoting \nresponsible, safe, and ethical \nuse of AI technologies. \n• Ethics in Artificial \nIntelligence \n• The five pillars of AI \nEthics \n• Bias, Bias Awareness, \nSources of Bias \n• Mitigating Bias in AI \nSystems \n• Developing AI Policies \n• Moral Machine Game \n• Survival of the Best Fit \nGame \n• Summarize your insights \nand interpretations from \nthe video \"Humans need \nnot apply.” \n• Activity: Role Play on \nbiased AI systems \n• Comparative study of AI \npolicies (that involve \nexamining guidelines and \nprinciples) established by \nvarious organizations and \nregulatory bodies. \n• Understanding ethical \ndilemma using: \nMoral machine \nSurvival of the best fit \n \nIBM SkillsBuild - AI \nEthics \n**Note- All portions under Advanced Learners are not to be evaluated in Theory or Practical Examinations.\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 7 of 12 \n \n \n• \nOne certification (IBM SkillsBuild (any of the courses listed above) /any other \nindustry certification) \n• \nAt least one activity from each unit \n• \nOne participation certificate of bootcamp/internship \nPART - C \n1. Practical File \nNote: The following to be included in the Practical File \n \nUnit-wise sample activities for Practical file given as below: \n \n1. Categorize the given applications into the three domains as given on pg. 5 of the Students \nHandbook. \n2. Identify ten companies currently hiring employees for in specific AI positions. \n3. Note down the technical skills and soft skills listed by any two companies for the specific AI \nposition. \n4. Python programs using operators, data types, control statements (Level 1) \n5. Python programs on NumPy, Pandas, Scikit-learn (Level 2) \n6. Create an empathy map for a given scenario. \n7. Project Abstract Creation Using Design Thinking Framework. \n8. Python programs to demonstrate the use of mean, median, mode, standard deviation and \nvariance. \n9. Python programs to visualise the line graph, bar graph, histogram, scatter graph and pie chart \nusing matplotlib. \n10. Calculation of Pearson’s correlation coefficient in MS - Excel. \n11. Demonstration of Linear regression in MS - Excel. \n12. Create a chatbot on ordering ice-creams using any of the following platforms: \na. Google Dialogflow \nb. Botsify.com \nc. Botpress.com \nd. Any other online platform \n13. Summarize your insights and interpretations from the video \"Humans need not apply.” \n14. Comparative study of AI policies (that involve examining guidelines and principles) established \nby various organizations and regulatory bodies. \n15. Understanding ethical dilemma using \nMoral machine \nSurvival of the best fit \n \nAdditional programs for Practice (not to be evaluated) \nSample programs for regression, classification and clustering along with the dataset is in this link.\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 8 of 12 \n \n \nNote: Prepare for the project; Form a team; Define the problem (SDG aligned); Understand \nyour users; Brainstorm the solution; Design your solution; stages must be completed in the \nproject documentation. \nProject Documentation( As per the process given in “Project Guidelines”, on page 2 of CBSE \nIBM Projects Cookbook) \n2. Capstone Project\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 9 of 12 \n \n \nLIST OF EQUIPMENTS/ MATERIALS: \nThe list given below is suggestive and an exhaustive list should be compiled by the teacher(s) teaching \nthe subject. Only basic tools, equipment and accessories should be procured by the Institution so that \nthe routine tasks can be performed by the students regularly for practice and acquiring adequate \npractical experience. \n \n \nS. NO. \nITEM NAME, DESCRIPTION & SPECIFICATION \nA \nHARDWARE \n1 \nComputer with latest configuration or minimum core I5 Processor or \nequivalent with minimum 8 GB RAM, 512 GB SSD, 17” LED Monitor, NIC \nCard, 3 button Mouse, Camera, 105 keys keyboard, speakers, mic, Wi-Fi / \nInternet connectivity, Webcam, UPS, Dual Band Wireless Connectivity Min \n100 Mbps and integrated graphic cards \n2 \nFire extinguisher \nB \nSOFTWARE SPECIFICATIONS \n1 \nAny Operating System with antivirus activated \n2 \nPython IDLE \n3 \nAnaconda Navigator Distribution - Python IDE installed with software: \nNumPy, Pandas, Matplotlib, Scikit Learn) \n4 \nProductivity Suite: Any (Google+ Suite recommended) \n \n \nAdditional Recommendations: \n \n• \nEnsure regular updates and maintenance for all installed software to benefit from bug fixes, \nsecurity patches, and new features. \n• \nProvide licenses for commercial software, such as MS Office, as per the school's requirements \nand budget. \n• \nEncourage teachers and students to stay updated with the latest versions of the software and tools \nand provide resources for learning and support. \n• \nConsider implementing version control systems (e.g., Git) to facilitate collaborative coding and \nproject management.\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 10 of 12 \n \n \nTEACHER’S/ TRAINER’S QUALIFICATIONS: \nQualification and other requirements for appointment of teachers/trainers for teaching this subject, on \ncontractual basis should be decided by the State/ UT. The suggestive qualifications and minimum \ncompetencies for the teacher should be as follows: \n \nQualification \nMinimum Competencies \nAge Limit \nDiploma in Computer Science/ \nInformation Technology \nOR \nBachelor Degree in Computer \nApplication/ Science/ Information \nTechnology (BCA, B.Sc. Computer \nScience/ Information \nTechnology) \nOR \nGraduate with PGDCA OR DOEACCA \nLevel Certificate. \nThe suggested qualification is the \nminimum criteria. However higher \nqualifications will also be acceptable. \nThe candidate shouldhave a \nminimum of 1 year of work \nexperiencein the same job role. \nS/he should be able to communicate \nin English \nand local language. \nS/he should have knowledge of \nequipment, tools, material, Safety, \nHealth & Hygiene. \n18-37 years (as on \nJan. 01 (year)) \nAge relaxation to \nbe provided as per \nGovt. rules \n \nTeachers/Trainers form the backbone of Skill (Vocational) Education being imparted as an integral \npart of Rashtriya Madhyamik Shiksha Abhiyan (RMSA). They are directly involved in teaching of Skill \n(vocational) subjects and also serve as a link between the industry and the schools for arranging \nindustry visits, On-the-Job Training (OJT) and placement. \n \nThese guidelines have been prepared with an aim to help and guide the States in engaging quality \nTeachers/Trainers in the schools. Various parameters that need to be looked into while engaging the \nVocational Teachers/Trainers are mode and procedure of selection of Teachers/ Trainers, Educational \nQualifications, Industry Experience, and Certification/ Accreditation. \n \nThe State may engage Teachers/Trainers in schools approved under the component of scheme of \nVocationalisation of Secondary and Higher Secondary Education under RMSA in following ways: \n(i) \nDirectly as per the prescribed qualifications and industry experience suggested by the PSS \nCentral Institute of Vocational Education (PSSCIVE), NCERT or the respective Sector Skill \nCouncil (SSC). \nOR \n \n(ii) \nThrough accredited Vocational Training Providers accredited under the National Quality \nAssurance Framework (NQAF*) approved by the National Skill Qualification Committee on \n21.07.2016. If the State is engaging Vocational Teachers/Trainers through the Vocational \nTraining Provider (VTP), it should ensure that VTP should have been accredited at NQAF Level2 \nor higher.\n843 - Artificial Intelligence Class XI - 2026-2027 \nPage 11 of 12 \n \n \n \n \nThe educational qualifications required for being a Teacher/Trainer for a particular job role are clearly \nmentioned in the curriculum for the particular NSQF compliant job role. The State should ensure that \nteachers/ trainers deployed in the schools have relevant technical competencies for the NSQF \nqualification being delivered. Teachers/Trainers preferably should be certified by the concerned Sector \nSkill Council for the particular Qualification Pack/Job role which he will be teaching. Copies ofrelevant \ncertificates and/or record of experience of the teacher/trainer in the industry should be kept as record. \nTo ensure the quality of the Teachers/Trainers, the State should ensure that a sta"
+}

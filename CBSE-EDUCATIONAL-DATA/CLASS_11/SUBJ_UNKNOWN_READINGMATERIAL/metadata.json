@@ -1,0 +1,394 @@
+{
+  "subject_code": "UNKNOWN",
+  "subject_name": "ReadingMaterial",
+  "class": "11",
+  "group": "Other",
+  "stream": "General",
+  "directory_name": "SUBJ_UNKNOWN_READINGMATERIAL",
+  "directory_path": "CLASS_11/SUBJ_UNKNOWN_READINGMATERIAL",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: XI (EmployabilitySkills_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Skill Curriculum: XI & XII (842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 802_INFORMATION_TECHNOLOGY_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/802_INFORMATION_TECHNOLOGY_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 803_WEB_APPLICATION_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/803_WEB_APPLICATION_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 807_BEAUTY_WELLNESS_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/807_BEAUTY_WELLNESS_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 809_FOOD_PRODUCTION_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/809_FOOD_PRODUCTION_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 810_FRONT_OFFICE_OPERATIONS_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/810_FRONT_OFFICE_OPERATIONS_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 813_HEALTH_CARE_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/813_HEALTH_CARE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 817_Typography_Comp_Appl_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/817_Typography_Comp_Appl_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 818_GEOSPATIAL_TECHNOLOGY_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/818_GEOSPATIAL_TECHNOLOGY_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 819_ELECTRICAL_TECHNOLOGY_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/819_ELECTRICAL_TECHNOLOGY_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 820_ELECTRONICS_TECHNOLOGY_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/820_ELECTRONICS_TECHNOLOGY_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 821_MEDIA_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/821_MEDIA_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 823_COST_ACCOUNTING_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/823_COST_ACCOUNTING_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 824_OfficeProc_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/824_OfficeProc_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 825_Shorthand_Engish_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/825_Shorthand_Engish_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 826_Shorthand_Hindi_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/826_Shorthand_Hindi_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 827_AIR_CON_REFRI_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/827_AIR_CON_REFRI_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 828_MEDICAL_DIAGNOSITCS_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/828_MEDICAL_DIAGNOSITCS_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 833_BUSINESS_ADMINISTRATION_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/833_BUSINESS_ADMINISTRATION_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 834_FOOD_NUTRITION_DIETETICS_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/834_FOOD_NUTRITION_DIETETICS_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 835_MASS_MEDIA_STUDIES_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/835_MASS_MEDIA_STUDIES_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 836_LIBRARY_INFORMATION_SCIENCE_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/836_LIBRARY_INFORMATION_SCIENCE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 837_FASHION_STUDIES_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/837_FASHION_STUDIES_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 842_ECCE_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/842_ECCE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 847_ELHA_SQP",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/847_ELHA_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 802_INFORMATION_TECHNOLOGY_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/802_INFORMATION_TECHNOLOGY_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 803_WEB_APPLICATION_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/803_WEB_APPLICATION_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 807_BEAUTY_WELLNESS_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/807_BEAUTY_WELLNESS_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 809_FOOD_PRODUCTION_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/809_FOOD_PRODUCTION_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 810_FRONT_OFFICE_OPERATIONS_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/810_FRONT_OFFICE_OPERATIONS_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 813_HEALTH_CARE_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/813_HEALTH_CARE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 817_Typography_Comp_Appl_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/817_Typography_Comp_Appl_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 818_GEOSPATIAL_TECHNOLOGY_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/818_GEOSPATIAL_TECHNOLOGY_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 819_ELECTRICAL_TECHNOLOGY_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/819_ELECTRICAL_TECHNOLOGY_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 820_ELECTRONICS_TECHNOLOGY_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/820_ELECTRONICS_TECHNOLOGY_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 821_MEDIA_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/821_MEDIA_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 823_COST_ACCOUNTING_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/823_COST_ACCOUNTING_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 824_OfficeProc_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/824_OfficeProc_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 825_Shorthand_Engish_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/825_Shorthand_Engish_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 826_Shorthand_Hindi_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/826_Shorthand_Hindi_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 827_AIR_CON_REFRI_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/827_AIR_CON_REFRI_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 828_MEDICAL_DIAGNOSITCS_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/828_MEDICAL_DIAGNOSITCS_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 833_BUSINESS_ADMINISTRATION_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/833_BUSINESS_ADMINISTRATION_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 834_FOOD_NUTRITION_DIETETICS_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/834_FOOD_NUTRITION_DIETETICS_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 835_MASS_MEDIA_STUDIES_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/835_MASS_MEDIA_STUDIES_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 836_LIBRARY_INFORMATION_SCIENCE_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/836_LIBRARY_INFORMATION_SCIENCE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 837_FASHION_STUDIES_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/837_FASHION_STUDIES_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 842_ECCE_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/842_ECCE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: 847_ELHA_MS",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/847_ELHA_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [
+      {
+        "title": "ReadingMaterial",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSecXI_2025-26_RM.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "ReadingMaterial",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26_RM.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Reading Material",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSecXI_2025-26_RM.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "practicals": []
+  },
+  "total_resources": 53,
+  "status": "initialized"
+}

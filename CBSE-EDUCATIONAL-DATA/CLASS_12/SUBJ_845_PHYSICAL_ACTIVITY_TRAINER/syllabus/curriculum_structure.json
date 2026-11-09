@@ -1,0 +1,626 @@
+{
+  "subject_name": "Physical Activity Trainer",
+  "subject_code": "845",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Sports",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/845-Physical_Activity_Trainer.pdf",
+  "sha256": "faecbf45481284629066397ec9dbac731a57be9898ebe30e2259df091afea040",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Role of Physical Education in Child",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Props and Equipment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Hygiene and Safety",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Sports and Fitness",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Role of Physical Education in Child Development",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "ROLE OF PHYSICAL EDUCATION IN CHILD DEVELOPMENT",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "PROPS AND EQUIPMENT",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "HYGIENE AND SAFETY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "SPORTS AND FITNESS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Overview of Physical Education and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Assessment of Students",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Emergency Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Health and Hygiene in Play Area",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Overview of Physical Education and Sports Sector",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "OVERVIEW OF PHYSICAL EDUCATION AND SPORTS SECTOR",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "ASSESSMENT OF STUDENTS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "EMERGENCY MANAGEMENT",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "HEALTH AND HYGIENE IN PLAY AREA",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify the physical"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Prepare chart on"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify factors"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify the reasons"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify the steps required"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrate the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify resources"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills- IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the job profile"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Teaching Physical Education"
+    },
+    {
+      "chapter_number": 1,
+      "title": "List the skills required for"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Coaching"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Sports Management"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Discussion on various"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Fitness sector"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Equipment managers"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Sports journalism"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Photography"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Sports Medicine"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Sports Psychologists"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Sports Nutritionists"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Differentiating"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Physical activity"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstrate the knowledge"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Games"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Sports"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Recreation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Describe the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Life skills"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Divide teams in your class"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Learn on how to deal with failure"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Importance of working hard"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Sports will teach you how to"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Learning how to make sacrifices"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Learning discipline"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Time management"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify the steps of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Meaning and steps in"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Organize assessment"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify the importance of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify and respond to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Describe the hygiene and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Agility Ladder"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Bags and Bag Packs"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Balance Beam Set"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Ball Storage Duffel/Tote Bag"
+    },
+    {
+      "chapter_number": 6,
+      "title": "First Aid Box"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Gym Mats/Yoga Mats"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Knee Pads"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Medicine Ball"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Marking Cones"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Nylon Bibs"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Saucer Cone"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sit and Reach Box"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Storage Cupboards/ Sandook"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Water Bottles"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Weighing Scale"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Whistle"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Wrist Bands"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Basketball"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Basketball Board"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Basketball Headbands"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Basketball Hoop"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Basketball Jerseys"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Basketball Net"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Basketball Ring"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Basketball Shoes"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Basketball Shorts"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Basketball Socks"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Location Locators"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Penalty Cards"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Score Cards"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Serving Machine"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Volleyball Ball"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Volleyball Cotton Nets"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Volleyball Fibre Antennas"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Volleyball Jersey"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Volleyball Shirts"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Volleyball Shoes"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Volleyball Shorts"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Ball Carrying Net"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Bibs"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Corner Flag"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Corner Flag Pole (Fibre)"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Electric Pump"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Football Jersey"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Football Match ball"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Football Practice Ball"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Football Shoes"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Football Shorts"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Goal Keeping Glove"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Goal Net Nylon"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Marking Tray"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Mini Portable Goal Post"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Participation in guidance and counselling activities conducte"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Adoption of innovative teaching and training methods;"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Improvement in result of vocational students of Class X or Cl"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Continuous up gradation of knowledge and skills related to th"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Membership of professional society at District, State, Region"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Development of teaching-learning materials in the subject are"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Efforts made in developing linkages with the Industry/Establi"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Efforts made towards involving the local community in Vocatio"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Publication of papers in National and International Journals;"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Organization of activities for promotion of vocational subjec"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Involvement in placement of students /student support service"
+    }
+  ],
+  "full_text_excerpt": "845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 2 of 16 \n \nSCHEME OF UNITS \n \n \nCLASS \nTHEORY \nPRACTICAL \nTOTAL \nClass XI \n50 marks \n50 marks \n100 marks \nClass XII \n50 marks \n50 marks \n100 marks \n \n \nThis course is a planned sequence of instructions consisting of units meant for developing \nemployability and vocational competencies of students of Class XI opting for skill subject along with \nother education subjects.\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 3 of 16 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nPHYSICAL ACTIVITY TRAINER (SUBJECT CODE - 845) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \nUnit 1: Communication Skills-III \n15 \n2 \nUnit 2: Self-management Skills-III \n10 \n2 \nUnit 3: Information and Communication \nTechnology Skills-III \n15 \n2 \nUnit 4: Entrepreneurial Skills-III \n10 \n2 \nUnit 5: Green Skills-III \n10 \n2 \nTotal \n60 \n10 \nPart B \nSubject Specific Skills \nTheory \n(In Hours) \nPractical \n(In Hours) \nUnit 1: Role of Physical Education in Child \nDevelopment \n19 \n27 \n13 \nUnit 2: Props and Equipment \n9 \n18 \n6 \nUnit 3: Hygiene and Safety \n13 \n18 \n8 \nUnit 4: Sports and Fitness \n19 \n27 \n13 \nTotal \n60 \n90 \n40 \nPart C \nPractical Work \nPractical Examination \n15 \nWritten Test \n10 \nViva Voce \n10 \nTotal \n35 \nPart D \nProject Work/ Field Visit \nPractical File/ Student Portfolio \n10 \nViva Voce \n05 \nTotal \n15 \nGrand Total \n210 \n100\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 4 of 16 \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XI: \n \nPART-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-III \n13 \n2. \nUnit 2: Self-management Skills-III \n07 \n3. \nUnit 3: Information and Communication Technology Skills-III \n13 \n4. \nUnit 4: Entrepreneurial Skills-III \n10 \n5. \nUnit 5: Green Skills-III \n7 \nTOTAL DURATION \n50 \n \nNote: \nDetailed Curriculum/ Topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \n \nPART-B - SUBJECT SPECIFIC SKILLS \n \nUnit 1: Role of Physical Education in Child Development \nUnit 2: Props and Equipment \nUnit 3: Hygiene and Safety \nUnit 4: Sports and Fitness \n \nUNIT-1: ROLE OF PHYSICAL EDUCATION IN CHILD DEVELOPMENT \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Identify the physical \nand emotional needs \nof the children \nPhysical and emotional needs of \nchildren \nHealth triangle \nPhysical health \nMental health \nSocial health \n1. Prepare chart on \nHealth triangle \n2. Identify factors \ninfluencing physical \nactivities \nFactors affecting physical fitness \nInfluence of sports in well being \nInfluence of society on sports based on \nEnvironment \nEconomy \nTechnology \nPolitical \nGroup activity on \ndemonstration of \nfactors influencing \nphysical activities \nGroup discussion on \nhow behavioral factors \ninfluence \nphysical \nactivity \n3.Create different levels \nof physical activities \nplanning for children \nIdentifying physical activity sessions \nStructuring physical activity sessions \nMacro-planning \nMeso-planning \nMicro-planning \nWeekly planning \nYoga and their benefits \nLesson plans for various physical \nactivities \nPrepare flow chart on \nplanning cycle. \nPreparation of lesson \nplans \nfor \nvarious \nphysical activities\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 5 of 16 \n \nUNIT 2: PROPS AND EQUIPMENT \n \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 Identify the various \nSelection of props and \nList down factors affecting \nfactors that need to be \nequipment \nselection of props and \nconsidered while \nPurpose and importance of \nequipment \nselecting props and \nprops and equipment \nPreparation of poster of props \nequipment \nFactors affecting the selection \nand equipment \nof props and equipment \nPreparation \nof \nlist \nof \nequipment for conducting \nphysical and sports activities. \n2. Identify the reasons \naffecting the \nplayground and \nequipment condition \nInspection of Playfields \nLow frequency inspections \nHigh frequency inspections \nMaintenance of sport facilities \nPrepare a timetable for the \ninspection of playfield area \nList down the safety measure \nto be kept in mind while doing \nplayfield inspection \n \n \n \nUNIT 3: HYGIENE AND SAFETY \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Identify the steps required \nin maintenance of \nhygiene in play area \nMaintenance of hygiene in \nPlay Area \nIdentification of cleaning \nmaterials for play area \nList the steps to maintain \nhygiene at playground. \n2. Demonstrate the \nknowledge of basic First- \nAid practices \nFirst Aid \nFirst Aid - Purpose and basic \nprinciple \nCuts and bruises 4. Heat \nexhaustion \nBreathing difficulties \nChoking \nBasic sports injuries \nSprain \nStrain \nFirst Aid for Sprains \nConcept of First Aid kit \nPrepare a poster on First Aid \nprinciples \nConduct on ground \ndemonstration of first aid \n3.Identify sports injuries and \nits rehabilitation \nprocesses \nTypes of sports injuries \nHow do you prevent sports \ninjuries? \nFirst Aid - CPR \n(Cardiopulmonary resuscitation) \nRehabilitation of sports \ninjuries \nExercise for rehabilitation \nPreparation of flowchart on \nthe sequential steps of CPR \nDemonstration of CPR\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 6 of 16 \n \nUNIT 4: SPORTS AND FITNESS \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \nDescribe the criteria for \nselecting yearly sports \nactivities \nHealth and Physical fitness \nBenefits of Physical fitness \nStages of Team selection \nProcess of Talent Detection, \nIdentification and \nDevelopment \nFootball \nBasketball \nVolleyball \nPreparation of chart for \nselection of students \nfor competition \nGroup discussion on \nimportance of resources \nfor conduction of sports \ncompetition \n2. Identify resources \nrequired for \norganizing sports \ncompetition \nOrganizing sports day \nPre Sports Day \nSports Day \nPost Sports Day \nOrganizing Tournament \nPre-tournament Day \nTournament Day \nPost-tournament Day \nPreparation of chart for \ndescribing the various \naspects of organising \nsports competition \nPreparation of chart for \ndescribing the various \naspects of organising \ntournament \n3.Importance of fitness \nsessions \nAerobic capacity \nAnaerobic capacity \nStrength \nFlexibility \nWarm-up \nBenefits of Proper Warm-up \nList down the important \npoint to be kept in mind \nbefore beginning any \nphysical activity\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 7 of 16 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nPHYSICAL ACTIVITY TRAINER (SUBJECT CODE - 845) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \nUnit 1: Communication Skills-IV \n15 \n2 \nUnit 2: Self-management Skills- IV \n10 \n2 \nUnit 3: Information and Communication \nTechnology Skills- IV \n15 \n2 \nUnit 4: Entrepreneurial Skills- IV \n10 \n2 \nUnit 5: Green Skills- IV \n10 \n2 \nTotal \n60 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nTotal \nUnit 1: Overview of Physical Education and \nSports Sector \n18 \n19 \n10 \nUnit 2: Assessment of Students \n18 \n19 \n10 \nUnit 3: Emergency Management \n18 \n23 \n10 \nUnit 4: Health and Hygiene in Play Area \n21 \n14 \n10 \nTotal \n75 \n75 \n40 \nPart C \nPractical Work \nPractical Examination \n15 \nWritten Test \n10 \nViva Voce \n10 \nTotal \n35 \nPart D \nProject Work/Field Visit \nPractical File/ Student Portfolio \n10 \nViva Voce \n05 \nTotal \n15 \nTotal \n210 \n100\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 8 of 16 \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XII \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills- IV \n13 \n2. \nUnit 2: Self-management Skills- IV \n7 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n13 \n4. \nUnit 4: Entrepreneurial Skills- IV \n10 \n5. \nUnit 5: Green Skills- IV \n7 \nTOTAL DURATION \n50 \n \nNote: \nDetailed Curriculum/ Topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nUnit 1: Overview of Physical Education and Sports Sector \nUnit 2: Assessment of Students \nUnit 3: Emergency Management \nUnit 4: Health and Hygiene in Play Area \n \n \n \nUNIT 1: OVERVIEW OF PHYSICAL EDUCATION AND SPORTS SECTOR \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Describe the job profile \n1. Teaching Physical Education \n1. List the skills required for \nand career \n2. Coaching \nteaching physical education \nopportunities of a \n3. Sports Management \n2. Discussion on various \nPhysical Education \n4. Fitness sector \noccupations in physical \nAssistant \n5. Equipment managers \neducation and sports \n6. Sports journalism \n7. Photography \n8. Sports Medicine \n9. Sports Psychologists \n10. Sports Nutritionists \n2. Differentiating \n1. Physical activity \n1. Demonstrate the knowledge \nbetween Physical \n2. Games \nof difference between physical \nActivity, Games, \n3. Sports \nactivities, games, sports and \nSports and \n4. Recreation \nrecreation for different age \nRecreation \ngroups\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 9 of 16 \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n3. Describe the \n1. Life skills \n1. Divide teams in your class \nimportance of life \n2. Learn on how to deal with failure \nto conduct a competition for \nskills in sports \n3. Importance of working hard \nthe following sports and \n4. Sports will teach you how to \nobserve \nbe a team member \na. Foot Ball \n5. Learning how to make sacrifices \nb. Kho - Kho \n6. Learning discipline \n7. Time management \n \n \n \nUNIT 2: ASSESSMENT OF STUDENTS \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \nCompare the various types \nof assessment and purpose \nof evaluation \nMeaning of assessment \nTypes of assessment - \nSelf-assessment, \nPeer assessment \nTeacher Observation \nHomework \nFactors influencing assessment \nPhysical factors \nSchool factors \nTeacher factors \nAssessment tools \nChecklist \nRubrics \nBenchmark \nTypes of evaluation \nFormative evaluation \nSummative Evaluation \nDiagnostic Evaluation \nDiscussion on the \nimportance of assessment \nand evaluation \nGroup discussion on factors \ninfluencing assessment \nPreparation of chart on \ntypes of assessment \n2. Identify the steps of \nMeaning and steps in \nqualitative assessment \n2. Meaning and steps in \nquantitative assessment \nDraw a chart showing the \nqualitative and \nsteps of qualitative \nquantitative \nassessment \nassessment \nGroup discussion on \nqualitative and quantitative \nassessment\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 10 of 16 \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n3. Organize assessment \n Elements of teaching process \nPrepare a chart for the four \nand evaluation of \nOngoing evaluation \nelements that make up the \nstudents \n Key success factors for \nimparting high quality Physical \nEducation \nwhole process of teaching. \nList four key success factors \nwhich show that high quality \n Organizing an evaluation plan \nphysical education has been \nimparted to students \n4. Demonstrate the \n Parent-Teacher Meeting \nIdentify methods of reaching \nknowledge of \norganizing interaction \n Managing Parent-Teacher \nmeeting \nout to the parents \nRole play for explanation of \nwith parents \n Interaction with parents post \nassessments \nstudent’s report to parents \n Explanation of performance \nevaluation \n Steps to improve performance \nof slow learners \n \nUNIT 3: EMERGENCY MANAGEMENT \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Identify the importance of \nemergency response \nMeaning of emergency \nresponse \nGroup discussion on \nemergency response \nPreparation of a plan for \nemergency response \nCreate a poster showing \nthe steps of CPR \nNeed and importance of \nemergency response \ndealing with heat stroke \nallergies \nasthma attacks \nsudden cardiac arrest \nCPR \n2. Identify and respond to \nemergencies in play field \nFirst Aid \nDRABC of First Aid \nFirst Aid - Purpose and Basic \nprinciples \n Basic sports injuries \nSprain \nStrain \nInstructions for R.I.C.E. \nConcept of First Aid kit \nArea inspection for safety \nRoles and responsibilities of \nfirst responder \n Equal opportunities \nFirst Aid procedures \nGroup discussion on \nimportance of first \nresponder \nDemonstration of first aid \nprocedures. \nPreparation of an \nemergency plan\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 11 of 16 \n \nUNIT 4: HEALTH AND HYGIENE IN PLAY AREA \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \nDemonstrate knowledge about \nplayers’ health and hygiene \nMaintenance of player’s health \nand hygiene \nGeneral Hygiene and Sanitation \nrules \nHygiene tips \nPrepare \nchart \non \ngeneral hygiene and \nsanitation rules \n2. Describe the hygiene and \nhealth in play area \nInspection and maintenance of \nsports facilities and kits \nLow frequency inspections \nHigh frequency inspections \nPersonal items and kits \ninspections \nMaintenance of Hygiene in play \narea \nWrite a paragraph about \nimportance of play area \ninspection \n \n \nLIST OF EQUIPMENT AND SUPPORT MATERIAL: \n \nThe tools, equipment and materials required for training are quite expensive, therefore only basic \ntools, equipment and accessories should be procured by the Institution so that the routine tasks \ncan be performed by the students regularly for practice and acquiring adequate practical \nexperience. A set of weight plates, bars and other weights with one cable machine may be procured \nfor training and regular field visits should be organized to provide opportunities to the \nstudents/trainees for observation and hands-on practice. \n \nLIST OF GENERAL EQUIPMENT AND MATERIALS \n \nS. No. \nName of Equipment \nMinimum No. of Equipment \nrequired (for 40 students) \n1. \n9-Step Hurdle \n2 pieces \n2. \nAgility Ladder \n4 pieces \n3. \nBags and Bag Packs \n40 pieces \n4. \nBalance Beam Set \n4 pieces \n5. \nBall Storage Duffel/Tote Bag \n4 pieces \n6. \nFirst Aid Box \n2 kit \n7. \nGym Mats/Yoga Mats \n40 pieces \n8. \nKnee Pads \n40 pairs \n9. \nMedicine Ball \n4 pieces \n10. \nMarking Cones \n15 pieces \n11. \nNylon Bibs \n40 pieces \n12. \nSaucer Cone \n40 pieces \n13. \nSit and Reach Box \n4 pieces \n14. \nStorage Cupboards/ Sandook \n5 pieces \n15. \nWater Bottles \n40 pieces \n16. \nWeighing Scale \n1 piece \n17. \nWhistle \n2 pieces \n18. \nWrist Bands \n40 pieces\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 12 of 16 \n \nLIST OF GAME-SPECIFIC EQUIPMENT AND MATERIALS \n \nBASKETBALL \n \nS. No. \nName of Equipment \nMinimum No. of Equipment \nrequired (for 40 students) \n1. \nBasketball \n3 pieces \n2. \nBasketball Board \n2 pieces \n3. \nBasketball Headbands \n40 pieces \n4. \nBasketball Hoop \n4 pieces \n5. \nBasketball Jerseys \n40 pieces \n6. \nBasketball Net \n5 pieces \n7. \nBasketball Ring \n4 pieces \n8. \nBasketball Shoes \n40 pairs \n9. \nBasketball Shorts \n40 pieces \n10. \nBasketball Socks \n40 pairs \n \nVOLLEYBALL \n \nS. No. \nName of Equipment \nMinimum No. of Equipment \nrequired (for 40 students) \n1. \nLocation Locators \n12 pieces \n2. \nPenalty Cards \n4 cards (Yellow and red) \n3. \nScore Cards \n2 pieces \n4. \nServing Machine \n1 piece \n5. \nVolleyball Ball \n3 pieces \n6. \nVolleyball Cotton Nets \n2 pieces \n7. \nVolleyball Fibre Antennas \n2 pair \n8. \nVolleyball Jersey \n40 pieces \n9. \nVolleyball Shirts \n40 pieces \n10. \nVolleyball Shoes \n40 pairs \n11. \nVolleyball Shorts \n40 pieces \n \nFOOTBALL \n \nS. No. \nName of Equipment \nMinimum No. of Equipment \nrequired (for 40 students) \n1. \nBall Carrying Net \n2 pieces \n2. \nBibs \n40 pieces \n3. \nCorner Flag \n4 pieces \n4. \nCorner Flag Pole (Fibre) \n4 pieces \n5. \nElectric Pump \n2 pieces \n6. \nFootball Jersey \n40 pieces \n7. \nFootball Match ball \n2 pieces \n8. \nFootball Practice Ball \n5 pieces \n9. \nFootball Shoes \n40 pairs \n10. \nFootball Shorts \n40 pieces \n11. \nGoal Keeping Glove \n2 pairs \n12. \nGoal Net Nylon \n2 pieces \n13. \nMarking Tray \n4 pieces \n14. \nMini Portable Goal Post \n4 pieces\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 13 of 16 \n \nTEACHER’S/ TRAINER’S QUALIFICATION AND GUIDELINES: \n \nQualification and other requirements for appointment of vocational teachers/trainers on contractual \nbasis should be decided by the State/UT. The suggestive qualifications and minimum \ncompetencies for the vocational teacher should be as follows: \n \nQUALIFICATION \nMINIMUM \nCOMPETENCIES \nAGE LIMIT \nA Graduate with a major in Physical \nEducation) with at least 2 years of \nteaching/work experience \nEffective communication \nskills (oral and written) \nBasic computing skills. \n18-37 years (as on Jan. 01 \n(year). \nOR \nA Bachelor of Physical Education \n(B.P. Ed) with at least 2- years of \nteaching/ work experience \nAge \nrelaxation \nto \nbe \nprovided as per Govt. rules. \nOR \nA \nPostgraduate \nin \nPhysical \nEducation \nfrom \na \nrecognized \nInstitute/ \nUniversity. \n \nVocational Teachers/Trainers form the backbone of Vocational Education being imparted as an \nintegral part of Samagra Shiksha. They are directly involved in teaching of vocational subjects and \nalso serve as a link between the industry and the schools for arranging industry visits, On-the-Job \nTraining (OJT) and placement. These guidelines have been prepared with an aim to help and guide \nthe States in engaging quality Vocational Teachers/Trainers in the schools. Various parameters that \nneed to be looked into while engaging the Vocational Teachers/Trainers are mode and procedure of \nselection of Vocational Teachers/Trainers, Educational Qualifications, Industry Experience, and \nCertification/Accreditation. The State may engage Vocational Teachers/Trainers in schools approved \nunder the component of Vocationalisation of Secondary and Higher Secondary Education under \nRMSA in the following ways: \n directly as per the prescribed qualifications and industry experience suggested by the PSS Central \nInstitute of Vocational Education (PSSCIVE), NCERT or the respective Sector Skill Council (SSC) \nOR \n through accredited Vocational Training Providers accredited under the National Quality \nAssurance Framework (NQAF*) approved by the National Skill Qualification Committee on \n21.07.2016. If the State is engaging Vocational Teachers/Trainers through the Vocational Training \nProvider (VTP), it should ensure that VTP should have been accredited at NQAF Level 2 or higher. \n \n \n* The National Quality Assurance Framework (NQAF) provides the benchmarks or quality criteria \nwhich the different organizations involved in education and training must meet in order to be \naccredited by competent bodies to provide government-funded education and training/skills \nactivities. This is applicable to all organizations offering NSQF-compliant qualifications.\n845 - Physical Activity Trainer Class XI & XII - 2026-2027 \nPage 14 of 16 \n \nThe educational qualifications required for being a Vocational Teacher/Trainer for a particular job role \nare clearly mentioned in the curriculum for the particular NSQF compliant job role. The State should \nensure that teachers / trainers deployed in the schools have relevant technical competencies for the \nNSQF qualification being delivered. The Vocational Teachers/Trainers preferably should be certified by \nthe concerned Sector Skill Council for the particular Qualification Pack/Job role which he will be teaching. \nCopies of relevant certificates and/or record of experience of the teacher/trainer in the industry should \nbe kept as record. \nTo ensure the quality of the Vocational Teachers/Trainers, the State should ensure that a standardized \nprocedure for selection of Vocational Teachers/Trainers is followed. The selection procedure should \nconsist of the following: \n \n Written test for the technical/domain specific knowledge related to the sector; \n Interview for assessing the knowledge, interests and aptitude of trainer through a panel of \nexperts from the field and state representatives; and \n Practical test/mock test in classroom/workshop/laboratory. In case of appointment through VTPs, \nthe selection may be done based on the above procedure by a committee having "
+}

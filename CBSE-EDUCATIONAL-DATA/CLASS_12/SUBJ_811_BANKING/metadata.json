@@ -1,0 +1,49 @@
+{
+  "subject_code": "811",
+  "subject_name": "Banking",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Finance",
+  "directory_name": "SUBJ_811_BANKING",
+  "directory_path": "CLASS_12/SUBJ_811_BANKING",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Banking (811-Banking.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/811-Banking.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Banking",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/811_BANKING_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Banking",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/811_BANKING_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "495f60b8fd4f3e319c00227411092433c83223e3b62344ab0882b407a2a0ed2c",
+    "file_size_bytes": 216190,
+    "units_extracted": 17,
+    "chapters_extracted": 23
+  }
+}

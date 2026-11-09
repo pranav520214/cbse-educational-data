@@ -1,0 +1,450 @@
+{
+  "subject_name": "Electronics Technology",
+  "subject_code": "820",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XI.pdf",
+  "sha256": "304cbef0963f771ad549b11e049e7fce2ecc7f8b89468d54896a014578e58c05",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Overview of Atom, Sub-Atomic Particles",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Voltage and Current",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Basics of Semiconductor",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Bipolar Junction Transistor",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Transistor Amplifier and Applications",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The relevant basic concept sand principles in basic science s"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The basic concepts in engineering drawing."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The concepts, principles of working of basic electronic devic"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The knowledge of testing procedure of components and circuits"
+    },
+    {
+      "chapter_number": 5,
+      "title": "The procedure of making P.C.B."
+    },
+    {
+      "chapter_number": 6,
+      "title": "The concepts and principles used in Radio/Audio/Video Systems"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Overview of Atom, Sub-Atomic Particles and CRO"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Voltage and Current"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Basics of Semiconductor"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Bipolar Junction Transistor"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Transistor Amplifier and Applications"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Resistance - various values/sizes"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Condensers - various values/sizes"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Transformer such as Battery Eliminator mains and Battery char"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Side cutting insulated pliers - 15 cm"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Long Nose insulated pliers 15 cm"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Wire cutter, spring type"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Screw driver set - 10 cm, 15 cm, 20 cm"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Soldering Iron - 35 W/220 V, Solder Wire - 60, 40 and solderi"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Tinned Copper Wire"
+    },
+    {
+      "chapter_number": 10,
+      "title": "VARIAC Single Phase"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Wire Stripper"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Steel Scale"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Combination Pliers"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Crimping Tools"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Electronic Tool Kit"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Analog Oscilloscope: Oscilloscope 30 Mhz Dual Trace"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Digital Multimeter 4 & ½ Digits"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Function Generator 0.3 Mhz To 3 Mhz"
+    },
+    {
+      "chapter_number": 19,
+      "title": "DC regulated Power Supply (30 V/5A)"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Frequency Counter 0.1 Hz to 1 GHz"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Universal IC Tester, Digital IC upto 40 pins"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Three Terminal Voltage Regulator Trainer Board"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Diode &Zener diode Characteristics Trainer Board"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Rectifier and Filter Trainer Board"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Transistors Characteristics Trainer Board (CE,CB,CC)"
+    },
+    {
+      "chapter_number": 26,
+      "title": "TV pattern Generators"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Telephone Trainer Kit"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Mobile Communication Training System"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Communication Simulation Software"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Fax machine trainer"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Mobile Phone Trainer"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Single Phase Half Wave Control Rectifier Using SCR Board"
+    },
+    {
+      "chapter_number": 33,
+      "title": "UPS Trainer"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Temperature Oven (0-200 Degree C)"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Different Microphones & Loudspeaker (for study of frequency r"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Microwave Oven"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Colored Television Demonstration kit"
+    },
+    {
+      "chapter_number": 38,
+      "title": "CD/DVD Player Trainer Kit"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Stereo Cassette player demonstration cum trainer"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Facsimile Machine"
+    },
+    {
+      "chapter_number": 41,
+      "title": "DTH System"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Multiplex two BCD numbers to seven segment display"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Universal Shift Registers having SISO, SIPO, PIPO, PISO"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Encoder/decoder trainer"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Digital IC Testers"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Digital IC Power Supplies (+/- 5V/1A, +/-12V/1A/+-15V, 1A)"
+    },
+    {
+      "chapter_number": 50,
+      "title": "GSM trainer kit"
+    },
+    {
+      "chapter_number": 51,
+      "title": "CDMA trainer kit"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Digital Trainer Kit with following on board facility:"
+    },
+    {
+      "chapter_number": 53,
+      "title": "TTL IC 7400(NAND), 7402 (NOR), 7404(NOT), 7408(AND), 7432(OR)"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Study of current and voltage measurement using Ammeter and Vo"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Study of current and voltage measurement using Galvanometer."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Study of current, voltage and resistance measurement using of"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Study of voltage amplifier."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Study of power amplifier."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Study of working principle of Signal Generator and measuremen"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Study of V-I Characteristic of Diode."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Study of V-I Characteristic of Zener Diode. And use of Zener"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Study of Half wave rectifier with and without filter circuit."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Study of Full wave rectifier with and without filter circuit."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Study CE configuration for NPN and PNP transistors and measur"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Study CB configuration for NPN and PNP transistors and measur"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Study CC configuration for NPN and PNP transistors and measur"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Study of working of single layer PCB manufacturing"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Study of working of double layer PCB manufacturing."
+    },
+    {
+      "chapter_number": 16,
+      "title": "Design of 7 segment display using LED and bread board."
+    }
+  ],
+  "full_text_excerpt": "820-Electronics Technology - Class XI - 2026-2027 \nPage 1 of 6 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \n \nELECTRONICS TECHNOLOGY (SUB. CODE - 820) \nJOB ROLE: INSTALLATION TECHNICIAN \nCLASS -XI \n1. Introduction \nAfter successfully completing the two years of Senior Secondary Skill Course the student would have \nacquired relevant appropriate and adequate technical knowledge together with professional skills and \ncompetencies in the field of Electrical Technology so that he/she is properly equipped to take up gainful \nemployment in this vocation. \n \n2. Course Objectives \nA. Understanding of: \n1. \nThe relevant basic concept sand principles in basic science subjects (Physics, Chemistry \nand Mathematics) so that he/she is able to understand the different vocational subjects. \n2. \nThe basic concepts in engineering drawing. \n3. \nThe concepts, principles of working of basic electronic devices and circuits. \n4. \nThe knowledge of testing procedure of components and circuits by making use of different \ntest instruments. \n5. \nThe procedure of making P.C.B. \n6. \nThe concepts and principles used in Radio/Audio/Video Systems and Communication devices \nand its maintenance. \nB. \nAdequate Professional Skills and Competencies in: \n(a) \nTesting different electronic components. \n(b) \nTesting the performance of electronic circuits. \n(c) \nLocating the fault at component level and at the stage level. \nC. \nA Healthy and Professional Attitude so that he/she has: \n(a) \nAn analytical approach while working on a job. \n(b) \nAn open mind while locating /rectifying faults. \n(c) \nRespect for working with his / her own hands. \n(d) \nRespect for honesty, punctuality and truthfulness. \n \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing employability \nand Skills competencies of students of Class XI opting for Skills subject along with general education \nsubjects. \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks \nThe unit-wise distribution of Periods and marks for Class XI is as given on the next page:\n820-Electronics Technology - Class XI - 2026-2027 \nPage 2 of 6 \n \nELECTRONICS TECHNOLOGY (SUBJECT CODE - 820) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPART A \nEmployability Skills \n \nUnit 1 : Communication Skills-III \n10 \n2 \nUnit 2 : Self-Management Skills- III \n10 \n2 \nUnit 3 : ICT Skills- III \n10 \n2 \nUnit 4 : Entrepreneurial Skills- III \n15 \n2 \nUnit 5 : Green Skills- III \n05 \n2 \nTotal \n50 \n10 \nPART B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit 1: Overview of Atom, Sub-Atomic Particles \nand CRO \n16 \n10 \n05 \nUnit 2: Voltage and Current \n24 \n20 \n10 \nUnit 3: Basics of Semiconductor \n32 \n20 \n15 \nUnit 4: Bipolar Junction Transistor \n24 \n20 \n10 \nUnit 5: Transistor Amplifier and Applications \n24 \n20 \n10 \nTotal \n120 \n90 \n50 \nPART C \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n30 \nPART D \nProject Work/Field Visit / Practical File/ \nStudent Portfolio \n \n10 \nTotal \n10 \n \nGRAND TOTAL \n260 \n100\n820-Electronics Technology - Class XI - 2026-2027 \nPage 3 of 6 \n \n4. CONTENTS \n \nPART-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-III \n10 \n2. \nUnit 2: Self-management Skills-III \n10 \n3. \nUnit 3: Information and Communication Technology Skills-III \n10 \n4. \nUnit 4: Entrepreneurial Skills-III \n15 \n5. \nUnit 5: Green Skills-III \n05 \nTOTAL DURATION \n50 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \n \nPART-B - SUBJECT SPECIFIC SKILLS \n \n1. \nOverview of Atom, Sub-Atomic Particles and CRO \n1) \nBrief History of Electronics. \n2) \nAtom andits elements, Bohr Atomic model, Atomic energy level. \n3) \nElectron, Force, Field intensity, Potential, Energy, current, current density, Ionization \npotential. \n4) \nElectric field, Magnetic field, Motion of charged particles in electric and magnetic field. \n5) \nOverview of CRO, Electronic and Magnetic deflection in CRO, Applications. \n2. \nVoltage and Current \n1) Resistance, Ohm’s law, V-I Characteristics, Resistors, Capacitors, Inductors. \n2) Voltage and Current sources, Symbols and Graphical representation, Conversion ofcurrent \nand voltage sources. \n3) Overview of AC, DC, Cells and Batteries, Energy and Power. \n3. \nBasics of Semiconductor \n1) Semiconductor \nmaterials, \nEnergy \nband \nstructure \nof \nInsulators, \nMetals \nand \nSemiconductors, Energy gap, Field and Photo-electric emission. \n2) Intrinsic & Extrinsic semiconductor, N-type and P-type semiconductor, Drift current, \nDiffusion current and Total current, Mobility of charges, Effects of temperature on \nConductivity of semiconductor. \n3) PN junction diode, depletion layer, potential barrier, Forward & Reverse bias, V-I \nCharacteristic, Effects of temperature, Resistance levels, Breakdown in Junction diode, \nZener diode, Photo diode, LED, Types and applications of diode. \n4) Diode as a rectifier, Half wave and full wave rectification, Voltage multipliers, Zener diode \nRegulator. \n5) Special information - (Introduction to Filters, Clippers, Clampers).\n820-Electronics Technology - Class XI - 2026-2027 \nPage 4 of 6 \n \n4. \nBipolar Junction Transistor \n1) Construction and operation of NPN and PNP transistors, Biasing of BJT. \n2) CB, CE and CC configuration, Characteristics and transistor parameters for CB, CE, CC \nconfiguration. \n3) Introduction to FET, JFET, MOSFET, CMOS and VMOS, Characteristics of various \ntransistors, Comparison of various transistors. \n5. \nTransistor Amplifier and Applications \n1) Introduction, Single and Multi stage amplifiers, General amplifier characteristics, \nFeedbacks in amplifier. \n2) Introduction to Oscillators, Multi-Vibrators and Signal generator. \n3) Special information - (Introduction to Thyristors, PNPN diode, SCR, LASCR, DIAC, \nTRIAC). \n \n \n5. TEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field \nvisits. Students should be taken to field visits for interaction with experts and to expose them to the various \ntools, equipment, materials, procedures and operations in the workplace. Special emphasis should be laid \non the occupational safety, health and hygiene during the training and field visits. \n \nCLASSROOM ACTIVITIES \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained vocational teachers. Vocational teachers should make effective \nuse of a variety of instructional or teaching aids, such as audio-video materials, colour slides, charts, \ndiagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart \ntraining to the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based \nstudies, exercises, etc. Equipment and supplies should be provided to enhance hands-on learning \nexperience of students. Only trained personnel should teach specialized techniques. A training plan that \nreflects tools, equipment, materials, skills and activities to be performed by the students should be \nsubmitted by the vocational teacher to the Head of the Institution. \n \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \n \nIn field visits, children will go outside the classroom to obtain specific information from experts or to make \nobservations of the activities. A checklist of observations to be made by the students during the field visits \nshould be developed by the Vocational Teachers for systematic collection of information by the students on \nthe various aspects. Principals and Teachers should identify the different opportunities for field visits within \na short distance from the school and make necessary arrangements for the visits. At least three field visits \nshould be conducted in a year.\n820-Electronics Technology - Class XI - 2026-2027 \nPage 5 of 6 \n \n7. LIST OF EQUIPMENT AND MATERIAL \n1. Resistance - various values/sizes \n2. Condensers - various values/sizes \n3. Transformer such as Battery Eliminator mains and Battery charger \n4. Side cutting insulated pliers - 15 cm \n5. Long Nose insulated pliers 15 cm \n6. Wire cutter, spring type \n7. Screw driver set - 10 cm, 15 cm, 20 cm \n8. Soldering Iron - 35 W/220 V, Solder Wire - 60, 40 and soldering Iron Stand \n9. Tinned Copper Wire \n10. VARIAC Single Phase \n11. Wire Stripper \n12. Steel Scale \n13. Combination Pliers \n14. Crimping Tools \n15. Electronic Tool Kit \n16. Analog Oscilloscope: Oscilloscope 30 Mhz Dual Trace \n17. Digital Multimeter 4 & ½ Digits \n18. Function Generator 0.3 Mhz To 3 Mhz \n19. DC regulated Power Supply (30 V/5A) \n20. Frequency Counter 0.1 Hz to 1 GHz \n21. Universal IC Tester, Digital IC upto 40 pins \n22. Three Terminal Voltage Regulator Trainer Board \n23. Diode &Zener diode Characteristics Trainer Board \n24. Rectifier and Filter Trainer Board \n25. Transistors Characteristics Trainer Board (CE,CB,CC) \n26. TV pattern Generators \n27. Telephone Trainer Kit \n28. Mobile Communication Training System \n29. Communication Simulation Software \n30. Fax machine trainer \n31. Mobile Phone Trainer \n32. Single Phase Half Wave Control Rectifier Using SCR Board \n33. UPS Trainer \n34. Temperature Oven (0-200 Degree C) \n35. Different Microphones & Loudspeaker (for study of frequency response of microphone) \n36. Microwave Oven \n37. Colored Television Demonstration kit \n38. CD/DVD Player Trainer Kit \n39. Stereo Cassette player demonstration cum trainer \n40. Facsimile Machine \n41. DTH System \n42. 8 bit digital multiplexer \n43. 1:8 line de-multiplexer\n820-Electronics Technology - Class XI - 2026-2027 \nPage 6 of 6 \n \n44. Multiplex two BCD numbers to seven segment display \n45. 3 bit asynchronous up-counter3 bit synchronous down counter \n46. Universal Shift Registers having SISO, SIPO, PIPO, PISO \n47. Encoder/decoder trainer \n48. Digital IC Testers \n49. Digital IC Power Supplies (+/- 5V/1A, +/-12V/1A/+-15V, 1A) \n50. GSM trainer kit \n51. CDMA trainer kit \n52. Digital Trainer Kit with following on board facility: \ni. \nBreadboard, \nii. \n16 Nos. of input toggle switches, \niii. \nSixteen nos. of LED output provision, \niv. \nFixed +5V@1A and variable ±15V@500mA power supply, \nv. \nPulser switch for clock input, \nvi. \nVariable frequency clock signal (1Hz to1KHz), \nvii. \nDigital voltmeter \nviii. \nSeven segment display \n53. TTL IC 7400(NAND), 7402 (NOR), 7404(NOT), 7408(AND), 7432(OR), 7486(XOR) \nTTL IC 7446 (Common anode decoder driver), \nIC 7448 (Common cathode decoder driver), \nSeven segment display (both common anode: \nMAN 3910 or equivalent and common cathode: \nMAN 3940 or equivalent). \n54. 8085 microprocessor based microprocessor trainer kit. \n \n \n8. PRACTICAL GUIDELINES \n1. Study of current and voltage measurement using Ammeter and Voltmeter. \n2. Study of current and voltage measurement using Galvanometer. \n3. Study of current, voltage and resistance measurement using of Multi-meter \n4. Study of voltage amplifier. \n5. Study of power amplifier. \n6. Study of working principle of Signal Generator and measurement of amplitude, time period and \nfrequency of signal using Oscilloscope. \n7. Study of V-I Characteristic of Diode. \n8. Study of V-I Characteristic of Zener Diode. And use of Zener Diode as voltage regulator. \n9. Study of Half wave rectifier with and without filter circuit. \n10. Study of Full wave rectifier with and without filter circuit. \n11. Study CE configuration for NPN and PNP transistors and measurement of voltage and current gain. \n12. Study CB configuration for NPN and PNP transistors and measurement of voltage and current gain. \n13. Study CC configuration for NPN and PNP transistors and measurement of voltage and current gain. \n14. Study of working of single layer PCB manufacturing \n15. Study of working of double layer PCB manufacturing. \n16. Design of 7 segment display using LED and bread board."
+}

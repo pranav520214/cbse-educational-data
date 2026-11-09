@@ -1,0 +1,40 @@
+{
+  "subject_code": "191",
+  "subject_name": "Kokborok",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_191_KOKBOROK",
+  "directory_path": "CLASS_11/SUBJ_191_KOKBOROK",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Kokborok",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Kokborok",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "742672ce8e097bba7f331d6755313b9d9b0ba6d206c04de1a73b167b3ab9f077",
+    "file_size_bytes": 335524,
+    "units_extracted": 0,
+    "chapters_extracted": 20
+  }
+}

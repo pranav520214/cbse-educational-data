@@ -1,0 +1,427 @@
+{
+  "subject_name": "Air-Conditioning & Refrigeration",
+  "subject_code": "827",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XI.pdf",
+  "sha256": "b0cd928157c2c60fe9d7302f1cfd853d5f389c75922c55b42ecb3e5fc5f010f4",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Meaning of Air",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Vapour Compression",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Meaning of Compressors,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Meaning of Alternating",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Psychometrics-",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Applications of Air",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Meaning of Air Conditioning and Refrigeration etc.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Vapour Compression Cycle, Working of a Domestic Refrigerators",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Meaning of Compressors, Compressor construction",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Meaning of Alternating Current etc., Wiring circuit diagrams",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Psychometrics- Composition of air, Human comfort etc.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Applications of Air Conditioning, Measurement of air velocity and flow",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1 : Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2 : Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3 : Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4 : Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5 : Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "INTRODUCTION:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "REFRIGERATION CYCLE AND APPLICATIONS:"
+    },
+    {
+      "chapter_number": 3,
+      "title": "COMPRESSOR:"
+    },
+    {
+      "chapter_number": 4,
+      "title": "BASIC ELECTRICITY:"
+    },
+    {
+      "chapter_number": 5,
+      "title": "PSYCHROMETRY AND HUMAN COMFORT:"
+    },
+    {
+      "chapter_number": 6,
+      "title": "APPLICATION OF AIR CONDITIONING, MEASUREMENT OF AIR VELOCITY"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To learn proper techniques of cutting, fitting, reaming, bend"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To learn brazing of copper tubing."
+    },
+    {
+      "chapter_number": 3,
+      "title": "To understand the construction and functions of reciprocating"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To study a hermetic unit and it’s testing."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Study of various types of compressors, dismantling and assemb"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Testing of reciprocating compressors."
+    },
+    {
+      "chapter_number": 7,
+      "title": "To study Domestic Refrigerator and water cooler."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Study of window, split and package type air-conditioner."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Charging and testing of Air-Conditioner."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Measurement of voltage, current, power etc."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Making electric circuit diagrams for refrigerators and Air-co"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Study of tools and materials, instruments and gauges."
+    },
+    {
+      "chapter_number": 13,
+      "title": "To study the safety measures to be taken in a workshop"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Window type Air-Conditioner"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Split type Air-Conditioner"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Refrigerator"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Water-cooler"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Deep-freezer"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Refrigerant charging machine"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Vacuum-pump"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Pressure gauge"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Compound gauge"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Charging line"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Shut-off valves"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Service valves"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Gauge-manifolds"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Refrigerant-Cylinders"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Condensing unit"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Cut-model of hermetically sealed compressor"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Plier"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nose-plier"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Screw Driver"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Punching-tool"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Flaring Tool"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Swaging tool"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Tube-cutter"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Tube-bender"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Wrench seteeler-gauge"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Brazing-tool kit."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Different sizes of flaring nuts."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Allen key set."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Thimbles"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Wire-cutter"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Spanner-Set"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Tommy set"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Bench-Vice"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Files (Triangular and flat files etc.)"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Round file"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Hand Hack-Saw"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Portable Drill-machine"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Different sizes of copper tube (1/4”, 3/8”, 5/8”, 1/2” etc.)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Compressor oil."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Brazing rods"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Flux"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Filler-materials"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Emery paper"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Hake-Saw blade"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Different sizes drills (2mm, 4mm etc.)"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Refrigerants."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Student shall be gainfully employed in Domestic, Ice-factory,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "They can start their own enterprise by setting up manufacturi"
+    },
+    {
+      "chapter_number": 4,
+      "title": "They can get franchisee of different renowned companies like:"
+    },
+    {
+      "chapter_number": 5,
+      "title": "More employment opportunities at International level."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Great opportunities for higher study in National &Internation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "A student can get admitted in 2ndyear of 3-year Engineering D"
+    },
+    {
+      "chapter_number": 3,
+      "title": "A student can get admission in Bachelor of Vocational (B.Voc."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Also eligible to continue in degree course of academics from"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL \nEDUCATION CURRICULUM FOR SESSION \n2026-2027 \nAIR CONDITIONING & REFRIGERATION (SUB. CODE - 827) \nJOB ROLE: SERVICE TECHNICIAN CLASS - XI \n \n \nCOURSE OVERVIEW \n \nFor specific applications, efficiencies of both living and non-living beings depend to a great \nextent on the physical environment. The nature keeps conditions in the physical \nenvironment in the dynamic state ranging from one extreme to the other. Temperature, \nhumidity, pressure and air motion are some of the important variables that at any location \nkeep changing throughout the year. Adaptation to these many a times an unpredictable \nvariation is not possible and thus working efficiently is not feasible either for the living \nbeings or the non-living ones. Thus for any specific purpose, control of the environment \nis essential. Refrigeration and air-conditioning is the subject who deals with the \ntechniques to control the environments of the living and non-living subjects and thus \nprovide them comforts to enable them to perform better and have longer lives. \nThis course provides a simple understanding of Refrigeration and Air-conditioning \nfundamentals. This course is ideally suited for those with a little or no knowledge of the \nsubject. The course consists of different refrigeration cycles and understanding of \npsychometric and psychometric processes used for the purpose of air-conditioning. \nFurther, the comfort air-conditioning and indoor environment health are also addressed \nin this course. \nOBJECTIVES OF THE COURSE \n \nAfter successfully completing these two year of Senior Secondary course skill course \nstudents should be able to: - \n● \nUnderstand the basic concept of refrigeration and air-conditioning and study the \npsychometric properties of air. \n● \nUse efficiently the different refrigeration and air-conditioning tools and equipment’s.\n● \nFinally apply this knowledge for the design of refrigeration equipment’s and air- \nconditioning equipment’s. \n● \nTo meet the increasing demands of Refrigeration and air-conditioning technicians \nand engineers. \n● \nFurther pursue higher education and get admission in the 2nd year of Engg. Diploma \ncourse. After completing the diploma a student is eligible to get admission in the 2nd \nyear of B.Tech course through lateral entry in an Engg. College. \n● \nTo get employment in the same field as well as able to start his own work in this sector \n(i.e. repairing servicing, maintenance, assembling of units and further counseling of \npeople. \nSALIENT FEATURES OF THE COURSE \n \n● \nUnderstanding and acquiring of adequate professional skills and competencies in \nthe field of Air-Conditioning and Refrigeration field. \n● \nAdvancement in the modern technology of Air-Conditioning and refrigeration \ntechnology. Save energy and financial cost of equipment’s. \n \n● \nHealthy and professional attitude towards students. \n \n● \nPractical based course \n \n● \nEssential and modern approach \n \n● \nFulfilling the needs of modern society. \n \n● \nComplete syllabus and study material is available on CBSE website. \n \n● \nPrevious years question papers and sample papers are available on CBSE website. \n \n● \nTime to time guidance and updates from CBSE. \n \nSCHEME OF UNITS \n \nThis course is a planned sequence of instructions consisting of units meant for developing \nemployability and vocational competencies of students of Class XI opting for skill subject \nalong with other education subjects. The unit-wise distribution of hours and marks is as \ngiven on the next page:\nAIR CONDITIONING & REFRIGERATION (SUBJECT CODE - 827) \nClass XI (Session 2026-2027) \nTotal Marks: 100 (Theory - 60+ Practical - 40) \n \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. \nMARKS \nfor Theory \nand \nPractical \nPart A \nEmployability Skills \nUnit 1 : Communication Skills-III \n10 \n2 \nUnit 2 : Self-Management Skills-III \n10 \n2 \nUnit 3 : ICT Skills-III \n10 \n2 \nUnit 4 : Entrepreneurial Skills-III \n15 \n2 \nUnit 5 : Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \n(In Hours) \nPractical \n(In Hours) \nMarks \nUnit 1: Meaning of Air \nConditioning and Refrigeration \netc. \n35 \n10 \n07 \nUnit 2 : Vapour Compression \nCycle, Working of a Domestic \nRefrigerators \n30 \n10 \n10 \nUnit 3 : Meaning of Compressors, \nCompressor construction \n27 \n10 \n10 \nUnit 4 : Meaning of Alternating \nCurrent etc., Wiring circuit \ndiagrams \n22 \n08 \n08 \nUnit 5 : Psychometrics- \nComposition of air, Human \ncomfort etc. \n24 \n06 \n08 \nUnit 6 : Applications of Air \nConditioning, Measurement of \nair velocity and flow \n22 \n08 \n07 \nTotal \n160 \n50 \n50 \nPart C \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n \n30 \nPart D \nProject Work/Field Visit/ \nPractical File/Student Portfolio \n \n10 \nTotal \n \n10 \n \nGRAND TOTAL \n260 \n100\nDETAILED CURRICULUM/TOPICS FOR CLASS XI \nPART - A: EMPLOYABILITY SKILLS \n \nS. \nNo \nUnits \nDuration \nin Hours \n1. \nUnit 1 : Communication Skills-III \n10 \n2. \nUnit 2 : Self-management Skills-III \n10 \n3. \nUnit 3 : Information and Communication Technology Skills-III \n10 \n4. \nUnit 4 : Entrepreneurial Skills-III \n15 \n5. \nUnit 5 : Green Skills-III \n05 \nTOTAL DURATION \n50 \n \nNOTE: For Detailed Curriculum/ Topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \n \n \nPART-B - SUBJECT SPECIFIC SKILLS \n❖ \nUnit 1: Meaning of Air Conditioning and Refrigeration etc. \n❖ \nUnit 2: Vapour Compression Cycle, Working of a Domestic Refrigerators \n❖ \nUnit 3: Meaning of Compressors, Compressor construction \n❖ \nUnit 4: Meaning of Alternating Current etc., Wiring circuit diagrams \n❖ \nUnit 5: Psychometrics- Composition of air, Human comfort etc. \n❖ \nUnit 6: Applications of Air Conditioning, Measurement of air velocity and flow \n \n1. INTRODUCTION: \nThermodynamics and Its laws, meaning of Air Conditioning and Refrigeration, Brief history \nof Air Conditioning and Refrigeration, general safety, Application of Refrigeration, \nConcept of System, its boundary, and surroundings, Unit of Refrigeration, specification \nand uses of Refrigeration tools, Equipment, Instruments. Basic knowledge of heat energy. \nComparison of heat engine, heat pump and refrigeration machine. Rating of Refrigeration \nMachines & Co-efficient of performance (C.O.P). \n \n2. \nREFRIGERATION CYCLE AND APPLICATIONS: \n(i) \nVapour Compression Cycle, Representation of Vapour Compression Cycle on \ntemperature- entropy and pressure- enthalpy diagram, Effect of sub-cooling, Super \nheating, change in suction pressure and discharge pressure on coefficient of\nperformance, Deviation of actual cycle from the theoretical cycle. \n(ii) \nWorking of a Domestic Refrigerator, water cooler & Deep Freezer, Refrigeration \ntools and materials, tubing, cutting, bending, flaring, joining, swaging, instruments \nand gauges. \n \n3. COMPRESSOR: \n(i) \nMeaning of Compressors, Types of compressor-reciprocating (semi-hermetic, \nhermetic and open types), rotary, centrifugal and screwed type, working of \ncompressor. \n(ii) \nCompressor construction, valves, piston, connecting rods, crakshafts, seals, oil \ncirculation, hermetic and semi-hermetic units, cooling of windings, Mufflers. \n \n4. BASIC ELECTRICITY: \n(i) \nMeaning of Alternating current, D.C. Current and difference between them, Voltage, \nphase difference. Knowledge of Ohm’s law and its representation on V- I graph, \nResistance and its unit, measurement of current, voltage and power. \n(ii) \nWiring circuit diagrams of Refrigerators and Air-Conditioners. \n \n \n5. PSYCHROMETRY AND HUMAN COMFORT: \n(i) \nPsychrometry, composition of air, moist air, vapours and gases, specific humidity, \nabsolute humidity, degree of saturation, relative humidity, Dry Bulb Temperature, \nWet bulb Temperature, wet bulb depression, Dew point temperature, dew point \ndepression. \n(ii) \nHuman comfort, concept of effective temperature, comfort zone. \n \n \n6. APPLICATION OF AIR CONDITIONING, MEASUREMENT OF AIR VELOCITY \nAND FLOW: \n(i) \nApplications of Air Conditioning, comfort, industrial and process Air Conditioning, \nstudy of window type air conditioners, package units, Central Air conditioning plants. \n(ii) \nMeasurement of air velocity and flow.\nPRACTICALS \n \nTime: 3 Hours \nMarks: 40 \n \n1. \nTo learn proper techniques of cutting, fitting, reaming, bending, flaring of soft and \nhard copper Tubing, swaging etc. \n2. \nTo learn brazing of copper tubing. \n3. \nTo understand the construction and functions of reciprocating compressors, \ncondensers and evaporators. \n4. \nTo study a hermetic unit and it’s testing. \n5. \nStudy of various types of compressors, dismantling and assembling of \ncompressors. \n6. \nTesting of reciprocating compressors. \n7. \nTo study Domestic Refrigerator and water cooler. \n8. \nStudy of window, split and package type air-conditioner. \n9. \nCharging and testing of Air-Conditioner. \n10. Measurement of voltage, current, power etc. \n11. Making electric circuit diagrams for refrigerators and Air-conditioner. \n12. Study of tools and materials, instruments and gauges. \n13. To study the safety measures to be taken in a workshop \n \nLIST OF EQUIPMENT AND MATERIALS \nList of Equipment used in Air-Conditioning & Refrigeration work-shop: \n \n1. \nWindow type Air-Conditioner \n2. \nSplit type Air-Conditioner \n3. \nRefrigerator \n4. \nWater-cooler \n5. \nDeep-freezer \n6. \nRefrigerant charging machine \n7. \nVacuum-pump \n8. \nPressure gauge \n9. \nCompound gauge \n10. \nCharging line \n11. \nShut-off valves\n12. \nService valves \n13. \nGauge-manifolds \n14. \nRefrigerant-Cylinders \n15. \nCondensing unit \n16. \nCut-model of hermetically sealed compressor \n \nTools: \n1. \nPlier \n2. \nNose-plier \n3. \nScrew Driver \n4. \nPunching-tool \n5. \nFlaring Tool \n6. \nSwaging tool \n7. \nTube-cutter \n8. \nTube-bender \n9. \nWrench seteeler-gauge \n10. \nBrazing-tool kit. \n11. \nDifferent sizes of flaring nuts. \n12. \nAllen key set. \n13. \nThimbles \n14. \nWire-cutter \n15. \nSpanner-Set \n16. \nTommy set \n17. \nBench-Vice \n18. \nFiles (Triangular and flat files etc.) \n19. \nRound file \n20. \nHand Hack-Saw \n21. \nPortable Drill-machine \n \nRaw-Materials for Air-Conditioning &Refrigeration work-shop: \n1. \nDifferent sizes of copper tube (1/4”, 3/8”, 5/8”, 1/2” etc.) \n2. \nCompressor oil. \n3. \nBrazing rods \n4. \nFlux \n5. \nFiller-materials\n6. \nEmery paper \n7. \nHake-Saw blade \n8. \nDifferent sizes drills (2mm, 4mm etc.) \n9. \nRefrigerants. \n \n \nCAREER OPPORTUNITIES \n \nAfter completing this two year A.C.& Ref. skill course of CBSE at +2 level a student has \nthe following career opportunities: - \n1. Student shall be gainfully employed in Domestic, Ice-factory, cold storage plant, \nspecialized A/C units and Refrigerator and A/C manufacturing plants. \n2. ‘Easy to employ in different government, semi-government and private sector such as: \n- Public Health, Railways, Hospitality, Health-department, Air-lines and many other \nengineering departments. \n3. They can start their own enterprise by setting up manufacturing or servicing work- \nshops etc. \n4. They can get franchisee of different renowned companies like: - Voltas, Godrej, \nSamsung, whirlpool etc. \n5. More employment opportunities at International level. \n \n \nVERTICAL MOBILITY \n1. Great opportunities for higher study in National &International level. \n2. A student can get admitted in 2ndyear of 3-year Engineering Diploma course in the \nrespective field like- Mech. Engg, Electrical Engg. etc. and further in 2nd year of 4-year \nB. tech course through lateral entry. \n3. A student can get admission in Bachelor of Vocational (B.Voc.) course of 3-year \nduration in various universities. \n4. Also eligible to continue in degree course of academics from various universities."
+}

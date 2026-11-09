@@ -1,0 +1,71 @@
+{
+  "subject_code": "030",
+  "subject_name": "Economics",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Commerce / Humanities",
+  "directory_name": "SUBJ_030_ECONOMICS",
+  "directory_path": "CLASS_12/SUBJ_030_ECONOMICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Economics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Economics_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Economics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Economics_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 12 Economics (Macro)",
+        "url": "https://ncert.nic.in/textbook/pdf/leec101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 12 Economics (Micro)",
+        "url": "https://ncert.nic.in/textbook/pdf/leec201.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Economics",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Economics-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Economics",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Economics-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 6,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "8ff149b24d61af7ebbc1e47d3e2cabb8fd1477646c56026a057abd6fc2d799b6",
+    "file_size_bytes": 236590,
+    "units_extracted": 8,
+    "chapters_extracted": 9
+  }
+}

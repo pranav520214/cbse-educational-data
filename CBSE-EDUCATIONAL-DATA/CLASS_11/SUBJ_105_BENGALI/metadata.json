@@ -1,0 +1,40 @@
+{
+  "subject_code": "105",
+  "subject_name": "Bengali",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_105_BENGALI",
+  "directory_path": "CLASS_11/SUBJ_105_BENGALI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Bengali",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bengali_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Bengali",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bengali_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f33c5f8ee8415126fd6718d03bc4cbce1e1186273c428a6c0a3fcb36723ef6a7",
+    "file_size_bytes": 530196,
+    "units_extracted": 0,
+    "chapters_extracted": 36
+  }
+}

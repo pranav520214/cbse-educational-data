@@ -1,0 +1,40 @@
+{
+  "subject_code": "028",
+  "subject_name": "Political Science",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Humanities",
+  "directory_name": "SUBJ_028_POLITICAL_SCIENCE",
+  "directory_path": "CLASS_11/SUBJ_028_POLITICAL_SCIENCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Political Science",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PoliticalScience_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Political Science",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PoliticalScience_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f3e8e251676c377200e60f0842a3023d522a3382b902e0d4e91d94e5c1ae55b2",
+    "file_size_bytes": 1562947,
+    "units_extracted": 0,
+    "chapters_extracted": 43
+  }
+}

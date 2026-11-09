@@ -1,0 +1,40 @@
+{
+  "subject_code": "195",
+  "subject_name": "Bhutia",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_195_BHUTIA",
+  "directory_path": "CLASS_11/SUBJ_195_BHUTIA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Bhutia",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhutia_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Bhutia",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhutia_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "e5fe1d46ef4277c23445a0f738336f9d5a8a490669231dc650a29afd18bb8284",
+    "file_size_bytes": 1178674,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "subject_name": "XII",
+  "subject_code": "UNKNOWN",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "General",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XII.pdf",
+  "sha256": "7ec8ff5d1b239fe1e6e31404224d5090a6094f23dab4bf0aa28b1785bfcd3907",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self- Management Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "COMMUNICATION SKILLS - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "SELF - MANAGEMENT SKILLS - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "INFORMATION AND COMMUNICATION TECHNOLOGY SKILLS - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "ENTREPRENEURIAL SKILLS- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "GREEN SKILLS - IV",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Describe the steps to"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance of active listening"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Steps to active listening"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the key aspects of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Preparing posters of steps for active"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrate basic"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Writing skills to the following:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration and practice of writing"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the various"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Finding and listing motives (needs and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Finding sources of motivation and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Discussion on sources of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Describe the basic"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the meaning of personality"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Describe how personality influence others"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Describe basic personality traits"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Describe common personality disorders-"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstrate the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Perform tabulation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Spreadsheet applications"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Creating a new"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Opening workbook and"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Resizing fonts and styles"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Copying and moving"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Filter and sorting"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Formulas and functions"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Password protection."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Printing a spreadsheet."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Saving a spreadsheet in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration and practice on the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Prepare presentation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Software packages for"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Adding a slide"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Deleting a slide"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Entering and editing text"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Formatting text"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Inserting clipart and"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Slide layout"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Saving a presentation"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Printing a presentation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify the general and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Barriers to becoming"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Behavioral and entrepreneurial"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Administering self- rating"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Collect small story/ anecdote of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Identify entrepreneurial"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Preparation of competencies profile"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Entrepreneurial competencies"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Games and exercises on changing"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify the role and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Role of green jobs in toxin-free homes,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Green organic gardening, public transport and"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Green jobs in water conservation"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Green jobs in solar and wind power, waste"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Green jobs in green tourism"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Green jobs in building and construction"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Green jobs in appropriate technology"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Role of green jobs in Improving energy and raw"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Role of green jobs in limiting greenhouse gas"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Role of green jobs minimizing waste and pollution"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Role of green jobs in protecting and restoring"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Role of green jobs in support adaptation to the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Listing of green"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Prepare posters"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nEMPLOYABILITY SKILLS \n(COMMON FOR ALL SKILL COURSES) \nCLASS XII \n \nUNIT NO. \nUNIT NAME \nUnit 1 \nCommunication Skills - IV \nUnit 2 \nSelf- Management Skills - IV \nUnit 3 \nInformation and Communication Technology Skills - IV \nUnit 4 \nEntrepreneurial Skills- IV \nUnit 5 \nGreen Skills - IV \nUNIT 1: COMMUNICATION SKILLS - IV \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Describe the steps to \nactive listening skills \n1. Importance of active listening \nat workplace \n2. Steps to active listening \n1. Demonstration of the key aspects of \nbecoming active listener \n2. Preparing posters of steps for active \nlistening \n2. Demonstrate basic \nwriting skills \n1. Writing skills to the following: \n• Sentence \n• Phrase \n• Kinds of Sentences \n• Parts of Sentence \n• Parts of Speech \n• Articles \n• Construction of a Paragraph \n1. Demonstration and practice of writing \nsentences and paragraphs on topics \nrelated to the subject \nUNIT 2: SELF - MANAGEMENT SKILLS - IV \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Describe the various \nfactors influencing self- \nmotivation \n1. Finding and listing motives (needs and \ndesires); \n2. Finding sources of motivation and \ninspiration (music, books, activities); \nexpansive thoughts; living fully in the \npresent moment; dreaming big \n1.Group discussion on \nidentifying needs and \ndesire \n \n2. Discussion on sources of \n \nmotivation and \n \ninspiration \n2. Describe the basic \npersonality traits, types \nand disorders \n1. Describe the meaning of personality \n2. Describe how personality influence others \n3. Describe basic personality traits \n4. Describe common personality disorders- \nparanoid, antisocial, schizoid, borderline, \nnarcissistic, avoidant, dependent and \nobsessive \n1. Demonstrate the \nknowledge of different \npersonality types\nEMPLOYABILITY SKILLS - CLASS XII \nPage 2 of 3 \n \nUNIT 3: INFORMATION AND COMMUNICATION TECHNOLOGY SKILLS - IV \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Perform tabulation \nusing spreadsheet \napplication \n1. Introduction to \nspreadsheet application \n2. Spreadsheet applications \n3. Creating a new \nworksheet \n4. Opening workbook and \nentering text \n5. Resizing fonts and styles \n6. Copying and moving \n7. Filter and sorting \n8. Formulas and functions \n9. Password protection. \n10. Printing a spreadsheet. \n11. Saving a spreadsheet in \nvarious formats. \n1. Demonstration and practice on the \nfollowing: \n• Introduction to the spreadsheet \napplication \n• Listing the spreadsheet applications \n• Creating a new worksheet \n• Opening the workbook and enter text \n• Resizing fonts and styles \n• Copying and move the cell data \n• Sorting and Filter the data \n• Applying elementary formulas and \nfunctions \n• Protecting the spreadsheet with \npassword \n• Printing a spreadsheet \n• Saving the spreadsheet in various \nformats. \n2. Prepare presentation \nusing presentation \napplication \n1. Introduction to \npresentation \n2. Software packages for \npresentation \n3. Creating a new \npresentation \n4. Adding a slide \n5. Deleting a slide \n6. Entering and editing text \n7. Formatting text \n8. Inserting clipart and \nimages \n9. Slide layout \n10. Saving a presentation \n11. Printing a presentation \ndocument \n1. Demonstration and practice on the \nfollowing: \n• Listing the software packages for \npresentation \n• Explaining the features of presentation \n• Creating a new presentation \n• Adding a slide to presentation. \n• Deleting a slide \n• Entering and edit text \n• Formatting text \n• Inserting clipart and images \n• Sliding layout \n• Saving a presentation \n• Printing a presentation document \nUNIT 4: ENTREPRENEURIAL SKILLS- IV \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Identify the general and \nentrepreneurial \nbehavioral \ncompetencies \n1. Barriers to becoming \nentrepreneur \n2. Behavioral and entrepreneurial \ncompetencies- adaptability/ \ndecisiveness, \ninitiative/perseverance, \ninterpersonal skills, \norganizational skills, stress \nmanagement, valuing service \nand diversity \n1. Administering self- rating \nquestionnaire and score responses \non each of the competencies \n2. Collect small story/ anecdote of \nprominent successful entrepreneurs \n3. Identify entrepreneurial \ncompetencies reflected in each story \nand connect it to the definition of \nbehavioral competencies \n4. Preparation of competencies profile \nof students\nEMPLOYABILITY SKILLS - CLASS XII \nPage 3 of 3 \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n2. Demonstrate the \nknowledge of self- \nassessment of \nbehavioral \ncompetencies \n1. Entrepreneurial competencies \nin particular: self -confidence, \ninitiative, seeing and acting on \nopportunities, concern for \nquality, goal setting and risk \ntaking, problem solving and \ncreativity, systematic planning \nand efficiency, information \nseeking, persistence, \ninfluencing and negotiating, \nteam building \n1. Games and exercises on changing \nentrepreneurial behavior and \ndevelopment of competencies for \nenhancing self-confidence, problem \nsolving, goal setting, information \nseeking, team building and creativity \n \nUNIT 5: GREEN SKILLS - IV \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Identify the role and \nimportance of green \njobs in different sectors \n1. Role of green jobs in toxin-free homes, \n2. Green organic gardening, public transport and \nenergy conservation, \n3. Green jobs in water conservation \n4. Green jobs in solar and wind power, waste \nreduction, reuse and recycling of wastes, \n5. Green jobs in green tourism \n6. Green jobs in building and construction \n7. Green jobs in appropriate technology \n8. Role of green jobs in Improving energy and raw \nmaterials use \n9. Role of green jobs in limiting greenhouse gas \nemissions \n10. Role of green jobs minimizing waste and pollution \n11. Role of green jobs in protecting and restoring \necosystems \n12. Role of green jobs in support adaptation to the \neffects of climate change \n1. Listing of green \njobs and \npreparation of \nposters on green \njob profiles \n2. Prepare posters \non green jobs. \n \nSuggested Textbook: \n❖ Employability Skills for class XII by NCERT \n \n \n \n \n \n \nThe textbook can be downloaded using any of the \nfollowing links: \nhttp://psscive.ac.in/publications/textbooks \nhttps://cbseacademic.nic.in/skill-education-books.html"
+}

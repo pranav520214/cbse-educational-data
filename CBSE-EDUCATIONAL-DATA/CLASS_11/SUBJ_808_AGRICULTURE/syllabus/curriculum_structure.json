@@ -1,0 +1,485 @@
+{
+  "subject_name": "Agriculture",
+  "subject_code": "808",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XI.pdf",
+  "sha256": "ff99c1afcacae41e76ccc240721f98e180adbe974bae7b6f5cf316efb6907b77",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Scope and Importance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VI",
+      "title": "Care and Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VII",
+      "title": "Bio-waste Management and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Scope and Importance:",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Physical Environment:",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Agriculture Economics and Crop Production",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Genetics and Plant Breeding",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VII",
+      "title": "Bio-Waste Management and Government Schemes",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To help the students to comprehended the facts and importance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To expose the students to crop production, animal husbandry,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To familiarize the students with waste management and physica"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To expose the students to find better income and avenue gener"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "UNIT CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Communication Skills- III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Self-management Skills - III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Information and Communication Technology Skills - III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Entrepreneurial Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Green Skills - III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Definition of Agriculture, its branches"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Scope in the national economy and employment"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Climate and Weather, elements of Weather: Rainfall, Temperatu"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Soil, Soil texture and structure and its types, distribution"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Soil erosion and Soil conservation. Reclamation of problemati"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Tillage definition and types. Concept of conservation and til"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Agricultural Economics, Cooperative system in Agriculture, Cr"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Package of practices in field crops like important varieties,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Package of practices of fruits: Mango, Banana, Guava, Lime, G"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Types of seed-foundation and certified and methods of plant p"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Important farm implements and their general maintenance."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Cell and its structure, cell division-Mitosis and Meiosis and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Introduction to -DNA, RNA, and their differences."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Role of Genetics in Plant breeding, self and cross-pollinated"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Mendel's laws of Inheritance. Illustrative depiction of the M"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance of livestock in Agriculture, National Economy and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Important animal based food products and their role in our di"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Important indigenous and exotic breeds of cattle, buffalo and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Concept and pattern of cooperative system of milk procurement"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Animal body structure and functions."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Concept of grazing and stall feeding including poultry feedin"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Principles of feeding, feeding practices; important fodder cr"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Housing of dairy animals and poultry animals."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Management of calves, bullocks, pregnant and milch animals as"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Production of milk and eggs."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Systems of milking by hand and by machine. Important consider"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Concept of clean milk production processing, pasteurization a"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Principles of disease management and vaccination."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Signs of sick animals, symptoms of common diseases in cattle"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Utilization of animals in Bio-wastes and Biogas plant"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Important government schemes for development of livestock dai"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Tape"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Hygrometer"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Crow bar"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Pruning knife"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rope"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Super cut"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Khurpi"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Thinning scissor"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Wheel hoe"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Hand cultivator"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trenching hoe"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Hand weedier"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Transplanting travel"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Weeding fork"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Dibbler"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Garden hoe"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Planting board"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Shovel"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Secateurs"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Digging fork"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Garden hatchet"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Garden rake"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Water can"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Spade"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sprinkler"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Small Trowel"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Sprayer"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Rake"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Duster"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Drip and sprinkler"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Temperature & humidity control"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Misting"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Automatic shade system"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Fogging and blackout"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Dry and liquid fertilizer"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Irrigation system"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Formalin"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Mobile benches"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Fan"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Sulphur"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Pad"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Insecticide"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Ventilator"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Indofil-45"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Thermometer"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Neem cake"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Lux meter/Light meter"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Plant Growth regulator/hormones"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Digital electronic temperature"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Radiation measuring instrument"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The student have to prepare a report of their visit to differ"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Prepare Herbarium of different crops and weed species. The le"
+    }
+  ],
+  "full_text_excerpt": "Page 1 of 7 \n808- Agriculture Class XI - 2026-27 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nINTRODUCTION TO AGRICULTURE (SUB CODE-808) \nJOB ROLE: AGRICULTURE EXTENSION WORKER \nCLASS - XI \n1. Introduction \nAgriculture has been the prime enterprise for the National Economy of this country for centuries and \nthat is why India is called Agrarian country. This sector also provides maximum employment to the \npeople of this country. Agriculture is the production of food and fiber, ever since its advent. It has \nundergone several paradigm changes. The major landmark in Agriculture happened during 1960s \nwhen the country witnessed Green Revolution. Which boosted the crop production. Use of short \nduration crop varieties, fertilizers, pesticides and agricultural tools and expansion of area under \nirrigation were important interventions brought in Agriculture. Livestock is an integral part of \nAgriculture in India. Their by-products are used to build and maintain soil fertility along with plant \nprotection. The animal products such as meat, milk and eggs are the source of nutrients in human \ndiet as well. \n \nSeveral emerging dimensions of contemporary Agriculture such as organic agriculture and animal \nhusbandry practices are now getting attention. Food processing, value addition and preservation \nhave been the focus of policies formation in recent times which are helpful in minimizing the wastage \nin Agriculture. This is helping in better income realizing through marketing of value added products. \nThe income from Agriculture can also be increased by associating in subsidiary enterprises such as \nmushroom production, bio-pesticides, bee- keeping, vermi-culture etc. \n \n2. Course Objectives \nThe broad objectives of teaching Agriculture at Senior Secondary level are: \n1. To help the students to comprehended the facts and importance of Agriculture. \n2. To expose the students to crop production, animal husbandry, horticulture etc. \n3. To familiarize the students with waste management and physical environment in Agriculture. \n4. To expose the students to find better income and avenue generating avenue of \nagriculture and its associated activities. \n \n3. Curriculum \n \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI opting for Skills subject along with \ngeneral education subjects. \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\nPage 2 of 7 \n808- Agriculture Class XI - 2026-27 \n \nAGRICULTURE (SUBJECT CODE - 808) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \nThe unit-wise distribution of periods and marks for Class - XI is as follows: \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \n260 \nMAX. \nMARKS for \nTheory and \nPractical \n100 \nPart A \nEmployability Skills \nUnit 1 : Communication Skills-III \n10 \n2 \nUnit 2 : Self-Management Skills-III \n10 \n2 \nUnit 3 : ICT Skills - III \n10 \n2 \nUnit 4 : Entrepreneurial Skills-III \n15 \n2 \nUnit 5 : Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart \nSubject Specific Skills \nTheory \nPractical \nMarks \nSECTION: I \nAgriculture and Crop Production \nUnit: I: Scope and Importance \n5 \n20 \n20 \nUnit: II: Physical Environment \n35 \nUnit: III: Agriculture Economics and \nCrop Production \n35 \nSECTION: II \nGenetics and Plant Breeding \nUnit: IV Genetics and Plant Breeding \n30 \n10 \n10 \nSECTION: III \nLivestock Production \nUnit V: Scope and Importance \n10 \n20 \n20 \nUnit VI: Care and Management \n40 \nUnit VII: Bio-waste Management and \nGovernment Schemes \n05 \nTotal \n160 \n50 \n50 \nPart C \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n10 \nViva Voce \n05 \nTotal \n30 \nPart D \nProject Work / Field Visit/ Practical File / Student \nPortfolio \n \n10 \nTotal \n10 \n \nGRAND TOTAL \n \n260 \n100\nPage 3 of 7 \n808- Agriculture Class XI - 2026-27 \n \n4. UNIT CONTENTS \n \nPART A: EMPLOYABILITY SKILLS \n \nUnits \n1. \nCommunication Skills- III \n2. \nSelf-management Skills - III \n3. \nInformation and Communication Technology Skills - III \n4. \nEntrepreneurial Skills - III \n5. \nGreen Skills - III \nDetailed curriculum of Employability Skills is available separately \nPart B: Skills \nSECTION - I - AGRICULTURE AND CROP PRODUCTION: \n \nUnit I: Scope and Importance: \n1. Definition of Agriculture, its branches \n2. Scope in the national economy and employment \n \nUnit II: Physical Environment: \n1. Climate and Weather, elements of Weather: Rainfall, Temperature, Humidity, \nWind, Sunshine, Climate Change and Global warming. Introduction to various \nmeteorological equipments. \n2. Soil, Soil texture and structure and its types, distribution and area. \n3. Soil erosion and Soil conservation. Reclamation of problematic soils acidic and alkali. \n4. Tillage definition and types. Concept of conservation and tillage. \n \nUnit III: Agriculture Economics and Crop Production \n1. Agricultural Economics, Cooperative system in Agriculture, Crop insurance. \nKisan Credit Cards. Marketing of Agricultural products (supply chain, retailing, \nwholesale), haats. \n2. Package of practices in field crops like important varieties, seed rate, sowing time, \nintercultural operations, yield and marketing for Rice, Wheat, Maize, Mustard, Sunflower, \nSoyabean, Groundnut, Black gram, Red gram, Pea, Jute, Sugarcane, Sorghum, Pearl \nmillet and Finger millet. \n3. Package of practices of fruits: Mango, Banana, Guava, Lime, Grape, Apple, \nPomegranate. Vegetables: Potato, Tomato, Cauliflower, Cabbage, Spinach, Brinjal, \nBottle gourd, Pumpkin, Cucumber. Flower- Rose, Gladiolus, Marigold. \n4. Types of seed-foundation and certified and methods of plant propagation - \nLayering and Cutting, and Tissue culture. \n5. Important farm implements and their general maintenance.\nPage 4 of 7 \n808- Agriculture Class XI - 2026-27 \n \nSECTION II - GENETICS AND PLANTBREEDING \nUnit IV: Genetics and Plant Breeding \n1. Cell and its structure, cell division-Mitosis and Meiosis and their significance in plant growth \nand development. \n2. Introduction to -DNA, RNA, and their differences. \n3. Role of Genetics in Plant breeding, self and cross-pollinated crops, methods of breeding \nin field crops-introduction, Selection, Hybridization, Mutation. \n4. Mendel's laws of Inheritance. Illustrative depiction of the Mendel's experiments, their \nimportance in plant breeding. \n \nSECTION - III: - LIVESTOCK PRODUCTION \nUnit V: Scope and Importance \n1. Importance of livestock in Agriculture, National Economy and Nutritional security \n2. Important animal based food products and their role in our diet. \n3. Important indigenous and exotic breeds of cattle, buffalo and poultry, and quantitative and \nqualitative production details of produces (milk, meat and eggs) \n4. Concept and pattern of cooperative system of milk procurement and pricing of milk. \nMarketing of milk in India \n \nUnit VI: Care and Management \n1. Animal body structure and functions. \n2. Concept of grazing and stall feeding including poultry feeding. \n3. Principles of feeding, feeding practices; important fodder crops; Silage and Hay \npreparation; balanced ratio-definition and ingredients. \n4. Housing of dairy animals and poultry animals. \n5. Management of calves, bullocks, pregnant and milch animals as well as chicks and layers. \n6. Production of milk and eggs. \n7. Systems of milking by hand and by machine. Important considerations in both these methods. \n8. Concept of clean milk production processing, pasteurization and packaging and milk. \nValue added products from milk. \n9. Principles of disease management and vaccination. \n10. Signs of sick animals, symptoms of common diseases in cattle and poultry-Rinderpest, Black \nquarter, Foot and Mouth, Mastitis, Hemorrhagic Septicemia, Salmonellosis, bird flu, Fowl \nPox and Rani khet disease, their prevention and control. \nUnit VII: Bio-Waste Management and Government Schemes \n1. Utilization of animals in Bio-wastes and Biogas plant \n2. Important government schemes for development of livestock dairy and purity in India. \nTheir important features and eligibility criteria.\nPage 5 of 7 \n808- Agriculture Class XI - 2026-27 \n \n5. TEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and \nfield visits. Students should be taken to field visits for interaction with experts and to expose them to \nthe various tools, equipment, materials, procedures and operations in the workplace. Special \nemphasis should be laid on the occupational safety, health and hygiene during the training and field \nvisits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a variety \nof instructional or teaching aids, such as audio-video materials, colour slides, charts, diagrams, \nmodels, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart training \nto the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case \nbased studies, exercises, etc. Equipment and supplies should be provided to enhance hands-on \nlearning experience of students. Only trained personnel should teach specialized techniques. A \ntraining plan that reflects tools, equipment, materials, skills and activities to be performed by the \nstudents should be submitted by the teacher to the Head of the Institution. \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of \npractical demonstration of skills by the candidate, Practical examination allows candidates to \ndemonstrate that they have the knowledge and understanding of performing a task. This will include \nhands-on practical exam and viva voce. For practical, there should be a team of evaluators. The \nsame team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain \ntime period or timeline. Project work should be given on the basis of the capability of the individual to \nperform the tasks or activities involved in the project. Projects should be discussed in the class and \nthe teacher should periodically monitor the progress of the project and provide feedback for \nimprovement and innovation. Field visits should be organised as part of the project work. Field visits \ncan be followed by a small-group work/project work. When the class returns from the field visit, each \ngroup might be asked to use the information that they have gathered to prepare presentations or \nreports of their observations. Project work should be assessed on the basis of practical file or student \nportfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, and photos of products prepared by students in relation to \nthe unit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or \nvideo recording can be done at the time of viva voce. The number of external examiners would be \ndecided as per the existing norms of the Board and these norms should be suitably adopted/adapted \nas per the specific requirements of the subject. Viva voce should also be conducted to obtain feedback \non the student’s experiences and learning during the project work/field visits.\nPage 6 of 7 \n808- Agriculture Class XI - 2026-27 \n \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \n \nIn field visits, children will go outside the classroom to obtain specific information from experts or to \nmake observations of the activities. A checklist of observations to be made by the students during the \nfield visits should be developed by the Teachers for systematic collection of information by the \nstudents on the various aspects. Principals and Teachers should identify the different opportunities \nfor field visits within a short distance from the school and make necessary arrangements for the visits. \nAt least three field visits should be conducted in a year. \n \n7. LIST OF EQUIPMENT AND MATERIAL \nThe list given below is suggestive and an exhaustive list should be prepared by the \nskill teacher. Only basic tools, equipment and accessories should be procured by the \nInstitution so that the routine tasks can be performed by the students regularly for practice \nand acquiring adequate practical experience. \n \n1. \nTape \n28. \nHygrometer \n2. \nCrow bar \n29. \nPruning knife \n3. \nRope \n30. \nSuper cut \n4. \nKhurpi \n31. \nThinning scissor \n5. \nWheel hoe \n32. \nHand cultivator \n6. \nTrenching hoe \n33. \nHand weedier \n7. \nTransplanting travel \n34. \nWeeding fork \n8. \nDibbler \n35. \nGarden hoe \n9. \nPlanting board \n36. \nShovel \n10. \nSecateurs \n37. \nDigging fork \n11. \nGarden hatchet \n38. \nGarden rake \n12. \nWater can \n39. \nSpade \n13. \nSprinkler \n40. \nSmall Trowel \n14. \nSprayer \n41. \nRake \n15. \nDuster \n42. \nDrip and sprinkler \n16. \nTemperature & humidity control \nSystem \n43. \nMisting \n17. \nAutomatic shade system \nList of Chemicals \n18. \nFogging and blackout \n44. \nDry and liquid fertilizer \n19. \nIrrigation system \n45. \nFormalin \n20. \nMobile benches \n46 \nBavistin \n21. \nFan \n47. \nSulphur \n22. \nPad \n48. \nInsecticide \n23. \nVentilator \n49. \nIndofil-45 \n24. \nThermometer \n50. \nNeem cake \n25. \nLux meter/Light meter \n51. \nPlant Growth regulator/hormones \n26. \nDigital electronic temperature \nIndicator \n \n \n27. \nRadiation measuring instrument\nPage 7 of 7 \n808- Agriculture Class XI - 2026-27 \n \n8. PRACTICAL GUIDELINES \n \nSECTION - I & II \nAgriculture and Crop Production and Genetics & Plant Breeding \n(a) Visit to a crop field. Identify different crops growing in the field and make are port. \n(b) Identification of farm implements used for different operations, draw a design of at least 5 \nimplements and make are port. \n(c) Identification of seeds of different crops. \n(d) Seed germination test. (two cereals , two pulses, two vegetables, two flowers) \n(e) Calculation of cost of production of wheat crop in one hectare of land area & prepare are port. \n(f) Visit to an orchard and identify different fruit crops and make are port. \n(g) Identification of important vegetable crops, prepare are port. \n(h) Identification of important flower crops. \n(i) Orchard layout, digging of pits and planting of sapling of any one fruit crop. \n(j) Land preparation and sowing of wheat crop seed in the bed. \n \nSECTION - III \nLivestock Production \n(k) Identification of body parts of dairy animals and Poultry. \n(l) Identification of common breeds of cows, buffaloes and poultry birds. \n(m) Handling and restraining of animals. \n(n) Testing of milk fat and SNF. \n(o) Visit to a local veterinary hospital and observe the condition of a sick animal and prepare a \nreport. \n(p) Compute ration for an animal and poultry and prepare a report. \n(q) Visit to milk processing plant and on outlet a milk & milk products centre. Record the \nprocessing & sale of variety in milk based products. \n(r) Identification of feeds, fodder crops and grasses. \n(s) Visit to Biogas plant. \n \nReport on the Visits \n1. \nThe student have to prepare a report of their visit to different organizations and submit \nto the subject teacher for the evaluation. The report must contain the student's original \nwork and observations. \n2. \nPrepare Herbarium of different crops and weed species. The leaves of the crops \nand weeds are pressed dried and mounted on the Herbarium sheet. \nViva-Voce \nStudents can be asked questions based on: \n(i) \nIdentification of objects \n(ii) \nVisit Report analysis. \n(iii) \nExperiences in their field visits, etc. \n \nA range of 5 to 10 questions can be asked depending on the response of the student. \nEvaluation 5x1=5 or should be based on number of questions answered. Evaluator \nshould stick to the time and ½ x10=5 number of questions."
+}

@@ -1,0 +1,40 @@
+{
+  "subject_code": "198",
+  "subject_name": "Mizo",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_198_MIZO",
+  "directory_path": "CLASS_11/SUBJ_198_MIZO",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Mizo",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Mizo_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Mizo",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Mizo_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "3393842ef2adcc3a14d3e18232e61d769048f2c65932d6e7f22c4d1a04bb1942",
+    "file_size_bytes": 632108,
+    "units_extracted": 0,
+    "chapters_extracted": 27
+  }
+}

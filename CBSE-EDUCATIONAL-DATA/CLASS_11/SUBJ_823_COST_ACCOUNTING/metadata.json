@@ -1,0 +1,33 @@
+{
+  "subject_code": "823",
+  "subject_name": "Cost Accounting",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Finance",
+  "directory_name": "SUBJ_823_COST_ACCOUNTING",
+  "directory_path": "CLASS_11/SUBJ_823_COST_ACCOUNTING",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Cost Accounting (823-CostAccounting.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/823-CostAccounting.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "9c287e41949d7f5253ce61f7d87290ae3d6d0e670780094c5a00b5ef1c056998",
+    "file_size_bytes": 373383,
+    "units_extracted": 10,
+    "chapters_extracted": 0
+  }
+}

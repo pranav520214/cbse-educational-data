@@ -1,0 +1,155 @@
+{
+  "subject_name": "Geospatial Technology",
+  "subject_code": "818",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Tech",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XII.pdf",
+  "sha256": "479601ecfe93a1304f805266e24acf6f44217cc91b42e782a2df3c109a0922df",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Chapter 1: Remote Sensing (RS)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Chapter 2: Geographic Information System (GIS)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Chapter 3: Global Positioning System (GPS)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Chapter 4: Trends in Geospatial Technology"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Chapter 5: Applications of Geospatial Technology"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Remote Sensing (RS)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Geographic Information"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Global PositioningSystem"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Trends in Geospatial"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Applications of Geospatial"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Projection of data"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Digitization"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Digital imageProcessing"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Geospatial data creationand"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Spatial Analysis and"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Symbiology and layouts"
+    },
+    {
+      "chapter_number": 7,
+      "title": "On job training"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Environment analysis."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Urban area."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Water bodies."
+    }
+  ],
+  "full_text_excerpt": "818-Geospatial Technology - Class XII- 2026-2027 \nPage 1 of 8 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nGEOSPATIAL TECHNOLOGY XII (818) \nJOB ROLE: GIS OPERATOR \n \nCOURSE OVERVIEW: \nGeospatial technology is an umbrella phrase associated with a range of various technologies \nwhich include remote sensing, Global Positioning System (GPS), Geographic Information \nSystem (GIS), information technologies, and field sensors, that are intended to facilitate the \nprocess of capturing/storing/ processing/ displaying/ disseminating information tied to a location. \nThis present course curriculum offers an opportunity for the students to understand the basics of \ngeospatial technology for developing an interest in the principles, practical uses, and resources \nrelated to geospatial technologies. With the exponential growth of Indian geospatial market, this \ninitiative is intended to develop the pool of manpower trained in this subject. This course will \nenable the students to get an insight into the diverse geospatial database concepts, creating and \nimplementing of the same, GIS theory and spatial analysis, supplemented by extensive practical \nexercises. Also, it will help the students to acquire skills for further studies and to enter the \nprofessional world. \nOBJECTIVES OF THE COURSE: \nIn this course, the students will be introduced to the fundamental concepts of Geospatial \nTechnology and the career opportunities available in this field. This vocational course offers \nprofessional education dealing with mapping and Geospatial production to ensure that students \nobtain insight into Geospatial database concepts, creating and implementing database, spatial \nanalysis, developing GIS applications, through both theoretical concepts and supported by \nextensive practical exercise with hands-on training using Geomatica industry standard software. \nFollowings are the main objectives of this course. \n \n• \nTo provide knowledge to students to compile, analyze, and present geospatial data. \nStudents will learn these basic geospatial concepts while working with Rolta’s Geomatica \nsoftware. \n• \nTo familiarize the students with various dimensions of Geospatial Technology and career \nopportunities available in these fields. \n• \nTo develop creative thinking among students and make them technology-savvy so that \nthey could be ready to join the Geospatial industry.\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 2 of 8 \n \n \nSALIENT FEATURES: \n \n➢ Geospatial technologies with proven capabilities for supporting decision making can \neffectively support governance, enable sustainable development, assist in better \nmanagement of business process as well as bring location-based information closer to \nthe people. \n➢ Geographic information has application in practically all walks of human existence. \n \n➢ In the present economic scenario, there is an increasing demand for cost effective \nsolutions for decision making which is likely to propel the usage of this technology and \nprofessionals across sectors in the near future. \n➢ Geospatial technology is perhaps the only technology that can provide a holistic \napproach to the understanding of the interactions and inter-linkages between the earth’s \nbiophysical and social elements to strike an optimal balance between developmental and \nenvironmental goals. \n \nLIST OF EQUIPMENT AND MATERIALS: \n➢ Computers \n➢ Rolta Geomatica Software (Provided by CBSE) \n➢ Internet connectivity \n➢ LCD Projector (optional) \n➢ Projector Screen (optional) \n \nCAREER OPPORTUNITIES: \n \nGeospatial technology is ubiquitous and the expanse of its reach in multiple fields is \ngrowing rapidly. Most technologies require a spatial component and it is one of the pillars \nof emerging technologies. Be it our day-to-day activities or cutting-edge futuristic \nresearch, none can be visualized without geospatial information. A vast range of career \nopportunities are available in this field. Following are just few of them- \n➢ Geospatial Data Technician \n➢ Geospatial Scientist \n➢ Image Scientist/ Analyst \n➢ Geospatial Developer \n➢ Geospatial Programmer \n➢ Geospatial Database Engineer \n➢ Forensic Analyst \n➢ Criminal Intelligence Analyst\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 3 of 8 \n \n \nVERTICAL MOBILITY: \n \n➢ GIS Operator -------GIS Assistant or Technician -------GIS Specialist -------------------------- GIS \no Analyst -------- Senior GIS Analyst ---------- GIS Coordinator ---------------- GIS \nScientist/ \no Manager. \n \n \nOCCUPATIONS USING GEOSPATIAL TECHNOLOGY: \n \no \nAgriculture \no \nArcheology \no \nBanking and Financial Services \no \nBusiness \no \nCensus \no \nConservation \no \nCriminal Justice \no \nDefense and Intelligence \no \nDisaster Management \no \nEducation \no \nEconomic Development \no \nEducation Administration \no \nEducation and Research \no \nElections \no \nEmergency Response \no \nEnergy \no \nEngineering \no \nEnvironmental Health \no \nEnvironmental Law \no \nEnvironmental Planning \no \nEpidemiology \no \nFire Science Forestry\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 4 of 8 \n \n \nGEOSPATIAL TECHNOLOGY (818) \nCLASS - XII (Session 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \n260 \nMAX. MARKS \nfor Theory and \nPractical \n100 \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills-IV \n13 \n2 \nUnit 2 : Self-Management Skills-IV \n07 \n2 \nUnit 3 : ICT Skills-IV \n13 \n2 \nUnit 4 : Entrepreneurial Skills-IV \n10 \n2 \nUnit 5 : Green Skills-IV \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nChapter 1: Remote Sensing (RS) \n30 \n18 \nChapter 2: Geographic Information \nSystem (GIS) \n30 \n17 \nChapter 3: Global Positioning System \n(GPS) \n20 \n05 \nChapter 4: Trends in Geospatial \nTechnology \n20 \n05 \nChapter 5: Applications of \nGeospatial Technology \n20 \n05 \nTotal \n120 \n50 \nPart C \nPractical Work \n \nProject \n \n \n90 \n10 \nViva \n05 \nPractical File \n10 \nDemonstration of skill competency \nvia Lab Activities \n15 \nTotal \n90 \n40 \n \nGRAND TOTAL \n260 \n100\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 5 of 8 \n \n \nDETAILED CURRICULUM/ TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Communication Skills-IV \n13 \n2. \nUnit 2: Self-management Skills-IV \n07 \n3. \nUnit 3: Information and Communication Technology \nSkills-IV \n13 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n07 \nTOTAL DURATION \n50 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \nPart-B - SUBJECT SPECIFIC SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nChapter 1: Remote Sensing (RS) \n30 \n2. \nChapter 2: Geographic Information System (GIS) \n30 \n3. \nChapter 3: Global Positioning System (GPS) \n20 \n4. \nChapter 4: Trends in Geospatial Technology \n20 \n5. \nChapter 5: Applications of Geospatial Technology \n20 \nTOTAL \nDURATION \n120\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 6 of 8 \n \n \nUNIT \nSUB-UNIT \nSESSION/ACTIVITY \n1. Remote Sensing (RS) \n1.1. Introduction \n• Introduction \n• Electromagnetic Spectrum \n• Stages in Remote Sensing \n• Wien’s Displacement law \n• Various Interaction \nResponses ofSun rays \n1.2. Spectral ReflectanceSignature \n• Soil \n• Vegetation \n• Water \n• Rock \n• 5. Resolution and its types \n1.3. Digital Image \nProcessing \n• Image restoration \n• Statistical analysis \n• Image enhancement \n• Image classification \n• Band Rationing \n• NDVI \n• PVI \n1.4. Visual Interpretation ofSatellite \nData \n• Tone \n• Shape \n• Size \n• Pattern \n• Texture \n• Shadow \n• \nAssociation \n1.5. Aerial Photo and its \nInterpretation \n1.6. Advanced Remote \nSensing Technologies \n• Hyper Spectral Imagery \n• Thermal Remote Sensing \n• Microwave Remote Sensing \n1.7. Advantages and Benefitsof RS \n2. Geographic Information \nSystem (GIS) \n2.1. \nIntroduction \n• Spatial and Non-Spatial data \n2.2. GIS Data Element andData \nStructure \n• GIS functions \n• Data Structure \n2.3. Fundamentals of \nDatabase concepts \n• Spatial data input \n• Attribute data input \n• Linking of both the data set \n2.4. Data Input to GISSystem \n• Digitization \n• Data transfer \n• Key board entry \n2.5. GIS Data Editing \n• Topology building \n• Topological errors \n• Location errors \n• Edge matching \n2.6. Attribute Data linking \n2.7.Spatial and Non-Spatial \ndata analysis \n• Query- Boolean algebra \n• Dissolve \n• Overlay \n• Merge \n• Buffer analysis \n• TIN\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 7 of 8 \n \n \nUNIT \nSUB-UNIT \nSESSION/ACTIVITY \n \n2.8. Map Projection and \nCoordinate System \n• Projections \n• Coordinate systems \n• UTM \n• Datum \n• WGS84 \n2.9. Digital Cartography \n2.10. Advantages andBenefits \nof GIS \n3. Global PositioningSystem \n(GPS) \n3.1. \nIntroduction \n• Introduction and History \n• Segments of GPS \n• dilatation \n3.2. GPS Accuracy and \nAccuracy factors \n• Errors \n• Clock offset \n3.3. Types of GPS \n• DGPS \n• Recreational \n• Mapping \n• Survey \n3.4. List of Global Navigation \nSystem \n• Navistar \n• Glonass \n• Galileo \n3.5. GPS today & Limitations \nof GPS \n3.6. Uses of GPS Technology \n• In Survey and Mapping \n• In Height and location \n• In Vehicle tracking \n4. Trends in Geospatial \nTechnology \n4.1. \nIntroduction \n4.2. Remote Sensing Trends \nand Technology \n• Trends in Technology \nTrends in Application \n4.3. GIS Trends and \nTechnology \n• Web based GIS \n• Enterprise GIS \n• Mobile GIS \n• 3D visualization \n• Open GIS \n4.4. GPS Trends and \nTechnology \n• Stone age \n• Star age \n• Radio age \n• Satellite age \n• Latest Development \n5. Applications of Geospatial \nTechnology \n5.1. Introduction \n5.2. Watershed Studies \n5.3. Flood Studies \n5.4. Health Issues \n5.5. Utility Studies \n5.6. Security and Defense \nStudies \n5.7. Urban and Infrastructure \nStudies \n5.8. Disaster Relief \nManagement\n818-Geospatial Technology - Class XII- 2026-2027 \nPage 8 of 8 \n \n \nUNIT \nSUB-UNIT \nSESSION/ACTIVITY \n1. Projection of data \n1.1 Dereferencing. \n \n1.2 Coordinating System and \ncomponents. \n1.3 Image to map \nregistration. \nImage to imageregistration. \n2. Digitization \n2.1.Building Topology \n3. Digital imageProcessing \n3.1 Image enhancement. \n \n3.2 Unsupervised \nclassification. \nSupervised classification. \n4. Geospatial data creationand \nediting \n4.1. Querying (Location \nparameters, graphics etc.). \n4.2. Projection data. \nBuilding geo database. \n5. Spatial Analysis and \nThematic Mapping \n5.1. Overlay analysis \n5.2. Reprocessing of data \nintersection, union dissolve, \nmerge, clip. \n5.3. Functional attribute and \nexpression. \nStatistics and Report \ngeneration. \n6. Symbiology and layouts \n6.1. Map surfing. \n6.2. Preparing map and its \nlayout. \n6.3. Indexing. \n6.4. Scale and annotation. \nPreparing maps for \npresentation. \n7. On job training \n7.1. Preparation of maps for. \n1. Environment analysis. \n2. Urban area. \n3. Water bodies. \nAgriculture and Forest \nCollecting ground truth with \nGPS Overlaying of different \nmaps in GIS."
+}

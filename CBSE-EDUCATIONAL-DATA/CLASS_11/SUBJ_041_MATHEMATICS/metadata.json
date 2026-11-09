@@ -1,0 +1,48 @@
+{
+  "subject_code": "041",
+  "subject_name": "Mathematics",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science / Commerce",
+  "directory_name": "SUBJ_041_MATHEMATICS",
+  "directory_path": "CLASS_11/SUBJ_041_MATHEMATICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Mathematics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Mathematics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Maths_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 11 Mathematics",
+        "url": "https://ncert.nic.in/textbook/pdf/kemh101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f72e4e8040414d9e8af37c4c3b65acd8b39cf383e83d4e96554f78f023077b62",
+    "file_size_bytes": 694672,
+    "units_extracted": 5,
+    "chapters_extracted": 16
+  }
+}

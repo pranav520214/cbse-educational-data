@@ -1,0 +1,40 @@
+{
+  "subject_code": "115",
+  "subject_name": "Kannada",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_115_KANNADA",
+  "directory_path": "CLASS_11/SUBJ_115_KANNADA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Kannada",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kannada_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Kannada",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kannada_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "d31eef9bfc8bcd3972b933bff40f8f8d3b8d1a67857987c05af9bf2dedbdc88f",
+    "file_size_bytes": 803099,
+    "units_extracted": 0,
+    "chapters_extracted": 14
+  }
+}

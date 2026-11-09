@@ -1,0 +1,125 @@
+{
+  "subject_name": "Information Technology",
+  "subject_code": "802",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Computing",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/802-IT.pdf",
+  "sha256": "c85720f1a12459593ed5096fed7d7f2b36cfed88f89cd897806b66cc993364c7",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Database Concepts - RDBMS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Operating Web Based",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "JAVA - Fundamentals of Java",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Work Integrated Learning IT -",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Database Concepts - RDBMS tool",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Operating Web Based Applications",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "JAVA - Fundamentals of Java programming, Introduction to Java, Object Oriented",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Work Integrated Learning IT - DMA",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "DATABASE CONCEPTS - RDBMS TOOL",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Fundamentals of Java programming, Introduction to Java,",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills- IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    }
+  ],
+  "full_text_excerpt": "802 - Information Technology Class XI & XII - 2026-2027 \nPage 10 of 13 \n \nINFORMATION TECHNOLOGY (Code No. 802) \nClass XII (Session 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills- IV \n10 \n2 \nUnit 2 : Self-Management Skills- IV \n10 \n3 \nUnit 3 : ICT Skills- IV \n10 \n1 \nUnit 4 : Entrepreneurial Skills- IV \n15 \n3 \nUnit 5 : Green Skills- IV \n05 \n1 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit -1 : Database Concepts - RDBMS \nTool \n30 \n45 \n15 \nUnit -2 : Operating Web Based \nApplications \n15 \n20 \n10 \nUnit-3: JAVA - Fundamentals of Java \nprogramming, Introduction to Java, \nObject Oriented Programming, Java \nLanguage Elements, Operators, Control \nFlow, Array, Class Design, Exception \nHandling, Assertions, Threads, Wrapper \nClasses, String Manipulation. \n \n \n \n30 \n \n \n \n50 \n20 \nUnit-4: Work Integrated Learning IT - \nDMA \n10 \n10 \n5 \nTotal \n85 \n125 \n50 \nPart C \nPractical Work: \n \nJava Program \n \n10 \nSQL Queries(Table Creation + 5 Queries) \n \n10 \nPractical File \nMust contain minimum 15 Java Programs and \nminimum 15 queries in MySQL. \n \n10 \nViva \n \n5 \nTotal \n \n35 \nPart D \nProject Work \n(Any Application made using Java \nNetbeans IDE) \n \n5 \nTotal \n \n5 \n \nGRAND TOTAL \n260 \n100\n802 - Information Technology Class XI & XII - 2026-2027 \nPage 11 of 13 \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XII: \nPart-A: EMPLOYABILITY SKILLS \n \nS. \nNo. \nUnits \nDuration(in \nHours) \n1. \nUnit 1: Communication Skills- IV \n10 \n2. \nUnit 2: Self-management Skills- IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n10 \n4. \nUnit 4: Entrepreneurial Skills- IV \n15 \n5. \nUnit 5: Green Skills- IV \n05 \n \nTOTAL DURATION \n50 \n \nNote: \nThe detailed curriculum/ topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \n \n \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \n• \nUnit -1: Database Concepts - RDBMS tool \n \n• \nUnit -2: Operating Web Based Applications \n• \nUnit-3: JAVA - Fundamentals of Java programming, Introduction to Java, Object Oriented \nProgramming, Java Language Elements, Operators, Control Flow, Array, Class Design, \nException Handling, Assertions, Threads, Wrapper Classes, String Manipulation. \n• \nUnit-4: Work Integrated Learning IT - DMA \n \n \nDETAILED CURRICULUM: \n \nUNIT \nTOPICS/ SUB-TOPICS \nMARKS \nUNIT 1 \nDATABASE CONCEPTS - RDBMS TOOL \n• \nBasics of RDBMS. \n• \nSQL - Creating and Opening Database. \n• \nCreating and populating tables. \n• \nModifying the content and structure of table. \n• \nOrdering and Grouping. \n• \nOperating with multiple tables. \n15\n802 - Information Technology Class XI & XII - 2026-2027 \nPage 12 of 13 \n \nUNIT \nTOPICS/ SUB-TOPICS \nMARKS \nUNIT 2 \nOperating Web Based Applications \n• \nOnline Reservation Systems. \n• \nE-Governance. \n• \nOnline Shopping and Bill payments. \n• \nOnline Tutorials and Tests. \n• \nProject Management - Web Based Application development. \n• \nProject essentials and tips. \n• \nCase Study - Online Game. \n• \nCase Study - Online Quiz. \n• \nCase Study - Online Bill Calculator. \n10 \nUNIT 3 \nFundamentals of Java programming, Introduction to Java, \nObject \n• \nOriented Programming, \n• \nJava Language Elements, \n• \nOperators, \n• \nControl Flow, \n• \nArray, \n• \nClass Design, \n• \nException Handling, \n• \nAssertions, \n• \nThreads, \n• \nWrapper Classes, \n• \nString Manipulation \n20 \nUNIT 4 \nWork Integrated Learning IT - DMA \n• \nIdentification of Work Areas. \n• \nWork Experience. \n5 \n \nTOTAL \n50 \n \n \n \nPractical: \n40 Marks \n \nDETAILS \nMARKS \nPractical Work: \n• \nJava Program \n• \nSQL Queries (Table Creation + 5 Queries) \n10 \n10 \nPractical File \nMust contain minimum 15 Java Programs and minimum 15 queries in MySQL. \n10 \nViva Voce \n5 \nProject \n(Any Application made using Java Netbeans IDE) \n5 \nTotal \n40\n802 - Information Technology Class XI & XII - 2026-2027 \nPage 13 of 13 \n \nLIST OF EQUIPMENT AND SUPPORT MATERIAL: \n \nThe list given below is suggestive and an exhaustive list should be compiled by the teacher(s) \nteaching the subject. Only basic tools, equipment and accessories should be procured by the \nInstitution so that the routine tasks can be performed by the students regularly for practice and \nacquiring adequate practical experience. \n- \ncomputer/ laptop / tablet \n- \nscanner \n- \nprojector \n- \nprinter \n- \nsoftware: OpenOffice, Java Netbeans, MySQL \n- \nhub/switch \n- \nInternet \nStudents should be exposed to various functional units, Office applications, Network securitysystems/ \ndevices / field visits to gain knowledge and expertise. \n \nCAREER OPPORTUNITIES: \n \n● \nCustomer Service Associate \n \n● \nCustomer Service Representative \n \n● \nCustomer Care Executive \n \n● \nCustomer Service Advisor \n \n● \nHelpdesk Coordinator \n \n● \nCustomer Support Representative \n \n● \nIT Support Specialist \n \n● \nDocumentation Assistant \n \n● \nProgramming Assistant \n \n \nVERTICAL MOBILITY: \n \nThis course will assist the participating students to further update their career by vertically moving \neither to BA (programming) and other programming oriented applied undergraduate courses of \ndifferent universities \nThey may also move to their corporate career by starting as a desktop data entry operator orsmall \ndeveloper for desktop applications and move up to a corporate ladder in the role of software \ndeveloper in different sectors."
+}

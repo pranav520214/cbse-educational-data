@@ -1,0 +1,278 @@
+{
+  "subject_name": "Physics",
+  "subject_code": "042",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf",
+  "sha256": "ebe8c50ccf1401567c6741195f4baf378627011869f9c7decffff8ab2b405e25",
+  "assessment": {
+    "theory_marks": 70,
+    "internal_assessment_marks": 30,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-I",
+      "title": "Physical World and Measurement",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Kinematics",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Laws of Motion",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Work, Energy and Power",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Motion of System of Particles and Rigid",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VI",
+      "title": "Gravitation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VII",
+      "title": "Properties of Bulk Matter",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VIII",
+      "title": "Thermodynamics",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IX",
+      "title": "Behaviour of Perfect Gases and Kinetic",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-X",
+      "title": "Oscillations and Waves",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Physical World and Measurement 08 Periods",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Motion of System of Particles and Rigid Body 18 Periods",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VII",
+      "title": "Properties of Bulk Matter 24 Periods",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IX",
+      "title": "Behavior of Perfect Gases and Kinetic Theory of Gases 08 Periods",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "To measure diameter of a small spherical/cylindrical body and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To measure diameter of a given wire and thickness of a given"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To determine volume of an irregular lamina using screw gauge."
+    },
+    {
+      "chapter_number": 4,
+      "title": "To determine radius of curvature of a given spherical surface"
+    },
+    {
+      "chapter_number": 5,
+      "title": "To determine the mass of two different objects using a beam b"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To find the weight of a given body using parallelogram law of"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Using a simple pendulum, plot its L-T 2 graph and use it to f"
+    },
+    {
+      "chapter_number": 8,
+      "title": "To study variation of time period of a simple pendulum of a g"
+    },
+    {
+      "chapter_number": 9,
+      "title": "To study the relationship between force of limiting friction"
+    },
+    {
+      "chapter_number": 10,
+      "title": "To find the downward force, along an inclined plane, acting o"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To make a paper scale of given least count, e.g., 0.2cm, 0.5"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To determine mass of a given body using a metre scale by prin"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To plot a graph for a given set of data, with proper choice o"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To measure the force of limiting friction for rolling of a ro"
+    },
+    {
+      "chapter_number": 5,
+      "title": "To study the variation in range of a projectile with angle of"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To study the conservation of energy of a ball rolling down on"
+    },
+    {
+      "chapter_number": 7,
+      "title": "To study dissipation of energy of a simple pendulum by plotti"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To determine Young's modulus of elasticity of the material of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To find the force constant of a helical spring by plotting a"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To study the variation in volume with pressure for a sample o"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To determine the surface tension of water by capillary rise m"
+    },
+    {
+      "chapter_number": 5,
+      "title": "To determine the coefficient of viscosity of a given viscous"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To study the relationship between the temperature of a hot bo"
+    },
+    {
+      "chapter_number": 7,
+      "title": "To determine specific heat capacity of a given solid by metho"
+    },
+    {
+      "chapter_number": 8,
+      "title": "To study the relation between frequency and length of a given"
+    },
+    {
+      "chapter_number": 9,
+      "title": "To study the relation between the length of a given wire and"
+    },
+    {
+      "chapter_number": 10,
+      "title": "To find the speed of sound in air at room temperature using a"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To observe change of state and plot a cooling curve for molte"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To observe and explain the effect of heating on a bi-metallic"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To note the change in level of liquid in a container on heati"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To study the effect of detergent on surface tension of water"
+    },
+    {
+      "chapter_number": 5,
+      "title": "To study the factors affecting the rate of loss of heat of a"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To study the effect of load on depression of a suitably clamp"
+    },
+    {
+      "chapter_number": 7,
+      "title": "To observe the decrease in pressure with increase in velocity"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To measure diameter of a small spherical/cylindrical body usi"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To measure the internal diameter and depth of a given beaker/"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To measure diameter of given wire using screw gauge."
+    },
+    {
+      "chapter_number": 4,
+      "title": "To measure thickness of a given sheet using screw gauge."
+    },
+    {
+      "chapter_number": 5,
+      "title": "To determine the mass of a given object using a beam balance."
+    },
+    {
+      "chapter_number": 6,
+      "title": "To find the weight of given body using the parallelogram law"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Using a simple pendulum plot L-T and L-T 2 graphs. Hence find"
+    },
+    {
+      "chapter_number": 8,
+      "title": "To find the force constant of given helical spring by plottin"
+    },
+    {
+      "chapter_number": 10,
+      "title": "To find the speed of sound in air, at room temperature, using"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Physics Part-I, Textbook for Class XI, Published by NCERT"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Physics Part-II, Textbook for Class XI, Published by NCERT"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Laboratory Manual of Physics, Class XI Published by NCERT"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The list of other related books and manuals brought out by"
+    }
+  ],
+  "full_text_excerpt": "PHYSICS \n Class XI-XII (Code No.42) \n (2023-24) \n Senior Secondary stage of school education is a stage of transition from general \n education to discipline-based focus on curriculum. The present updated syllabus \n keeps in view the rigor and depth of disciplinary approach as well as the \n comprehension level of learners. Due care has also been taken that the syllabus is \n comparable to the international standards. Salient features of the syllabus include: \n ● Emphasis on basic conceptual understanding of the content. \n ● Emphasis on use of SI units, symbols, nomenclature of physical quantities and \n formulations as per international standards. \n ● Providing logical sequencing of units of the subject matter and proper placement of \n concepts with their linkage for better learning. \n ● Reducing the curriculum load by eliminating overlapping of concepts/content within the \n discipline and other disciplines. \n ● Promotion of process-skills, problem-solving abilities and applications of Physics \n concepts. \n Besides, the syllabus also attempts to \n Strengthen the concepts developed at the secondary stage to provide firm \n foundation for further learning in the subject. \n Expose the learners to different processes used in Physics-related industrial and \n technological applications. \n Develop process-skills and experimental, observational, manipulative, decision \n making and investigatory skills in the learners. \n Promote problem solving abilities and creative thinking in learners. \n Develop conceptual competence in the learners and make them realize and appreciate \n the interface of Physics with other disciplines. \n(2024-25)\n(2024-25)\nPHYSICS (Code No. 042) \n COURSE STRUCTURE \n Class XI - 2023-24 (Theory) \n Time: 3 hrs. \n Max Marks: 70 \n No. of \n Periods \n Marks \n Unit-I \n Physical World and Measurement \n 08 \n 23 \n Chapter-2: Units and Measurements \n Unit-II \n Kinematics \n 24 \n Chapter-3: Motion in a Straight Line \n Chapter-4: Motion in a Plane \n Unit-III \n Laws of Motion \n 14 \n Chapter-5: Laws of Motion \n Unit-IV \n Work, Energy and Power \n 14 \n 17 \n Chapter-6: Work, Energy and Power \n Unit-V \n Motion of System of Particles and Rigid \n Body \n 18 \n Chapter-7: System of Particles and \n Rotational Motion \n Unit-VI \n Gravitation \n 12 \n Chapter-8: Gravitation \n Unit-VII Properties of Bulk Matter \n 24 \n 20 \n Chapter-9: Mechanical Properties of Solids \n Chapter-10: Mechanical Properties of Fluids \n Chapter-11: Thermal Properties of Matter \n Unit-VIII Thermodynamics \n 12 \n Chapter-12: Thermodynamics \n Unit-IX \n Behaviour of Perfect Gases and Kinetic \n Theory of Gases \n 08 \n Chapter-13: Kinetic Theory \n Unit-X \n Oscillations and Waves \n 26 \n 10 \n Chapter-14: Oscillations \n Chapter-15: Waves \n Total \n 160 \n 70 \nClass XI - 2024-25 (Theory)\nClass XI - 2024-25 (Theory)\nUnit I: \n Physical World and Measurement 08 Periods \n Chapter-2: Units and Measurements \n Need for measurement: Units of measurement; systems of units; SI units, \n fundamental and derived units. significant figures. Dimensions of physical \n quantities, dimensional analysis and its applications. \n Unit II: \n Kinematics \n 24 Periods \n Chapter-3: Motion in a Straight Line \n Frame of reference, Motion in a straight line, Elementary concepts of \n differentiation and integration for describing motion, uniform and non- \n uniform motion, and instantaneous velocity, uniformly accelerated motion, \n velocity - time and position-time graphs. Relations for uniformly accelerated \n motion (graphical treatment). \n Chapter-4: Motion in a Plane \n Scalar and vector quantities; position and displacement vectors, general \n vectors and their notations; equality of vectors, multiplication of vectors by a \n real number; addition and subtraction of vectors, Unit vector; resolution of a \n vector in a plane, rectangular components, Scalar and Vector product of \n vectors. \n Motion in a plane, cases of uniform velocity and uniform acceleration- \n projectile motion, uniform circular motion. \n Unit III: Laws of Motion \n 14 Periods \n Chapter-5: Laws of Motion \n Intuitive concept of force, Inertia, Newton's first law of motion; momentum \n and Newton's second law of motion; impulse; Newton's third law of motion. \n Law of conservation of linear momentum and its applications.\nEquilibrium of concurrent forces, Static and kinetic friction, laws of friction, rolling \n friction, lubrication. \n Dynamics of uniform circular motion: Centripetal force, examples of circular \n motion (vehicle on a level circular road, vehicle on a banked road). \n Unit IV: \n Work, Energy and Power \n 14 Periods \n Chapter-6: Work, Energy and Power \n Work done by a constant force and a variable force; kinetic energy, work- \n energy theorem, power. \n Notion of potential energy, potential energy of a spring, conservative forces: \n non-conservative forces, motion in a vertical circle; elastic and inelastic \n collisions in one and two dimensions. \n Unit V: \n Motion of System of Particles and Rigid Body 18 Periods \n Chapter-7: System of Particles and Rotational Motion \n Centre of mass of a two-particle system, momentum conservation and \n Centre of mass motion. Centre of mass of a rigid body; centre of mass of a \n uniform rod. \n Moment of a force, torque, angular momentum, law of conservation \n of angular momentum and its applications. \n Equilibrium of rigid bodies, rigid body rotation and equations of rotational \n motion, comparison of linear and rotational motions. \n Moment of inertia, radius of gyration, values of moments of inertia for simple \n geometrical objects (no derivation). \n Unit VI: Gravitation \n 12 Periods \n Chapter-8: Gravitation \n Kepler's laws of planetary motion, universal law of gravitation. \n Acceleration due to gravity and its variation with altitude and depth. \n Gravitational potential energy and gravitational potential, escape speed,\norbital velocity of a satellite. \n Unit VII: Properties of Bulk Matter 24 Periods \n Chapter-9: Mechanical Properties of Solids \n Elasticity, Stress-strain relationship, Hooke's law, Young’s modulus, bulk \n modulus, shear modulus of rigidity (qualitative idea only), Poisson's \n ratio; elastic energy. \n Chapter-10: Mechanical Properties of Fluids \n Pressure due to a fluid column; Pascal's law and its applications (hydraulic \n lift and hydraulic brakes), effect of gravity on fluid pressure. \n Viscosity, Stokes' law, terminal velocity, streamline and turbulent flow, critical \n velocity, Bernoulli's theorem and its simple applications. \n Surface energy and surface tension, angle of contact, excess of pressure \n across a curved surface, application of surface tension ideas to drops, \n bubbles and capillary rise. \n Chapter-11: Thermal Properties of Matter \n Heat, temperature, thermal expansion; thermal expansion of solids, liquids \n and gases, anomalous expansion of water; specific heat capacity; Cp, Cv - \n calorimetry; change of state - latent heat capacity. \n Heat transfer-conduction, convection and radiation, thermal conductivity, \n qualitative ideas of Blackbody radiation, Wein's displacement Law, Stefan's \n law . \n Unit VIII: Thermodynamics \n 12 Periods \n Chapter-12: Thermodynamics \n Thermal \n equilibrium and definition of temperature, zeroth law of \n thermodynamics, \n heat, \n work \n and \n internal \n energy. \n First \n law \n of \n thermodynamics, \n Second law of thermodynamics: gaseous state of matter, change of condition\nof gaseous state -isothermal, adiabatic, reversible, irreversible, and cyclic \n processes. \n Unit IX:Behavior of Perfect Gases and Kinetic Theory of Gases 08 Periods \n Chapter-13: Kinetic Theory \n Equation of state of a perfect gas, work done in compressing a gas. \n Kinetic theory of gases - assumptions, concept of pressure. Kinetic \n interpretation of temperature; rms speed of gas molecules; degrees of \n freedom, law of equi-partition of energy (statement only) and application to \n specific heat capacities of gases; concept of mean free path, Avogadro's \n number. \n Unit X: \n Oscillations and Waves \n 26 Periods \n Chapter-14: Oscillations \n Periodic motion - time period, frequency, displacement as a function of time, \n periodic functions and their applications. \n Simple harmonic motion (S.H.M) and its equations of motion; phase; oscillations \n of a loaded spring- restoring force and force constant; energy in S.H.M. \n Kinetic and potential energies; simple pendulum derivation of expression for its \n time period. \n Chapter-15: Waves \n Wave motion: Transverse and longitudinal waves, speed of travelling wave, \n displacement relation for a progressive wave, principle of superposition of \n waves, reflection of waves, standing waves in strings and organ pipes, \n fundamental mode and harmonics, Beats.\nPRACTICALS \n Total Periods: 60 \n The record, to be submitted by the students, at the time of their annual examination, \n has to include: \n • \n Record of at least 8 Experiments [with 4 from each section], to be performed \n by the students. \n • \n Record of at least 6 Activities [with 3 each from section A and section B], to \n be performed by the students. \n • \n Report of the project carried out by the students. \n EVALUATION SCHEME \n Time 3 hours \n Max. Marks: 30 \n Topic \n Marks \n Two experiments one from each section \n 7+7 \n Practical record (experiment and activities) \n 5 \n One activity from any section \n 3 \n Investigatory Project \n 3 \n Viva on experiments, activities and project \n 5 \n Total \n 30 \n SECTION-A \n Experiments \n 1. To measure diameter of a small spherical/cylindrical body and to measure internal \n diameter and depth of a given beaker/calorimeter using Vernier Callipers and \n hence find its volume. \n 2. To measure diameter of a given wire and thickness of a given sheet using screw \n gauge.\n3. To determine volume of an irregular lamina using screw gauge. \n 4. To determine radius of curvature of a given spherical surface by a spherometer. \n 5. To determine the mass of two different objects using a beam balance. \n 6. To find the weight of a given body using parallelogram law of vectors. \n 7. Using a simple pendulum, plot its L-T 2 graph and use it to find the effective length \n of second's pendulum. \n 8. To study variation of time period of a simple pendulum of a given length by taking \n bobs of same size but different masses and interpret the result. \n 9. To study the relationship between force of limiting friction and normal reaction and \n to find the co- efficient of friction between a block and a horizontal surface. \n 10. To find the downward force, along an inclined plane, acting on a roller due to \n gravitational pull of the earth and study its relationship with the angle of inclination \n θ by plotting graph between force and Sinθ. \n Activities \n 1. To make a paper scale of given least count, e.g., 0.2cm, 0.5 cm. \n 2. To determine mass of a given body using a metre scale by principle of moments. \n 3. To plot a graph for a given set of data, with proper choice of scales and error bars. \n 4. To measure the force of limiting friction for rolling of a roller on a horizontal plane. \n 5. To study the variation in range of a projectile with angle of projection. \n 6. To study the conservation of energy of a ball rolling down on an inclined plane \n (using a double inclined plane). \n 7. To study dissipation of energy of a simple pendulum by plotting a graph between \n square of amplitude and time.\nSECTION-B \n Experiments \n 1. To determine Young's modulus of elasticity of the material of a given wire. \n 2. To find the force constant of a helical spring by plotting a graph between load and \n extension. \n 3. To study the variation in volume with pressure for a sample of air at constant \n temperature by plotting graphs between P and V, and between P and 1/V. \n 4. To determine the surface tension of water by capillary rise method. \n 5. To determine the coefficient of viscosity of a given viscous liquid by measuring \n terminal velocity of a given spherical body. \n 6. To study the relationship between the temperature of a hot body and time by \n plotting a cooling curve. \n 7. To determine specific heat capacity of a given solid by method of mixtures. \n 8. To study the relation between frequency and length of a given wire under constant \n tension using sonometer. \n 9. To study the relation between the length of a given wire and tension for constant \n frequency using sonometer. \n 10. To find the speed of sound in air at room temperature using a resonance tube by \n two resonance positions. \n Activities \n 1. To observe change of state and plot a cooling curve for molten wax. \n 2. To observe and explain the effect of heating on a bi-metallic strip. \n 3. To note the change in level of liquid in a container on heating and interpret the \n observations. \n 4. To study the effect of detergent on surface tension of water by observing capillary \n rise. \n 5. To study the factors affecting the rate of loss of heat of a liquid. \n 6. To study the effect of load on depression of a suitably clamped metre scale loaded \n at (i) its end (ii) in the middle. \n 7. To observe the decrease in pressure with increase in velocity of a fluid.\nPractical Examination for Visually Impaired \n Students Class XI \n Note: Same Evaluation scheme and general guidelines for visually impaired students as \n given for Class XII may be followed. \n A. Items for Identification/Familiarity of the apparatus for assessment in \n practical’s (All experiments) \n Spherical ball, Cylindrical objects, vernier calipers, beaker, calorimeter, Screw \n gauge, wire, Beam balance, spring balance, weight box, gram and milligram \n weights, forceps, Parallelogram law of vectors apparatus, pulleys and pans used in \n the same ‘weights’ used, Bob and string used in a simple pendulum, meter scale, \n split cork, suspension arrangement, stop clock/stop watch, Helical spring, \n suspension arrangement used, weights, arrangement used for measuring \n extension, Sonometer, Wedges, pan and pulley used in it, ‘weights’ Tuning Fork, \n Meter scale, Beam balance, Weight box, gram and milligram weights, forceps, \n Resonance Tube, Tuning Fork, Meter scale, Flask/Beaker used for adding water. \n B. List of Practicals \n 1. To measure diameter of a small spherical/cylindrical body using vernier calipers. \n 2. To measure the internal diameter and depth of a given beaker/calorimeter \n using vernier calipers and hence find its volume. \n 3. To measure diameter of given wire using screw gauge. \n 4. To measure thickness of a given sheet using screw gauge. \n 5. To determine the mass of a given object using a beam balance. \n 6. To find the weight of given body using the parallelogram law of vectors. \n 7. Using a simple pendulum plot L-T and L-T 2 graphs. Hence find the \n effective length of second’s pendulum using appropriate length values. \n 8. To find the force constant of given helical spring by plotting a graph between \n load and extension. \n 9. \n (i) To study the relation between frequency and length of a given wire \n under constant tension using a sonometer.\n(ii) To study the relation between the length of a given wire and tension, for \n constant frequency, using a sonometer. \n 10. To find the speed of sound in air, at room temperature, using a resonance \n tube, by observing the two resonance positions. \n Note: The above practicals may be carried out in an experiential manner rather than \n recording observations. \n Prescribed Books: \n 1. Physics Part-I, Textbook for Class XI, Published by NCERT \n 2. Physics Part-II, Textbook for Class XI, Published by NCERT \n 3. Laboratory Manual of Physics, Class XI Published by NCERT \n 4. The list of other related books and manuals brought out by \n NCERT (consider multimedia also). \n Note: \n The content indicated in NCERT textbooks as excluded for the year 2023-24 is not to \n be tested by schools."
+}

@@ -1,0 +1,33 @@
+{
+  "subject_code": "827",
+  "subject_name": "Air-Conditioning & Refrigeration",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "directory_name": "SUBJ_827_AIR_CONDITIONING_REFRIGERATION",
+  "directory_path": "CLASS_11/SUBJ_827_AIR_CONDITIONING_REFRIGERATION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Air-Conditioning & Refrigeration (827-AIR_CONDITIONING_REF-XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "b0cd928157c2c60fe9d7302f1cfd853d5f389c75922c55b42ecb3e5fc5f010f4",
+    "file_size_bytes": 161824,
+    "units_extracted": 19,
+    "chapters_extracted": 78
+  }
+}

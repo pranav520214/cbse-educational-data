@@ -1,0 +1,40 @@
+{
+  "subject_code": "064",
+  "subject_name": "Home Science",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Interdisciplinary",
+  "directory_name": "SUBJ_064_HOME_SCIENCE",
+  "directory_path": "CLASS_11/SUBJ_064_HOME_SCIENCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Home Science",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Home_Science_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Home Science",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "e6e32872226256c94345e830895658297015064b16d8b852b857f673ee295f07",
+    "file_size_bytes": 605281,
+    "units_extracted": 27,
+    "chapters_extracted": 57
+  }
+}

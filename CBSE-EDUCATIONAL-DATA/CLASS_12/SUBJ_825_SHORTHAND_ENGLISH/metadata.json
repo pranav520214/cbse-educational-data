@@ -1,0 +1,33 @@
+{
+  "subject_code": "825",
+  "subject_name": "Shorthand (English)",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Office",
+  "directory_name": "SUBJ_825_SHORTHAND_ENGLISH",
+  "directory_path": "CLASS_12/SUBJ_825_SHORTHAND_ENGLISH",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Shorthand (English) (825-SHORTHAND-ENGLISH-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/825-SHORTHAND-ENGLISH-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "3e9179095196a12b8b4e9cc33ea5da46a1c0af98e473aa74202c4daff5195050",
+    "file_size_bytes": 152219,
+    "units_extracted": 16,
+    "chapters_extracted": 19
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "subject_code": "126",
+  "subject_name": "Lepcha",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_126_LEPCHA",
+  "directory_path": "CLASS_11/SUBJ_126_LEPCHA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Lepcha",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Lepcha_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Lepcha",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Lepcha_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "baad168df6a52ddbe164db85c831fbf8ceee07bdf8cbd168f1b7cc653698a622",
+    "file_size_bytes": 248818,
+    "units_extracted": 0,
+    "chapters_extracted": 37
+  }
+}

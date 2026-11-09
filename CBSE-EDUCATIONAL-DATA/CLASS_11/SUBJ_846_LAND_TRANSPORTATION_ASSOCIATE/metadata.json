@@ -1,0 +1,33 @@
+{
+  "subject_code": "846",
+  "subject_name": "Land Transportation Associate",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Logistics",
+  "directory_name": "SUBJ_846_LAND_TRANSPORTATION_ASSOCIATE",
+  "directory_path": "CLASS_11/SUBJ_846_LAND_TRANSPORTATION_ASSOCIATE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Land Transportation Associate (846-LandTransportation.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/846-LandTransportation.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ca2790be96adf422e6e3e3e410d383f199e24e3ed0ca27ab46e406521fa512aa",
+    "file_size_bytes": 298503,
+    "units_extracted": 18,
+    "chapters_extracted": 21
+  }
+}

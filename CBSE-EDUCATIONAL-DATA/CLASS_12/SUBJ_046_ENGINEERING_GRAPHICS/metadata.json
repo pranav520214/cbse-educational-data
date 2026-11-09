@@ -1,0 +1,40 @@
+{
+  "subject_code": "046",
+  "subject_name": "Engineering Graphics",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Science / Technical",
+  "directory_name": "SUBJ_046_ENGINEERING_GRAPHICS",
+  "directory_path": "CLASS_12/SUBJ_046_ENGINEERING_GRAPHICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Engineering Graphics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Engineering_Graphics_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Engineering Graphics",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "0af2998ce5dd7ec07bae9d621638c20cc8cbf654e742a8609f3d324c5fe8d2ea",
+    "file_size_bytes": 199207,
+    "units_extracted": 2,
+    "chapters_extracted": 14
+  }
+}

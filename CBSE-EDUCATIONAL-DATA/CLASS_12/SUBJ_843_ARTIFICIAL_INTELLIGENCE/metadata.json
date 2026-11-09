@@ -1,0 +1,33 @@
+{
+  "subject_code": "843",
+  "subject_name": "Artificial Intelligence",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Emerging Tech",
+  "directory_name": "SUBJ_843_ARTIFICIAL_INTELLIGENCE",
+  "directory_path": "CLASS_12/SUBJ_843_ARTIFICIAL_INTELLIGENCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Artificial Intelligence (843-AI-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "b649b04e67a67ca68cfef28696306dfb5cf6b6f99cd6e770024dddab4769be03",
+    "file_size_bytes": 741530,
+    "units_extracted": 24,
+    "chapters_extracted": 26
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "subject_name": "Design",
+  "subject_code": "830",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Design",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/848-DesignThinking_Innovation.pdf",
+  "sha256": "748a77273ef452c828edbad6193566f38867897eb85961d2f644c5712c52a1fc",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Fundamentals of Publication /",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Fundamentals of Moving Images",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Fundamentals of Information Design",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Fundamentals of Product Design",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Fundamentals of Interface Design",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Fundamentals of Game and Toy Design",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Basic Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Fundamentals of Publication / Communication Design",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Indian Knowledge Systems",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Design for Personal Space",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Design for Social Space",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Design for Public Space",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Capstone Final Design Project Stage 1 -",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Capstone Final Design Project Stage 2 -",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Capstone Final Design Project Stage 3 -",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Capstone Final Design Project Stage 4 -",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Basic Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Capstone Final Design Project Stage 1 - Observations and Analysis",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Capstone Final Design Project Stage 2 - Ideation and Alternate Solutions",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Capstone Final Design Project Stage 3 - Prototyping and Feedback",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Capstone Final Design Project Stage 4 - Presentation and Documentation",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-Management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Basic Information and Communication Technology Skills"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-Management Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    }
+  ],
+  "full_text_excerpt": "848 Design Thinking & Innovation XI-XII \nPage 2 of 6 \n \nCURRICULUM \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and skills competencies of students of Class IX and X opting for the subject \nalong with other subjects. \nAREAS OR SPECIALIZATIONS OF DESIGN CAN ONE PURSUE \nDesign today is everywhere. It's driving businesses, cultures, media and technology and \nmaking sure environments (virtual or real) are easier to navigate. Design is integral to the \ncreative industries and is part of the economy driven through creativity and innovation. We \ncould categorize the following as broad fields of design that imbibe various specializations \nwithin themselves. These are some of the options for you to pursue as part of your future \nstudies or as a carrier option: \n• Communication design (Animation, Publication Design, Web Design, Graphics Design, \nPrinting, Film and Video) \n• Spatial design (Architecture and Interior Design, Environmental Design, Exhibition \nDesign, Set Design, Signage Design) \n• Industrial Design (Transportation, Furniture, Ceramics, Products and Packaging) \n• Textiles Design (Fashion, Accessories, Jewelry) \n• Craft Design (Material-based, Technology-based) \n• Digital design (User experience design, User Interface design, New Media Design, \nGame Design, AR/VR/MR, Information Visualization) \n• Service Design (Social Services, Health and Wellness Services, Agriculture Services, \nPublic Services) \n• Design management (Design Policy, Design Strategy, Design Planning, Transformation \nDesign) \nINFRASTRUCTURE REQUIRED \nThe curriculum has been structured such that DT&I can be taught in schools in normal \nclassrooms. Provision should be made for students to work together in groups of \n2 to 4. Arrangements should be made to put up the student’s work on the walls of the \nclassrooms to facilitate discussions as well as for the presentation of the work. \nComputer facility and access to the internet will be helpful but is not a must. For schools \nwithout access to the internet, the Workbooks, Teacher’s Manual, and the Exposure \nContent can be made available physically through printouts. \nThe Design Thinking and Innovation curriculum is easy to understand and deliver for \nteachers. And, it can be taught in remote locations with limited resources and knowledge. \n \nSCHEME OF UNITS \n \nCLASS \nTHEORY PRACTICAL TOTAL MARKS \nCLASS XI \n50 \n50 \n100 \nCLASS XII \n50 \n50 \n100\n848 Design Thinking & Innovation XI-XII \nPage 3 of 6 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \nDESIGN THINKING AND INNOVATION (SUB. CODE - 848) \nCLASS-XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \n \n \nUNITS \nNO OF HOURS \nMAX \nMARKS \nPART A \nEMPLOYABILITY SKILLS \nUnit 1: Communication Skills - III \n15 \n2 \nUnit 2: Self-Management Skills - III \n10 \n2 \nUnit 3: ICT Skills - III \n15 \n2 \nUnit 4: Entrepreneurial Skills - III \n10 \n2 \nUnit 5: Green Skills - III \n10 \n2 \nTOTAL \n60 \n10 \nPART B \nSUBJECT SPECIFIC SKILLS \nTheory \nPractical \nUnit 1: Fundamentals of Publication / \nCommunication Design \n \n15 \n \n10 \n06 \nUnit 2: Fundamentals of Moving Images \n15 \n10 \n07 \nUnit 3: Fundamentals of Information Design \n15 \n10 \n07 \nUnit 4: Fundamentals of Product Design \n15 \n10 \n06 \nUnit 5: Fundamentals of Interface Design \n15 \n10 \n07 \nUnit 6: Fundamentals of Game and Toy Design \n15 \n \n10 \n07 \nTOTAL \n90 \n60 \n40 \nPART C \nPRACTICAL WORK / PROJECT WORK \n \nPractical File \n \n15 \nPractical Examination + Viva Voce \n \n20 \nProject Work/field Visit/ student Portfolio (Any \none has to be done) + Viva Voce \n \n15 \nTOTAL \n50 \n \nGRAND TOTAL \n210 \n100\n848 Design Thinking & Innovation XI-XII \nPage 4 of 6 \n \nDETAILED CURRICULUM/TOPICS \n \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. \nNo. \nUnits \nDuration \nin Hours \n1. \nUnit 1: Communication Skills-III \n15 \n2. \nUnit 2: Self-Management Skills-III \n10 \n3. \nUnit 3: Basic Information and Communication Technology Skills-III \n15 \n4. \nUnit 4: Entrepreneurial Skills-III \n10 \n5. \nUnit 5: Green Skills-III \n10 \n \nTOTAL \n60 \n \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \n \n \nPart-B: SUBJECT SPECIFIC SKILLS \n \nUnit 1: Fundamentals of Publication / Communication Design \nUnit 2: Fundamentals of Moving Images \nUnit 3: Fundamentals of Information Design \nUnit 4: Fundamentals of Product Design \nUnit 5: Fundamentals of Interface Design \nUnit 6: Fundamentals of Game and Toy Design\n848 Design Thinking & Innovation XI-XII \nPage 5 of 6 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \nDESIGN THINKING AND INNOVATION (SUB. CODE - 848) \nCLASS-XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \n \n \n \nUNITS \nNO OF HOURS \nMAX \nMARKS \nPART A \nEMPLOYABILITY SKILLS \nUnit 1: Communication Skills - IV \n15 \n2 \nUnit 2: Self-Management Skills - IV \n10 \n2 \nUnit 3: ICT Skills - IV \n15 \n2 \nUnit 4: Entrepreneurial Skills - IV \n10 \n2 \nUnit 5: Green Skills - IV \n10 \n2 \nTOTAL \n60 \n10 \nPART B \nSUBJECT SPECIFIC SKILLS \nTheory Practical \nUnit 1: Introduction to Indian Knowledge Systems \n15 \n05 \n05 \nUnit 2: Design for Personal Space \n15 \n05 \n05 \nUnit 3: Design for Social Space \n15 \n05 \n05 \nUnit 4: Design for Public Space \n15 \n05 \n05 \nUnit 5: Capstone Final Design Project Stage 1 - \nObservations and Analysis \n08 \n10 \n05 \nUnit 6: Capstone Final Design Project Stage 2 - \nIdeation and Alternate Solutions \n08 \n10 \n05 \nUnit 7: Capstone Final Design Project Stage 3 - \nPrototyping and Feedback \n08 \n10 \n05 \nUnit 8: Capstone Final Design Project Stage 4 - \nPresentation and Documentation \n06 \n10 \n05 \nTOTAL \n90 \n60 \n40 \nPART C \nPRACTICAL WORK / PROJECT WORK \n \nPractical File \n \n15 \nPractical Examination + Viva Voce \n \n20 \nProject Work/field Visit/ student Portfolio (Any \none has to be done) + Viva Voce \n \n15 \n \nTOTAL \n50 \n \nGRAND TOTAL \n210 \n100\n848 Design Thinking & Innovation XI-XII \nPage 6 of 6 \n \nDETAILED CURRICULUM/TOPICS \n \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. \nNo. \nUnits \nDuration \nin Hours \n1. \nUnit 1: Communication Skills-IV \n15 \n2. \nUnit 2: Self-Management Skills-IV \n10 \n3. \nUnit 3: Basic Information and Communication Technology Skills-IV \n15 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n10 \n \nTOTAL \n60 \n \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \n \n \nPart-B: SUBJECT SPECIFIC SKILLS \n \nUnit 1: Introduction to Indian Knowledge Systems \nUnit 2: Design for Personal Space \nUnit 3: Design for Social Space \nUnit 4: Design for Public Space \nUnit 5: Capstone Final Design Project Stage 1 - Observations and Analysis \nUnit 6: Capstone Final Design Project Stage 2 - Ideation and Alternate Solutions \nUnit 7: Capstone Final Design Project Stage 3 - Prototyping and Feedback \nUnit 8: Capstone Final Design Project Stage 4 - Presentation and Documentation"
+}

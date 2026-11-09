@@ -1,0 +1,226 @@
+{
+  "subject_name": "Yoga",
+  "subject_code": "841",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Wellness",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XI.pdf",
+  "sha256": "d9f6bb83c448cb764d574c822f8efd44ee8f3d255eac1f17133698f8ae116daa",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Introduction to Yoga and Yogic",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- Introduction to Yoga Texts - I",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- Yoga for Health Promotion - I",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Introduction to Yoga and Yogic Practices - I",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-Management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Practice of Sukshmavyayama"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Practice of Surya Namaskar"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Practice of Asanas"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Practice of Halasana"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Practice of Pawanmuktasana"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Practice of Bhujangasana"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Practice of Shalabhasana"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Practice of Gomukhasana"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Practice of Vakrasana"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Practice of Ustrasana"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Practice of Mandukasana"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Practice of Sasankasana"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Practice of Janusirasana"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Practice of Virkshasana"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Practice of Padhastasana"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Practice of Nadi Shudhi"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Practice of Dhyana Mudra"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Meditation"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Project on Patanjali Yoga Sutras"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Yoga effect on Human Body"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Steps of Sithaili Pranayama"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Steps of Ujjayai Pranayam"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Steps of Paschimottansana"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Conducting Yoga project on common diseases Yoga sessions on s"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Asanas board"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Yoga for Weight loss"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Improved Posture. Let's face it, all of us have slouched at s"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Increased flexibility of body through Yoga."
+    },
+    {
+      "chapter_number": 29,
+      "title": "Practical Asana, Pranayama, Meditation, Mudras and Bandha"
+    }
+  ],
+  "full_text_excerpt": "841-Yoga-Class XI -2026-2027 \nPage 1 of 6 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nYOGA (SUBJECT CODE - 841) \n \nCLASS - XI \n \nCOURSE OVERVIEW: \n \n \nIn view of today's global problems, the course of yoga is compulsory, as mental and physical stress is \nincreasing everywhere, students will benefit from this course. Just as the word yoga means to \nconnect, the students will also have loyalty and engagement towards their duty towards society and \nour society will move towards a positive thinking. \n \nWHO has also emphasized the role of yoga in prevention therapy. For this reason, the popularity of \nyoga will increase globally. \n \nYoga is a new topic for the international community, which is why the world is trying to understand \nyoga more. For this reason, yoga has very good opportunities internationally. \n \n \nOBJECTIVES OF THE COURSE: \n \n \nFollowing are the main objectives of this course. \n \n• To enable the student to have good health. \n \n• To practice mental hygiene. \n \n• To possess emotional stability. \n \n• To integrate moral values. \n \n• To attain higher level of consciousness. \n \n \nSALIENT FEATURES: \n \n• Yoga course is cost effective. \n \n• Another very important feature for this course is that students of all category can do this \ncourse very easily\n841-Yoga-Class XI -2026-2027 \nPage 2 of 6 \n \nLIST OF EQUIPMENT AND MATERIALS: \n \n \nThe items required for the course are as follows: \n \nTeaching/Training Aids: \n \n• Computer (optional) \n• Sutra Neti \n• Rubber Neti \n• Jalneti \n• Jalneti pot \n• Vastra Dhoti \n• Soap \n• Tratak stand \n• Candle \n• Yoga Mat \n \nCAREER OPPORTUNITIES: \n \n• Yoga teacher \n• Yoga therapist \n• Resource officer in yoga \n• Yoga instructor \n• Naturopathy Doctor \n \nVERTICAL MOBILITY: \n \n \nAfter, following career options are available in field: \n \n• Paramedical physiotherapist \n \n• Fitness trainer \n \n• Aerobic or Zumba trainer \n \nCURRICULUM: \n \n \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and skills competencies of students of Class XI and XII opting for the subject along with \nother subjects.\n841-Yoga-Class XI -2026-2027 \nPage 3 of 6 \n \nYOGA (SUBJECT CODE - 841) \nCLASS -XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory - 50 + Practical - 50) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \n \n \n \n \n \n \n \n \n \nEmployability Skills \n \nUnit 1 : Communication Skills - III \n13 \n2 \nUnit 2 : Self-Management Skills - III \n07 \n2 \nUnit 3 : ICT Skills - III \n13 \n2 \nUnit 4 : Entrepreneurial Skills - III \n10 \n2 \nUnit 5 : Green Skills - III \n07 \n2 \nTotal \n50 \n10 \n \n \n \n \n \n \n \nSubject Specific Skills \n \nUnit 1 - Introduction to Yoga and Yogic \nPractices - I \n25 \n12 \nUnit 2 - Introduction to Yoga Texts - I \n40 \n12 \nUnit 3 - Yoga for Health Promotion - I \n40 \n16 \nTotal \n105 \n40 \n \n \n \n \n \n \n \n \nPractical Work \n \nProject \n \n \n \n105 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab \nActivities \n20 \nTotal \n105 \n50 \n \nGRAND TOTAL \n260 \n100 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website.\n841-Yoga-Class XI -2026-2027 \nPage 4 of 6 \n \nDETAILS OF THE UNITS OF CLASS - XI \nTotal Marks: 100 (Theory - 50 + Practical - 50) \n \nPART-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-III \n13 \n2. \nUnit 2: Self-Management Skills-III \n07 \n3. \nUnit 3: Information and Communication Technology Skills-III \n13 \n4. \nUnit 4: Entrepreneurial Skills-III \n10 \n5. \nUnit 5: Green Skills-III \n07 \n \nTOTAL DURATION \n50 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \n❖ \nUnit 1 - Introduction to Yoga and Yogic Practices - I \n❖ \nUnit 2 - Introduction to Yoga Texts - I \n❖ \nUnit 3 - Yoga for Health Promotion - I \nUnit 1 - Introduction to Yoga and Yogic Practices - I \n• Yoga Etymology, definition, Aim, objective and misconception text \n• Yoga origin, history and development \n• Rules and regulations to be followed by yoga practitioners \n• Introduction to Major schools of Yoga (Janan, Yoga Bhakti, Yoga Karma, Patanjali, Hatha) \n• Introduction to yogic practices (Sukshama Vyayama, Surya Namaskar and Asanas) \n \nUnit 2 - Introduction to Yoga Texts - I \n• Introduction and study of Patanjali Yoga Sutra including memorization of selected Sutra \n• Introduction and study of Bhagavad Gita including memorization of selected Slokas \n• Introduction of Hata Pradpika. \n• Introduction and study of Gheranda Samhita. \nUnit 3 - Yoga for Health Promotion - I \n• Brief introduction to human body \n• Role of yoga for health promotion \n• Yogic attitudes and practices \n• Holistic approach of yoga towards the health and diseases \n• Introduction to yoga diet and its relevance and importance in yoga Sadhana \n• Dincharya and Ritucharya with respect of yogic lifestyle\n841-Yoga-Class XI -2026-2027 \nPage 5 of 6 \n \nPRACTICAL GUIDELINES FOR CLASS - XI \n \nAssessment of performance: \n \nThe two internal examiners, assigned for the conduct and assessment of Practical Examinations each \nin Senior Secondary School Curriculum (Under NSQF). Question for the viva examinations should \nbe conducted by two internal examiners. Question to be more of General nature, project work or the \ncurriculum. Investigatory Project especially those that show considerable amount of effort and \noriginality, on the part of the student, should get suitable high marks, while project of a routine or \nstereotyped nature should only receive MEDIOCRE marks. \n \n \nProcedure for Record of Marks in the Practical answer-books: \n \n \nThe examiner will indicate separately marks of practical examination on the title page of the answer- \nbooks under the following heads: \n \n \nProject -10 marks \n \nProjects for the final practical is given below. Student may be assigned \n \n \n \nViva based on Project -05 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, viva \nmay be based on questions of practical nature from the field of subject as per the Curriculum \n \n \nPractical File -15 Marks \n \nStudents to make a power point presentation / assignment / practical file / report. Instructor shall \nassign them any outlet to study the elements in Yoga. \nSuggested list of Practical - \n \n1. \nPractice of Sukshmavyayama \n2. \nPractice of Surya Namaskar \n3. \nPractice of Asanas\n841-Yoga-Class XI -2026-2027 \nPage 6 of 6 \n \n4. \nPractice of Halasana \n5. \nPractice of Pawanmuktasana \n6. \nPractice of Bhujangasana \n7. \nPractice of Shalabhasana \n8. \nPractice of Gomukhasana \n9. \nPractice of Vakrasana \n10. Practice of Ustrasana \n11. Practice of Mandukasana \n12. Practice of Sasankasana \n13. Practice of Janusirasana \n14. Practice of Virkshasana \n15. Practice of Padhastasana \n16. Practice of Nadi Shudhi \n17. Practice of Dhyana Mudra \n18. Meditation \n19. Project on Patanjali Yoga Sutras \n20. Yoga effect on Human Body \n21. Steps of Sithaili Pranayama \n22. Steps of Ujjayai Pranayam \n23. Steps of Paschimottansana \n24. Conducting Yoga project on common diseases Yoga sessions on suryanamaskar \n25. Asanas board \n26. Yoga for Weight loss \n27. Improved Posture. Let's face it, all of us have slouched at some time or another \n28. Increased flexibility of body through Yoga. \n29. Practical Asana, Pranayama, Meditation, Mudras and Bandha \n \n \n \nDemonstration of skill competency in Lab Activities -20 marks \n \nGuidelines for Project Preparation: \n \nThe final project work should encompass chapters on: \n \na) Introduction, \nb) Identification of core and advance issues, \nc) \nLearning and understanding and \nd) Observation during the project period."
+}

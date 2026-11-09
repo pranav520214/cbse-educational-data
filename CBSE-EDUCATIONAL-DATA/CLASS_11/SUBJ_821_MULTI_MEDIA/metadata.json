@@ -1,0 +1,33 @@
+{
+  "subject_code": "821",
+  "subject_name": "Multi-Media",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Media",
+  "directory_name": "SUBJ_821_MULTI_MEDIA",
+  "directory_path": "CLASS_11/SUBJ_821_MULTI_MEDIA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Multi-Media (821-MULTIMEDIA-XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "65f593d3b7acb580a4c41cd2af7b6470df5cdb0fccd7d768412c36699fd92fd1",
+    "file_size_bytes": 477758,
+    "units_extracted": 12,
+    "chapters_extracted": 65
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "subject_code": "828",
+  "subject_name": "Medical Diagnostics",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Healthcare",
+  "directory_name": "SUBJ_828_MEDICAL_DIAGNOSTICS",
+  "directory_path": "CLASS_12/SUBJ_828_MEDICAL_DIAGNOSTICS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Medical Diagnostics (828-MEDICAL_DIAGNOSTICS-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/828-MEDICAL_DIAGNOSTICS-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "5d735fb762aa7ca2ba5d8e20bf64b80cdbaaddb6a4b30be5ccfedc2cb567c2fd",
+    "file_size_bytes": 140663,
+    "units_extracted": 11,
+    "chapters_extracted": 11
+  }
+}

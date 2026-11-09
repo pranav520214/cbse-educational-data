@@ -1,0 +1,33 @@
+{
+  "subject_code": "847",
+  "subject_name": "Electronics & Hardware",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "directory_name": "SUBJ_847_ELECTRONICS_HARDWARE",
+  "directory_path": "CLASS_12/SUBJ_847_ELECTRONICS_HARDWARE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Electronics & Hardware (847-ELHA.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/847-ELHA.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ffded56389983f4874f4ca1d4101c21d20e698a661bcfdf11169c594fe9b3ca8",
+    "file_size_bytes": 329552,
+    "units_extracted": 16,
+    "chapters_extracted": 18
+  }
+}

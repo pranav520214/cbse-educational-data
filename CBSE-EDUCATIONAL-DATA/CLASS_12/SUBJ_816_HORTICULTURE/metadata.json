@@ -1,0 +1,49 @@
+{
+  "subject_code": "816",
+  "subject_name": "Horticulture",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "directory_name": "SUBJ_816_HORTICULTURE",
+  "directory_path": "CLASS_12/SUBJ_816_HORTICULTURE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Horticulture (816-HORTICULTURE-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-HORTICULTURE-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Horticulture",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/816_HORTICULTURE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Horticulture",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/816_HORTICULTURE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ddb56272cd3c2616b55b662f145307ba3053c4d5cce921e7ca75290ebe3b95c1",
+    "file_size_bytes": 141784,
+    "units_extracted": 30,
+    "chapters_extracted": 107
+  }
+}

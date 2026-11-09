@@ -1,0 +1,340 @@
+{
+  "subject_name": "Multi-Media",
+  "subject_code": "821",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Media",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XI.pdf",
+  "sha256": "65f593d3b7acb580a4c41cd2af7b6470df5cdb0fccd7d768412c36699fd92fd1",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Foundations of Animation & Stop",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "2D Animation Production",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Introduction to 3D Animation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Foundations of Animation & Stop Motion",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Introduction to 3D Animation Production",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Explain and analyze"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify different"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create simple stop"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Develop visual"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Analyse and apply the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Analysis of selected"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Presentation on growth"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Creation of flipbook"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Demonstration of clay-"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Creation of short"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Visit to a Studio to"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Develop stories and scripts"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Design and construct"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Creating rough and clean 2D"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Application of digital tools"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Demonstrate creativity,"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparation of 2D"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Development of animatic"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To develop a simple story"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To set up the scene with"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Design a scene layout"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To animate the"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Create a rough"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Explain the fundamentals of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Design technical pre-"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Evaluate the specialized roles"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Demonstrate"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to 3D"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The 3D Pipeline Overview"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Basic concepts of modeling,"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Rendering, Compositing,"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of Maya"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Creation of basic 3D"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Understanding how the"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Learn to manipulate the"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Apply navigation and"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Construct a"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer with latest configuration and minimum 16 GB RAM, 512"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Laser Printer - Black"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Smartphone / DSLR-Camera"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Tripod"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Clay, paper, objects"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Inkjet Printers (Colour & Black)"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Scanner"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Air Conditioner 1.5 ton"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Broadband Connection for Internet"
+    },
+    {
+      "chapter_number": 1,
+      "title": "GUI Operating System"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Text Editor (Notepad)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Web Browser."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Stop motion software(Synfig Studio/Krita)"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Class room chairs and desks"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Computer Tables"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Straight back revolving & adjustable chairs (Computer Chairs)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Printer Tables"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Trainers Table"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trainers Chair"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Steel cupboards drawer type"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Cabinet with drawer"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Steel Almirah - big size"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Steel Almirah- small size"
+    }
+  ],
+  "full_text_excerpt": "821 - Multimedia XI - 2026-2027 \nPage 1 of 13 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \nMULTIMEDIA (SUB. CODE - 821) \nJOB ROLE: ANIMATOR CLASS - XI \nCOURSE OVERVIEW: \n \nAn Animator is a creative professional who utilizes a blend of artistic vision and technical \nproficiency to create the illusion of life through sequenced images. The Multimedia (Sub. Code 821) \ncourse for Class XI is designed to introduce students to the rigorous professional workflow of the \nanimation industry. \n \nThe curriculum transitions from the foundational history and scientific principles of motion-such \nas the Persistence of Vision-to the practical application of the 12 Principles of Animation. Students \nwill explore a diverse range of techniques, including Stop Motion, Pixilation, and digital 2D \nanimation using Synfig Studio, before advancing to the complex 3D production pipeline in Autodesk \nMaya. By mastering the stages of Pre-production (storyboarding and scripting), Production \n(modeling and layout), and Post-production (rendering), students develop the multifaceted skill set \nrequired to transform conceptual ideas into professional-grade animated content. \n \nCOURSE OUTCOME: \nOn completion of the course, the students should be able to: \n• Understand the historical evolution of animation and its transition from traditional to digital \nmediums. \n• Explain the scientific concepts of Persistence of Vision and Phi Phenomenon that govern motion \nperception. \n• Apply the 12 Principles of Animation effectively to create fluid, weight-based, and believable \nmovement. \n• Demonstrate proficiency in various animation techniques, including Stop Motion and Pixilation. \n• Identify the distinct stages of the Animation Production Pipeline (Pre-production, Production, and \nPost-production). \n• Develop storytelling, scripting, and storyboarding skills to facilitate visual planning and staging. \n• Navigate and utilize the User Interface (UI) and essential toolsets of industry-standard 2D and 3D \nsoftware (Synfig Studio and Autodesk Maya). \n• Execute basic 3D workflows, including modeling, texturing, and the use of the \"Outliner\" for scene \nmanagement. \n• Demonstrate the importance of timing and spacing in creating realistic physical interactions and \ncharacter performance. \n• Analyze and apply professional naming conventions and file management protocols within a \ncollaborative production environment.\n821 - Multimedia XI - 2026-2027 \nPage 2 of 13 \n \n \nSALIENT FEATURES: \n \nThis course stands out for its practical, industry-oriented approach that blends creativity with \ntechnical skills. It provides hands-on experience in animation production, introduces modern tools \nand workflows, and prepares students for real-world applications through projects, case studies, \nand exposure to both 2D and 3D animation techniques. It generates job opportunities in the field \nof animation industry. \n \nSCHEME OF UNITS \n \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI & XII opting for Skills subject along with \ngeneral education subjects. \n \nTheory \n50 marks \nPractical \n50 marks \nTotal Marks \n100 marks \nThe unit-wise distribution of Periods and marks for Class XI & XII is as given below.\n821 - Multimedia XI - 2026-2027 \nPage 3 of 13 \n \nMULTI-MEDIA (SUBJECT CODE - 821) \n CLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-50 + Practical-50) \n \nUNITS \nNO. OF HOURS \nfor Theory and Practical \nMAX. \nMARKS \nfor Theory \nand \nPractical \n \n \nEMPLOYABILITY SKILLS \nUnit 1: Communication Skills-III \n10 \n2 \nUnit 2: Self-Management Skills-III \n10 \n2 \nUnit 3: ICT Skills-III \n10 \n2 \nUnit 4: Entrepreneurial Skills-III \n15 \n2 \nUnit 5: Green Skills-III \n05 \n2 \nTotal \n50 \n10 \n \n \nSUBJECT SPECIFIC SKILLS \nTheory \nPractical \nMarks \nUnit 1: Foundations of Animation & Stop \nMotion \n20 \n15 \n10 \nUnit 2: 2D Animation Production \n20 \n35 \n15 \nUnit 3: Introduction to 3D Animation \nProduction \n40 \n60 \n15 \nTotal \n90 \n110 \n50 \n \n \nPRACTICAL WORK \nPractical Examination \n-- \n15 \nWritten Test \n-- \n10 \n Viva Voce \n-- \n 10 \nTotal \n-- \n35 \n \nPROJECT WORK/FIELD VISIT \nPractical File/Student Portfolio \n10 \nViva Voce \n05 \nTotal \n-- \n15 \nGRAND TOTAL \n200 \n100\n821 - Multimedia XI - 2026-2027 \nPage 4 of 13 \n \nDETAILED CURRICULUM/ TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. N \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-III \n10 \n2. \nUnit 2: Self-management Skills-III \n10 \n3. \nUnit 3: Information and Communication Technology \nSkills-III \n10 \n4. \nUnit 4: Entrepreneurial Skills-III \n15 \n5. \nUnit 5: Green Skills-III \n05 \nTOTAL \n50 \nNote: The detailed curriculum/ topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \nPart-B - SUBJECT SPECIFIC SKILLS \n \nUnit 1: Foundations of Animation & Stop Motion \nUnit 2: 2D Animation Production \nUnit 3: Introduction to 3D Animation Production\n821 - Multimedia XI - 2026-2027 \nPage 5 of 13 \n \nUnit 1: Foundations of Animation & Stop Motion \n \nS. No LEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1 \n1. Explain and analyze \nthe historical \ndevelopment of \nanimation as an evolving \nvisual communication \nmedium. \n2. Identify different \nanimation techniques. \n3. Create simple stop \nmotion animations using \nbasic materials. \n4. Develop visual \nstorytelling and problem-\nsolving skills. \n5. Analyse and apply the \n12 principles of animation \n• What is Animation? \n• Early Origins of \nAnimation \n• Traditional Animation \n(Hand-Drawn Era) \n• Digital Animation Era \n• Modern Animation \nTechniques \n• The 12 Principles of Animation \n• Application of Principles \nof Animation to create \nweight and personality \n• Detailed Workflow of Stop \nMotion Animation \n• Do’s and Don’ts of Stop Motion \n• Common Mistakes, Tips and \nTypes for Stop Motion \n1. Analysis of selected \nanimation works. \n2. Presentation on growth \nof animation industry. \n3. Creation of flipbook \nanimation. \n4. Demonstration of clay-\nbased stop motion \nanimation. \n5. Creation of short \nanimation exercises \ndemonstrating \nsquash and stretch, \nanticipation and \ntiming. \n6. Visit to a Studio to \nunderstand the \nanimation industry \nand its evolution.\n821 - Multimedia XI - 2026-2027 \nPage 6 of 13 \n \nUnit 2: 2D Animation Production \n \nS. No LEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \n1. Develop stories and scripts \nfor animation \n2. Design and construct \neffective storyboards \ndemonstrating visual \nsequencing and shot \ncomposition \n3.Apply layout principles for \nstaging and perspective using \nSynfig Studio/Krita. \n4. Creating rough and clean 2D \nanimations using Synfig \nStudio/Krita. \n5. Application of digital tools \nfor coloring and finishing \n6. Demonstrate creativity, \ncollaboration, and digital \nliteracy \nPre-Production \n• Story \nDevelopment and \nScripting: \n• Visualizing the \nscript and \ndefining shot \ncomposition \nProduction (The \nWorkflow) \n• Layout: \nDesigning staging \nand perspective \n• Clean-Up and In \nbetweening \n(Tweening): Fluid \nmotion and line \nclarity \n• Digital Ink & \nPaint: Coloring \ncharacters \ndigitally \n1. Preparation of 2D \nanimation workflow chart. \n2. Development of animatic \nfrom storyboard. \n3. To develop a simple story \nidea and convert it into a \nwritten script suitable for a \n2D animated sequence. \n4. To set up the scene with \nproper staging, character \nplacement, and camera \nframing (using different \ntypes of camera shots) \ninside Synfig Studio/Krita. \n5. Design a scene layout \nusing Synfig Studio / Krita \nthat includes: \n○ Background elements \n○ Character placement \n○ Camera framing and \ndepth \n6. To animate the \ncharacter by creating \nkey poses and adding \nbreakdowns. \n7. Create a rough \nanimation sequence (24-\n36 frames) showing: \nWalking / Jumping \n/Waving\n821 - Multimedia XI - 2026-2027 \nPage 7 of 13 \n \nUnit 3: Introduction to 3D Animation Production \n \nS. No LEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1 \n1. Explain the fundamentals of \n3D production in Autodesk \nMaya. \nanalyze the structural logic of \nthe 3D production pipeline \n2. Design technical pre-\nproduction blueprints \nincluding Model Sheets and \nAnimatics \n3. Evaluate the specialized roles \nwithin a studio (Modeler, \nRigger, Animator, Texture \nArtist) \n4 Apply the \"Box Concept\" (UV \nlogic) to understand the \nrelationship between 2D \ntextures and 3D depth. \n5. Demonstrate \noperational mastery of \nthe Maya interface \n1. Introduction to 3D \nanimation production \npipeline. \n2. The 3D Pipeline Overview \n• Concept of the 3D \nproduction pipeline. \n• Understanding the \nflow: Pre-production -> \nProduction -> Post-\nproduction. \n• Story & Scripting, \nStoryboarding & The \n\"Shot List\", Character \nDesign, Animatic \n3. Basic concepts of modeling, \ntexturing and animation in \nMaya. \n4. Rendering, Compositing, \nColor Correction and Sound \nDesign & Foley \n5.Maya Interface & Basics \n• Maya Workspace: \nMenu Sets, Shelf, \nWorkspace, Viewports, \nTimeline, Outliner and \nToolbox, Sidebar \n• Camera Navigation, \nBasic navigation (Pan, \nZoom, Rotate) \n • Creating Primitives \n(Cube, Sphere). \n1. Demonstration of Maya \ninterface and workspace. \n2. Creation of basic 3D \nobjects using primitives. \n3. Understanding how the \npipeline handles a simple \nobject. \n4. Learn to manipulate the \nworkspace to suit your \nspecific project needs. \n5. Apply navigation and \ntransformation skills to \ncreate a basic 3D structure. \n6. Construct a \nstructured 3D object \nusing multiple \nprimitives and \nstandard \ntransformation tools \n(Translate, Rotate, \nScale)..\n821 - Multimedia XI - 2026-2027 \nPage 8 of 13 \n \nLIST OF EQUIPMENT/ MATERIALS: \n \nThe list given below is suggestive and an exhaustive list should be compiled from the feedback given by \nvarious teachers teaching the subject. Only basic tools, equipment and accessories should be procured by the \nInstitution so that the routine tasks can be performed by the students regularly for practice and acquiring \nadequate practical experience. \n \nS. No. \nITEM NAME, DESCRIPTION & SPECIFICATION \nQUANTITY \nA \nHARDWARE \n1. \nComputer with latest configuration and minimum 16 GB RAM, 512 GB\nHDD or SSD, 17” LED Monitor, NIC Card, 3 button Mouse, 105 keys key\nboard and built-in speakers and mic. \n15 \n2. \nLaser Printer - Black \n01 \n3. \nSmartphone / DSLR-Camera \n01 \n4. \nTripod \n01 \n5. \nClay, paper, objects \n- \n6. \nInkjet Printers (Colour & Black) \n01 \n7. \nScanner \n01 \n8. \nAir Conditioner 1.5 ton \n02 \n9. \nBroadband Connection for Internet \n01 \nB \nSOFTWARE \n1. \nGUI Operating System \n2. \nText Editor (Notepad) \n3. \nWeb Browser. \n4. \nStop motion software(Synfig Studio/Krita) \n5. \n3D Animation Software(Autodesk Maya) \nC \nFURNITURE \n1. \nClass room chairs and desks \n25 \n2. \nComputer Tables \n15\n821 - Multimedia XI - 2026-2027 \nPage 9 of 13 \n \n3. \nStraight back revolving & adjustable chairs (Computer Chairs) \n15 \n4. \nPrinter Tables \n02 \n5. \nTrainers Table \n01 \n6. \nTrainers Chair \n01 \n7. \nSteel cupboards drawer type \n02 \n8. \nCabinet with drawer \n01 \n9. \nSteel Almirah - big size \n01 \n10. \nSteel Almirah- small size \n01 \n \n \nTEACHER’S/ TRAINER’S QUALIFICATIONS: \n \n \nQualification and other requirements for appointment of teachers/trainers for teaching this \nsubject, on contractual basis should be decided by the State/ UT. The suggestive \nqualifications and minimum competencies for the teacher should be as follows: \nQualification \nMinimum \nCompetenci\nes \nAge Limit \nBachelor of Engineering/ Technology in \nComputer Science/ Information \nTechnology from AICTE approved \nInstitute/ University \n• The \ncandidate \nshould \nhave a minimum of 1 year \nof work experience in the \nsame job role. \n• 24-37 years (as on Jan. \n01 (year)) \n• Age relaxation to be \nprovided as per Govt. \nrules \nor \n• S/He should be able \nto \nM.Sc. Computer Science / IT \ncommunicate in \nEnglish \nand local language. \nor \nMCA / DOEACC ‘B’ level \n• S/He \nshould\n \nhave \nknowledge \nof \nThe suggested qualification is the\nminimum \ncriteria. \nHowever \nhigher\nqualifications will also be acceptable. \nequipment,\n \ntoo\nls, material, Safety, \nHealth & Hygiene. \nTeachers/Trainers form the backbone of Skill (Vocational) Education being imparted as an integral part \nof Rashtriya Madhyamik Shiksha Abhiyan (RMSA). They are directly involved in teaching of Skill \n(vocational) subjects and also serve as a link between the industry and the schools for arranging \nindustry visits, On-the-Job Training (OJT) and placement.\n821 - Multimedia XI - 2026-2027 \nPage 10 of 13 \n \nThese guidelines have been prepared with an aim to help and guide the States in engaging quality \nTeachers/Trainers in the schools. Various parameters that need to be looked into while engaging \nthe Vocational Teachers/Trainers are mode and procedure of selection of Teachers/ Trainers, \nEducational Qualifications, Industry Experience and Certification/ Accreditation. \nThe State may engage Teachers/Trainers in schools approved under the component of scheme of \nVocationalisation of Secondary and Higher Secondary Education under RMSA in following ways: \ni. \nDirectly as per the prescribed qualifications and industry experience suggested by the PSS \nCentral Institute of Vocational Education (PSSCIVE), NCERT or the respective Sector \nSkill Council (SSC). \nOR \nii. \nThrough accredited Vocational Training Providers accredited under the National Quality \nAssurance Framework (NQAF*) approved by the National Skill Qualification Committee on \n21.07.2016. If the State is engaging Vocational Teachers/Trainers through the Vocational \nTraining Provider (VTP), it should ensure that VTP should have been accredited at NQAF \nLevel2 or higher. \n \n* The National Quality Assurance Framework (NQAF) provides the benchmarks or quality \ncriteria which the different organizations involved in education and training must meet in \norder to be accredited by competent bodies to provide government- funded education and \ntraining/skills activities. This is applicable to all organizations offering NSQF-compliant \nqualifications. \n \nThe educational qualifications required for being a Teacher/Trainer for a particular job role are \nclearly mentioned in the curriculum for the particular NSQF compliant job role. The State should \nensure that teachers/ trainers deployed in the schools have relevant technical competencies for \nthe NSQF qualification being delivered. Teachers/Trainers preferably should be certified by the \nconcerned Sector Skill Council for the particular Qualification Pack/Job role which S/he will be \nteaching. Copiesof relevant certificates and/or record of experience of the teacher/trainer in \nthe industry should be kept as record. \n \nTo ensure the quality of the Teachers/Trainers, the State should ensure that a standardized \nprocedure for selection of (Vocational) Teachers/Trainers is followed. The selection procedure \nshould consist of the following: \n(i) \nWritten test for the technical/domain specific knowledge related to the sector; \n(ii) \nInterview for assessing the knowledge, interests and aptitude of trainer through a \npanel ofexperts from the field and state representatives; and \n(iii) Practical test/mock test in classroom/workshop/laboratory. \n \nIn case of appointment through VTPs, the selection may be done based on the above procedure \nby a committee having representatives of both the State Government and the VTP. \nThe State should ensure that the Teachers/ Trainers who are recruited should undergo \ninduction training of 20 days for understanding the scheme, NSQF framework and Vocational"
+}

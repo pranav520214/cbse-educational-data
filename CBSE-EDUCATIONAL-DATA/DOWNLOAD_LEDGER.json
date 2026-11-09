@@ -1,0 +1,1746 @@
+{
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Maths_SrSec_2025-26.pdf",
+    "file_size_bytes": 478007,
+    "sha256": "eca28d27ab541468fe71ce7e95b1d940c5042d829860545fd8702bb3db796e43",
+    "status": "success",
+    "timestamp": 1794203442.597484
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Arabic_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Arabic_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Arabic_SrSec_2025-26.pdf",
+    "file_size_bytes": 516066,
+    "sha256": "4830aff562ac139194853e04db813d758572b41ac028dcbfb3e11dde74b2e631",
+    "status": "success",
+    "timestamp": 1794203643.7412157
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Assamese_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Assamese_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Assamese_SrSec_2025-26.pdf",
+    "file_size_bytes": 212822,
+    "sha256": "ff132a78fdc48caf748b3accc724e2e6299f93a7ca61bd3fccdac3e5d0ec456a",
+    "status": "success",
+    "timestamp": 1794203644.3238142
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bengali_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bengali_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bengali_SrSec_2025-26.pdf",
+    "file_size_bytes": 454127,
+    "sha256": "51abd77c645b6e52ff3b1c1b537356a7b5662137ca15771cb2b35458cac366df",
+    "status": "success",
+    "timestamp": 1794203644.9613132
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhoti_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhoti_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bhoti_SrSec_2025-26.pdf",
+    "file_size_bytes": 186347,
+    "sha256": "6b7e15238d53a64c78c99434b2e466fd2b1542a5d55e26259bdf5500b6759441",
+    "status": "success",
+    "timestamp": 1794203645.5624073
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhutia_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhutia_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bhutia_SrSec_2025-26.pdf",
+    "file_size_bytes": 154472,
+    "sha256": "c1f066918094ca3a7d19e18a43788525b820ab63a0146575d05e735eda701c7c",
+    "status": "success",
+    "timestamp": 1794203646.127524
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bodo_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bodo_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bodo_SrSec_2025-26.pdf",
+    "file_size_bytes": 162262,
+    "sha256": "a50ef091944f32ac45c5e7c39feb3018997dc6f83f4bc07d7b17cc054f7d624c",
+    "status": "success",
+    "timestamp": 1794203646.6965926
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/French_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/French_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\French_SrSec_2025-26.pdf",
+    "file_size_bytes": 1166257,
+    "sha256": "e31f1b5d5522e80e5f62fdbb4055bfbee549d23573b6f7a2b97ee48b5c69b3ed",
+    "status": "success",
+    "timestamp": 1794203647.354215
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/German_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/German_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\German_SrSec_2025-26.pdf",
+    "file_size_bytes": 523573,
+    "sha256": "034aded8e035d78752e59d1441c03df6889d1067d40c5510958cc8b4f604689e",
+    "status": "success",
+    "timestamp": 1794203647.9412224
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Gujarati_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Gujarati_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Gujarati_SrSec_2025-26.pdf",
+    "file_size_bytes": 484379,
+    "sha256": "2f75958bba1416750e16fc5ce0a04476aa3f760a8215018b9c88f44ad5f60901",
+    "status": "success",
+    "timestamp": 1794203648.564693
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Core_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Core_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindi_Core_SrSec_2025-26.pdf",
+    "file_size_bytes": 1311629,
+    "sha256": "c969a55a7e88d11a041c47648a55bc969c27cad2a05fdfd89957072eec36fec7",
+    "status": "success",
+    "timestamp": 1794203649.1998005
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Elective_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Elective_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindi_Elective_SrSec_2025-26.pdf",
+    "file_size_bytes": 1108471,
+    "sha256": "aeb2378a2cb75742c8333b08068f4f57db1f9d21450303ebdf1f0b101d318a55",
+    "status": "success",
+    "timestamp": 1794203649.87583
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_core_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_core_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\English_core_SrSec_2025-26.pdf",
+    "file_size_bytes": 868755,
+    "sha256": "6b7f3291448e4478f275cabf9c4eb0e15a182267f3b1933ffb2b46c74b5fdc59",
+    "status": "success",
+    "timestamp": 1794203650.4948
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_elective_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_elective_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\English_elective_SrSec_2025-26.pdf",
+    "file_size_bytes": 443719,
+    "sha256": "aa0ff15334f2b4650935e082f67c43f252172cfdea035e4fe2538001f5af8e95",
+    "status": "success",
+    "timestamp": 1794203651.1077633
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Japanese_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Japanese_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Japanese_SrSec_2025-26.pdf",
+    "file_size_bytes": 714317,
+    "sha256": "c732d780471cf2f59c21026410bea990ad3ac0868808362d5474a9170b38d419",
+    "status": "success",
+    "timestamp": 1794203651.7080755
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kannada_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kannada_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Kannada_SrSec_2025-26.pdf",
+    "file_size_bytes": 2130398,
+    "sha256": "c1828952bc77c79f941e51ff35750928949496fcbbab33557467382f6a556a5d",
+    "status": "success",
+    "timestamp": 1794203652.3701985
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kashmiri_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kashmiri_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Kashmiri_SrSec_2025-26.pdf",
+    "file_size_bytes": 984211,
+    "sha256": "3c2183f7abd2293112f360cec85618cf54ba1c9ca8467e2b1e966203cb09621c",
+    "status": "success",
+    "timestamp": 1794203657.4613008
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\KOKBOROK_SrSec_2025-26.pdf",
+    "file_size_bytes": 200182,
+    "sha256": "4ce3aad93b276987e066c1b7683df1f35509a68c6d595cc307a03d67977d8d60",
+    "status": "success",
+    "timestamp": 1794203658.037886
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Lepcha_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Lepcha_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Lepcha_SrSec_2025-26.pdf",
+    "file_size_bytes": 113989,
+    "sha256": "28b6ae605c107b72811bdb15cd6fe2cd0f2e8133a1dd43f4df7f224091337a0c",
+    "status": "success",
+    "timestamp": 1794203658.6215696
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Limboo_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Limboo_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Limboo_SrSec_2025-26.pdf",
+    "file_size_bytes": 112787,
+    "sha256": "4f672c24f87c4b7162c253710c89be40b2e0f6e6fb1943ef405e5cec5fa6d63e",
+    "status": "success",
+    "timestamp": 1794203659.1924078
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Malyalam_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Malyalam_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Malyalam_SrSec_2025-26.pdf",
+    "file_size_bytes": 130357,
+    "sha256": "a8b1f3937a88656831b5da3d6fcf16ec660692b9968d0721ec5f1992291f99a9",
+    "status": "success",
+    "timestamp": 1794203659.7844384
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Manipuri_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Manipuri_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Manipuri_SrSec_2025-26.pdf",
+    "file_size_bytes": 131391,
+    "sha256": "bb286b8329eccbcfa30c1ebe2f70f0e11dadcde8f8866b05397893bad4b07293",
+    "status": "success",
+    "timestamp": 1794203660.3700032
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Marathi_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Marathi_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Marathi_SrSec_2025-26.pdf",
+    "file_size_bytes": 158881,
+    "sha256": "02b004b914b241706861dbfa8ec9649aa650588ac5e2d495cb3bfe401c614ae8",
+    "status": "success",
+    "timestamp": 1794203660.968512
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Mizo_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Mizo_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Mizo_SrSec_2025-26.pdf",
+    "file_size_bytes": 126011,
+    "sha256": "96c53f6b620ab0d34eeed774f9b67ba44318457c7f4a88af21161c63aed3fdff",
+    "status": "success",
+    "timestamp": 1794203661.5390184
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Nepali_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Nepali_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Nepali_SrSec_2025-26.pdf",
+    "file_size_bytes": 80762,
+    "sha256": "2b5a974375ffdbe753b587c2412818eafeceac65d0b35c48a9d7b1400159f6b9",
+    "status": "success",
+    "timestamp": 1794203662.1193264
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Odia_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Odia_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Odia_SrSec_2025-26.pdf",
+    "file_size_bytes": 469148,
+    "sha256": "52d4a2e34c775bb63e759d925a2b0a0000a1917a354de816e95a1edd479b3dea",
+    "status": "success",
+    "timestamp": 1794203662.7561114
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Persian_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Persian_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Persian_SrSec_2025-26.pdf",
+    "file_size_bytes": 807831,
+    "sha256": "ef8e392162c63924de0dbd6bf6a5063e2f4997553bb1f1fa996f8e2af485b7ab",
+    "status": "success",
+    "timestamp": 1794203663.3595297
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Punjabi_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Punjabi_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Punjabi_SrSec_2025-26.pdf",
+    "file_size_bytes": 1685537,
+    "sha256": "fb97c46a8fbf19f1c404884aae97cc7c0e2bba6ba8d4b9a6459a2adac3a717ec",
+    "status": "success",
+    "timestamp": 1794203664.0472937
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Russian_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Russian_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Russian_SrSec_2025-26.pdf",
+    "file_size_bytes": 281615,
+    "sha256": "d8e7e5d3444950b5b37b8b8cebcc7d809aa731bb598ceabaa9f58f36c9d16518",
+    "status": "success",
+    "timestamp": 1794203681.7459397
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Core_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Core_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sanskrit_Core_SrSec_2025-26.pdf",
+    "file_size_bytes": 301258,
+    "sha256": "310f6076baeefd5dfe8abfe0922f34144fd1f2170cb2447eba7091b3c5910372",
+    "status": "success",
+    "timestamp": 1794203682.3311274
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Elective_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Elective_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sanskrit_Elective_SrSec_2025-26.pdf",
+    "file_size_bytes": 293227,
+    "sha256": "17cb750a98b92dda22bbbdbcb4a12fedbd354b2adcc92e06d831b8e49da19205",
+    "status": "success",
+    "timestamp": 1794203682.9906268
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sindhi_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sindhi_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sindhi_SrSec_2025-26.pdf",
+    "file_size_bytes": 218613,
+    "sha256": "43c9b5f6711a526b3633d5b1585daeb6e9b68cdb16f8868b80553c45f6bb4b47",
+    "status": "success",
+    "timestamp": 1794203683.572112
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Spanish_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Spanish_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Spanish_SrSec_2025-26.pdf",
+    "file_size_bytes": 420440,
+    "sha256": "9cfb5dbaa0b74f23a9d4de1c0e72fa716534a66aa4762a2c4149f9878e7db9e4",
+    "status": "success",
+    "timestamp": 1794203684.168149
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tamil_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tamil_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Tamil_SrSec_2025-26.pdf",
+    "file_size_bytes": 952165,
+    "sha256": "6354de42dee1872fa006231bfc4845b0ca45cbd0f771c16980820d6be9b0205b",
+    "status": "success",
+    "timestamp": 1794203684.783777
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tangkhul_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tangkhul_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Tangkhul_SrSec_2025-26.pdf",
+    "file_size_bytes": 125974,
+    "sha256": "437f360d41f54fa2d680f3ed275caffa50fc82e3b0e345fd8438276be4454d94",
+    "status": "success",
+    "timestamp": 1794203685.361476
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_AP_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_AP_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Telugu_AP_SrSec_2025-26.pdf",
+    "file_size_bytes": 416875,
+    "sha256": "14471d8071ea3ca961611d1a99861cac48e9032b692f0b3a0e1051ac1742540f",
+    "status": "success",
+    "timestamp": 1794203685.9508014
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_Telangana_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_Telangana_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Telugu_Telangana_SrSec_2025-26.pdf",
+    "file_size_bytes": 302744,
+    "sha256": "28b276526411440d84d895d6aa0c7de41c089ee7737ddcca0bd464ebb7f3dcf5",
+    "status": "success",
+    "timestamp": 1794203687.1710541
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tibetan_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tibetan_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Tibetan_SrSec_2025-26.pdf",
+    "file_size_bytes": 175028,
+    "sha256": "52118fe2801fc2605928d963b81e007c563c482ff5ae1117cfd0e82479c129fd",
+    "status": "success",
+    "timestamp": 1794203687.7624817
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_CORE_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_CORE_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\URDU_CORE_SrSec_2025-26.pdf",
+    "file_size_bytes": 319931,
+    "sha256": "7b139070d85df33b7df7d98c6f5a5fa3a5159ce03fe51db3dcfb6214fcda1440",
+    "status": "success",
+    "timestamp": 1794203688.3730114
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_Elective_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_Elective_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\URDU_Elective_SrSec_2025-26.pdf",
+    "file_size_bytes": 247975,
+    "sha256": "5073734fd77d7ce2f4bfd437dde4de7d564b12100497c2330b438cd0ac698f5b",
+    "status": "success",
+    "timestamp": 1794203688.9672203
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Accountancy_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Accountancy_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Accountancy_SrSec_2025-26.pdf",
+    "file_size_bytes": 220532,
+    "sha256": "4aa4794896bbab72ade8188f5a649d931485f3841a459de4cb45403532b0694d",
+    "status": "success",
+    "timestamp": 1794203689.555216
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Biology_SrSec_2025-26.pdf",
+    "file_size_bytes": 321132,
+    "sha256": "eb372e2dc1f467ecc7060f9000be6fccbb0a65ea16c21905f497d9338ebbc800",
+    "status": "success",
+    "timestamp": 1794203690.1609342
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BioTechnology_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BioTechnology_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\BioTechnology_SrSec_2025-26.pdf",
+    "file_size_bytes": 358742,
+    "sha256": "a524da52ab4b004404ba83adf0bee18daae995e0762bb2e0a81e5217ecd8edef",
+    "status": "success",
+    "timestamp": 1794203690.7604353
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\BusinessStudies_SrSec_2025-26.pdf",
+    "file_size_bytes": 355787,
+    "sha256": "cc6e8b18557c923f0a1176ad60422fd6eaa2582be6b308f02fedecba3ccb2a1e",
+    "status": "success",
+    "timestamp": 1794203691.3699954
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Melodic_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Melodic_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Carnatic_Melodic_SrSec_2025-26.pdf",
+    "file_size_bytes": 182844,
+    "sha256": "f9a8d4095029346e450d69ff1ac64a3ac3d33d663fccdfd6e40de1b92435ea18",
+    "status": "success",
+    "timestamp": 1794203691.9927754
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Vocal_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Vocal_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Carnatic_Vocal_SrSec_2025-26.pdf",
+    "file_size_bytes": 340587,
+    "sha256": "4215de10f08259c98be647bfbd152cb7ad1f29bc2c78dfbfbe2094b2a9093f92",
+    "status": "success",
+    "timestamp": 1794203692.5877762
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Percussion_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Percussion_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Carnatic_Percussion_SrSec_2025-26.pdf",
+    "file_size_bytes": 264640,
+    "sha256": "8d753fe4e68a6a2aa07088d24da0df9844e744689fcfa0db245c3122de68fc01",
+    "status": "success",
+    "timestamp": 1794203693.1624541
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Chemistry_SrSec_2025-26.pdf",
+    "file_size_bytes": 681640,
+    "sha256": "656eaf4a8b57e7da0802aaf7b736cada5c22a42de21a2fa1dc5bea17f9910242",
+    "status": "success",
+    "timestamp": 1794203693.8029354
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Computer_Science_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Computer_Science_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Computer_Science_SrSec_2025-26.pdf",
+    "file_size_bytes": 540110,
+    "sha256": "f9d0ae7a58e0947f85e1f5365e226ad06e74d1399c2ae858a9a8a7f8cd828468",
+    "status": "success",
+    "timestamp": 1794203694.4014904
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Economics_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Economics_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Economics_SrSec_2025-26.pdf",
+    "file_size_bytes": 236976,
+    "sha256": "f499a26ffcd4b5a9047821ed93236c262a8920fb4a2d9226c5ff2e4a79c34e80",
+    "status": "success",
+    "timestamp": 1794203695.0048048
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Engineering_Graphics_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Engineering_Graphics_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Engineering_Graphics_SrSec_2025-26.pdf",
+    "file_size_bytes": 530372,
+    "sha256": "43a9253cf71a860d34a6d9340ffd5aefb33d8d045a1f254f811f8ae66424ac58",
+    "status": "success",
+    "timestamp": 1794203695.609836
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Enterprenuership_SrSec_2025-26.pdf",
+    "file_size_bytes": 285992,
+    "sha256": "32a1c645143443ae36518e2fa885e7f5c98676746c45baf7fa797657db04d810",
+    "status": "success",
+    "timestamp": 1794203698.7759411
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Fine_Arts_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Fine_Arts_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Fine_Arts_SrSec_2025-26.pdf",
+    "file_size_bytes": 542610,
+    "sha256": "a7c4edaa64785fd55901291c653e6b37bbd45636c75d4542f42d6fa1a64dcf28",
+    "status": "success",
+    "timestamp": 1794203699.4279935
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Indian_Classical_Dances_SrSec_2025-26.pdf",
+    "file_size_bytes": 416547,
+    "sha256": "9f7be5c698112151dba48c77aa209ca3ccb4683a611fc3ffd72ce19d3df0d98b",
+    "status": "success",
+    "timestamp": 1794203700.0595698
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Geography_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Geography_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Geography_SrSec_2025-26.pdf",
+    "file_size_bytes": 581607,
+    "sha256": "9118594f9b7bf0360c14b2b5dde8bcf9f67d24cb6258aa24bd8b1d0caf1e41f2",
+    "status": "success",
+    "timestamp": 1794203700.6925056
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Melodic_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Melodic_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindustani_Melodic_SrSec_2025-26.pdf",
+    "file_size_bytes": 269047,
+    "sha256": "106151473de1698e375e53a48d3dcccba15dcd70c5e58a84dd2a22d73c44853d",
+    "status": "success",
+    "timestamp": 1794203701.3072608
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Percussion_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Percussion_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindustani_Percussion_SrSec_2025-26.pdf",
+    "file_size_bytes": 270441,
+    "sha256": "a8dafeb39293b08374b2a4615005770bc30e6c744ec30439ed451b3c60559bf0",
+    "status": "success",
+    "timestamp": 1794203701.8794105
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Vocal_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Vocal_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindustani_Vocal_SrSec_2025-26.pdf",
+    "file_size_bytes": 248909,
+    "sha256": "ab78494b723b572701ba0f51c102f9a4cdd67004b41c33174c5a6fa143fad14f",
+    "status": "success",
+    "timestamp": 1794203702.4749198
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/History_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/History_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\History_SrSec_2025-26.pdf",
+    "file_size_bytes": 732449,
+    "sha256": "ab0cab36f707d851e72baf22acc9f547a5da5225a21c0f975b62fa1a6b149988",
+    "status": "success",
+    "timestamp": 1794203703.0969512
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Home_Science_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Home_Science_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Home_Science_SrSec_2025-26.pdf",
+    "file_size_bytes": 539574,
+    "sha256": "c7002accd97c4c2efab4afdac786911f296b3ff9b17b15c0a949e9c1708e66fc",
+    "status": "success",
+    "timestamp": 1794203703.7188377
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Informatics_Practices_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Informatics_Practices_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Informatics_Practices_SrSec_2025-26.pdf",
+    "file_size_bytes": 778960,
+    "sha256": "06f970c89910d5d2ca3d2f2eb74d6e2df9e6ac0b17b99182ca27c7bdf444aa8e",
+    "status": "success",
+    "timestamp": 1794203704.354518
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KTPI_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KTPI_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\KTPI_SrSec_2025-26.pdf",
+    "file_size_bytes": 585305,
+    "sha256": "dfc2ba095088c4d4f31f459f3d06fabb71a275a187f4ba32096d8379a4955435",
+    "status": "success",
+    "timestamp": 1794203704.9595137
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/LegalStudies_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/LegalStudies_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\LegalStudies_SrSec_2025-26.pdf",
+    "file_size_bytes": 354469,
+    "sha256": "3bc3c55777a289ebeec47251f605a165c4c2f1ea68c54e21704c1f093046194f",
+    "status": "success",
+    "timestamp": 1794203705.5763495
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Applied_Mathematics_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Applied_Mathematics_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Applied_Mathematics_SrSec_2025-26.pdf",
+    "file_size_bytes": 806786,
+    "sha256": "b9c236eedb2f98e774e137fc81b24c7979f6cca255f3a18ce79205f482bbf0c0",
+    "status": "success",
+    "timestamp": 1794203706.2366693
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/NCC_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/NCC_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\NCC_SrSec_2025-26.pdf",
+    "file_size_bytes": 219550,
+    "sha256": "ba17e2ec50cc262c3f27e46e49383af3d8b9d9da125d7ec42189ba2f3d19a47a",
+    "status": "success",
+    "timestamp": 1794203706.8485067
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PhysicalEducation_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PhysicalEducation_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\PhysicalEducation_SrSec_2025-26.pdf",
+    "file_size_bytes": 463967,
+    "sha256": "9a3da899f8a3bad0227090397ced6f64b44f0f79c91b23fc7912c9e3ee18d6f0",
+    "status": "success",
+    "timestamp": 1794203707.5586827
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Physics_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Physics_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Physics_SrSec_2025-26.pdf",
+    "file_size_bytes": 370951,
+    "sha256": "5a0b340f22af23f693c1759ec035c26f029fbf0784e52fed1448461264a56296",
+    "status": "success",
+    "timestamp": 1794203708.180912
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PoliticalScience_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PoliticalScience_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\PoliticalScience_SrSec_2025-26.pdf",
+    "file_size_bytes": 681530,
+    "sha256": "66dcbb94502e45336d82c0aa73b13c59de997bd43004d9142ce3b3d557d9e389",
+    "status": "success",
+    "timestamp": 1794203708.8290117
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Psychology_SrSec_2025-26.pdf",
+    "file_size_bytes": 477170,
+    "sha256": "15f5223ad4226db06edeca829681789d1dab99b92a77f594d8ab366f77ae8124",
+    "status": "success",
+    "timestamp": 1794203709.501927
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sociology_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sociology_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sociology_SrSec_2025-26.pdf",
+    "file_size_bytes": 228639,
+    "sha256": "bf7c07bacfc785f585b2952ea19cc512e413d51dfd316043b0c7ca03fe1b514f",
+    "status": "success",
+    "timestamp": 1794203710.0781765
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/HPE_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/HPE_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\HPE_SrSec_2025-26.pdf",
+    "file_size_bytes": 527577,
+    "sha256": "af7d63186b03bf7e8510b0a5c9e08dd171548bb34e77c74a0f4646b0c2e54633",
+    "status": "success",
+    "timestamp": 1794203710.6871336
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/WorkExperience_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/WorkExperience_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\WorkExperience_SrSec_2025-26.pdf",
+    "file_size_bytes": 784091,
+    "sha256": "3a4044568ad28e21b5d17ead25f7d3da6ecaffcfe20dc77eaa6517bc141bf4dc",
+    "status": "success",
+    "timestamp": 1794203711.4515586
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/GeneralStudies_SrSec_2025-26.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/GeneralStudies_SrSec_2025-26.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\GeneralStudies_SrSec_2025-26.pdf",
+    "file_size_bytes": 1809078,
+    "sha256": "436edb7c7dfb57750d4d060117fb4bcc2b1ffb467720c8a198091326ac39c7b2",
+    "status": "success",
+    "timestamp": 1794203712.1261926
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Arabic_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Arabic_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Arabic_SrSec_2024-25.pdf",
+    "file_size_bytes": 318728,
+    "sha256": "92de6644baf7a741be78f51bfeeae512e5817cd8ca9f88942a9fcb016352a761",
+    "status": "success",
+    "timestamp": 1794203712.760933
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Assamese_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Assamese_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Assamese_SrSec_2024-25.pdf",
+    "file_size_bytes": 538970,
+    "sha256": "3e632f92c4407a5c17a14f8044d3222fa0861be7ed43fa06e6eca5307670d417",
+    "status": "success",
+    "timestamp": 1794203713.3448806
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bengali_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bengali_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bengali_SrSec_2024-25.pdf",
+    "file_size_bytes": 530196,
+    "sha256": "f33c5f8ee8415126fd6718d03bc4cbce1e1186273c428a6c0a3fcb36723ef6a7",
+    "status": "success",
+    "timestamp": 1794203713.9337585
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhoti_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhoti_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bhoti_SrSec_2024-25.pdf",
+    "file_size_bytes": 224717,
+    "sha256": "b33c37d919760db317956a75dac19e4415db7c5fa372cd7fb72b1e3eb6215d5b",
+    "status": "success",
+    "timestamp": 1794203715.1465108
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhutia_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhutia_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bhutia_SrSec_2024-25.pdf",
+    "file_size_bytes": 1178674,
+    "sha256": "e5fe1d46ef4277c23445a0f738336f9d5a8a490669231dc650a29afd18bb8284",
+    "status": "success",
+    "timestamp": 1794203716.3730135
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bodo_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bodo_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Bodo_SrSec_2024-25.pdf",
+    "file_size_bytes": 639631,
+    "sha256": "0f316d37f2fd639b002ea75f9f6f91a3e6007869aa5484436190cc51889ca441",
+    "status": "success",
+    "timestamp": 1794203716.9552333
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/French_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/French_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\French_SrSec_2024-25.pdf",
+    "file_size_bytes": 1430367,
+    "sha256": "35965b1060a16d69e656b0e7c228b8330a01d7ec53aaf9e2f554f734eb65545a",
+    "status": "success",
+    "timestamp": 1794203717.5808456
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/German_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/German_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\German_SrSec_2024-25.pdf",
+    "file_size_bytes": 491077,
+    "sha256": "b5eaf60302ad44ea0359ba8b17d1c8ac549cd1098c5b0f948cc33ecf53226fb3",
+    "status": "success",
+    "timestamp": 1794203718.1536965
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Gujarati_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Gujarati_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Gujarati_SrSec_2024-25.pdf",
+    "file_size_bytes": 1177788,
+    "sha256": "c7263865f0ec1a486083e75c1f1d7481b2117c2f3c6318a1d8c79c53fb62f655",
+    "status": "success",
+    "timestamp": 1794203718.7721577
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Core_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Core_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindi_Core_SrSec_2024-25.pdf",
+    "file_size_bytes": 910382,
+    "sha256": "5af937c8ba9930bbcd9c6cd854002d111c9ee0dcfda24c662829963d20e37d6c",
+    "status": "success",
+    "timestamp": 1794203719.375687
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Elective_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Elective_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindi_Elective_SrSec_2024-25.pdf",
+    "file_size_bytes": 1078896,
+    "sha256": "fe096c33521b0432f83e753b0f6fc7d9eee6ac509721cd09b22e1692493c6352",
+    "status": "success",
+    "timestamp": 1794203719.991916
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_core_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_core_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\English_core_SrSec_2024-25.pdf",
+    "file_size_bytes": 854156,
+    "sha256": "4fbfc12d16390171e41669b815f9ffa3753386bd9a4fe3028393af47a9959ecb",
+    "status": "success",
+    "timestamp": 1794203720.5989444
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_elective_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_elective_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\English_elective_SrSec_2024-25.pdf",
+    "file_size_bytes": 479467,
+    "sha256": "647dfe766e372ce8942d5c4bdbfe98bd3b50c5ef6ad2368973079322b55a93b8",
+    "status": "success",
+    "timestamp": 1794203721.2070498
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Japanese_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Japanese_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Japanese_SrSec_2024-25.pdf",
+    "file_size_bytes": 282010,
+    "sha256": "06ba039413764dfb4fbdc7532cc9d8d533f0c004e536c531aab1d836733f13f1",
+    "status": "success",
+    "timestamp": 1794203721.7948868
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kannada_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kannada_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Kannada_SrSec_2024-25.pdf",
+    "file_size_bytes": 803099,
+    "sha256": "d31eef9bfc8bcd3972b933bff40f8f8d3b8d1a67857987c05af9bf2dedbdc88f",
+    "status": "success",
+    "timestamp": 1794203723.0426476
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kashmiri_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kashmiri_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Kashmiri_SrSec_2024-25.pdf",
+    "file_size_bytes": 497758,
+    "sha256": "de80eb61cc7e82bc451759715a4d1c9dcf032b8cb8c3067e4bb9501f05cb5c35",
+    "status": "success",
+    "timestamp": 1794203727.3356562
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\KOKBOROK_SrSec_2024-25.pdf",
+    "file_size_bytes": 335524,
+    "sha256": "742672ce8e097bba7f331d6755313b9d9b0ba6d206c04de1a73b167b3ab9f077",
+    "status": "success",
+    "timestamp": 1794203727.9302328
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Lepcha_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Lepcha_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Lepcha_SrSec_2024-25.pdf",
+    "file_size_bytes": 248818,
+    "sha256": "baad168df6a52ddbe164db85c831fbf8ceee07bdf8cbd168f1b7cc653698a622",
+    "status": "success",
+    "timestamp": 1794203728.498149
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Limboo_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Limboo_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Limboo_SrSec_2024-25.pdf",
+    "file_size_bytes": 206200,
+    "sha256": "a3c395ddedd8ded887259291c86bcab370fecee2d30e945ac086d2167e9aaa2f",
+    "status": "success",
+    "timestamp": 1794203729.0741882
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Malyalam_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Malyalam_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Malyalam_SrSec_2024-25.pdf",
+    "file_size_bytes": 148419,
+    "sha256": "35ed82c5e55bd322940a52727dc51242639fbf930d88c4b408554534006c1fd9",
+    "status": "success",
+    "timestamp": 1794203729.6403806
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Manipuri_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Manipuri_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Manipuri_SrSec_2024-25.pdf",
+    "file_size_bytes": 273510,
+    "sha256": "403a1a2d92e0a6d22e4f345ef7e31c1e60c5af146c1bad8dff520108f5d5b8f8",
+    "status": "success",
+    "timestamp": 1794203730.2217839
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Marathi_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Marathi_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Marathi_SrSec_2024-25.pdf",
+    "file_size_bytes": 249823,
+    "sha256": "2fc22356e47afba97618a736ab0ecd9aba6e1624db340584617815fda46adc26",
+    "status": "success",
+    "timestamp": 1794203730.808887
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Mizo_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Mizo_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Mizo_SrSec_2024-25.pdf",
+    "file_size_bytes": 632108,
+    "sha256": "3393842ef2adcc3a14d3e18232e61d769048f2c65932d6e7f22c4d1a04bb1942",
+    "status": "success",
+    "timestamp": 1794203731.4124725
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Nepali_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Nepali_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Nepali_SrSec_2024-25.pdf",
+    "file_size_bytes": 269630,
+    "sha256": "7620967828c436a0eda025e47d81c815c0e80c36d24f58b3717e91d07f57a12a",
+    "status": "success",
+    "timestamp": 1794203732.5986123
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Odia_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Odia_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Odia_SrSec_2024-25.pdf",
+    "file_size_bytes": 490564,
+    "sha256": "92723f6fb900e6a399b2aa6d69907f4ec24037045aaf69602badd026f1bacdd5",
+    "status": "success",
+    "timestamp": 1794203733.780989
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Persian_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Persian_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Persian_SrSec_2024-25.pdf",
+    "file_size_bytes": 781457,
+    "sha256": "2302b338478d7eb02e4bea6ec2b64f144ea430cce280be94926a58a1796809ae",
+    "status": "success",
+    "timestamp": 1794203735.030724
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Punjabi_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Punjabi_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Punjabi_SrSec_2024-25.pdf",
+    "file_size_bytes": 265407,
+    "sha256": "ac42f6907a0a1ce54227b352aad62de25112872a4d29a822f4fd40570de50e53",
+    "status": "success",
+    "timestamp": 1794203735.6099203
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Russian_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Russian_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Russian_SrSec_2024-25.pdf",
+    "file_size_bytes": 186755,
+    "sha256": "751b969f51190b5010752aa6dbed22eb4b90789b32a19683ec7abf8b1e0fd1c4",
+    "status": "success",
+    "timestamp": 1794203736.7729611
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Core_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Core_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sanskrit_Core_SrSec_2024-25.pdf",
+    "file_size_bytes": 1243230,
+    "sha256": "5f8ed8aa9bd09609b17f0189e1d255bd6b7d17685ce72c73a3f6e9ec8877a237",
+    "status": "success",
+    "timestamp": 1794203737.414205
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Elective_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Elective_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sanskrit_Elective_SrSec_2024-25.pdf",
+    "file_size_bytes": 1204715,
+    "sha256": "a6f1e5bfc635aba42377d69bd6185a4d64c94f883954b7fb4ade61dbd179eb80",
+    "status": "success",
+    "timestamp": 1794203738.064284
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sindhi_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sindhi_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sindhi_SrSec_2024-25.pdf",
+    "file_size_bytes": 698333,
+    "sha256": "f147790f0aad69ef2f17bc758dbd8e5913cc12149378e7eeb2f0028f2b61815e",
+    "status": "success",
+    "timestamp": 1794203738.6916435
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Spanish_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Spanish_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Spanish_SrSec_2024-25.pdf",
+    "file_size_bytes": 387393,
+    "sha256": "8397434c517ccbbe6896b0bad4ab3e6fb2354c7466c210124a4313872900fcee",
+    "status": "success",
+    "timestamp": 1794203739.2752814
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tamil_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tamil_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Tamil_SrSec_2024-25.pdf",
+    "file_size_bytes": 800697,
+    "sha256": "ac7c69a641a7dd73d2de60485daffba7e0ba5c6de8594a45c5afc455ad126500",
+    "status": "success",
+    "timestamp": 1794203739.8760478
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tangkhul_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tangkhul_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Tangkhul_SrSec_2024-25.pdf",
+    "file_size_bytes": 364447,
+    "sha256": "8093cc00d7ed23a944784103598132ac5020ccf0a97edd46ff73c526ffdf50fc",
+    "status": "success",
+    "timestamp": 1794203740.464111
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_AP_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_AP_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Telugu_AP_SrSec_2024-25.pdf",
+    "file_size_bytes": 806224,
+    "sha256": "666077df1be3254941fc6470f0f1c9120bb5a85423d81805ba8c1ee41b3fa35b",
+    "status": "success",
+    "timestamp": 1794203741.0583677
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_Telangana_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_Telangana_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Telugu_Telangana_SrSec_2024-25.pdf",
+    "file_size_bytes": 436837,
+    "sha256": "f3bd4851c462e7702c1ae612b0a5b03d9971df8b4e02ca018198969817db3921",
+    "status": "success",
+    "timestamp": 1794203741.6382494
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tibetan_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tibetan_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Tibetan_SrSec_2024-25.pdf",
+    "file_size_bytes": 565557,
+    "sha256": "f1d401775ad4597691edb94d945111fd5b73531f57327ac48513f16e69049f02",
+    "status": "success",
+    "timestamp": 1794203748.1607463
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_CORE_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_CORE_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\URDU_CORE_SrSec_2024-25.pdf",
+    "file_size_bytes": 135262,
+    "sha256": "a1bbd2f3878bd7840e1b8a0878b926bc42ffad7f36eafe0ffe34add5a3b7ee86",
+    "status": "success",
+    "timestamp": 1794203748.7644072
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_Elective_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_Elective_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\URDU_Elective_SrSec_2024-25.pdf",
+    "file_size_bytes": 776525,
+    "sha256": "b6ad527c03c8e7b586e88c92381babf64728c89100f0b900f52b6d80f5c8c83e",
+    "status": "success",
+    "timestamp": 1794203749.376654
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Accountancy_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Accountancy_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Accountancy_SrSec_2024-25.pdf",
+    "file_size_bytes": 220735,
+    "sha256": "df20cbc5cec3a7191f2d5fb37f8d394d2e81ee3d93f5d983cf7c070addba6f52",
+    "status": "success",
+    "timestamp": 1794203749.947127
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Biology_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Biology_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Biology_SrSec_2024-25.pdf",
+    "file_size_bytes": 398719,
+    "sha256": "888aecea7bde46c6c71a30a74b21301cee90145116094084fe52ef6673419f79",
+    "status": "success",
+    "timestamp": 1794203750.550426
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\BioTechnology_SrSec_2024-25.pdf",
+    "file_size_bytes": 248785,
+    "sha256": "f821c326ad9ee6a5b361f979fefa2c5df9c7e40662f9d8d179ee8014283c28b0",
+    "status": "success",
+    "timestamp": 1794203751.1354165
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\BusinessStudies_SrSec_2024-25.pdf",
+    "file_size_bytes": 360508,
+    "sha256": "ac3d1e72b1a5ea888010167cf59b544460f442686e0d20349af640228402e1a1",
+    "status": "success",
+    "timestamp": 1794203751.724363
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Melodic_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Melodic_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Carnatic_Melodic_SrSec_2024-25.pdf",
+    "file_size_bytes": 428814,
+    "sha256": "0e05826866838d0dc5ee1919e8e904d6bb4938759cc9afcd9a8bb37668fd38d2",
+    "status": "success",
+    "timestamp": 1794203752.355016
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Vocal_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Vocal_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Carnatic_Vocal_SrSec_2024-25.pdf",
+    "file_size_bytes": 549069,
+    "sha256": "1899f278ae6f8ae86df84d70dbbca8148e1aff7ff0907ddb336b364413322669",
+    "status": "success",
+    "timestamp": 1794203752.951866
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Percussion_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Percussion_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Carnatic_Percussion_SrSec_2024-25.pdf",
+    "file_size_bytes": 420071,
+    "sha256": "a8d7170d2a2c080f741babc5bde9f6d8ffbcebe24c6f073da6ef14ea59d3a33f",
+    "status": "success",
+    "timestamp": 1794203753.5993385
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Chemistry_SrSec_2024-25.pdf",
+    "file_size_bytes": 931649,
+    "sha256": "3d33e9eb502d192a5de11df04e3be2432cc4590975b64bcbe2e2f1468f58e4f2",
+    "status": "success",
+    "timestamp": 1794203754.2278748
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Computer_Science_SrSec_2024-25.pdf",
+    "file_size_bytes": 459181,
+    "sha256": "7aef221c10543ba15ab9ba693852ffbbfc3fff81807f8754e23c36bf311a142e",
+    "status": "success",
+    "timestamp": 1794203754.8283782
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Economics_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Economics_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Economics_SrSec_2024-25.pdf",
+    "file_size_bytes": 236590,
+    "sha256": "8ff149b24d61af7ebbc1e47d3e2cabb8fd1477646c56026a057abd6fc2d799b6",
+    "status": "success",
+    "timestamp": 1794203755.413707
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Engineering_Graphics_SrSec_2024-25.pdf",
+    "file_size_bytes": 199207,
+    "sha256": "0af2998ce5dd7ec07bae9d621638c20cc8cbf654e742a8609f3d324c5fe8d2ea",
+    "status": "success",
+    "timestamp": 1794203755.9926674
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Enterprenuership_SrSec_2024-25.pdf",
+    "file_size_bytes": 284837,
+    "sha256": "48fef7abfadb8f75972ed51e0d1986528648c0101246039b17c7663bbafde185",
+    "status": "success",
+    "timestamp": 1794203759.0687883
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Fine_Arts_SrSec_2024-25.pdf",
+    "file_size_bytes": 1093805,
+    "sha256": "694f574745a85c4964bb54063e73d2bf4d3473cbdaa0574de4033e0f10ca20ee",
+    "status": "success",
+    "timestamp": 1794203759.719719
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Indian_Classical_Dances_SrSec_2024-25.pdf",
+    "file_size_bytes": 681379,
+    "sha256": "ecf326faa9334401595b2d51ed71f0676601d0dce3136508a882298ef2ecdb20",
+    "status": "success",
+    "timestamp": 1794203760.4126606
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Geography_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Geography_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Geography_SrSec_2024-25.pdf",
+    "file_size_bytes": 638748,
+    "sha256": "0c447d65f3f4b317eb1264690be639b3ea6d22c045b5b78550c786e4ab6efc47",
+    "status": "success",
+    "timestamp": 1794203761.031703
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Melodic_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Melodic_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindustan_Melodic_SrSec_2024-25.pdf",
+    "file_size_bytes": 407775,
+    "sha256": "82f2d7f21910470dab1c3262c7e861fa87449151912efc16ec0f0a4dbb5eedab",
+    "status": "success",
+    "timestamp": 1794203761.6719034
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Percussion_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Percussion_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindustan_Percussion_SrSec_2024-25.pdf",
+    "file_size_bytes": 344555,
+    "sha256": "3d4cd979912a8b135489719d4539a4dfed52938916f17d754c6d49c44bf8ad6a",
+    "status": "success",
+    "timestamp": 1794203762.2648249
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Vocal_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Vocal_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Hindustan_Vocal_SrSec_2024-25.pdf",
+    "file_size_bytes": 407724,
+    "sha256": "fe22a32aab33f942946b3a2cd84c0da116fbb14d6d06531015fec8aa08afaa49",
+    "status": "success",
+    "timestamp": 1794203762.9293778
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/History_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/History_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\History_SrSec_2024-25.pdf",
+    "file_size_bytes": 1230050,
+    "sha256": "929919da3b18dded3b47697fbd9823aa966f9b8dc6516728cb1e0554bcaace5a",
+    "status": "success",
+    "timestamp": 1794203763.9842598
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Home_Science_SrSec_2024-25.pdf",
+    "file_size_bytes": 605281,
+    "sha256": "e6e32872226256c94345e830895658297015064b16d8b852b857f673ee295f07",
+    "status": "success",
+    "timestamp": 1794203764.74917
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Informatics_Practices_SrSec_2024-25.pdf",
+    "file_size_bytes": 226088,
+    "sha256": "ff92a1d9c1c2a4d6b923a7ff80b59353e9c6d3575e9e7628057e751f9da3ee26",
+    "status": "success",
+    "timestamp": 1794203765.3547852
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KTPI_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KTPI_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\KTPI_SrSec_2024-25.pdf",
+    "file_size_bytes": 446831,
+    "sha256": "28e5c5ed402728473e44b893d025c1f7cf5250a645c919a003d22a7dba654115",
+    "status": "success",
+    "timestamp": 1794203765.9417613
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/LegalStudies_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/LegalStudies_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\LegalStudies_SrSec_2024-25.pdf",
+    "file_size_bytes": 329359,
+    "sha256": "5b5efd8df0daa8adf439d9f92fe4d817a63f24d0e6ecd9c75b6bb5900c11bfd0",
+    "status": "success",
+    "timestamp": 1794203766.5404077
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Maths_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Maths_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Maths_SrSec_2024-25.pdf",
+    "file_size_bytes": 694672,
+    "sha256": "f72e4e8040414d9e8af37c4c3b65acd8b39cf383e83d4e96554f78f023077b62",
+    "status": "success",
+    "timestamp": 1794203767.3979821
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Applied_Mathematics_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Applied_Mathematics_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Applied_Mathematics_SrSec_2024-25.pdf",
+    "file_size_bytes": 997612,
+    "sha256": "8ac1b020f321bbaf15deb59207526b9d3bdb02004f60f122b6a1674a0e6c46cb",
+    "status": "success",
+    "timestamp": 1794203768.0189571
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/NCC_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/NCC_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\NCC_SrSec_2024-25.pdf",
+    "file_size_bytes": 560300,
+    "sha256": "a0012e234159e37054e5449d91f6a75ba7e195cdb488042a6ce1fcf01c272c3b",
+    "status": "success",
+    "timestamp": 1794203768.626027
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\PhysicalEducation_SrSec_2024-25.pdf",
+    "file_size_bytes": 499763,
+    "sha256": "0d74daab51e545695faecbc98b77e12c49809cd1c4d4afe9087b03e223fa89aa",
+    "status": "success",
+    "timestamp": 1794203769.2130666
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Physics_SrSec_2024-25.pdf",
+    "file_size_bytes": 189977,
+    "sha256": "ebe8c50ccf1401567c6741195f4baf378627011869f9c7decffff8ab2b405e25",
+    "status": "success",
+    "timestamp": 1794203769.7980304
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PoliticalScience_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PoliticalScience_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\PoliticalScience_SrSec_2024-25.pdf",
+    "file_size_bytes": 1562947,
+    "sha256": "f3e8e251676c377200e60f0842a3023d522a3382b902e0d4e91d94e5c1ae55b2",
+    "status": "success",
+    "timestamp": 1794203770.448001
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Psychology_SrSec_2024-25.pdf",
+    "file_size_bytes": 259219,
+    "sha256": "edee3bd5d426095873f8fe301c8c93363b89426a0c3aa1b3772c1e964517b00a",
+    "status": "success",
+    "timestamp": 1794203771.110433
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sociology_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sociology_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\Sociology_SrSec_2024-25.pdf",
+    "file_size_bytes": 383958,
+    "sha256": "811cd051d6365efed808202913455329526ec5a5e8e32e7c6b5dcc15a669cc47",
+    "status": "success",
+    "timestamp": 1794203771.7019525
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/HPE_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/HPE_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\HPE_SrSec_2024-25.pdf",
+    "file_size_bytes": 552828,
+    "sha256": "3d38368c49933af720432491a63b0fca4d433cf8a6ee244827a9115d3f84e4b5",
+    "status": "success",
+    "timestamp": 1794203772.4227405
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/WorkExperience_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/WorkExperience_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\WorkExperience_SrSec_2024-25.pdf",
+    "file_size_bytes": 794015,
+    "sha256": "b7bc63dc24868b48ebf6f101588a1363dff6299d55fe65ceb286f23ebb799c82",
+    "status": "success",
+    "timestamp": 1794203773.1829884
+  },
+  "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/GeneralStudies_SrSec_2024-25.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/GeneralStudies_SrSec_2024-25.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\GeneralStudies_SrSec_2024-25.pdf",
+    "file_size_bytes": 6147665,
+    "sha256": "2e56bf71a1dc79528eee99ca821b7f10ce6259fa070bcb6fc4a561d700a19dd9",
+    "status": "success",
+    "timestamp": 1794203774.1992087
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\EmployabilitySkills_XI.pdf",
+    "file_size_bytes": 169460,
+    "sha256": "1bcc520aa6d8241dac863b3afca60824dd46f453b1cddd3ca63ebb114a8277e5",
+    "status": "success",
+    "timestamp": 1794203774.833487
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\EmployabilitySkills_XII.pdf",
+    "file_size_bytes": 180153,
+    "sha256": "7ec8ff5d1b239fe1e6e31404224d5090a6094f23dab4bf0aa28b1785bfcd3907",
+    "status": "success",
+    "timestamp": 1794203775.4203384
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\801-RETAIL_XI.pdf",
+    "file_size_bytes": 149940,
+    "sha256": "d02df4bbd2b45dccb032623fcf4e9b096c4156a777c6c7f729cec4bb54a013bb",
+    "status": "success",
+    "timestamp": 1794203775.9840803
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\801-RETAIL_XII.pdf",
+    "file_size_bytes": 147702,
+    "sha256": "93658f0cd3573e184a31fb0bdb3f1b36fd5f7c972025025b50440a0d0b2defea",
+    "status": "success",
+    "timestamp": 1794203776.5529187
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/802-IT.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/802-IT.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\802-IT.pdf",
+    "file_size_bytes": 242547,
+    "sha256": "c85720f1a12459593ed5096fed7d7f2b36cfed88f89cd897806b66cc993364c7",
+    "status": "success",
+    "timestamp": 1794203777.1422658
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\803-WebApplication_XI.pdf",
+    "file_size_bytes": 329831,
+    "sha256": "3ba9db5cf9d18b326f0444f90417482bda27351383adb60901ac50aa3fd4beab",
+    "status": "success",
+    "timestamp": 1794203777.743325
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XII_updated.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XII_updated.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\803-WebApplication_XII_updated.pdf",
+    "file_size_bytes": 277524,
+    "sha256": "39b990b75221dd95aea9f8066a2f99055db5b9f289f2883dc1ba5c700471a7f6",
+    "status": "success",
+    "timestamp": 1794203778.326427
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\804-AUTOMOTIVE_XI.pdf",
+    "file_size_bytes": 392567,
+    "sha256": "45e437ed25859f8838cc02a03e6d070371ec12157321fd43330ae718bafe6887",
+    "status": "success",
+    "timestamp": 1794203778.9489386
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\804-AUTOMOTIVE.pdf",
+    "file_size_bytes": 190089,
+    "sha256": "f73efd35209f0a79a1c4fa08881c04f8189fc9b328b4e598d5855b6df5c7d80a",
+    "status": "success",
+    "timestamp": 1794203779.518702
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/805-FMM.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/805-FMM.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\805-FMM.pdf",
+    "file_size_bytes": 384334,
+    "sha256": "c7c73f39a8df9d7f23e21f058e94929d38de931c5678a7f27b98603c47a49c13",
+    "status": "success",
+    "timestamp": 1794203780.120762
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/806-Tourism.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/806-Tourism.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\806-Tourism.pdf",
+    "file_size_bytes": 248898,
+    "sha256": "0240d19bcf1c51257380ea415de41096286bbdca5e5cbca5d7c3cf964d41950a",
+    "status": "success",
+    "timestamp": 1794203780.728704
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\807-BEAUTY-WELLNESS_XI.pdf",
+    "file_size_bytes": 154596,
+    "sha256": "a32e8f82cf96dc80bd35bedbee0af8233885c43653121bc409cb1ffb84694856",
+    "status": "success",
+    "timestamp": 1794203781.3234127
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\807-BEAUTY-WELLNESS_XII.pdf",
+    "file_size_bytes": 151024,
+    "sha256": "0f688a33ae1523db380761f0033d26596604dc53d16fbc37ee0a07d41259c45f",
+    "status": "success",
+    "timestamp": 1794203781.9056275
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\808-AGRICULTURE-XI.pdf",
+    "file_size_bytes": 148962,
+    "sha256": "ff99c1afcacae41e76ccc240721f98e180adbe974bae7b6f5cf316efb6907b77",
+    "status": "success",
+    "timestamp": 1794203782.485366
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\808-AGRICULTURE-XII.pdf",
+    "file_size_bytes": 153493,
+    "sha256": "fa5d2ff97c269415ac385324676118cea78283a79ecd910d5a29a26cb4e5b42b",
+    "status": "success",
+    "timestamp": 1794203783.0664601
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\809-FOOD_PRODUCTION-XI.pdf",
+    "file_size_bytes": 149757,
+    "sha256": "1b503d62194eba649969fbd528a60164267c4ab9719e58a37020782d1147908c",
+    "status": "success",
+    "timestamp": 1794203783.6466506
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\809-FOOD_PRODUCTION-XII.pdf",
+    "file_size_bytes": 131372,
+    "sha256": "c4473a06ebbb8b271cc285bcfb410d3d2aeecc7ef0f2c41dc8341d568d2e4eda",
+    "status": "success",
+    "timestamp": 1794203784.231946
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\810-FRONT_OFFICE_OPERATIONS-XI.pdf",
+    "file_size_bytes": 150639,
+    "sha256": "1fcc8c138544b11e4a99432cbb4333ba2950f4ced3c0910467afc7b8295dea72",
+    "status": "success",
+    "timestamp": 1794203784.8142972
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\810-FRONT_OFFICE_OPERATIONS-XII.pdf",
+    "file_size_bytes": 133616,
+    "sha256": "c9a6cb555e588248e2a42ea9116593b349ed6a57699df2f3cb81d0da12e35cf0",
+    "status": "success",
+    "timestamp": 1794203785.3870776
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/811-Banking.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/811-Banking.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\811-Banking.pdf",
+    "file_size_bytes": 216190,
+    "sha256": "495f60b8fd4f3e319c00227411092433c83223e3b62344ab0882b407a2a0ed2c",
+    "status": "success",
+    "timestamp": 1794203785.9738302
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\812-MARKETING_XI.pdf",
+    "file_size_bytes": 152499,
+    "sha256": "8860149958d523a1ad465449ad8182938e51f76f4ce9caab287e697dea43f301",
+    "status": "success",
+    "timestamp": 1794203786.5747354
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\812-MARKETING_XII.pdf",
+    "file_size_bytes": 167901,
+    "sha256": "0dd726928042c3b6238f34cd282cda08acca5cf9fda34e7a96645caf401e2477",
+    "status": "success",
+    "timestamp": 1794203787.1525464
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/813-HealthCare_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/813-HealthCare_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\813-HealthCare_XI.pdf",
+    "file_size_bytes": 172882,
+    "sha256": "dd51a76f6060ea888b8bb1e2a1ceedf19c2846b81a6ea7212453c48af51aa0aa",
+    "status": "success",
+    "timestamp": 1794203787.7348113
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/813-HealthCare_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/813-HealthCare_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\813-HealthCare_XII.pdf",
+    "file_size_bytes": 171655,
+    "sha256": "e23c57a7690139ed6de17514b74a4f0e2534c165adba04886c921fbb0c20c8a0",
+    "status": "success",
+    "timestamp": 1794203788.3418794
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/814-Insurance.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/814-Insurance.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\814-Insurance.pdf",
+    "file_size_bytes": 251203,
+    "sha256": "fa20c36ae1e3f137de43333d27c5cd33213f7d39aaaa332be9c0e749a7a352c6",
+    "status": "success",
+    "timestamp": 1794203788.927272
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-Horticulture-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-Horticulture-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\816-Horticulture-XI.pdf",
+    "file_size_bytes": 164363,
+    "sha256": "52b1fcf78b23976035424ff62dfdd2048648f4a0a40e65534e8767e95d7cc9c2",
+    "status": "success",
+    "timestamp": 1794203789.5122955
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-HORTICULTURE-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-HORTICULTURE-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\816-HORTICULTURE-XII.pdf",
+    "file_size_bytes": 141784,
+    "sha256": "ddb56272cd3c2616b55b662f145307ba3053c4d5cce921e7ca75290ebe3b95c1",
+    "status": "success",
+    "timestamp": 1794203790.0852597
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XI.pdf",
+    "file_size_bytes": 237342,
+    "sha256": "dfdff1348d6a1897a72566432a2b3feabc1d8732a78efed492b8c684dc0c311f",
+    "status": "success",
+    "timestamp": 1794203790.672149
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XII.pdf",
+    "file_size_bytes": 233429,
+    "sha256": "60208b49395b2508c88cf7f6c7930c0e9d7b4d939d7178b20616d5246cd6c813",
+    "status": "success",
+    "timestamp": 1794203791.261148
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\818-GEOSPATIAL_TECHNOLOGY_XI.pdf",
+    "file_size_bytes": 725652,
+    "sha256": "1aa5d3e9db8af23e6f19520d77fc29fd9fa0f7807bb2662f7e48d8856e5d0a20",
+    "status": "success",
+    "timestamp": 1794203791.910916
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\818-GEOSPATIAL_TECHNOLOGY_XII.pdf",
+    "file_size_bytes": 192557,
+    "sha256": "479601ecfe93a1304f805266e24acf6f44217cc91b42e782a2df3c109a0922df",
+    "status": "success",
+    "timestamp": 1794203792.480036
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\819-ELECTRICAL_TECHNOLOGY-XI.pdf",
+    "file_size_bytes": 272649,
+    "sha256": "e5ea29ebd6e8b446a22237e9e5e8d62c0270a63d3425247e31986d9207ed6abb",
+    "status": "success",
+    "timestamp": 1794203793.049692
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\819-ELECTRICAL_TECHNOLOGY-XII.pdf",
+    "file_size_bytes": 264314,
+    "sha256": "fc7994c75dbd806b89d94ae90569b0ed2f81d9f9e399c99f0dcfa138900fb40d",
+    "status": "success",
+    "timestamp": 1794203793.646059
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\820-ELECTRONICS_TECHNOLOGY-XI.pdf",
+    "file_size_bytes": 205330,
+    "sha256": "304cbef0963f771ad549b11e049e7fce2ecc7f8b89468d54896a014578e58c05",
+    "status": "success",
+    "timestamp": 1794203794.2349904
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\820-ELECTRONICS_TECHNOLOGY-XII.pdf",
+    "file_size_bytes": 207933,
+    "sha256": "b25089a8c25ba4b66a8ef03e2e82bb18e9c4fb5d6001f8fc0db60ca01f098558",
+    "status": "success",
+    "timestamp": 1794203794.8214834
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\821-MULTIMEDIA-XI.pdf",
+    "file_size_bytes": 477758,
+    "sha256": "65f593d3b7acb580a4c41cd2af7b6470df5cdb0fccd7d768412c36699fd92fd1",
+    "status": "success",
+    "timestamp": 1794203795.4217267
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\821-MULTIMEDIA-XII.pdf",
+    "file_size_bytes": 139565,
+    "sha256": "bf3c5520b5b8f2c0666c8ca31fddeb876bef3c6657df43e272e6b12a398a227e",
+    "status": "success",
+    "timestamp": 1794203796.0018332
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/822-TAXATION.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/822-TAXATION.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\822-TAXATION.pdf",
+    "file_size_bytes": 195697,
+    "sha256": "b9bfd3e0945de1197fc20f4db5538dc30fd7a2f4849557037f16a624cf2e970d",
+    "status": "success",
+    "timestamp": 1794203796.5699732
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/823-CostAccounting.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/823-CostAccounting.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\823-CostAccounting.pdf",
+    "file_size_bytes": 373383,
+    "sha256": "9c287e41949d7f5253ce61f7d87290ae3d6d0e670780094c5a00b5ef1c056998",
+    "status": "success",
+    "timestamp": 1794203797.1779726
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/824-OFFICE_PROCEDURES-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/824-OFFICE_PROCEDURES-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\824-OFFICE_PROCEDURES-XI.pdf",
+    "file_size_bytes": 182053,
+    "sha256": "1a9e6002fc62d5b54465b2c468587914d941a0b8cd162adeb76af24df4cf0ada",
+    "status": "success",
+    "timestamp": 1794203797.7628288
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/824-OFFICE_PROCEDURES-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/824-OFFICE_PROCEDURES-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\824-OFFICE_PROCEDURES-XII.pdf",
+    "file_size_bytes": 174267,
+    "sha256": "c5ec36f9cab4828f768741a1ff9bd4cf51b6e9887f2d4922f15e8420d222da35",
+    "status": "success",
+    "timestamp": 1794203798.3351903
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/825-SHORTHAND-ENGLISH-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/825-SHORTHAND-ENGLISH-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\825-SHORTHAND-ENGLISH-XI.pdf",
+    "file_size_bytes": 197375,
+    "sha256": "0c5b28690d4a972521579492f57c30eaf7b517acd5fdd233af6e93d5ee311215",
+    "status": "success",
+    "timestamp": 1794203798.9154787
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/825-SHORTHAND-ENGLISH-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/825-SHORTHAND-ENGLISH-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\825-SHORTHAND-ENGLISH-XII.pdf",
+    "file_size_bytes": 152219,
+    "sha256": "3e9179095196a12b8b4e9cc33ea5da46a1c0af98e473aa74202c4daff5195050",
+    "status": "success",
+    "timestamp": 1794203799.4841013
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/826-SHORTHAND-HINDI-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/826-SHORTHAND-HINDI-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\826-SHORTHAND-HINDI-XI.pdf",
+    "file_size_bytes": 2498753,
+    "sha256": "adf291a2708c088d41c1490784421ff2e5f95418dd7ac8a15786cf0aeb99c1d1",
+    "status": "success",
+    "timestamp": 1794203800.174146
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/826-SHORTHAND-HINDI-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/826-SHORTHAND-HINDI-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\826-SHORTHAND-HINDI-XII.pdf",
+    "file_size_bytes": 1722284,
+    "sha256": "413c225ab3b7294de68da40d2594b49fda5a612e331fdbf633868080da32af13",
+    "status": "success",
+    "timestamp": 1794203826.9208593
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\827-AIR_CONDITIONING_REF-XI.pdf",
+    "file_size_bytes": 161824,
+    "sha256": "b0cd928157c2c60fe9d7302f1cfd853d5f389c75922c55b42ecb3e5fc5f010f4",
+    "status": "success",
+    "timestamp": 1794203848.3758075
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\827-AIR_CONDITIONING_REF-XII.pdf",
+    "file_size_bytes": 148972,
+    "sha256": "8935641e1ef856422db25834b366f724809bf1910b406df891991fe7821a6709",
+    "status": "success",
+    "timestamp": 1794203848.9807813
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/828-MEDICAL_DIAGNOSTICS-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/828-MEDICAL_DIAGNOSTICS-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\828-MEDICAL_DIAGNOSTICS-XI.pdf",
+    "file_size_bytes": 168932,
+    "sha256": "66d293d9c2477fddf7134427464e66a3f6ec4091fd32934b73d82a7912611d65",
+    "status": "success",
+    "timestamp": 1794203849.8938172
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/828-MEDICAL_DIAGNOSTICS-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/828-MEDICAL_DIAGNOSTICS-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\828-MEDICAL_DIAGNOSTICS-XII.pdf",
+    "file_size_bytes": 140663,
+    "sha256": "5d735fb762aa7ca2ba5d8e20bf64b80cdbaaddb6a4b30be5ccfedc2cb567c2fd",
+    "status": "success",
+    "timestamp": 1794203850.517806
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/829-TEXTILE_DESIGN-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/829-TEXTILE_DESIGN-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\829-TEXTILE_DESIGN-XI.pdf",
+    "file_size_bytes": 150590,
+    "sha256": "f6f670020518b2bee19655d205b4c3dbefb21875cda01f8f03241fa60a5f98dd",
+    "status": "success",
+    "timestamp": 1794203851.1087668
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/829-TEXTILE_DESIGN-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/829-TEXTILE_DESIGN-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\829-TEXTILE_DESIGN-XII.pdf",
+    "file_size_bytes": 163986,
+    "sha256": "81ae3ec513aacc5eebc361c2cfc6825403d1e6b31e084c58d8d0801b4baa96b4",
+    "status": "success",
+    "timestamp": 1794203851.6988275
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/830-DESIGN.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/830-DESIGN.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\830-DESIGN.pdf",
+    "file_size_bytes": 195108,
+    "sha256": "426b970310fe71337cbb088e1d91686e16c999e8d6031f3bf0c123bf26a04792",
+    "status": "success",
+    "timestamp": 1794203852.299108
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/831-SALESMANSHIP_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/831-SALESMANSHIP_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\831-SALESMANSHIP_XI.pdf",
+    "file_size_bytes": 167297,
+    "sha256": "59e39cbc3eb5d1181def531dba107572d46ef6224092aa09fe3b2460ac228842",
+    "status": "success",
+    "timestamp": 1794203852.908399
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/831-SALESMANSHIP_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/831-SALESMANSHIP_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\831-SALESMANSHIP_XII.pdf",
+    "file_size_bytes": 158512,
+    "sha256": "f1d0c528c17a241067aaaf6534e9c2dcfd5b0c4dcc9acce1a3a4fe3a7b34bd27",
+    "status": "success",
+    "timestamp": 1794203853.5125957
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/833-BUSINESS_ADMINISTRATION.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/833-BUSINESS_ADMINISTRATION.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\833-BUSINESS_ADMINISTRATION.pdf",
+    "file_size_bytes": 502225,
+    "sha256": "f784143b4a57d25e76ac968a7e89172b9ca4aac69d1ed717ca5efcd07bdd9b7b",
+    "status": "success",
+    "timestamp": 1794203854.134262
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/834-FOOD_NUTRITION_DIETETICS_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/834-FOOD_NUTRITION_DIETETICS_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\834-FOOD_NUTRITION_DIETETICS_XI.pdf",
+    "file_size_bytes": 178903,
+    "sha256": "e4ba00c7038e25bf87c14994c2deea2c5eff95781f98ac5e3aacdcee3619ad66",
+    "status": "success",
+    "timestamp": 1794203854.7240243
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/834-FOOD_NUTRITION_DIETETICS_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/834-FOOD_NUTRITION_DIETETICS_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\834-FOOD_NUTRITION_DIETETICS_XII.pdf",
+    "file_size_bytes": 192553,
+    "sha256": "93962802f9587ee15dc51ccbf6b5fca07ff4eea9712ddb3eb080b5672c76c63b",
+    "status": "success",
+    "timestamp": 1794203855.303708
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/835-MASS_MEDIA_STUDIES.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/835-MASS_MEDIA_STUDIES.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\835-MASS_MEDIA_STUDIES.pdf",
+    "file_size_bytes": 271526,
+    "sha256": "febe5fc8f6dffb652946a54adef03d0f026c5f2b2ff0a6eddfdeb7346a0b86e5",
+    "status": "success",
+    "timestamp": 1794203855.941286
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\836-Library_InformationSciences-XI.pdf",
+    "file_size_bytes": 173265,
+    "sha256": "f96c4958ca9c411d4be3154a944f313c2e9c11dbe4fc322fbb8693618f10fe7f",
+    "status": "success",
+    "timestamp": 1794203856.6058843
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\836-Library_InformationSciences-XII.pdf",
+    "file_size_bytes": 173993,
+    "sha256": "d5d933758791a7b70dde82ca14dd872f3dca41b2f7ee7f101f238ca00c066983",
+    "status": "success",
+    "timestamp": 1794203857.1998248
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/837-FASHION_STUDIES-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/837-FASHION_STUDIES-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\837-FASHION_STUDIES-XI.pdf",
+    "file_size_bytes": 151522,
+    "sha256": "92a106fb9a39be531aa95d0d13190a5795997cb889c07e159cd209f4db86f1a0",
+    "status": "success",
+    "timestamp": 1794203857.813478
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/837-FASHION_STUDIES-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/837-FASHION_STUDIES-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\837-FASHION_STUDIES-XII.pdf",
+    "file_size_bytes": 221322,
+    "sha256": "715046ba6734a5a10f7e5e8b36cdf53f955a232bed5fe438824a71be7b80cb3a",
+    "status": "success",
+    "timestamp": 1794203858.412156
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\841-YOGA_XI.pdf",
+    "file_size_bytes": 156372,
+    "sha256": "d9f6bb83c448cb764d574c822f8efd44ee8f3d255eac1f17133698f8ae116daa",
+    "status": "success",
+    "timestamp": 1794203858.9908211
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\841-YOGA_XII.pdf",
+    "file_size_bytes": 158406,
+    "sha256": "4a698853e0e2b1df282841c82941d43955ee9aa4e6f2ed083f13a9f23e718dd6",
+    "status": "success",
+    "timestamp": 1794203859.5796726
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf",
+    "file_size_bytes": 380764,
+    "sha256": "5c620ad36b875fd50c7505432eb9edbb277862b8ba4fa3b838336899bb585002",
+    "status": "success",
+    "timestamp": 1794203860.1812549
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XI.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XI.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\843-AI-XI.pdf",
+    "file_size_bytes": 374206,
+    "sha256": "3c5f083923758ceab8c5af60171bde3c95b839620a3da046cefc968eddc4a6d8",
+    "status": "success",
+    "timestamp": 1794203860.8179448
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XII.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XII.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\843-AI-XII.pdf",
+    "file_size_bytes": 741530,
+    "sha256": "b649b04e67a67ca68cfef28696306dfb5cf6b6f99cd6e770024dddab4769be03",
+    "status": "success",
+    "timestamp": 1794203865.184698
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/844-DATASCIENCE.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/844-DATASCIENCE.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\844-DATASCIENCE.pdf",
+    "file_size_bytes": 94944,
+    "sha256": "a1f62e81e1a2616cd1b3d79f28f19ec04329d2fc78c59056754d946e010fb079",
+    "status": "success",
+    "timestamp": 1794203865.8133564
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/845-Physical_Activity_Trainer.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/845-Physical_Activity_Trainer.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\845-Physical_Activity_Trainer.pdf",
+    "file_size_bytes": 667634,
+    "sha256": "faecbf45481284629066397ec9dbac731a57be9898ebe30e2259df091afea040",
+    "status": "success",
+    "timestamp": 1794203866.5975838
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/846-LandTransportation.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/846-LandTransportation.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\846-LandTransportation.pdf",
+    "file_size_bytes": 298503,
+    "sha256": "ca2790be96adf422e6e3e3e410d383f199e24e3ed0ca27ab46e406521fa512aa",
+    "status": "success",
+    "timestamp": 1794203867.2966573
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/847-ELHA.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/847-ELHA.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\847-ELHA.pdf",
+    "file_size_bytes": 329552,
+    "sha256": "ffded56389983f4874f4ca1d4101c21d20e698a661bcfdf11169c594fe9b3ca8",
+    "status": "success",
+    "timestamp": 1794203867.9945683
+  },
+  "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/848-DesignThinking_Innovation.pdf": {
+    "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/848-DesignThinking_Innovation.pdf",
+    "local_path": "D:\\CBSE DATA SCRAPE\\temp_raw_cache\\848-DesignThinking_Innovation.pdf",
+    "file_size_bytes": 170135,
+    "sha256": "748a77273ef452c828edbad6193566f38867897eb85961d2f644c5712c52a1fc",
+    "status": "success",
+    "timestamp": 1794203868.6421638
+  }
+}

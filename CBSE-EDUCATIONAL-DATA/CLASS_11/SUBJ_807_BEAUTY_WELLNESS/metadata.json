@@ -1,0 +1,33 @@
+{
+  "subject_code": "807",
+  "subject_name": "Beauty & Wellness",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Personal Care",
+  "directory_name": "SUBJ_807_BEAUTY_WELLNESS",
+  "directory_path": "CLASS_11/SUBJ_807_BEAUTY_WELLNESS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Beauty & Wellness (807-BEAUTY-WELLNESS_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "a32e8f82cf96dc80bd35bedbee0af8233885c43653121bc409cb1ffb84694856",
+    "file_size_bytes": 154596,
+    "units_extracted": 17,
+    "chapters_extracted": 90
+  }
+}

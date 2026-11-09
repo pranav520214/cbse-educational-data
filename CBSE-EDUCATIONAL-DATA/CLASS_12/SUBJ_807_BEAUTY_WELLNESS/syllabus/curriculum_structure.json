@@ -1,0 +1,639 @@
+{
+  "subject_name": "Beauty & Wellness",
+  "subject_code": "807",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Personal Care",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XII.pdf",
+  "sha256": "0f688a33ae1523db380761f0033d26596604dc53d16fbc37ee0a07d41259c45f",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Make Up Services",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Facial Beauty Services",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Salon Reception Duties",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Create a positive impression at",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Create a positive impression at work place",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- MAKE UP SERVICES",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- FACIAL BEAUTY SERVICES",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "-SALON RECEPTION DUTIES",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1 : Communication Skills - IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2 : Self-management Skills - IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3 : Information and Communication Technology Skills - IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4 : Entrepreneurial Skills - IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5 : Green Skills - IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Perform Make"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Basic skin types and skin"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Select"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Various Make-up products:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify basic skin types and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Select and apply the correct"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstration of different"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Application of bindi design"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Demonstration of draping"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Colour wheel and how to"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Importance of Highlighting"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Basic bindi designs"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Different draping"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Various make-up removal"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Using make-up removers,"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Operate and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Electrical/electronic"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Frequency,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Contraindications"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Using"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Select the correct machine and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Operate the equipment as per"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Demonstrate"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Perform salon"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Information required for booking"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Features"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Customer"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Data protection, its importance,"
+    },
+    {
+      "chapter_number": 1,
+      "title": "List types of products"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Enlist time taken for"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Role"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create Positive"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Effective consultation techniques"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Effective communication"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Professional etiquettes"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Role plays to demonstrate"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrate client"
+    },
+    {
+      "chapter_number": 1,
+      "title": "All in one Eyelash Brush/Comb"
+    },
+    {
+      "chapter_number": 2,
+      "title": "All Propose Comb"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Applicator Brush"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Arm Chair"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Barber Brush"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Bath Comp"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Blackhead Remover"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Bleach Brush"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Body Massage Bed"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Bowles"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Brushing Machine 10 in 1 (Vacuum,"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Complete Make up Brushes Set"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Computer with Internet"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Crimpers"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Curling Iron"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Curling Rods (Small, Medium, Large)"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Cuticle Knife, Buffers, Pedicure rasp("
+    },
+    {
+      "chapter_number": 18,
+      "title": "Clippers, Hard skin remover, nipper"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Cutting Scissors"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Cutting Sheets"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Decorative Pins Boxes"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Double Wax heater"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Dustbin"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Electric Curler"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Exfoliation Machine"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Eyebrow Pencil Sharpener"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Facial Bed"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Facial Steamer"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Foot Scraper"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Foot spa"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Frosting cap"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Galvanic Machine"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Garbage Bin/Bags"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Hair Brush"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Hair Clips set"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Hair Connector"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Hair cutting Comb"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Hair Dresses Chair/Stool"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Hair Dryer"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Hair Pin Boxes"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Hair Steamer"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Hand Mirrors"
+    },
+    {
+      "chapter_number": 43,
+      "title": "High Chair"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Hydraulic Chair 5"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Infrared Lamp"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Invisible Pins Boxes"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Jumbo Rollers set"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Ladies/kids Cut Catalogues"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Large Size Rollers"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Large Stools"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Large Tooth Comb"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Magazines/Books with rack"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Magnifying Glass"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Make up Catalogues"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Make up Palate"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Manicure Set"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Manicure Table"
+    },
+    {
+      "chapter_number": 58,
+      "title": "Markers Set as required"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Measuring Cup sets"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Measuring Glass sets"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Measuring Spoon sets"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Medium Size Rollers"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Mixing Bowler set"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Modular Mirrors"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Mop"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Needle for Striking"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Paraffin Heater"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Pedicure Set"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Perming Cap"
+    },
+    {
+      "chapter_number": 70,
+      "title": "Pin Curl Clips Boxes"
+    },
+    {
+      "chapter_number": 71,
+      "title": "Razor with blade"
+    },
+    {
+      "chapter_number": 72,
+      "title": "Roller Brush set 5 in 1"
+    },
+    {
+      "chapter_number": 73,
+      "title": "Roller Pins"
+    },
+    {
+      "chapter_number": 74,
+      "title": "Shampoo Bowl Set"
+    },
+    {
+      "chapter_number": 75,
+      "title": "Shampoo Unit"
+    },
+    {
+      "chapter_number": 76,
+      "title": "Shower Cap"
+    },
+    {
+      "chapter_number": 77,
+      "title": "Small Scissors"
+    },
+    {
+      "chapter_number": 78,
+      "title": "Small Size Hair Rollers Wires"
+    },
+    {
+      "chapter_number": 79,
+      "title": "Small Stools"
+    },
+    {
+      "chapter_number": 80,
+      "title": "Spatula"
+    },
+    {
+      "chapter_number": 81,
+      "title": "Spray Bottle"
+    },
+    {
+      "chapter_number": 82,
+      "title": "Sterilizer"
+    },
+    {
+      "chapter_number": 83,
+      "title": "Stone Therapy set"
+    },
+    {
+      "chapter_number": 84,
+      "title": "Straightening Iron"
+    },
+    {
+      "chapter_number": 85,
+      "title": "Tail Comb"
+    },
+    {
+      "chapter_number": 86,
+      "title": "Thinning Scissors"
+    },
+    {
+      "chapter_number": 87,
+      "title": "Timer"
+    },
+    {
+      "chapter_number": 88,
+      "title": "Tinting Brush with Comp"
+    },
+    {
+      "chapter_number": 89,
+      "title": "Tweezers"
+    },
+    {
+      "chapter_number": 90,
+      "title": "White Board"
+    },
+    {
+      "chapter_number": 91,
+      "title": "Wide Toothed Comb"
+    },
+    {
+      "chapter_number": 92,
+      "title": "Working and facial Trolleys"
+    }
+  ],
+  "full_text_excerpt": "807 - Beauty And Wellness - Class XII - 2026-2027 \nPage 1 of 6 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nBEAUTY AND WELLNESS (SUBJECT CODE-807) \nJOB ROLE: BEAUTY THERAPIST \n \nCLASS - XII \n \nCOURSE OVERVIEW \n \nThis course is designed for the students to learn about and perform the basics of beauty therapy and \nmaintain hygiene and safety at workplace. The students would gain knowledge about various beauty \nproducts and will be able to perform basic depilation, manicure, pedicure and basic face care services. \nThey will be able to assist Beauty Therapist in providing advanced services. The students will be \ntrained in the correct usage and handling to perform the skin treatments safely. \n \n \nSCHEME OF UNITS \n \nThis course is a planned sequence of instructions consisting of units meant for developing employability \nand vocational competencies of students of Class XII opting for skill subject along with other education \nsubjects.\n807 - Beauty And Wellness - Class XII - 2026-2027 \nPage 2 of 6 \n \n \nBEAUTY AND WELLNESS (SUBJECT CODE-807) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \n \nUnit 1 : Communication Skills - IV \n10 \n2 \nUnit 2 : Self-Management Skills - IV \n10 \n2 \nUnit 3 : ICT Skills - IV \n10 \n2 \nUnit 4 : Entrepreneurial Skills - IV \n15 \n2 \nUnit 5 : Green Skills - IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit1 : Make Up Services \n20 \n55 \n \n25 \nUnit2 : Facial Beauty Services \n20 \n60 \nUnit3 : Salon Reception Duties \n06 \n14 \n \n25 \nUnit4 : Create a positive impression at \nworkplace \n06 \n14 \nTotal \n52 \n143 \n50 \nPart C \nPractical Work \n \n \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n10 \nTotal \n35 \nPart \nProject Work/ Field Visit/ Practical File/ \nStudent Portfolio \n \n15 \n \n05 \nTotal \n15 \n05 \n \nGRAND TOTAL \n260 \n100\n807 - Beauty And Wellness - Class XII - 2026-2027 \nPage 3 of 6 \n \n \nDETAILED CURRICULUM/TOPICS FOR CLASS - XII \nPart-A: EMPLOYABILITY SKILLS \nS. No. \nUnits \nDuration (in Hours) \n1. \nUnit 1 : Communication Skills - IV \n10 \n2. \nUnit 2 : Self-management Skills - IV \n10 \n3. \nUnit 3 : Information and Communication Technology Skills - IV \n10 \n4. \nUnit 4 : Entrepreneurial Skills - IV \n15 \n5. \nUnit 5 : Green Skills - IV \n05 \n \nTOTAL DURATION \n50 \n \nNOTE: \nFor Detailed Curriculum/ Topics to be covered under Part A: \nEmployability Skills can be downloaded from CBSE website. \nPart-B - SUBJECT SPECIFIC SKILLS \n \n• \nUnit 1: Make Up Services \n• \nUnit 2: Facial Beauty Services \n• \nUnit 3: Salon Reception Duties \n• \nUnit 4: Create a positive impression at work place \n \n \nDETAILED CURRICULUM: \nUNIT 1 - MAKE UP SERVICES \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nPerform Make \nUp Services \n1. Basic skin types and skin \ntones. (Oily, dry, normal \nand combination; Skin \ntone: Fair, dark, pink, \nyellow, pale) \n2. Select \nand \napply \nthe \ncorrect make-up products \nto enhance facial features, \nto suit the client’s needs \nand achieve the desired \neffect \n3. Various Make-up products: \nFoundation, \npowder, \nblusher, mascara, eye \nshadows, eye liner, \n1. Identify basic skin types and \nskin tone correctly. \n2. Select and apply the correct \nmake-up \nproducts \nto \nenhance facial features, suit \nclient’s needs and achieve \nthe desired effect keeping in \nmind the hue, tints & other \ncolour coordinates \n3. Demonstration of different \nmake-ups: \nDay, \nParty, \nEvening Bridal Make Up \n4. Application of bindi design \n5. Demonstration of draping \ncostumes on customer\n807 - Beauty And Wellness - Class XII - 2026-2027 \nPage 4 of 6 \n \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n \neyebrow pencil, lip liner \nand lip stick/gloss, etc \n4. Colour wheel and how to \nuse it for selecting right \nmakeup products \n5. Importance of Highlighting \nand \ncontouring \nwith \nrespect to make up \n6. Basic bindi designs \n7. Different draping \ntechniques \n8. Various make-up removal \nproducts and procedures \nusing correct techniques \nand without discomfort to \nthe customer \n6. Using make-up removers,\ncleanser \nsand \ntoners \nto\nremove make-up \n \nUNIT 2 - FACIAL BEAUTY SERVICES \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nOperate and \napply \nelectrical/ \nelectronic \nequipment for \nfacial beauty \nservices \nsafely and \neffectively \n1. Electrical/electronic \nmachine equipment for \nbeauty \nservices -Brush \nMachine/Brush \n Unit, \nFacial \n Steamer(Vapour \nZone), High \n2. Frequency, \nGalvanic \n(Iontophoresis, \nFaradic, \nVacuum suction, Micro \ncurrent, \nElectro-muscle \nStimulator, \nLymphatic \nDrainage \nEquipment, \nMicrodermabrasion \n,Ultra-sonic \n3. Contraindications \n& \ncontractions for use of \ndifferent machines. \n4. Using \nthe \nequipment for facial \nbeauty \n1. Identify \nvarious \nelectrical/electronic \nmachine \nequipment for beauty services \ncorrectly -Brush Machine/Brush \nUnit, \nFacial \nSteamer(Vapour \nZone), High frequency, Galvanic \n(Iontophoresis, Faradic, Vacuum \nsuction, Micro current, Electro- \nmuscle \nStimulator, \nLymphatic \nDrainage \nEquipment, \nMicro \ndermabrasion, Ultra-sonic \n2. Select \nand \nprepare \nsuitable \nskincare products to meet the \nclient’s needs in line with the client \nservice plan \n3. Select the correct machine and \naccessories as per the service \nplan \n4. Operate the equipment as per \nmanufacturer’s instructions in line \nwith \nservice \nprocedure \nrequirements \n5. Identify \ncontra-indications \nand \nrespective necessary actions \n6. Demonstrate \nspecific \nafter- \nprocedure, homecare advice and \nrecommendations for product use \nand further treatments to the client\n807 - Beauty And Wellness - Class XII - 2026-2027 \nPage 5 of 6 \n \n \nUNIT 3 -SALON RECEPTION DUTIES \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nPerform salon \nreception duties \n1. Importance \nof \ncustomer \nsatisfaction \nfor \nbusiness \nand \nprofessional success \n2. Information required for booking \nan appointment and the purpose \nof each item of information \n3. Features \nand \noperational \nprocedures \nof \ncomputerized \nbooking systems \n4. Importance \nof \nmanaging \ncustomers during waiting periods \nand possible ways to do that \n5. Customer \nservice \nprinciples \nincluding privacy and protection \nto modesty of the customers \n6. Data protection, its importance, \napplication and relevant practices \n1. List types of products \nand services offered by \nthe salon and their costs \n2. Enlist time taken for \nvarious \nservices \nand \nprocedures offered by \nthe salon \n3. Role \nplay \nto \ndemonstrate \ndifferent \nclient handling situation. \n \nUNIT4-CREATE A POSITIVE IMPRESSION AT WORKPLACE \n \nS. \nNO. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \nCreate Positive \nimpression at \nwork place \n(Client care and \ncommunication \nin beauty \nindustry) \n1. Effective consultation techniques \nto identify treatment objectives \n2. Effective communication \ntechniques when dealing with \nclients \n3. Professional etiquettes \n1. Role plays to demonstrate \nright consultation & \ncommunication \ntechniques with clients. \n2. Demonstrate client \nhandling method sciting \nsituational examples\n807 - Beauty And Wellness - Class XII - 2026-2027 \nPage 6 of 6 \n \n \nLIST OF EQUIPMENT AND SUPPORT MATERIAL: \n \nThe list given below is suggestive and an exhaustive list should be compiled by the teacher(s) \nteaching the subject. Only basic tools, equipment and accessories should be procured by the \nInstitution so that the routine tasks can be performed by the students regularly for practice and \nacquiring adequate practical experience. \n \n1. \nAll in one Eyelash Brush/Comb \n2. \nAll Propose Comb \n3. \nApplicator Brush \n4. \nArm Chair \n5. \nBarber Brush \n6. \nBath Comp \n7. \nBlackhead Remover \n8. \nBleach Brush \n9. \nBody Massage Bed \n10. Bowles \n11. Brushing Machine 10 in 1 (Vacuum, \nHigh Frequency, galvanic, wood \nlamp, magnifying glass, steamer) \n12. Complete Make up Brushes Set \n13. Computer with Internet \n14. Crimpers \n15. Curling Iron \n16. Curling Rods (Small, Medium, Large) \n17. Cuticle Knife, Buffers, Pedicure rasp( \nhard skin removal), Nail scissors \n18. Clippers, Hard skin remover, nipper \n(for pedicure) \n19. Cutting Scissors \n20. Cutting Sheets \n21. Decorative Pins Boxes \n22. Double Wax heater \n23. Dustbin \n24. Electric Curler \n25. Exfoliation Machine \n26. Eyebrow Pencil Sharpener \n27. Facial Bed \n28. Facial Steamer \n29. Foot Scraper \n30. Foot spa \n31. Frosting cap \n32. Galvanic Machine \n33. Garbage Bin/Bags \n34. Hair Brush \n35. Hair Clips set \n36. Hair Connector \n37. Hair cutting Comb \n38. Hair Dresses Chair/Stool \n39. Hair Dryer \n40. Hair Pin Boxes \n41. Hair Steamer \n42. Hand Mirrors \n43. High Chair \n44. Hydraulic Chair 5 \n45. Infrared Lamp \n46. Invisible Pins Boxes \n47. Jumbo Rollers set \n48. Ladies/kids Cut Catalogues \n49. Large Size Rollers \n50. Large Stools \n51. Large Tooth Comb \n52. Magazines/Books with rack \n53. Magnifying Glass \n54. Make up Catalogues \n55. Make up Palate \n56. Manicure Set \n57. Manicure Table \n58. Markers Set as required \n59. Measuring Cup sets \n60. Measuring Glass sets \n61. Measuring Spoon sets \n62. Medium Size Rollers \n63. Mixing Bowler set \n64. Modular Mirrors \n65. Mop \n66. Needle for Striking \n67. Paraffin Heater \n68. Pedicure Set \n69. Perming Cap \n70. Pin Curl Clips Boxes \n71. Razor with blade \n72. Roller Brush set 5 in 1 \n73. Roller Pins \n74. Shampoo Bowl Set \n75. Shampoo Unit \n76. Shower Cap \n77. Small Scissors \n78. Small Size Hair Rollers Wires \n79. Small Stools \n80. Spatula \n81. Spray Bottle \n82. Sterilizer \n83. Stone Therapy set \n84. Straightening Iron \n85. Tail Comb \n86. Thinning Scissors \n87. Timer \n88. Tinting Brush with Comp \n89. Tweezers \n90. White Board \n91. Wide Toothed Comb \n92. Working and facial Trolleys"
+}

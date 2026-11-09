@@ -1,0 +1,33 @@
+{
+  "subject_code": "837",
+  "subject_name": "Fashion Studies",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Design",
+  "directory_name": "SUBJ_837_FASHION_STUDIES",
+  "directory_path": "CLASS_12/SUBJ_837_FASHION_STUDIES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Fashion Studies (837-FASHION_STUDIES-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/837-FASHION_STUDIES-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "715046ba6734a5a10f7e5e8b36cdf53f955a232bed5fe438824a71be7b80cb3a",
+    "file_size_bytes": 221322,
+    "units_extracted": 18,
+    "chapters_extracted": 20
+  }
+}

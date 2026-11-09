@@ -1,0 +1,930 @@
+{
+  "2026": {
+    "session": "2025-26 / 2026-27",
+    "source_url": "https://cbseacademic.nic.in/curriculum_2026.html",
+    "languages": [
+      {
+        "subject_name": "Telugu Telangana",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_Telangana_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Telugu_Telangana_SrSec_2025-26.pdf",
+        "context": "card-body"
+      }
+    ],
+    "academic_electives": [
+      {
+        "subject_name": "Arabic",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Arabic_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Arabic_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Assamese",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Assamese_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Assamese_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bengali",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bengali_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Bengali_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bhoti",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhoti_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Bhoti_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bhutia",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhutia_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Bhutia_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bodo",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bodo_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Bodo_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "French",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/French_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/French_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "German",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/German_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/German_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Gujarati",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Gujarati_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Gujarati_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindi Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Core_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Hindi_Core_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindi Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Elective_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Hindi_Elective_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "English Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_core_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/English_core_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "English Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_elective_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/English_elective_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Japanese",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Japanese_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Japanese_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Kannada",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kannada_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Kannada_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Kashmiri",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kashmiri_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Kashmiri_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Kokborok",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Lepcha",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Lepcha_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Lepcha_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Limboo",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Limboo_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Limboo_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Malayalam",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Malyalam_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Malyalam_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Manipuri",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Manipuri_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Manipuri_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Marathi",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Marathi_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Marathi_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Mizo",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Mizo_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Mizo_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Nepali",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Nepali_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Nepali_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Odia",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Odia_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Odia_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Persian",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Persian_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Persian_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Punjabi",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Punjabi_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Punjabi_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Russian",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Russian_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Russian_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sanskrit Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Core_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Sanskrit_Core_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sanskrit Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Elective_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Sanskrit_Elective_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sindhi",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sindhi_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Sindhi_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Spanish",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Spanish_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Spanish_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Tamil",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tamil_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Tamil_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Tangkhul",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tangkhul_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Tangkhul_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Telugu AP",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_AP_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Telugu_AP_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Tibetan",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tibetan_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Tibetan_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Urdu Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_CORE_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/URDU_CORE_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Urdu Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_Elective_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/URDU_Elective_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Accountancy",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Accountancy_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Accountancy_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Biology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Biology_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "ReadingMaterial",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSecXI_2025-26_RM.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Biology_SrSecXI_2025-26_RM.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bio Technology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BioTechnology_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/BioTechnology_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Business Studies",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Carnatic Melodic",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Melodic_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Carnatic_Melodic_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Carnatic Vocal",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Vocal_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Carnatic_Vocal_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Carnatic Percussion",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Percussion_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Carnatic_Percussion_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Chemistry",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "ReadingMaterial",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26_RM.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26_RM.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Computer Science",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Computer_Science_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Computer_Science_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Economics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Economics_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Economics_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Engineering Graphics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Engineering_Graphics_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Engineering_Graphics_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Entrepreneurship",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Fine Arts",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Fine_Arts_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Fine_Arts_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Dance",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Geography",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Geography_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Geography_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindustani Melodic",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Melodic_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Hindustani_Melodic_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindustani Percussion",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Percussion_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Hindustani_Percussion_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindustani Vocal",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Vocal_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Hindustani_Vocal_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "History",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/History_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/History_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Home Science",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Home_Science_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Home_Science_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Infomatics Practices",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Informatics_Practices_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Informatics_Practices_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Knowledge Tradition - Practices India",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KTPI_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/KTPI_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Legal Studies",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/LegalStudies_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/LegalStudies_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Mathematics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Maths_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Reading Material",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSecXI_2025-26_RM.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Maths_SrSecXI_2025-26_RM.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Applied Mathematics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Applied_Mathematics_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Applied_Mathematics_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "NCC",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/NCC_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/NCC_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Physical Education",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PhysicalEducation_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/PhysicalEducation_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Physics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Physics_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Physics_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Political Science",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PoliticalScience_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/PoliticalScience_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Psychology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sociology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sociology_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Sociology_SrSec_2025-26.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Health and Physical Education",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/HPE_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/HPE_SrSec_2025-26.pdf",
+        "context": "card-body collapse111 card-collapse card"
+      },
+      {
+        "subject_name": "Work Experience",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/WorkExperience_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/WorkExperience_SrSec_2025-26.pdf",
+        "context": "card-body collapse111 card-collapse card"
+      }
+    ],
+    "skill_subjects": [],
+    "general_and_internal": [
+      {
+        "subject_name": "Introduction to Senior Secondary Curriculum",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Curriculum_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/Curriculum_SrSec_2025-26.pdf",
+        "context": "card-body collapse11 card-collapse card"
+      },
+      {
+        "subject_name": "General Studies",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/GeneralStudies_SrSec_2025-26.pdf",
+        "rel_path": "web_material/CurriculumMain26/SrSec/GeneralStudies_SrSec_2025-26.pdf",
+        "context": "card-body collapse111 card-collapse card"
+      }
+    ]
+  },
+  "2025": {
+    "session": "2024-25",
+    "source_url": "https://cbseacademic.nic.in/curriculum_2025.html",
+    "languages": [
+      {
+        "subject_name": "Telugu Telangana",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_Telangana_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Telugu_Telangana_SrSec_2024-25.pdf",
+        "context": "card-body"
+      }
+    ],
+    "academic_electives": [
+      {
+        "subject_name": "Arabic",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Arabic_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Arabic_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Assamese",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Assamese_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Assamese_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bengali",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bengali_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Bengali_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bhoti",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhoti_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Bhoti_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bhutia",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhutia_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Bhutia_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bodo",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bodo_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Bodo_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "French",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/French_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/French_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "German",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/German_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/German_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Gujarati",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Gujarati_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Gujarati_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindi Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Core_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Hindi_Core_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindi Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Elective_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Hindi_Elective_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "English Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_core_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/English_core_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "English Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_elective_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/English_elective_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Japanese",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Japanese_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Japanese_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Kannada",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kannada_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Kannada_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Kashmiri",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kashmiri_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Kashmiri_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Kokborok",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Lepcha",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Lepcha_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Lepcha_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Limboo",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Limboo_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Limboo_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Malayalam",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Malyalam_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Malyalam_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Manipuri",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Manipuri_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Manipuri_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Marathi",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Marathi_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Marathi_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Mizo",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Mizo_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Mizo_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Nepali",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Nepali_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Nepali_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Odia",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Odia_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Odia_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Persian",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Persian_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Persian_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Punjabi",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Punjabi_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Punjabi_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Russian",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Russian_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Russian_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sanskrit Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Core_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Sanskrit_Core_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sanskrit Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Elective_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Sanskrit_Elective_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sindhi",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sindhi_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Sindhi_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Spanish",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Spanish_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Spanish_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Tamil",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tamil_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Tamil_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Tangkhul",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tangkhul_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Tangkhul_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Telugu AP",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_AP_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Telugu_AP_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Tibetan",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tibetan_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Tibetan_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Urdu Core",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_CORE_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/URDU_CORE_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Urdu Elective",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_Elective_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/URDU_Elective_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Accountancy",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Accountancy_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Accountancy_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Biology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Biology_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Biology_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Bio Technology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Business Studies",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Carnatic Melodic",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Melodic_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Carnatic_Melodic_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Carnatic Vocal",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Vocal_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Carnatic_Vocal_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Carnatic Percussion",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Percussion_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Carnatic_Percussion_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Chemistry",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Computer Science",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Economics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Economics_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Economics_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Engineering Graphics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Entrepreneurship",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Fine Arts",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Dance",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Geography",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Geography_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Geography_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindustani Melodic",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Melodic_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Hindustan_Melodic_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindustani Percussion",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Percussion_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Hindustan_Percussion_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Hindustani Vocal",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Vocal_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Hindustan_Vocal_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "History",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/History_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/History_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Home Science",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Infomatics Practices",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Knowledge Tradition - Practices India",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KTPI_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/KTPI_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Legal Studies",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/LegalStudies_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/LegalStudies_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Mathematics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Maths_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Maths_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Applied Mathematics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Applied_Mathematics_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Applied_Mathematics_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "NCC",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/NCC_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/NCC_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Physical Education",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Physics",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Political Science",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PoliticalScience_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/PoliticalScience_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Psychology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Sociology",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sociology_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Sociology_SrSec_2024-25.pdf",
+        "context": "card-body"
+      },
+      {
+        "subject_name": "Health and Physical Education",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/HPE_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/HPE_SrSec_2024-25.pdf",
+        "context": "card-body collapse111 card-collapse card"
+      },
+      {
+        "subject_name": "Work Experience",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/WorkExperience_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/WorkExperience_SrSec_2024-25.pdf",
+        "context": "card-body collapse111 card-collapse card"
+      }
+    ],
+    "skill_subjects": [],
+    "general_and_internal": [
+      {
+        "subject_name": "Introduction to Senior Secondary Curriculum",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Curriculum_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/Curriculum_SrSec_2024-25.pdf",
+        "context": "card-body collapse11 card-collapse card"
+      },
+      {
+        "subject_name": "General Studies",
+        "pdf_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/GeneralStudies_SrSec_2024-25.pdf",
+        "rel_path": "web_material/CurriculumMain25/SrSec/GeneralStudies_SrSec_2024-25.pdf",
+        "context": "card-body collapse111 card-collapse card"
+      }
+    ]
+  }
+}

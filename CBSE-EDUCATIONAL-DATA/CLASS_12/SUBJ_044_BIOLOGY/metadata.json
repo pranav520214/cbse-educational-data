@@ -1,0 +1,64 @@
+{
+  "subject_code": "044",
+  "subject_name": "Biology",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Science",
+  "directory_name": "SUBJ_044_BIOLOGY",
+  "directory_path": "CLASS_12/SUBJ_044_BIOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Biology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Biology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Biology_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 12 Biology",
+        "url": "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Biology",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Biology-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Biology",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Biology-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 5,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "888aecea7bde46c6c71a30a74b21301cee90145116094084fe52ef6673419f79",
+    "file_size_bytes": 398719,
+    "units_extracted": 5,
+    "chapters_extracted": 26
+  }
+}

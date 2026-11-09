@@ -1,0 +1,49 @@
+{
+  "subject_code": "801",
+  "subject_name": "Retail",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Management",
+  "directory_name": "SUBJ_801_RETAIL",
+  "directory_path": "CLASS_11/SUBJ_801_RETAIL",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Retail (801-RETAIL_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Retail",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/801_RETAIL_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: Retail",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/801_RETAIL_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "d02df4bbd2b45dccb032623fcf4e9b096c4156a777c6c7f729cec4bb54a013bb",
+    "file_size_bytes": 149940,
+    "units_extracted": 12,
+    "chapters_extracted": 35
+  }
+}

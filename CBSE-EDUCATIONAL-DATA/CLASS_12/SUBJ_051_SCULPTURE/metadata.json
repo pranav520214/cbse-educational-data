@@ -1,0 +1,35 @@
+{
+  "subject_code": "051",
+  "subject_name": "Sculpture",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Visual Arts",
+  "directory_name": "SUBJ_051_SCULPTURE",
+  "directory_path": "CLASS_12/SUBJ_051_SCULPTURE",
+  "resources": {
+    "syllabus": [],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Sculpture",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Sculpture-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Sculpture",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Scluputre-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "initialized"
+}

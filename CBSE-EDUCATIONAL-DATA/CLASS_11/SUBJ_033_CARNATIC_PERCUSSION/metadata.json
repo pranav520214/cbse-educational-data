@@ -1,0 +1,40 @@
+{
+  "subject_code": "033",
+  "subject_name": "Carnatic Percussion",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_033_CARNATIC_PERCUSSION",
+  "directory_path": "CLASS_11/SUBJ_033_CARNATIC_PERCUSSION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Carnatic Percussion",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Percussion_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Carnatic Percussion",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Percussion_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "a8d7170d2a2c080f741babc5bde9f6d8ffbcebe24c6f073da6ef14ea59d3a33f",
+    "file_size_bytes": 420071,
+    "units_extracted": 0,
+    "chapters_extracted": 4
+  }
+}

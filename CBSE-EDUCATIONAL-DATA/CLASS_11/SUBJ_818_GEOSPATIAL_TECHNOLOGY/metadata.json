@@ -1,0 +1,33 @@
+{
+  "subject_code": "818",
+  "subject_name": "Geospatial Technology",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Tech",
+  "directory_name": "SUBJ_818_GEOSPATIAL_TECHNOLOGY",
+  "directory_path": "CLASS_11/SUBJ_818_GEOSPATIAL_TECHNOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Geospatial Technology (818-GEOSPATIAL_TECHNOLOGY_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "1aa5d3e9db8af23e6f19520d77fc29fd9fa0f7807bb2662f7e48d8856e5d0a20",
+    "file_size_bytes": 725652,
+    "units_extracted": 10,
+    "chapters_extracted": 12
+  }
+}

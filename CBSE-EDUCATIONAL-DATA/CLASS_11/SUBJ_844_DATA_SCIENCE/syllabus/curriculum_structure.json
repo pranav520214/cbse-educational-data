@@ -1,0 +1,44 @@
+{
+  "subject_name": "Data Science",
+  "subject_code": "844",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Emerging Tech",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/844-DATASCIENCE.pdf",
+  "sha256": "a1f62e81e1a2616cd1b3d79f28f19ec04329d2fc78c59056754d946e010fb079",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    }
+  ],
+  "chapters": [],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \n \nDATA SCIENCE (SUBJECT CODE - 844) \nCLASS - XI (SESSION 2026-2027) \n \nTotal Marks: 100 (Theory-50 + Practical-50) \n \n \nUNITS \nMAXIMUM MARKS \nFOR THEORY AND \nPRACTICAL \n \n \n \n \n \n \n \n \n \nEMPLOYABILITY SKILLS \nUnit 1 : Communication Skills-III \n2 \nUnit 2 : Self-Management Skills-III \n2 \nUnit 3 : ICT Skills-III \n2 \nUnit 4 : Entrepreneurial Skills-III \n2 \nUnit 5 : Green Skills-III \n2 \nTOTAL \n10 \n \n \n \n \n \n \n \n \n \nSUBJECT SPECIFIC SKILLS \nEthics in Data Science \n8 \nAssessing Data \n9 \nForecasting on Data \n8 \nRandomization \n9 \nIntroduction to R Studio \n6 \nTOTAL \n40 \n \n \n \n \n \n \n \nPRACTICAL WORK / PROJECT WORK/FIELD VISIT \nPractical File/ Student Portfolio \n20 \nPractical Examination \n20 \nViva Voce \n10 \nTOTAL \n50 \n \nGRAND TOTAL \n100 \n \n \n \n \n844 - Data Science Class XI & XII - 2026-2027 \nPage 1 of 2"
+}

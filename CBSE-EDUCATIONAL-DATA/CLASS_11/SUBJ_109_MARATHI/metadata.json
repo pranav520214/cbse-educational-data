@@ -1,0 +1,40 @@
+{
+  "subject_code": "109",
+  "subject_name": "Marathi",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_109_MARATHI",
+  "directory_path": "CLASS_11/SUBJ_109_MARATHI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Marathi",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Marathi_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Marathi",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Marathi_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "2fc22356e47afba97618a736ab0ecd9aba6e1624db340584617815fda46adc26",
+    "file_size_bytes": 249823,
+    "units_extracted": 0,
+    "chapters_extracted": 1
+  }
+}

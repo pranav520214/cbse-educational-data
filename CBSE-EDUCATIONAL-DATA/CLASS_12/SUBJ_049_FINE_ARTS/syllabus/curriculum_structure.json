@@ -1,0 +1,380 @@
+{
+  "subject_name": "Fine Arts",
+  "subject_code": "049",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Visual Arts",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf",
+  "sha256": "694f574745a85c4964bb54063e73d2bf4d3473cbdaa0574de4033e0f10ca20ee",
+  "assessment": {
+    "theory_marks": 30,
+    "internal_assessment_marks": 70,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "(a) The Rajasthani School:",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "The Mughal and Deccan Schools of Miniature Painting 18 Periods",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "(a)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Nature and Object study",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Painting Composition",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Portfolio Assessment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "To make Linocut/Woodcut/Paper-cardboard print on 1/4",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Modeling in relief on given subjects from life",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Modeling in round on given subjects from life and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Modeling in relief*",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Modeling in round*",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Record of the entire year’s performance from sketch to",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Drawing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "(a) Lettering",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Illustration",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Poster",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Origin and Development"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Sub-Schools-Mewar, Bundi, Jodhpur, Bikaner, Kishangarh and Ja"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Main features of the Rajasthani School"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Appreciation of the following Rajasthani paintings"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Origin and development"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Sub-Schools-Basohli, Guler, Kangra, Chamba andGarhwal"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Main features of the PahariSchool"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Appreciation of the following Pahari paintings:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Main features of the Mughal School"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Appreciation of the following Mughal Paintings:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Main features of the Deccan School"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Appreciation of the following Deccan paintings:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The candidates should be given one hour-break after first thr"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The time-table to be so framed as to allow the students to wo"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Marking Scheme:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Format of the Questions:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The examiners (Internal and External) are to select/decide tw"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Objects should be selected generally of large (suitable) size"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The examiners (Internal and External) are to select/decide fi"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The subjects should be so designed that the candidates may ge"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The examiners (Internal and External) jointly are free to sel"
+    },
+    {
+      "chapter_number": 4,
+      "title": "General Instructions to the examiners:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Candidates should be given one hour break after first three h"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Work of the candidates, for Parts I, II and III, are to be ev"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Each work of Part I, II and III, after assessment is to be ma"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Printing methods andmaterials."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Characteristics of printing inks, solvents, anddyers."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Registrationmethods."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Simple, colour printingtechniques."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Finishing and mounting of the print."
+    },
+    {
+      "chapter_number": 1,
+      "title": "The candidates should be given one hour break after first thr"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The history of stencils and silkscreen."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Methods and materials."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The use and maintenance of the squeeze."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Sealing, registration for colour, work and preparation for pr"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Solvents for cleaning, use and characteristics of printing in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction: Short history and the methods and material"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The use and characteristics of the Litho stone/Zincplates."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The use of lithographic chalks and ink (Tusche)."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Preparing for printing and use of various chemicals inking"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Papers used in lithography and getting the final print."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to intaglio technique with a short history,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Preparing the plate and laying the ground (resist) and Inking"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Characteristics of different types of grounds."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Characteristics and use of various acids."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Colour etching, use of stencils and marks."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Format of the questions:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The external and internal examiners jointly are to select/dec"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Each subject should be so designed that the candidate may get"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The examiners are free to select/decide the subjects, but the"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Instructions to the examiners:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Work of the candidates for part I & II is to be evaluated on"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Each work of parts I & II, after assessment, is to be marked"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The candidate should be given one hour break after first thre"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The time table to be so framed as to allow the students to wo"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Format of the questions: Part I: Modelling in Relief:"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Instructions to decide the subjects for Modeling in Relief an"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Choice of high or low relief should remain open to the candid"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The examiners (Internal and External) are free to decide the"
+    },
+    {
+      "chapter_number": 4,
+      "title": "General instructions to the examiners:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Work of the candidates of Parts I, II and III, is to be evalu"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Each work of Parts I, II and III, after assessment, is to be"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Finishing and mounting of the prints."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Each subject should be given a specific situation, which is a"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Each subject should be given a specified data and slogan."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The data and slogan should be so framed/designed that the can"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The examiners (Internal and External) must give the subjects"
+    },
+    {
+      "chapter_number": 1,
+      "title": "For Advertise Mention:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Work of the candidates for Parts I, II and III is to be evalu"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Each work of parts I, II and III, after assessment, is to be"
+    }
+  ],
+  "full_text_excerpt": "10 | \n \n \nPAINTING (Code No. 049) \nCLASS-XII (2024-25) \n \nTheory \nMaximum Marks:30 \n \nTime allowed: 2 hours \n \nUnit wise Weightage \nTime: 2 Hours \n \nUnit1(a) \nContent \nPeriods \nMark\ns \n1 \nThe Rajasthani and Pahari Schools of Miniature Painting \n24 \n10 \n2 \nThe Mughal and Deccan Schools of Miniature Painting \n24 \n10 \n3 \nThe Bengal School of Painting and the Modern Trends in \nIndian Art \n24 \n10 \n72 \n30 \n \n(a) \nThe Rajasthani and Pahari Schools of Miniature Painting \n(16th Century A.D. to 19th Century A.D.) \nA brief introduction to Indian Miniature Schools: Western- \nIndian, Pala, Rajasthani, Mughal, Central India, Deccan and \nPahari. \n18 Periods \nUnit 1 \n(a) The Rajasthani School: \n \n1. \nOrigin and Development \n2. \nSub-Schools-Mewar, Bundi, Jodhpur, Bikaner, Kishangarh and Jaipur \n3. \nMain features of the Rajasthani School \n4. \nAppreciation of the following Rajasthani paintings \n \nTitle \nPainter \nSub-\nSchool \nMaru-Ragini \nSahibdin \nMewar \nChaugan Players \nDana \nJodhpur \nKrishna on swing \nNuruddin \nBikaner \nRadha (Bani- Thani) \nNihal Chand \nKishangarh \nBharat Meets Rama at \nChitrakuta \nGuman \nJaipur \n(b) The Pahari School: \n \n1. \nOrigin and development \n2. \nSub-Schools-Basohli, Guler, Kangra, Chamba andGarhwal \n3. \nMain features of the PahariSchool \n4. \nAppreciation of the following Pahari paintings:\n11 | \n \n \nTitle \nPainter \nSub-School \nKrishna with Gopis Nand, \nYashoda and \nManaku \nBasohli \nKrishna with Kinsmen \n Going to Vrindavana \nNainsukh \nKangra \n \nUnit 2 \n \nThe Mughal and Deccan Schools of Miniature Painting 18 Periods \n(16th Century AD to 19th Century A.D.) \n(a) The Mughal School \n1. \nOrigin and development \n2. \nMain features of the Mughal School \n3. \nAppreciation of the following Mughal Paintings: \n \nTitle \nPainter \n \nKrishna Lifting Mount Govardhana \nMiskin \n \nFalcon on a Bird-Rest \nUstad Mansoor \n \nKabirand Raidas \nUstad Faquirullah Khan \n \nMarriage Procession of Dara Shukoh \nHaji Madni \n \n(b) The Deccan School \n1. \nOrigin and development \n2. \nMain features of the Deccan School \n3. \nAppreciation of the following Deccan paintings: \n \nTitle \nPainter \nSub-School \nHazrat Nizamuddin Auliya and Amir \nKhusro \nUnknown \nHyderabad \nChand Bibi Playing Polo (Chaugan) \nUnknown \nGol Konda \n \nUnit 3: \n(a) \nThe Bengal School of Painting and the Modern trends in Indian \nArt \n(About the beginning to mid of the 20th Centuary) \n24 \nPeriods \n(i) \nNational Flag of India and the Symbolic significance of its \nforms and the colours. \n(ii) \nIntroduction to the Bengal School of Painting \n(i) Origin and development of the Bengal School ofPainting \n(ii) Main features of the Bengal School ofPainting\n12 | \n \n \n(iii) \nAppreciation of the following paintings of the Bengal school: \n(i) \nJourney’s End - Abanindranath Tagore \n(ii) \nShiv and Sati- Nandla Bose \n(iv) \nRadhika - M.A.R.Chughtai \n(v) \nMeghdoot - Ram Gopal Vijaivargiya \nContribution of Indian artists in the struggle for National \nFreedom Movement. \n(b) \nThe Modern Trends in Indian Art \nAppreciation of the following contemporary (Modern) Indian Art \n(i) \nPaintings: \n(i) Rama Vanquishing the Pride of the Ocean - Raja Ravi Varma \n(ii) Mother and child - Jamini Roy \n(iii) Haldi Grinders - Amrita Sher Gill \n(iv) Mother Teresa - M.F.Husain \n(ii) \nGraphic - prints: \n(i) Children - Somnath Hore \n(ii) Devi - Jyoti Bhatt \n(iii) Of Walls - AnupamSud \n(iv) Man, Woman and Tree - K. Laxma Goud \n(iii) \nSculptures: \n(i) Triumph of Labour - D. P. Roychowdhury \n(ii) Santhal Family - RamkinkarVaij \n(iii) Cries Un - heard - Amar Nath Sehgal \n(iv) Ganesha - P.V. Janaki Ram \n \nThe names of artists and titles of their artworks as listed above are only suggestive and in no \nway exhaustive. Teachers and students should expand this according to their own resources. \nHowever, the questions will be set from the above mentioned artworks only.\n13 | \n \nPAINTING (Code No. 049) \nCLASS-XII (2024-25) \n \nPractical \nMaximum Marks:70 \n \nTime allotted: 6 hours (3+3) \nUnit wise Weightage \n \nUnit \nContent \nPeriods \nMarks \n1 \nNature and Object Study \n50 \n25 \n2 \nPainting Composition \n50 \n25 \n3 \nPortfolio Assessment \n48 \n20 \nTotal \n148 \n70 \n \n \nUnit 1 \nNature and Object study \nStudies on the basis of exercises done in class XI \nwith two or three objects and two draperies (in \ndifferent colours) for background and foreground. \nExercises in pencil with light and shade and in full \ncolour from a fixed point of view. \n25 marks \n50 Periods \nUnit 2: \nPainting Composition \nImaginative painting based on subjects from Life \nand Nature in water and poster colours with \ncolour values. \n25 marks \n50 Periods \nUnit 3: \nPortfolio Assessment \n20 marks \n48 Periods \na) \nRecord of the entire year's performance from \nsketch to finished product. \n10 marks \nb) \nFour selected nature and object study exercises \nin any media done during the session \n5 marks \nc) \nTwo selected works of paintings composition \ndone by the candidate during the year \n3 marks \nd) \nOne selected works based on any Indian Folk Art \n(Painting) \n2 marks \nThese selected works prepared during the course by the candidate and certified by the \nschool authorities as the work done in the school will be placed before the examiners for \nassessment \n \nNote: \n1. The candidates should be given one hour-break after first three hours. \n2. The time-table to be so framed as to allow the students to work continuously for \nminimum of two periods at a stretch.\n14 | \n \n \nGuidelines for Evaluation of Practical \n \n1. \nMarking Scheme: \n \n \nPart I: Nature and Object Study, \n25 marks \n(i) Drawing (composition) \n10 \n(ii) Treatment of media/colours \n05 \n(iii) Overall impression \n10 \nPart II: Painting Composition \n25 marks \n(i) Compositional arrangement including emphasis on the subject \n10 \n(ii) Treatment of media (colour) and appropriate colour scheme \n05 \n(iii) Originality, creativity and overall impression \n10 \n \nPart III : Portfolio Assessment \n20 marks \n(i) Record of the entire year's performance from sketch to \n10 \nfinished product. \n(ii) Four selected nature and object study exercises in any media \n05 \n(iii) Two selected painting compositions prepared by the candidate \n03 \n(iv)One selected works based on any Indian Folk Art (Painting) \n02 \n \n2. \nFormat of the Questions: \n \nPart I: Nature and Object Study \nDraw and paint the still-life of a group of objects arranged on a drawing board before \nyou, from a fixed point of view (given to you), on a drawing paper of half imperial size \nin colours. Your drawing should be proportionate to the size of the paper. The objects \nshould be painted in realistic manner with proper light and shade and perspective, etc. \nIn this study the drawing board is not to be included. Note: A group of objects to be \ndecided by the external and internal examiners jointly as per instructions. The objects \nfor nature study and object study are to be arranged before the candidates. \nPart II: Painting Composition: \nMake a painting - composition on any of the following five subjects in any medium \n(water/pastel, tempera, acrylic) of your choice on a drawing-paper of half imperial size \neither horizontally or vertically. Your composition should be original and effective. \nWeightage will be given to a well composed drawing, effective use of media, proper \nemphasis on the subject matter and utilization of full-space. \nNote: Any five subjects for painting composition are to be decided by the external and \ninternal examiners jointly as per instructions and are to mentioned here strictly just \nbefore the start of the examination for part II. \n \n3. (A) Instructions for the selection of the objects for Nature and Object Study: \n \n1. The examiners (Internal and External) are to select/decide two or three suitable\n15 | \n \nobjects in such a way so that natural and geometrical forms may be covered in the \ngroup of objects: \n(i) Natural-forms-large size foliage and flowers, fruits, and vegetables, etc. \n(ii) Geometrical forms made of wood/plastic/paper/metal/earthen, etc., such as \ncube, cone, prism, cylinder and sphere. \n2. \nObjects should be selected generally of large (suitable) size. 3. An object \nrelating to nature, according to the season and location of the examination \ncentre, must be included in the group of objects. The natural-objects should be \npurchased/arranged only on the day of the examination so that its freshness \nmay be maintained. 4. Two draperies in different colours (one in dark and other \nin light tone) are also to be included for background and foreground, keeping in \nview the colours and tones of the objects. \n(A) \nInstructions to decide the subjects for Painting-Composition: \n1. The examiners (Internal and External) are to select/decide five subjects suitable for \npainting - composition \n2. The subjects should be so designed that the candidates may get clear-cut ideas of \nthe subjects and they can exercise their imagination freely, because it is not \nimportant what you do, but how you do it. \n3. The examiners (Internal and External) jointly are free to select/decide the subjects, \nbut these should be according to the standard of Class XII and environment of the \nschool/candidates. \nSome identified areas of the subjects for painting-composition are given below, in \nwhich some more areas may also be added: \n(i) \nAffairs of family friends and daily life. \n(ii) Affairs of family professionals. \n(iii) Games and sports activities. \n(iv) Nature \n(v) Fantasy \n(vi) National, religious, cultural, historical and social events and celebrations. \n \n4. \nGeneral Instructions to the examiners: \n \n1. \nCandidates should be given one hour break after first three hours. \n2. \nWork of the candidates, for Parts I, II and III, are to be evaluated on the \nspot jointly by the external and internal examiners. \n3. \nEach work of Part I, II and III, after assessment is to be marked as \n\"Examined\" and duly signed by the external and internal examiners \njointly.\n16 | \n \nB. GRAPHICS (Code No. 050) \n \nIntroduction: The Course in Graphics at Senior Secondary stage as an elective subject is \naimed to develop aesthetic sense of the students through the understanding of various \nimportant, well known aspects and modes of Visual art expression in India’s rich cultural \nheritage from the period of Indus Valley to the present time. It encompasses also a wider \nrange of practical exercises in making of graphic prints for developing their mental faculties of \nobservation, imagination, creation and physical & technicalskills. \nObjectives \n \nA) Theory \nNote: As the syllabus of Graphics (Theory) is the same as that of Painting (Theory), \nits objectives are same. \n \nB) Practical \nThe purpose of introducing practical exercises in graphics is to help and enable students to \nmake simple compositions in monochrome and in colours through the various print-making \ntechniques using methods and material specifically prescribed for adequate results. The \nstudents should be introduced to the subject by giving a short history of the print making \ntechniques. They should be given exercises to inculcate respect for the tools and \napparatus- used in the various processes including their maintenance and proper \nhandling.\n17 | \n \nGraphics Code No. 050 \nCLASS-XI (2024-25) \n \nTheory \nMaximum Marks:30 \nTime allowed: 2 hours \nUnit wise Weightage \n \n \nUnits \nContent \nPeriod \nMarks \n1 a) \nb) \nSix Limbs of Indian Painting & Fundamental of \nVisual Arts (Elements & Principles) \nPre-Historic Rock-Paintings and Art of Indus Valley \n24 \n10 \n2 \nBuddhist and Jain and Hindu Art \n24 \n10 \n3 \nTemple Sculptures, Bronzes and Artistic aspects \nof Indo- Islamic Architecture \n24 \n10 \nTotal \n72 \n30 \n \nNote: The Syllabus of Graphics (Theory) for Class XI is the same as that of Painting (Theory) \nfor class XI given earlier.\n18 | \n \n \nGraphics Code No. 050 \nCLASS-XI (2024-25) \n \nPractical \nMaximum Marks:70 \nTime allowed: 6 Hours \n(3+3) Unit wise Weightage \n \n \nUnit Content \nPeriod \nMarks \n1 \nRelief Printing through \nLinocut/Woodcut/Paper- cardboard \n100 \n50 \n2 \nPortfolio Assessment \n48 \n20 \nTotal \n148 \n70 \n \n \n \nUnit 1: To make Linocut/Woodcut/Paper-cardboard print on 1/4 \nImperial sheet on a given subject Syllabus for Relief Printing \n(Lonocuts/Woodcuts/Paper-cardboard Prints). \n1. Printing methods andmaterials. \n2. Characteristics of printing inks, solvents, anddyers. \n3. Registrationmethods. \n4. Simple, colour printingtechniques. \n5. Finishing and mounting of the print. \n100 \nPeriods \nUnit 2: Portfolio Assessment \n48 Periods \na) \nRecord of the entire year's performance from sketch to \nfinished product \n10 Marks \nb) \nThree selected prints (either from \nLinocuts/Woodcuts/Paper- cardboard prints) from the \nworks prepared during the course \n05 marks \nc) \nFour selected prints based on Indian Folk Art \n05 marks \n \nThese selected works prepared during the course by the candidate and certified by the \nschool authorities as the work done in the school will be placed before the examiners for \nassessment \n \nNotes: \n1. The candidates should be given one hour break after first three hours. \n2. The time-table to be so framed as to allow the students to work continuously \nfor minimum of two periods at a stretch.\n19 | \n \n \nGraphics (Code No. 050) \nCLASS-XII (2024-25) \n \nTheory \nMaximum Marks:30 \nTime allowed:2 Hours \nUnit wise Weightage \n \nUnit \nPeriod \nMarks \n1 (a) \nSix Limbs of Indian Painting & Fundamental of \nVisual Arts (Elements & Principles) \n(b) \nThe Rajasthani and Pahari Schools of\n \nMiniature Painting \n24 \n10 \n2 \nThe Mughal and Deccan schools of Miniature Painting \n24 \n10 \n3 \nThe Bengal School of Painting and the Modern \nTrends in Indian Art \n24 \n10 \n72 \n30 \n \nNote: The Syllabus of Graphics (Theory) for Class XII is the same as that of Painting (Theory) \nfor class XII given earlier.\n20 | \n \n \n \n \nGraphics Code No. 050 \nCLASS-XII (2024-25) \n \nPractical \nMaximum Marks:70 \nTime allowed: 6 hours. \nUnit wise Weightage \n \nUnit \nContent \nPeriod \nMarks \n1 \nMaking of graphic-print through \nSerigraphy/Lithography/Etching and Engraving \n(Intaglio Process) techniques \n100 \n50 \n2 \nPortfolio Assessment \n48 \n20 \nTotal \n148 \n60 \nNote: The students in the class are expected to opt for any one of the following media \ndepending upon the facilities available in their schools. \n \nS.No. \nUnits \nPeriods \n1 a) \nSerigraphy \n1. The history of stencils and silkscreen. \n2. Methods and materials. \n3. The use and maintenance of the squeeze. \n4. Sealing, registration for colour, work and preparation for printing. \n5. Solvents for cleaning, use and characteristics of printing inks. \n6. Finishing and mounting of the print. \n120 Periods \nOR \nb) \nLithography \n100 Periods \n1. Introduction: Short history and the methods and material \nused in producing lithographic prints \n2. The use and characteristics of the Litho stone/Zincplates. \n3. The use of lithographic chalks and ink (Tusche). \n4. Preparing for printing and use of various chemicals inking \nand taking proofs. \n5. Papers used in lithography and getting the final print. \n6. Finishing and mounting of the print. \nOR \nC) \nEtching and Engraving (Intaglio Process) \n120 Periods \n1. Introduction to intaglio technique with a short history, \nmethods and materials, Etching process. \n2. Preparing the plate and laying the ground (resist) and Inking. \n3. Characteristics of different types of grounds. \n4. Characteristics and use of various acids. \n5. Colour etching, use of stencils and marks.\n21 | \n \nGUIDELINES FOR EVALUATION OF PRACTICAL \n1. Marking Scheme: \n \nPart I: Graphic-Composition (print making) \n50 marks \n(i) Emphasis on the subject \n10 \n(ii) Handling on the material and technique of print-making \n10 \n(iii) Composition and quality of print \n30 \nPart II: Portfolio Assessment \n20 marks \n(a) Record of the entire year's performance from sketch to \n10 \nfinished product. \n(b) Five selected Prints \n10 \n(c) Five selected prints based on \nIndian Folk Art - Lino-cut/Wood-cut/paper-card based prints \n \n2. Format of the questions: \nThese selected works prepared during the course by the candidates and certified by \nthe school authorities as the work done in the school will be placed before the \nexaminers for assessment. \nPart I: Graphic Composition (print-making) \n50 marks \n Choose one of the print-making medium available and taught in your school viz. \nserigraphy, lithography, etching and engraving. \n Make a Graphic-Composition on any one of the five subjects given below according \nto the possibility and suitability of the medium: \n (Note: Any five suitable subjects for “Graphic-Composition (Print-making)” are to be \ndecided by the internal and external examiners jointly in accordance with the \ninstructions are to be mentioned here). \n Make use of line, tone and texture, exploiting the medium fully to realize \ncomposition. Print your composition in one or two colours. \n Pay special attention to print quality and cleanliness. Submit two identical prints \nalong with all the rough layouts as your final submission. \nSize of the plate: \n(i) Serigraphy \n30 cm x 20cm. \n(ii) Lithography \n30 cm x 20cm. \n(iii) Etching & engraving \n30 cm x 20cm. \n \nInstructions to decide the subjects for Graphic -Composition: \n1. The external and internal examiners jointly are to select/decide five subjects \nsuitable for Graphic Composition (print-making). \n2. Each subject should be so designed that the candidate may get a clear-cut idea \nof the subject however, any candidate can perceive a subject in his/her own way \nbut graphic quality must be maintained in the composition. \n3. The examiners are free to select/decide the subjects, but these should be according \n to the standard of class XII and environment of the school/candidates.\n22 | \n \nSome identified areas of the subjects for Graphic-Composition (Print-making) are \ngiven below in which some more areas may be added, if needed: \n(i) \nAffairs of family, friends and daily life. \n(ii) \nAffairs of family professionals. \n(iii) \nGames & Sports Activities. \n(iv) \nNature. \n(v) \nFantasy. \n(vi) \nNational, religious and cultural, historical and social events and celebrations. \n(vii) \nHistorical monuments \n(viii) \nFolk and classical dances/theatres \n(ix) \nTraditional/ancient sculpture and painting \n(x) \nRelevant social issues \n4. Instructions to the examiners: \n1. \nCandidates should be given one hour break after first three hours. \n2. \n Work of the candidates for part I & II is to be evaluated on the spot by the \nexternal and internal examiners jointly \n3. \nEach work of parts I & II, after assessment, is to be marked as examined and \nduly signed by the external and internal examiners.\n23 | \n \n \n \n(C) \nSCULPTURE (Code No.051) \nIntroduction \nThe Course in sculpture at Senior Secondary stage as an elective subject is aimed at \ndeveloping aesthetic sense of the students through the understanding of various important, \nwell known aspects and modes of visual art expression in India’s rich cultural heritage from the \nperiod of Indus Valley to the present time. It encompasses also a wide range of practical \nexercises in making of various sculptures for developing their mental faculties of observation, \nimagination and creation and the physical and technical skills. \nObjectives: \nA) \nTHEORY \nNote: As the syllabus of Sculpture (Theory) is the same as that of Painting (Theory), its \nobjectives re same. \nB) \nPRACTICAL \nThe purpose of introducing practical exercises in sculpture is to help and enable the \nstudents to make sculptures. All assignments should be designed to understand \nproblems of volume, weight, play of form in space, etc., as against rendering on flat two \ndimensional. Adequate technical skills may be provided depending on the facilities \navailable.\n24 | \n \n \nSculpture Code No. 051 \nCLASS-XI (2024-25) \n \nTheory \nMaximum Marks:30 \nTime allowed: 2 Hours \nUnit wise weightage \n \nUnit \nPeriods \nMarks \n1 a) \nSix Limbs of Indian Painting & Fundamental \nof Visual Arts (Elements & Principles) \n24 \n10 \nb) \nPre-Historic Rock-Painting and Art of Indus \nValley \n2 \nBuddhist, Jain and Hindu Art \n24 \n10 \n3 \nTemple Sculptures, Bronzes and Artistic "
+}

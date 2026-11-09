@@ -1,0 +1,261 @@
+{
+  "subject_name": "Front Office Operations",
+  "subject_code": "810",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XI.pdf",
+  "sha256": "1fcc8c138544b11e4a99432cbb4333ba2950f4ced3c0910467afc7b8295dea72",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Lets Recall Tourism",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Evolution and Growth of",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Communication Skills",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Pronunciation & Body",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Grooming Standards",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Telephone Manners",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Guest Services in Hotels",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Role of Technology in",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Evolution and Growth of Hotels",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Pronunciation & Body Language",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Grooming Standards Unit-",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Role of Technology in Hospitality",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To develop interest and attitudes in hospitality industry."
+    },
+    {
+      "chapter_number": 2,
+      "title": "To develop sufficient trained manpower for Hotels, Motels, Re"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To assist in the tourism development programmes."
+    },
+    {
+      "chapter_number": 4,
+      "title": "To develop necessary employable skills in the students."
+    },
+    {
+      "chapter_number": 5,
+      "title": "To develop entrepreneurship."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 6,
+      "title": "This course is a planned sequence of instructions consisting"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Communication Skills -III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Self-management Skills -III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Information and Communication Technology Skills - III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Entrepreneurial Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Green Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Lobby Desk"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Computer with Internet Facility"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Printer"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Property Management System"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Foreign Currency Exchange Board"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Credit Card Imprinter / EDC Machine"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Luggage Rack"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Luggage Trolley"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Key Rack"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Message Rack"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Information Rack"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Bell Desk"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Reception Counter"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Projector"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Pen"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Pencil"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Ruler"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Register"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Note Pads"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Sketch Pens"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Charts"
+    }
+  ],
+  "full_text_excerpt": "810-Front Office Operations - Class XI - 2026-27 \nPage 1 of 4 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nFRONT OFFICE OPERATIONS (SUBJECT CODE - 810) \nJOB ROLES: COUNTER SALES EXECUTIVE \nCLASS -XI \n1. Introduction \n \n \nThe Hospitality industry is a broad category of fields within the service industry that includes \nlodging, event planning, theme parks, transportation, cruise line and additional fields within the \ntourism industry. The hospitality industry is a several billion dollar industry that mostly depends \non the availability of leisure time and disposable income. A hospitality unit such as a restaurant, \nhotel, or even an amusement park consists of multiple groups such as facility maintenance, \ndirect operations (servers, housekeepers, porters, kitchen workers, bartenders, management, \nmarketing, and human resources etc). \n \n \nThis course is an overview of the management practices utilized to direct, operate and control \nfront office. This course will teach practical knowledge of appropriate service behaviors for a \nvariety of guest types, understand the concept and techniques of good service and demonstrate \nthe skills acquired and capacity and demonstrate various service techniques. \n \n2. Course Objectives \n1. \nTo develop interest and attitudes in hospitality industry. \n2. \nTo develop sufficient trained manpower for Hotels, Motels, Restaurants, Railway \nCatering Services, Flight Catering Services etc. \n3. \nTo assist in the tourism development programmes. \n4. \nTo develop necessary employable skills in the students. \n5. \nTo develop entrepreneurship. \n3. Curriculum \n \n6. \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI opting for Skills subject along \nwith general education subjects. \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\n810-Front Office Operations - Class XI - 2026-27 \nPage 2 of 4 \n \nFRONT OFFICE OPERATIONS \n(SUBJECT CODE - 810) \nCLASS XI (Session 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \nThe unit-wise distribution of Periods and marks for Class XI is as follows: \n \n \nUNITS \nNo. of Periods for Theory and \nPractical \n260 \nMax. Marks for \nTheory and \nPractical \n100 \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills-III \n10 \n2 \nUnit 2: Self-management Skills-III \n10 \n2 \nUnit 3: Information and \nCommunication Technology \nSkills-III \n \n10 \n2 \nUnit 4: Entrepreneurial Skills-III \n15 \n2 \nUnit 5: Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nUnit 1: Lets Recall Tourism \n16 \n04 \n05 \nUnit 2: Evolution and Growth of \nHotels \n13 \n-- \n05 \nUnit 3: Communication Skills \n16 \n20 \n05 \nUnit 4: Pronunciation & Body \nLanguage \n13 \n18 \n05 \nUnit 5: Grooming Standards \n13 \n06 \n05 \nUnit 6: Telephone Manners \n13 \n14 \n07 \nUnit 7: Guest Services in Hotels \n20 \n20 \n10 \nUnit 8: Role of Technology in \nHospitality \n16 \n08 \n08 \nTotal \n210 \n50 \nPart C \nPractical Work \n \nPractical Examination \n-- \n15 \nWritten Test \n-- \n10 \nViva Voce \n-- \n05 \nTotal \n-- \n30 \nPart \nD \nProject Work/Field Visit/ Practical \nFile/Student Portfolio \n \n-- \n10 \nTotal \n-- \n10 \n \nGrand Total \n \n100\n810-Front Office Operations - Class XI - 2026-27 \nPage 3 of 4 \n \nCLASS XI (Session 2026-2027) \n4. CONTENTS \n \nPART A: EMPLOYABILITY SKILLS \n \n \nUnits \n1. \nCommunication Skills -III \n2. \nSelf-management Skills -III \n3. \nInformation and Communication Technology Skills - III \n4. \nEntrepreneurial Skills - III \n5. \nGreen Skills - III \nDetailed curriculum of Employability Skills is available separately \n \n \nPart B: Subject Specific Skills \n \nUnit-1: Lets Recall Tourism \nUnit-2: Evolution and Growth of Hotels \nUnit-3: Communication Skills \nUnit-4: Pronunciation & Body Language \nUnit-5: Grooming Standards Unit- \n6: Telephone Manners Unit-7: \nGuest Services in Hotels \nUnit-8: Role of Technology in Hospitality \n \n5. TEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and \nfield visits. Students should be taken to field visits for interaction with experts and to expose them \nto the various tools, equipment, materials, procedures and operations in the workplace. Special \nemphasis should be laid on the occupational safety, health and hygiene during the training and field \nvisits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a \nvariety of instructional or teaching aids, such as audio-video materials, colour slides, charts, \ndiagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and \nimpart training to the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case \nbased studies, exercises, etc. Equipment and supplies should be provided to enhance hands-on \nlearning experience of students. Only trained personnel should teach specialized techniques. A \ntraining plan that reflects tools, equipment, materials, skills and activities to be performed by the \nstudents should be submitted by the teacher to the Head of the Institution.\n810-Front Office Operations - Class XI - 2026-27 \nPage 4 of 4 \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of \npractical demonstration of skills by the candidate, Practical examination allows candidates to \ndemonstrate that they have the knowledge and understanding of performing a task. This will include \nhands-on practical exam and viva voce. For practical, there should be a team of evaluators. The \nsame team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain \ntime period or timeline. Project work should be given on the basis of the capability of the individual \nto perform the tasks or activities involved in the project. Projects should be discussed in the class \nand the teacher should periodically monitor the progress of the project and provide feedback for \nimprovement and innovation. Field visits should be organised as part of the project work. Field visits \ncan be followed by a small-group work/project work. When the class returns from the field visit, each \ngroup might be asked to use the information that they have gathered to prepare presentations or \nreports of their observations. Project work should be assessed on the basis of practical file or \nstudent portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, photos of products prepared by students in relation to the \nunit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio \nor video recording can be done at the time of viva voce. The number of external examiners would \nbe decided as per the existing norms of the Board and these norms should be suitably \nadopted/adapted as per the specific requirements of the subject. Viva voce should also be \nconducted to obtain feedback on the student’s experiences and learning during the project work/field \nvisits. \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL \n TOURS \n \n \n \nIn field visits, children will go outside the classroom to obtain specific information from experts or to \nmake observations of the activities. A checklist of observations to be made by the students during \nthe field visits should be developed by the Teachers for systematic collection of information by the \nstudents on the various aspects. Principals and Teachers should identify the different opportunities \nfor field visits within a short distance from the school and make necessary arrangements for the \nvisits. At least three field visits should be conducted in a year. \n \n7. LIST OF EQUIPMENT AND MATERIAL \n1. \nLobby Desk \n2. \nComputer with Internet Facility \n3. \nPrinter \n4. \nProperty Management System \n5. \nForeign Currency Exchange Board \n6. \nCredit Card Imprinter / EDC Machine \n7. \nLuggage Rack \n8. \nLuggage Trolley \n9. \nKey Rack \n10. \nMessage Rack \n11. \nInformation Rack \n12. \nBell Desk \n13. \nReception Counter \n14. \nProjector \n15. \nPen \n16. \nPencil \n17. \nRuler \n18. \nRegister \n19. \nNote Pads \n20. \nSketch Pens \n21. \nCharts"
+}

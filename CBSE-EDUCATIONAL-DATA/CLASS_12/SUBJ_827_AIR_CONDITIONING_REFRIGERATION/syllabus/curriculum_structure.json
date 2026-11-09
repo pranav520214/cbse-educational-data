@@ -1,0 +1,199 @@
+{
+  "subject_name": "Air-Conditioning & Refrigeration",
+  "subject_code": "827",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XII.pdf",
+  "sha256": "8935641e1ef856422db25834b366f724809bf1910b406df891991fe7821a6709",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Psychrometry",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Heat transfer and Air Distribution",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Components of Refrigeration",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Electric controls",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Commercial Applications",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Air-Conditioning Systems &",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Components of Refrigeration Systems",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Air-Conditioning Systems & Maintenance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- HEAT TRANSFER AND AIR-DISTRIBUTION",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- COMPONENTS OF REFRIGERATION SYSTEMS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- ELECTRIC CONTROLS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- COMMERCIAL APPLICATIONS",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "- AIR-CONDITIONING SYSTEMS AND MAINTENANCE",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1 : Communication Skills - IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2 : Self-management Skills - IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3 : Information and Communication Technology Skills - IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4 : Entrepreneurial Skills - IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5 : Green Skills - IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Principles of heat transfer, Conduction, Convection and Radia"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Air Distribution, Systems of air distribution, Duct systems,"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Condensers, Air cooled and water cooled, Evaporative Condense"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Refrigerant Controls, Types of expansion devices and sensible"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Evaporators, types of evaporators- Dry and flooded, Heat abso"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Refrigerants, their properties and nomenclature- R11, R12, R2"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Refrigeration Controls, H.P. and L.P. cutouts, Oil Pressure f"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Motor Starters, capacitors (To be assessed through practical"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Ice-Manufacture, cold-storage, Ice-Cream manufacture (To be a"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Air-Conditioning systems and equipments, classification of ai"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Leak Detection, Pressure testing and charging. (To be assesse"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nAIR CONDITIONING & REFRIGERATION (SUB. CODE - 827) \nJOB ROLE: SERVICE TECHNICIAN CLASS XII \n \n \nOBJECTIVES OF THE COURSE \n \nAfter successfully completing these two years of Senior Secondary skill course, the \nstudent would have acquired relevant appropriate and adequate technical knowledge \ntogether with the professional skills and competencies in the field of Air conditioning and \nRefrigeration Technology so that they will be able to properly equipped to take up gainful \nemployment in this sector. \nThus he should have acquired: \n \nA. \nUnderstanding of \n \na) The relevant basic concepts and principles in basic science subjects \n(Physics, Chemistry and Mathematics) so that he/she is able to understand \nthe different vocational subjects. \nb) The basic concepts in engineering drawing. \nc) The \nconcepts \nand \nprinciples \nof \nworking \nof \nrefrigeration \nand \nair- \nconditioning equipment. \nd) The knowledge of testing, faults, identification and repair procedures in \nrespect of refrigeration and air conditioning equipment. \ne) The \nknowledge \nto \nprepare \nestimates \nfor \ncost \nof repair/ installation/ \nmaintenance/ overhauling jobs. \nB. \nAdequate Professional Skills and Competencies in \n \na) Testing, fault location and repairing of refrigeration \nand air-conditioning \nequipment. \nb) Installing and commissioning of refrigeration and air-conditioning equipment. \nc) Carrying out preventive maintenance of refrigeration and air-conditioning \nequipment. \nd) Dismantling, overhauling and reassembling of refrigeration and air- \nconditioning equipment.\nC. \nA Healthy and Professional Attitudes of that. He/ She has \n \na) An analytical approach while working on a refrigeration or air-conditioning \nequipment. \nb) An open mind while locating/ rectifying faults in refrigeration or air- \nconditioning equipment. \nc) Respect for working with his/her own hands. \nd) Respect for honesty, punctuality and truthfulness. \n \n \n \nSCHEME OF UNITS \n \nThis course is a planned sequence of instructions consisting of units meant for developing \nemployability and vocational competencies of students of Class XII opting for skill subject \nalong with other education subjects. \nThe unit-wise distribution of hours and marks for class XII is as given on the next page\nAIR CONDITIONING & REFRIGERATION (SUB. CODE - 827) \nCLASS XII SESSION 2026-2027 \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills - III \n10 \n2 \nUnit 2 : Self-Management Skills - III \n10 \n2 \nUnit 3 : ICT Skills - III \n10 \n2 \nUnit 4 : Entrepreneurial Skills - III \n15 \n2 \nUnit 5 : Green Skills - III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit 1 : Psychrometry \n22 \n08 \n06 \nUnit 2 : Heat transfer and Air Distribution \n25 \n10 \n07 \nUnit 3 : Components of Refrigeration \nSystems \n35 \n15 \n14 \nUnit 4 : Electric controls \n25 \n10 \n07 \nUnit 5 : Commercial Applications \n24 \n06 \n08 \nUnit 6 : Air-Conditioning Systems & \nMaintenance \n24 \n06 \n08 \nTotal \n155 \n55 \n50 \nPart C \nPractical Work \n \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n30 \n \nPart D \nProject Work/Field Visit \n \nPractical File/Student Portfolio \n \n10 \nTotal \n10 \n \nGRAND TOTAL \n260 \n100\nDETAILED CURRICULUM/ TOPICS FOR CLASS XII \n \nPART-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1 : Communication Skills - IV \n10 \n2. \nUnit 2 : Self-management Skills - IV \n10 \n3. \nUnit 3 : Information and Communication Technology Skills - IV \n10 \n4. \nUnit 4 : Entrepreneurial Skills - IV \n15 \n5. \nUnit 5 : Green Skills - IV \n05 \n \nTOTAL DURATION \n50 \n \n \nNOTE: \nFor Detailed Curriculum/ Topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \nPART-B - SUBJECT SPECIFIC SKILLS \n \n❖ Unit 1: Psychrometry \n❖ Unit 2: Heat transfer and Air Distribution \n❖ Unit 3: Components of Refrigeration Systems \n❖ Unit 4: Electric controls \n❖ Unit 5 : Commercial Applications \n❖ Unit 6: Air-Conditioning Systems & Maintenance \n \nUNIT 1 - \nPSYCHROMETRY \n \nPsychrometric Processes - Sensible Cooling, Sensible Heating, Cooling with de- \nhumidification, Cooling with adiabatic Humidification, Chemical-dehumidification, \nheating and humidification, Mixing of air- streams, Air Washers. (To be assessed \nthrough practical only) \n \nUNIT 2 - HEAT TRANSFER AND AIR-DISTRIBUTION \n \n1. Principles of heat transfer, Conduction, Convection and Radiation. Properties of \ninsulating materials. \n \n2. Air Distribution, Systems of air distribution, Duct systems, cooling load and air- \nquantities pressure inducts, (To be assessed through practical only) duct layout \n& construction.\nUNIT 3 - COMPONENTS OF REFRIGERATION SYSTEMS \n \n1. Condensers, Air cooled and water cooled, Evaporative Condensers, Heat \nRejected in condensers, construction of condensers, Driers, receivers, Purging, \nCleaning of Condensers. \n \n2. Refrigerant Controls, Types of expansion devices and sensible heat factor, \nconstruction and operation of Automatic expansion valve, thermostatic \nexpansion valve, and capillary tube, low side float valve, High Side float valve. \nSolenoid valves, testing and adjusting thermostatic expansion valves. (To be \nassessed through practical only). \n \n3. Evaporators, types of evaporators- Dry and flooded, Heat absorbed in \nevaporators, water chillers, brine coolers, Methods of defrosting.(To be \nassessed through practical only). \n \n4. Refrigerants, their properties and nomenclature- R11, R12, R22, R502, R113, \nR114, R134A, ammonia, and carbon dioxide. \n \nUNIT 4 - ELECTRIC CONTROLS \n \n1. Refrigeration Controls, H.P. and L.P. cutouts, Oil Pressure failure safety switch. \n(To be assessed through practical only). \n \n2. Motor Starters, capacitors (To be assessed through practical only), Relays, over \nload protectors and servicing of motors. (To be assessed through practical \nonly). \n \nUNIT 5 - COMMERCIAL APPLICATIONS \n \n1. Ice-Manufacture, cold-storage, Ice-Cream manufacture (To be assessed through \npractical only), Dairy refrigeration etc. \n \nUNIT 6 - AIR-CONDITIONING SYSTEMS AND MAINTENANCE \n \n1. Air-Conditioning systems and equipments, classification of air-conditioning \nsystems-all air systems, all water system types, Fans, Blowers, grills, resistors, \nfilters, compressors, cooling coils, condensers Air-Handling Units, Fan coil \nUnits, Central Air Conditioning plants. Ventilation Systems. (To be assessed \nthrough practical only). \n \n2. Leak Detection, Pressure testing and charging. (To be assessed through \npractical only)."
+}

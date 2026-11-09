@@ -1,0 +1,33 @@
+{
+  "subject_code": "835",
+  "subject_name": "Mass Media Studies",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Media",
+  "directory_name": "SUBJ_835_MASS_MEDIA_STUDIES",
+  "directory_path": "CLASS_11/SUBJ_835_MASS_MEDIA_STUDIES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Mass Media Studies (835-MASS_MEDIA_STUDIES.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/835-MASS_MEDIA_STUDIES.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "febe5fc8f6dffb652946a54adef03d0f026c5f2b2ff0a6eddfdeb7346a0b86e5",
+    "file_size_bytes": 271526,
+    "units_extracted": 29,
+    "chapters_extracted": 130
+  }
+}

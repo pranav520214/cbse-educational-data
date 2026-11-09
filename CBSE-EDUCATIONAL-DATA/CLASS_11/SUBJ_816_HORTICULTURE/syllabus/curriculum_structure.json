@@ -1,0 +1,966 @@
+{
+  "subject_name": "Horticulture",
+  "subject_code": "816",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-Horticulture-XI.pdf",
+  "sha256": "52b1fcf78b23976035424ff62dfdd2048648f4a0a40e65534e8767e95d7cc9c2",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Protected Cultivation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Types of Protected Structure and its",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Preparation of Media and Container",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Irrigation and Fertigation System",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Greenhouse Operations.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Types of Protected Structure and its Components",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Preparation of Media and Container for Commercial Cultivation",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Irrigation and Fertigation Systems",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Greenhouse Operations",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "INTRODUCTION"
+    },
+    {
+      "chapter_number": 2,
+      "title": "COURSE OBJECTIVES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Apply effective oral and written communication skills to inte"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify the principal components of a computer system;"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstrate the basic skills of using computer;"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Demonstrate self-management skills;"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Demonstrate the ability to provide a self-analysis in context"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Demonstrate the knowledge of the importance of green skills i"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Communicate effectively with the client, identify the princip"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Prepare media for protected cultivation"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Demonstrate irrigation and fustigation, green house operation"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Administer first aid to a casualty with small cuts, grazes, b"
+    },
+    {
+      "chapter_number": 3,
+      "title": "CURRICULUM"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to Protected Cultivation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of Protected Structure and its Components."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Preparation of Media and Container for Commercial Cultivation"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Irrigation and Fertigation System"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Greenhouse Operations."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe protected"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define protected cultivation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Advantages of protected"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Define greenhouse effect"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Enlist advantages of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Select the site for"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Criteria to be considered for"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Enlist factors affecting"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Horticulture crops"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Types of horticulture crops"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Varieties of Horticulture crops"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Enlist and identify"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Types of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Types of protected structures"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Merits and demerits of different"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Greenhouse"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Shade house"
+    },
+    {
+      "chapter_number": 5,
+      "title": "What are walk in and low tunnels"
+    },
+    {
+      "chapter_number": 6,
+      "title": "What is mist house"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Differentiate"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify greenhouses 1."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Define cladding material"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Classification according to cladding"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify the cladding"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Select of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "What are different factors to be"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Enlist factors"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Identify"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Different components of ideal"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Cooling unit and give its importance"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Heating unit and where it is required"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Fertigation unit and its utility"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tools and equipments used in"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Measurement of greenhouse"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Draw a typical"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Collect figures of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identify media and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define media"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Different types of media"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Ideal composition of media"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Soil-less cultivation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identification of various types of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Differentiate soil and soil-less"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Sterilize growing"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Soil borne pathogens"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Soil sterilization"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Different methods of soil"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Differentiation of chemical and"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Prepare of beds"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Prepare raised and flat beds"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Advantages of raised beds"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of raised beds"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Identify container"
+    },
+    {
+      "chapter_number": 1,
+      "title": "What types of pots/"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Composition of various"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of filling of pots/"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identification of containers"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Enlist different constituents of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Water quality and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Meaning of quality of water"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Water requirement for"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of measuring"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Apply irrigation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define sprinkler irrigation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Define drip irrigation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Time and frequency of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identification of components"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Enlist merits and demerits of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Select fertilizers for"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define fertilizers."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Straight and complex water"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Types of fertilizers suitable for"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identification of important"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Demonstrate the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define fertigation"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Methods of fertilizer"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Equipment requiredfor"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Foliar application of fertilizers"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Enlist advantages of foliar"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of fertigation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Identification of equipment"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Define greenhouse."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Define naturally ventilated"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Different operations in greenhouse"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Different equipments used in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Enlist different greenhouse"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Enlist equipment used"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Manage the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance of temperature in plant"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Procedure of regulation of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Enlist optimum temperature"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Manage Light"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance of light in plant growth"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Procedure of measured and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Manage Humidity"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Pole of RH in plant growth"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Measurement of humidity"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of how to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Enlist effect of high and low"
+    },
+    {
+      "chapter_number": 5,
+      "title": "CO2 (carbon-"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance of CO2 to increase"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Process to increase the CO2 in"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of the use of"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Ventilation of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Importance of ventilation in"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Regulate the ventilation"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/ EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Area under playhouse and its layout"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of plants/flowers raised"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Type of rootstock used"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Methods of propagation adopted"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Whether plants/flowers raised by micro propagation"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Number of plants /flowers grow annually"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Number of plants/flowers sold annually"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Sale procedure"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Manpower engaged"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Total expenditure in construction of greenhouse/ nursery"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Irrigation unit"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Fustigation unit"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Total annual income"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Profit/Loss (Annual)"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Any other information"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Tape"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Pruning knife"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Crow bar"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Super cut"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rope"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Thinning scissor"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Khurpi"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Hand cultivator"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Wheel hoe"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Hand weedier"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trenching hoe"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Weeding fork"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Transplanting travel"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Garden hoe"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Dibbler"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Shovel"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Planting board"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Digging fork"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Secateurs"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Garden rake"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Garden hatchet"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Spade"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Water can"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Small Trowel"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sprinkler"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Rake"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Sprayer"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Duster"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Mobile benches"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Temperature & humidity control"
+    },
+    {
+      "chapter_number": 17,
+      "title": "System"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Pad"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Automatic shade system"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Ventilator"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Fogging and blackout"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Thermometer"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Irrigation system"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Lux meter/Light meter"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Mobile benches,"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Misting"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Fan"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Digital electronic temperature indicator"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Radiation measuring instrument"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Hygrometer"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Digital electronic"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Dry and liquid fertilizer"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Peat"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Formalin"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Bavestin"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Temperature & humidity"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Sulphur"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Insecticide"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Indofil-45"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Neem cake"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Plant Growth regulator/hormones"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identification of ornamental trees, shrubs, climbers and bulb"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Preparation of herbarium of different ornamentals."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Laying out nursery for different seasonal flower crops."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Land preparation for flower crops directly raised through see"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Preparation of nursery beds and field preparation for plantin"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Identification of propagules likes seeds, bulbs, tubers, rhiz"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Preparation of different type of cuttings for the propagation"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Identification of manures and fertilizers and calculation of"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Identification of deficiency symptoms of nutrients in flower"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Identification of common tools and equipment used for cultiva"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Use of different irrigation methods in flower crops."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Controlling weeds in gardens through manual and chemical meth"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Identification and applying different kinds of mulches in the"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Seed production of flower crops like marigold, pansy, petunia"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Visit to local flower market."
+    },
+    {
+      "chapter_number": 16,
+      "title": "Identification of important insect, mites’, nematodes and oth"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Preparation of pesticide solution and their safe application."
+    }
+  ],
+  "full_text_excerpt": "816-Horticulture- Class- XI- 2026-27 \nPage 1 of 8 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \nHORTICULTURE (SUB. CODE - 816) \nJOB ROLE: FLORICULTURIST (PROTECTED/ENTREPRENEUR) \n \nCLASS - XI \n \n1. INTRODUCTION \nHorticulture is associated with the cultivation of vegetables, fruits, flowers, crops, tuber crops and \nmedicinal, aromatic and ornamental plants where one can attain knowledge about crop \nproduction, plant propagation, plant breeding, genetic engineering, preparation of soil and plant \nphysiology and biochemistry and simultaneously can work in various fields including floral design, \ngarden centers, teaching, fruit and vegetable production, arboriculture, landscape construction, \netc. \n \nA Floriculturist (Protected Cultivation) is a person who has under taken the various activities of \nflower cultivation involving preparatory cultivation, cultivation and post-harvest management in \ngreen house. He also perform maintenance and care of plant, design and maintenance of green \nhouse, preparing media and various other inputs essential for flower crop cultivation. The job is \nto be performed in efficient manner to allow the production of high quality of flowers, their \nharvesting and post-harvest management towards getting higher return. \n \n2. COURSE OBJECTIVES \nOn completion of the course, students should be able to: \n1. Apply effective oral and written communication skills to interact with people and customers; \n2. Identify the principal components of a computer system; \n3. Demonstrate the basic skills of using computer; \n4. Demonstrate self-management skills; \n5. Demonstrate the ability to provide a self-analysis in context of entrepreneurial skills & \nabilities; \n6. Demonstrate the knowledge of the importance of green skills in meeting the challenges of \nsustainable development and environment protection; \n7. Communicate effectively with the client, identify the principal components of a computer \nsystem, Identify different types of protected structure and Identify and categories crops for \nprotected cultivation \n8. Prepare media for protected cultivation \n9. Demonstrate irrigation and fustigation, green house operations, irrigation and fustigation, \ncare and maintenance of protected structure Demonstrate special horticultural practices in \nprotected cultivation Identify and control of insect-pest and diseases demonstrate the \nharvest and post-harvest practices \n10. Administer first aid to a casualty with small cuts, grazes, bruises, external bleeding, minor \nburns and scalds \n3. CURRICULUM \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI opting for Skills subject along with \ngeneral education subjects. \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\n816-Horticulture- Class- XI- 2026-27 \nPage 2 of 8 \n \nHORTICULTURE (SUBJECT CODE - 816) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \n260 \nMAX. \nMARKS for \nTheory and \nPractical \n100 \nPart A \nEmployability Skills \nUnit 1 : Communication Skills-III \n10 \n2 \nUnit 2 : Self-Management Skills-III \n10 \n2 \nUnit 3 : ICT Skills - III \n10 \n2 \nUnit 4 : Entrepreneurial Skills-III \n15 \n2 \nUnit 5 : Green Skills-III \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit 1: Introduction to Protected Cultivation \n25 \n05 \n25 \nUnit 2: Types of Protected Structure and its \ncomponents. \n35 \n05 \nUnit 3: Preparation of Media and Container \nfor Commercial Cultivation in \nGreenhouses \n \n25 \n20 \nUnit 4: Irrigation and Fertigation System \n30 \n15 \n25 \nUnit 5: Greenhouse Operations. \n35 \n15 \nTotal \n150 \n60 \n50 \nPart C \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n30 \nPart D \nProject Work/Field Visit \nPractical File/ Student Portfolio \n \n10 \nTotal \n10 \n \nGRAND TOTAL \n260 \n100\n816-Horticulture- Class- XI- 2026-27 \nPage 3 of 8 \n \n4. CONTENTS \n \nPART A: EMPLOYABILITY SKILLS \n \n \nUNITS \nNO. OF HOURS \nUnit 1 : Communication Skills-III \n10 \nUnit 2 : Self-Management Skills-III \n10 \nUnit 3 : ICT Skills - III \n10 \nUnit 4 : Entrepreneurial Skills-III \n15 \nUnit 5 : Green Skills-III \n05 \nTOTAL \n50 \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability \nSkills can be downloaded from CBSE website. \n \nPART B: SUBJECT SPECIFIC SKILLS \n \n \nUnits \n1. \nIntroduction to Protected Cultivation \n2. \nTypes of Protected Structure and its Components. \n3. \nPreparation of Media and Container for Commercial Cultivation in \nGreenhouses \n4. \nIrrigation and Fertigation System \n5. \nGreenhouse Operations. \n \nUnit 1: Introduction to Protected Cultivation \n \n \nLearning Outcome \nTheory \nPractical \n1. Describe protected \ncultivation and its \nimportance \n1. \nDefine protected cultivation \n2. \nAdvantages of protected \ncultivation \n3. \nDefine greenhouse effect \n1. Enlist advantages of \nprotected cultivation \n2. Select the site for \nprotected cultivation \n1. \nCriteria to be considered for \nsite selection \n1. Enlist factors affecting \nprotected cultivation \n3. Horticulture crops \nsuitable for protected \ncultivation \n1. \nTypes of horticulture crops \nsuitable for protected \ncultivation \n2. \nVarieties of Horticulture crops \nsuitable for protected \ncultivation \n1. Enlist and identify \ndifferent crops suitable \nfor protected cultivation\n816-Horticulture- Class- XI- 2026-27 \nPage 4 of 8 \n \nUnit 2: Types of Protected Structure and its Components \n \nLearning Outcome \nTheory \nPractical \n1. Types of \nprotected \nstructures \n1. \nTypes of protected structures \nused in cultivation of crops \n2. \nMerits and demerits of different \nstructures \n3. \nGreenhouse \n4. \nShade house \n5. \nWhat are walk in and low tunnels \n6. \nWhat is mist house \n1. Differentiate \ngreenhouse shade \nhouse and low \ntunnels \n2. Demonstration of \nutility of mist house \n2. Identify greenhouses 1. \nClassify greenhouses according to \nshape \n2. \nDefine cladding material \n3. \nClassification according to cladding \nmaterial \n1. Identify the cladding \nmaterial used for \ngreenhouse erection \n3. Select of \ngreenhouse \ndesign \n1. What are different factors to be \nconsidered for selection of location \nspecific design \n1. Enlist factors \naffecting selection of \ngreenhouse design \n4. Identify \ncomponents of \ngreenhouse \n1. \nDifferent components of ideal \ngreenhouse \n2. \nCooling unit and give its importance \n3. \nHeating unit and where it is required \n4. \nFertigation unit and its utility \n5. \nTools and equipments used in \ngreenhouse \n6. \nMeasurement of greenhouse \nenvironment (light, temperature, RH, \nCO2) \n1. Draw a typical \ngreenhouse and label \nthe parts \n2. Collect figures of \ndifferent \ncomponents of \ngreenhouse \n \nUnit 3: Preparation of Media and Container for Commercial Cultivation \nin Greenhouse \n \n \nLearning Outcome \nTheory \nPractical \n1. Identify media and \nits composition \n1. Define media \n2. Different types of media \n3. Ideal composition of media \n4. Soil-less cultivation \n1. Identification of various types of \nmedia \n2. Differentiate soil and soil-less \ncultivation in green house \n2. Sterilize growing \nmedia \n1. Soil borne pathogens \n2. Soil sterilization \n3. Different methods of soil \nsterilization \n1. Differentiation of chemical and \nphysical methods of soil \nsterilization \n3. Prepare of beds \n1. Prepare raised and flat beds \n2. Advantages of raised beds \n2. Demonstration of raised beds \npreparation \n4. Identify container \nand its filling \n1. What types of pots/ \ncontainers used for growing \ncrops in greenhouses \n2. Composition of various \ngrowing media for filling of \ncontainers \n1. Demonstration of filling of pots/ \ncontainers \n2. Identification of containers \n3. Enlist different constituents of \ngrowing media\n816-Horticulture- Class- XI- 2026-27 \nPage 5 of 8 \n \nUnit 4: Irrigation and Fertigation Systems \n \n \nLearning Outcome \nTheory \nPractical \n1. Water quality and \nrequirement \n1. Meaning of quality of water \n2. Water requirement for \ndifferent crops \n1. Demonstration of measuring \npH, TDS and EC in water for \nirrigation \n2. Apply irrigation \n1. Define sprinkler irrigation \n2. Define drip irrigation \n3. Time and frequency of \nirrigation \n1. \nIdentification of components \nof drip irrigation \n2. \nEnlist merits and demerits of \nmicro-irrigation \n3. Select fertilizers for \nprotected \ncultivation \n1. Define fertilizers. \n2. Straight and complex water \nsoluble fertilizers \n3. Types of fertilizers suitable for \ndrip irrigation \n1. Identification of important \nwater soluble fertilizers used \nin protected cultivation \n4. Demonstrate the \napplication and \ntime of fertigation \n1. Define fertigation \n2. Methods of fertilizer \napplication \n3. Equipment requiredfor \nfertigation \n4. Foliar application of fertilizers \n1. \nEnlist advantages of foliar \napplication \n2. \nDemonstration of fertigation \nprocedure \n3. \nIdentification of equipment \nused in fertigation \n \nUnit 5: Greenhouse Operations \n \n \nLearning Outcome Theory \nPractical \n1. Describe \ngreenhouse \noperations \n1. Define greenhouse. \n2. Define naturally ventilated \npoly house \n3. Different operations in greenhouse \n4. Different equipments used in \ngreenhouses \n1. Enlist different greenhouse \noperations \n2. Enlist equipment used \n2. Manage the \ntemperature \n1. Importance of temperature in plant \ngrowth \n2. Procedure of regulation of \ntemperature \n1. Demonstration of the \nregulation of temperature \n2. Enlist optimum temperature \nfor important flower and \nvegetable crops \n3. Manage Light \n1. Importance of light in plant growth \n2. Procedure of measured and \nregulated light \n1. Demonstration of the \nregulation process of light \n4. Manage Humidity \n1. Pole of RH in plant growth \n2. Measurement of humidity \n3. Procedure of regulation of \nhumidity \n1. Demonstration of how to \nregulate the humidity \n2. Enlist effect of high and low \nhumidity \n5. CO2 (carbon- \ndioxide) \nenrichment \n1. Importance of CO2 to increase \nphotosynthesis \n2. Process to increase the CO2 in \ngreenhouse \n1. Demonstration of the use of \nCO2 enrichment Procedure \n6. Ventilation of \ngreenhouse \n1. Importance of ventilation in \nnaturally ventilated polyhouse \n2. Regulate the ventilation \n1. Demonstration of the use of \nventilation in green house\n816-Horticulture- Class- XI- 2026-27 \nPage 6 of 8 \n \n5. TEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops \nand field visits. Students should be taken to field visits for interaction with experts and to expose \nthem to the various tools, equipment, materials, procedures and operations in the workplace. \nSpecial emphasis should be laid on the occupational safety, health and hygiene during the training \nand field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed \nby discussions should be conducted by trained teachers. Teachers should make effective use of \na variety of instructional or teaching aids, such as audio-video materials, colour slides, charts, \ndiagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and \nimpart training to the students. \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case \nbased studies, exercises, etc. Equipment and supplies should be provided to enhance hands-on \nlearning experience of students. Only trained personnel should teach specialized techniques. A \ntraining plan that reflects tools, equipment, materials, skills and activities to be performed by the \nstudents should be submitted by the teacher to the Head of the Institution \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of \npractical demonstration of skills by the candidate, Practical examination allows candidates to \ndemonstrate that they have the knowledge and understanding of performing a task. This will \ninclude hands-on practical exam and viva voce. For practical, there should be a team of \nevaluators. The same team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain \ntime period or timeline. Project work should be given on the basis of the capability of the individual \nto perform the tasks or activities involved in the project. Projects should be discussed in the class \nand the teacher should periodically monitor the progress of the project and provide feedback for \nimprovement and innovation. Field visits should be organised as part of the project work. Field \nvisits can be followed by a small-group work/project work. When the class returns from the field \nvisit, each group might be asked to use the information that they have gathered to prepare \npresentations or reports of their observations. Project work should be assessed on the basis of \npractical file or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of \ncompetence. Documents may include reports, articles, photos of products prepared by students \nin relation to the unit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio \nor video recording can be done at the time of viva voce. The number of external examiners would \nbe decided as per the existing norms of the Board and these norms should be suitably \nadopted/adapted as per the specific requirements of the subject. Viva voce should also be \nconducted to obtain feedback on the student’s experiences and learning during the project \nwork/field visits.\n816-Horticulture- Class- XI- 2026-27 \nPage 7 of 8 \n \n6. ORGANISATION OF FIELD VISITS/ EDUCATIONAL TOURS \nIn a year, at least 3 field visits/educational tours should be organised for the students to expose \nthem to the activities in the workplace. \n \nVisit a Polyhouse/ Green house and observe the following: Location, Site, area, types of \ngreenhouse, infrastructure, equipments used, Office building, Store, Pot yard, Packing Yard, Seed \nbed, Nursery bed, Water tank/ Tube well, Gate and fencing. During the visit, students should obtain \nthe following information from the owner or the supervisor of the nursery: \n \n1. Area under playhouse and its layout \n2. Types of plants/flowers raised \n3. Type of rootstock used \n4. Methods of propagation adopted \n5. Whether plants/flowers raised by micro propagation \n6. Number of plants /flowers grow annually \n7. Number of plants/flowers sold annually \n8. Sale procedure \n9. Manpower engaged \n10. Total expenditure in construction of greenhouse/ nursery \n11. Irrigation unit \n12. Fustigation unit \n13. Total annual income \n14. Profit/Loss (Annual) \n15. Any other information \n \n7. LIST OF EQUIPMENT AND MATERIAL \n \nThe list given below is suggestive and an exhaustive list should be prepared by the vocational \nteacher. Only basic tools, equipment and accessories should be procured by the Institution so \nthat the routine tasks can be performed by the students regularly for practice and acquiring \nadequate practical experience. \n \n \n1. \nTape \n35. \nPruning knife \n2. \nCrow bar \n36. \nSuper cut \n3. \nRope \n37. \nThinning scissor \n4. \nKhurpi \n38. \nHand cultivator \n5. \nWheel hoe \n39. \nHand weedier \n6. \nTrenching hoe \n40. \nWeeding fork \n7. \nTransplanting travel \n41. \nGarden hoe \n8. \nDibbler \n42. \nShovel \n9. \nPlanting board \n43. \nDigging fork \n10. \nSecateurs \n44. \nGarden rake \n11. \nGarden hatchet \n45. \nSpade \n12. \nWater can \n46. \nSmall Trowel \n13. \nSprinkler \n47. \nRake \n14. \nSprayer \n48 \nDrip and sprinkler \n15. \nDuster \n49. Mobile benches \n16. \nTemperature & humidity control \n50. Fan\n816-Horticulture- Class- XI- 2026-27 \nPage 8 of 8 \n \n17. \nSystem \n51. Pad \n18. \nAutomatic shade system \n52. Ventilator \n19. \nFogging and blackout \n53. Thermometer \n20. \nIrrigation system \n54. Lux meter/Light meter \n21. \nMobile benches, \n55. Misting \n22. \nFan \n56. Digital electronic temperature indicator \n23. \nPad \n57. Radiation measuring instrument \n24. \nVentilator \n58. Sprayer \n25. \nThermometer \n59. Hygrometer \n26. \nLux meter/Light meter \nList of Chemicals \n27. \nDigital electronic \ntemperatureIndicator \n60. Dry and liquid fertilizer \n28 \nRadiation measuring instrument \n61. Peat \n29. \nSprayer \n62. Formalin \n30. \nHygrometer \n63. Bavestin \n31. \nTemperature & humidity \ncontrolSystem \n64. Sulphur \n65. Insecticide \n32. \nAutomatic shade system \n66. Indofil-45 \n33. \nFogging and blackout \n67. Neem cake \n34. \nIrrigation system \n68. Plant Growth regulator/hormones \n \n \n8. PRACTICAL GUIDELINES \nAs the practical is primarily an outdoor activity the schools can carry them out in the \nallocated 50 Periods. \n \n(For a Group of 20-25 students) \nVisit to a Garden / orchard farm/ greenhouse etc. \n \n1. Identification of ornamental trees, shrubs, climbers and bulbous plants. \n2. Preparation of herbarium of different ornamentals. \n3. Laying out nursery for different seasonal flower crops. \n4. Land preparation for flower crops directly raised through seeds. \n5. Preparation of nursery beds and field preparation for planting flower seedlings. \n6. Identification of propagules likes seeds, bulbs, tubers, rhizomes,etc. \n7. Preparation of different type of cuttings for the propagation of carnation, chrysanthemum, \nbougainvillea etc. \n8. Identification of manures and fertilizers and calculation of these as per recommended dose \nfor the flower crops to be planted. \n9. Identification of deficiency symptoms of nutrients in flower crops. \n10. Identification of common tools and equipment used for cultivating flower crops. \n11. Use of different irrigation methods in flower crops. \n12. Controlling weeds in gardens through manual and chemical methods. \n13. Identification and applying different kinds of mulches in the gardens. \n14. Seed production of flower crops like marigold, pansy, petunia, antirrhinumetc. \n15. Visit to local flower market. \n16. Identification of important insect, mites’, nematodes and other diseases (viral, bacterial and \nfungal). \n17. Preparation of pesticide solution and their safe application."
+}

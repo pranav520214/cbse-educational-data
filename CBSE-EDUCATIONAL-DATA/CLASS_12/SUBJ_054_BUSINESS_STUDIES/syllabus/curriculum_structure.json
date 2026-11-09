@@ -1,0 +1,973 @@
+{
+  "subject_name": "Business Studies",
+  "subject_code": "054",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Commerce",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+  "sha256": "ac3d1e72b1a5ea888010167cf59b544460f442686e0d20349af640228402e1a1",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Nature and Significance of Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Principles of Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Business Environment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Planning",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Organising",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Staffing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Directing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Controlling",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Financial Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Financial Markets",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-11",
+      "title": "Marketing",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-12",
+      "title": "Consumer Protection",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-13",
+      "title": "Project Work",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Nature and Significance of Management"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Students must take any one topic during the academic session"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The project may be done in a group or individually."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The topic should be assigned after discussion with the studen"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The teacher should play the role of a facilitator and should"
+    },
+    {
+      "chapter_number": 5,
+      "title": "The teachers must ensure that the student’s self esteem shoul"
+    },
+    {
+      "chapter_number": 6,
+      "title": "The project work for each term should culminate in the form o"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit to a Handicraft unit."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Visit to an Industry."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Visit to a Whole sale market (vegetables, fruits, flowers, gr"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Visit to a Departmental store."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Visit to a Mall."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Select a suitable day free from rush/crowd with lean business"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The teacher must visit the place first and check out on logis"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Visit to be discussed with the students in advance. They shou"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Students may carry their cameras (at their own risk) with pri"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit to a Handicraft Unit"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Visit to a whole sale market: vegetables/fruits/flowers/grain"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Visit to a Departmental store"
+    },
+    {
+      "chapter_number": 1,
+      "title": "History of Insurance Lloyd’s contribution."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Development of regulatory Mechanism."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Insurance Companies in India"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Principles of Insurance."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Types of Insurance. Importance of insurance to the businessme"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Benefits of crop, orchards, animal and poultry insurance to t"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Terminologies used (premium, face value, market value, maturi"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Anecdotes and interesting cases of insurance. Reference of fi"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Careers in Insurance."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Import /Export procedure"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The total project will be in a file format, consisting of the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The project will be handwritten."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The project will be presented in a neat folder."
+    },
+    {
+      "chapter_number": 4,
+      "title": "The project report will be developed in the following sequenc"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Nature of the business organisation (emporium)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Determinants for location of the concerned emporium"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Is the space rented or owned"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Nature of the goods dealt in"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Sources of merchandise of the emporium"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Role of co-operative societies in the manufacturing and/or ma"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Role of gifts of nature or natural produce in the development"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Types of buyers and sellers"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Modes of goods dispersed, minimum quantity sold and type of c"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Factors determining the pricing at the emporium"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Comparison between the prices of goods available at the empor"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Kind of raw material available naturally, used in making the"
+    },
+    {
+      "chapter_number": 13,
+      "title": "The technique used in making the products i.e., hand made or"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Has the child labour being used in making the products sold a"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Are the products eco-friendly, in terms of manufacturing, dis"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Seasonal factors if any affecting the business of the emporiu"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Weekly/ Monthly non-working days"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Mode of billing and payments - Cash, Credit Card/ Debit Card,"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Does the emporium sell its merchandise in installment / defer"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Do they provide home delivery and after sales services."
+    },
+    {
+      "chapter_number": 21,
+      "title": "Different types of promotional campaigns / schemes"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Assistance by Sales Personnel"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Export orientation of this emporium and procedure used"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Policies related to damaged/ returned goods"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Any government facility available to the emporium"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Warehousing facilities available / availed"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Impact of tourism on the business of emporium"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Additional facility offered to customers"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Any Corporate Social Responsibility (CSR) assumed by the empo"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Contribution made by the emporium to its locality"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Help students to select any ONE Topic for the entire year."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The students must make a presentation of the project before t"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The teachers must ensure that the student’s self-esteem and c"
+    },
+    {
+      "chapter_number": 5,
+      "title": "The teachers should feel pride in the fact that they have exp"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Changes witnessed over the last few years on mode of packagin"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The reasons behind changes in the following:"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Changing role of the women in the past 25 years relating to j"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The changes in the pattern of import and export of different"
+    },
+    {
+      "chapter_number": 5,
+      "title": "The trend in the changing interest rates and their effect on"
+    },
+    {
+      "chapter_number": 6,
+      "title": "A study on child labour laws, its implementation and conseque"
+    },
+    {
+      "chapter_number": 7,
+      "title": "The state of ‘anti plastic campaign,’ the law, its effects an"
+    },
+    {
+      "chapter_number": 8,
+      "title": "The laws of mining /setting up of industries, rules and regul"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Social factors affecting acceptance and rejection of an ident"
+    },
+    {
+      "chapter_number": 10,
+      "title": "What has the effect of change in environment on the types of"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Change in the man-machine ratio with technological advances r"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Effect of changes in technological environment on the behavio"
+    },
+    {
+      "chapter_number": 1,
+      "title": "A departmental store."
+    },
+    {
+      "chapter_number": 2,
+      "title": "An Industrial unit."
+    },
+    {
+      "chapter_number": 3,
+      "title": "A fast food outlet."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Any other organisation approved by the teacher."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Division of work."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unity of command."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unity of direction."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Scalar chain"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Espirit de corps"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Fair remuneration to all."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Order."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Equity."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Discipline"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Subordination of individual interest to general interest."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Initiative."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Centralisation and decentralisation."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Stability of tenure."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Authority and Responsibility"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Functional foremanship."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Standardisation and simplification of work."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Method study."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Motion Study."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Time Study."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Fatigue Study"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Differential piece rate plan."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Graphical presentation of the share prices of different compa"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Change in market value of shares due to change of seasons, fe"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Change in market value of shares due to change in political e"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Identify the top ten companies out of the 25 selected on the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Adhesives"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Air conditioners"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Baby diapers"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Bathing Soap"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Bathroom cleaner"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Bike"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Blanket"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Body Spray"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Bread"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Breakfast cereal"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Butter"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Camera"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Car"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Cheese spreads"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Chocolate"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Coffee"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Cosmetology product"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Crayons"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Crockery"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Cutlery"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Cycle"
+    },
+    {
+      "chapter_number": 22,
+      "title": "DTH"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Eraser"
+    },
+    {
+      "chapter_number": 24,
+      "title": "e-wash"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Fairness cream"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Fans"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Fruit candy"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Furniture"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Hair Dye"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Hair Oil"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Infant dress"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Inverter"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Jams"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Jeans"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Jewellery"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Kurti"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Ladies bag"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Ladies footwear"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Learning Toys"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Lipstick"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Microwave oven"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Mixers"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Mobile"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Moisturizer"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Music player"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Nail polish"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Newspaper"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Noodles"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Pen"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Pen drive"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Pencil"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Pickles"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Razor"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Ready Soups"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Refrigerator"
+    },
+    {
+      "chapter_number": 56,
+      "title": "RO system"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Roasted snacks"
+    },
+    {
+      "chapter_number": 58,
+      "title": "Salt"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Sarees"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Sauces/ Ketchup"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Shampoo"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Shaving cream"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Shoe polish"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Shoes"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Squashes"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Suitcase/ airbag"
+    },
+    {
+      "chapter_number": 67,
+      "title": "Sunglasses"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Tea"
+    },
+    {
+      "chapter_number": 69,
+      "title": "Tiffin Wallah"
+    },
+    {
+      "chapter_number": 70,
+      "title": "Toothpaste"
+    },
+    {
+      "chapter_number": 71,
+      "title": "Wallet"
+    },
+    {
+      "chapter_number": 72,
+      "title": "Washing detergent"
+    },
+    {
+      "chapter_number": 73,
+      "title": "Washing machine"
+    },
+    {
+      "chapter_number": 74,
+      "title": "Washing powder"
+    },
+    {
+      "chapter_number": 75,
+      "title": "Water bottle"
+    },
+    {
+      "chapter_number": 76,
+      "title": "Water storage tank"
+    },
+    {
+      "chapter_number": 77,
+      "title": "Wipes"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Why have they selected this product/service?"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Find out ‘5’ competitive brands that exist in the market."
+    },
+    {
+      "chapter_number": 3,
+      "title": "What permission and licences would be required to make the pr"
+    },
+    {
+      "chapter_number": 4,
+      "title": "What are your competitors Unique Selling Proposition.[U.S.P.]"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Does your product have any range give details?"
+    },
+    {
+      "chapter_number": 6,
+      "title": "What is the name of your product?"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Enlist its features."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Draw the ‘Label’ of your product."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Draw a logo for your product."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Draft a tag line."
+    },
+    {
+      "chapter_number": 11,
+      "title": "What is the selling price of your competitor’s product?"
+    },
+    {
+      "chapter_number": 12,
+      "title": "How will your product be packaged?"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Which channel of distribution are you going to use? Give reas"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Decisions related to warehousing, state reasons."
+    },
+    {
+      "chapter_number": 15,
+      "title": "What is going to be your selling price?"
+    },
+    {
+      "chapter_number": 16,
+      "title": "List 5 ways of promoting your product."
+    },
+    {
+      "chapter_number": 17,
+      "title": "Any schemes for"
+    },
+    {
+      "chapter_number": 18,
+      "title": "What is going to be your ‘U.S.P?"
+    },
+    {
+      "chapter_number": 19,
+      "title": "What means of transport you will use and why?"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Draft a social message for your label."
+    },
+    {
+      "chapter_number": 21,
+      "title": "What cost effective techniques will you follow for your produ"
+    },
+    {
+      "chapter_number": 22,
+      "title": "What cost effective techniques will you follow for your promo"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Type of product /service identified and the (consumer/industr"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Brand name and the product."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Range of the product."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Identification mark or logo."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Tagline."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Labeling and packaging."
+    },
+    {
+      "chapter_number": 7,
+      "title": "Price of the product and basis of price fixation."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Selected channels of distribution and reasons thereof."
+    },
+    {
+      "chapter_number": 9,
+      "title": "Decisions related to transportation and warehousing. State re"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Promotional techniques used and starting reasons for deciding"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Grading and standardization."
+    },
+    {
+      "chapter_number": 1,
+      "title": "The total length of the project will be of 25 to 30 pages."
+    },
+    {
+      "chapter_number": 2,
+      "title": "The project should be handwritten."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The project should be presented in a neat folder."
+    },
+    {
+      "chapter_number": 4,
+      "title": "The project report should be developed in the following seque"
+    }
+  ],
+  "full_text_excerpt": "Business Studies \nCLASS-XII (2024-25) \n \nTheory: 80 Marks \n \n \n \n \n \n \n \n3 Hours \nProject: 20 Marks \n \nUnits \n \nPeriods \nMarks \nPart A \nPrinciples and Functions of Management \n \n \n1. \nNature and Significance of Management \n12 \n16 \n2 \nPrinciples of Management \n14 \n3 \nBusiness Environment \n12 \n4 \nPlanning \n14 \n14 \n5 \nOrganising \n15 \n6 \nStaffing \n16 \n20 \n7 \nDirecting \n15 \n8 \nControlling \n12 \n \nTotal 110 \n50 \nPart B \nBusiness Finance and Marketing \n \n \n9 \nFinancial Management \n20 \n15 \n10 \nFinancial Markets \n18 \n11 \nMarketing Management \n30 \n15 \n12 \nConsumer Protection \n12 \n \nTotal 80 \n30 \n \n \n \n \nPart C \nProject Work (One) \n30 \n20 \n \nPart A: Principles and Functions of Management \n \n \n \n \nUnit 1: Nature and Significance of Management \n \n \n \nConcept \nAfter going through this unit, the \nstudent/ learner would be able to: \nManagement - concept, objectives, and \nimportance \n• \nUnderstand the concept of \nmanagement. \n• \nExplain the meaning of \n‘Effectiveness and Efficiency. \n• \nDiscuss the objectives of \nmanagement. \n• \nDescribe the importance of \nmanagement. \nManagement as Science, Art and \nProfession \n• \nExamine the nature of \nmanagement as a science, art and \nprofession. \nLevels of Management \n• \nUnderstand the role of top, middle \nand lower levels of management \nManagement functions-planning, \norganizing, staffing, directing and \ncontrolling \n• \nExplain the functions of \nmanagement \n \nCoordination- concept and importance \n• \nDiscuss the concept and\ncharacteristics of coordination. \n• \nExplain the importance of \ncoordination. \n \nUnit 2: Principles of Management \n \n \n \n \n \n \nPrinciples of Management - concept and \nsignificance \n• \nUnderstand the concept of \nprinciples of management. \n• \nExplain the significance of \nmanagement principles. \nFayol’s principles of management \n• \nDiscuss the principles of \nmanagement developed by Fayol. \nTaylor’s Scientific management - principles \nand techniques \n• \nExplain the principles and \ntechniques of ‘Scientific \nManagement’. \n• \nCompare the contributions of Fayol \nand Taylor. \n \nUnit 3: Business Environment \n \n \n \n \n \n \nBusiness Environment- concept and \nimportance \n• \nUnderstand the concept of \n‘Business Environment’. \n• \nDescribe the importance of \nbusiness environment \nDimensions of Business Environment - \nEconomic, Social, Technological, Political \nand Legal \n \nDemonetization - concept and features \n• \nDescribe the various dimensions of \n‘Business Environment’. \n• \nUnderstand the concept of \ndemonetization \n \nUnit 4: Planning \n \n \n \n \n \n \n \n \nPlanning: Concept, importance and \nlimitation \n• \nUnderstand the concept of \nplanning. \n• \nDescribe the importance of \nplanning. \n• \nUnderstand the limitations of \nplanning. \nPlanning process \n• \nDescribe the steps in the process \nof planning. \nSingle use and Standing Plans. Objectives, \nStrategy, Policy, Procedure, Method, Rule, \nBudget and Programme \n• \nDevelop an understanding of single \nuse and standing plans \n• \nDescribe objectives, policies, \nstrategy, procedure, method, rule, \nbudget and programme as types of \nplans. \n \nUnit 5: Organising \n \n \n \n \n \n \n \nOrganising: Concept and importance \n• \nUnderstand the concept of \norganizing as a structure and as a\nprocess. \n• \nExplain the importance of \norganising. \nOrganising Process \n• \nDescribe the steps in the process \nof organizing \nStructure of organisation- functional and \ndivisional concept. \nFormal and informal organization - concept \n• \nDescribe functional and divisional \nstructures of organisation. \n• \nExplain the advantages, \ndisadvantages and suitability of \nfunctional and divisional structure. \n• \nUnderstand the concept of formal \nand informal organisation. \n• \nDiscuss the advantages, \ndisadvantages of formal and \ninformal organisation. \nDelegation: concept, elements and \nimportance \n• \nUnderstand the concept of \ndelegation. \n• \nDescribe the elements of \ndelegation. \n• \nAppreciate the importance of \nDelegation. \nDecentralization: concept and importance \n• \nUnderstand the concept of \ndecentralisation. \n• \nExplain the importance of \ndecentralisation. \n• \nDifferentiate between delegation \nand decentralisation. \n \nUnit 6: Staffing \n \n \n \n \n \n \n \n \n \nStaffing: Concept and importance of \nstaffing \n• \nUnderstand the concept of staffing. \n• \nExplain the importance of staffing \nStaffing as a part of Human Resource \nManagement concept \n• \nUnderstand the specialized duties \nand activities performed by Human \nResource Management \nStaffing process \n• \nDescribe the steps in the process \nof staffing \nRecruitment process \n• \nUnderstand the meaning of \nrecruitment. \n• \nDiscuss the sources of recruitment. \n• \nExplain the merits and demerits of \ninternal and external sources of \nrecruitment. \nSelection - process \n• \nUnderstand the meaning of \nselection. \n• \nDescribe the steps involved in the \nprocess of selection. \nTraining and Development - Concept and \nimportance, Methods of training - on the \n• \nUnderstand the concept of training \nand development.\njob and off the job - vestibule training, \napprenticeship training and internship \ntraining \n• \nAppreciate the importance of \ntraining to the organisation and to \nthe employees. \n• \nDiscuss the meaning of induction \ntraining, vestibule training, \napprenticeship training and \ninternship training. \n• \nDifferentiate between training and \ndevelopment. \n• \nDiscuss on the job and off the job \nmethods of training. \n \nUnit 7: Directing \n \n \n \n \n \n \n \nDirecting: Concept and importance \n• \nDescribe the concept of directing. \n• \nDiscuss the importance of directing \nElements of Directing \n• \nDescribe the various elements of \ndirecting \nMotivation - concept, Maslow’s hierarchy of \nneeds, Financial and non-financial \nincentives \n• \nUnderstand the concept of \nmotivation. \n• \nDevelop an understanding of \nMaslow’s Hierarchy of needs. \n• \nDiscuss the various financial and \nnon-financial incentives. \nLeadership - concept, styles - authoritative, \ndemocratic and laissez faire \n• \nUnderstand the concept of \nleadership. \n• \nUnderstand the various styles of \nleadership. \nCommunication - concept, formal and \ninformal communication; barriers to \neffective communication, how to overcome \nthe barriers? \n• \nUnderstand the concept of \ncommunication \n• \nUnderstand the elements of the \ncommunication process. \n• \nDiscuss the concept of formal and \ninformal communication. \n• \nDiscuss the various barriers to \neffective communication. \n• \nSuggest measures to overcome \nbarriers to communication. \n \nUnit 8: Controlling \n \n \n \n \nControlling - Concept and importance \n• \nUnderstand the concept of \ncontrolling. \n• \nExplain the importance of \ncontrolling. \nRelationship between planning and \ncontrolling \n• \nDescribe the relationship between \nplanning and controlling \nSteps in process of control \n• \nDiscuss the steps in the process of \ncontrolling.\nPart B: Business Finance and Marketing \n \n \n \n \nUnit 9: Financial Management \n \n \n \n \n \n \nFinancial Management: Concept, role and \nobjectives \n• \nUnderstand the concept of financial \nmanagement. \n• \nExplain the role of financial \nmanagement in an organisation. \n• \nDiscuss the objectives of financial \nmanagement \nFinancial decisions: investment, financing \nand dividend - Meaning and factors \naffecting \n• \nDiscuss the three financial \ndecisions and the factors affecting \nthem. \nFinancial Planning - concept and \nimportance \n• \nDescribe the concept of financial \nplanning and its objectives. \n• \nExplain the importance of financial \nplanning. \nCapital Structure - concept and factors \naffecting capital structure \n• \nUnderstand the concept of capital \nstructure. \n• \nDescribe the factors determining \nthe choice of an appropriate capital \nstructure of a company. \nFixed and Working Capital - Concept and \nfactors affecting their requirements \n• \nUnderstand the concept of fixed \nand working capital. \n• \nDescribe the factors determining \nthe requirements of fixed and \nworking capital. \n \nUnit 10: Financial Markets \n \n \n \n \n \n \nFinancial Markets: Concept \n• \nUnderstand the concept of financial \nmarket. \nMoney Market: Concept \n• \nUnderstand the concept of money \nmarket. \nCapital market and its types (primary and \nsecondary) \n• \nDiscuss the concept of capital \nmarket. \n• \nExplain primary and secondary \nmarkets as types of capital market. \n• \nDifferentiate between capital \nmarket and money market. \n• \nDistinguish between primary and \nsecondary markets. \nStock Exchange - Functions and trading \nprocedure \n• \nGive the meaning of a stock \nexchange. \n• \nExplain the functions of a stock \nexchange. \n• \nDiscuss the trading procedure in a \nstock exchange.\n• \nGive the meaning of depository \nservices and demat account as \nused in the trading procedure of \nsecurities. \nSecurities and Exchange Board of India \n(SEBI) - objectives and functions \n• \nState the objectives of SEBI. \n• \nExplain the functions of SEBI. \n \nUnit 11: Marketing \n \n \n \n \n \n \n \nMarketing - Concept, functions and \nphilosophies \n• \nUnderstand the concept of \nmarketing. \n• \nExplain the features of marketing. \n• \nDiscuss the functions of marketing. \n• \nExplain the marketing philosophies. \nMarketing Mix - Concept and elements \n• \nUnderstand the concept of \nmarketing mix. \n• \nDescribe the elements of marketing \nmix. \nProduct - branding, labelling and \npackaging - Concept \n• \nUnderstand the concept of product \nas an element of marketing mix. \n• \nUnderstand the concept of \nbranding, labelling and packaging. \nPrice - Concept, Factors determining price \n• \nUnderstand the concept of price as \nan element of marketing mix. \n• \nDescribe the factors determining \nprice of a product. \nPhysical Distribution - concept, \ncomponents and channels of distribution \n• \nUnderstand the concept of physical \ndistribution. \n• \nExplain the components of physical \ndistribution. \n• \nDescribe the various channels of \ndistribution. \nPromotion - Concept and elements; \nAdvertising, Personal Selling, Sales \nPromotion and Public Relations \n• \nUnderstand the concept of \npromotion as an element of \nmarketing mix. \n• \nDescribe the elements of promotion \nmix. \n• \nUnderstand the concept of \nadvertising. \n• \nUnderstand the concept of sales \npromotion. \n• \nDiscuss the concept of public \nrelations. \n \nUnit 12: Consumer Protection \n \n \n \n \n \n \nConsumer Protection: Concept and \nimportance \n• \nUnderstand the concept of \nconsumer protection. \n• \nDescribe the importance of\nconsumer protection. \n• \nDiscuss the scope of Consumer \nProtection Act, 2019 \nThe Consumer Protection Act, 2019: \nSource: \nhttp://egazette.nic.in/WriteReadData/2019/210422.pdf \n \nMeaning of consumer \nRights and responsibilities of consumers \nWho can file a complaint? \nRedressal machinery \nRemedies available \n \n \n• \nUnderstand the concept of a \nconsumer according to the \nConsumer Protection Act, 2019. \n• \nExplain the consumer rights \n• \nUnderstand the responsibilities of \nconsumers \n• \nUnderstand who can file a \ncomplaint and against whom? \n• \nDiscuss the legal redressal \nmachinery under Consumer \nProtection Act, 2019. \n• \nExamine the remedies available to \nthe consumer under Consumer \nProtection Act, 2019. \nConsumer awareness - Role of consumer \norganizations and Non-Governmental \nOrganizations (NGOs) \n• \nDescribe the role of consumer \norganizations and NGOs in \nprotecting consumers’ interests. \n \nUnit 13: Project Work\nPROJECT WORK IN BUSINESS STUDIES FOR CLASS XI AND XII \n \nIntroduction \n \nThe course in Business Studies is introduced at Senior School level to provide students \nwith a sound understanding of the principles and practices bearing in business (trade \nand industry) as well as their relationship with the society. Business is a dynamic \nprocess that brings together technology, natural resources and human initiative in a \nconstantly changing global environment. With the purpose to help them understand the \nframework within which a business operates, and its interaction with the social, \neconomic, technological and legal environment, the CBSE has introduced Project Work \nin the Business Studies Syllabus for Classes XI and XII. The projects have been \ndesigned to allow students to appreciate that business is an integral component of \nsociety and help them develop an understanding of the social and ethical issues \nconcerning them. \n \nThe project work also aims to empower the teacher to relate all the concepts with what is \nhappening around the world and the student’s surroundings, making them appear more \nclear and contextual. This will enable the student to enjoy studies and use his free time \neffectively in observing what’s happening around. \n \nBy means of Project Work the students are exposed to life beyond textbooks giving them \nopportunities to refer materials, gather information, analyze it further to obtain relevant \ninformation and decide what matter to keep. \n \nObjectives \n \nAfter doing the Project Work in Business Studies, the students will be able to do the \nfollowing: \n• \ndevelop a practical approach by using modern technologies in the field of \nbusiness and management; \n• \nget an opportunity for exposure to the operational environment in the field of \nbusiness management and related services; \n• \ninculcate important skills of team work, problem solving, time management, \ninformation \ncollection, \nprocessing, \nanalysing \nand \nsynthesizing relevant \ninformation to derive meaningful conclusions \n• \nget involved in the process of research work; demonstrate his or her capabilities \nwhile working independently and \n• \nmake studies an enjoyable experience to cherish. \n \nCLASS XI: GUIDELINES FOR TEACHERS \n \nThis section provides some basic guidelines for the teachers to launch the projects in \nBusiness Studies. It is very necessary to interact, support, guide, facilitate and \nencourage students while assigning projects to them. \n \nThe teachers must ensure that the project work assigned to the students whether \nindividually or in group are discussed at different stages right from assignment to drafts \nreview and finalization. Students should be facilitated in terms of providing relevant\nmaterials or suggesting websites, or obtaining required permissions from business \nhouses, malls etc for their project. The periods assigned to the Project Work should be \nsuitably spaced throughout the academic session. The teachers MUST ensure that the \nstudents actually go through the rigors and enjoy the process of doing the project rather \nthan depending on any readymade material available commercially. \n \nThe following steps might be followed: \n \n1. Students must take any one topic during the academic session of Class XI. \n2. The project may be done in a group or individually. \n3. The topic should be assigned after discussion with the students in the class and \nshould then be discussed at every stage of submission of the draft/final project \nwork. \n4. The teacher should play the role of a facilitator and should closely supervise the \nprocess of project completion. \n5. The teachers must ensure that the student’s self esteem should go up, and he \n/she should be able to enjoy this process. \n6. The project work for each term should culminate in the form of Power Point \nPresentation/Exhibition/ Skit before the entire class. This will help in developing \nICT and communication skills among them. \n \nThe teacher should help students to identify any one project from the given \ntopics. \n \n I. Project One: Field Visit \n \nThe objective of introducing this project among the students is to give a first hand \nexperience to them regarding the different types of business units operating in their \nsurroundings, to observe their features and activities and relate them to the theoretical \nknowledge given in their text books. The students should select a place of field visit from \nthe following: - (Add more as per local area availability.) \n \n1. Visit to a Handicraft unit. \n2. Visit to an Industry. \n3. Visit to a Whole sale market (vegetables, fruits, flowers, grains, garments, etc.) \n4. Visit to a Departmental store. \n5. Visit to a Mall. \n \nThe following points should be kept in mind while preparing this visit. \n \n1. Select a suitable day free from rush/crowd with lean business hours. \n2. The teacher must visit the place first and check out on logistics. It’s better to seek \npermission from the concerned business- incharge. \n3. Visit to be discussed with the students in advance. They should be encouraged \nto prepare a worksheet containing points of observation and reporting. \n4. Students may carry their cameras (at their own risk) with prior permission for \ncollecting evidence of their observations. \n \n1. Visit to a Handicraft Unit \nThe purpose of visiting a Handicraft unit is to understand nature and scope of its \nbusiness, stake holders involved and other aspects as outlined below\na) The raw material and the processes used in the business: People /parties/firms from \nwhich they obtain their raw material. \nb) The market, the buyers, the middlemen, and the areas covered. c) The countries to \nwhich exports are made. \nd) Mode of payment to workers, suppliers etc. \ne) Working conditions. \nf) Modernization of the process over a period of time. \ng) Facilities, security and training for the staff and workers. \nh) Subsidies available/ availed. \ni) Any other aspect that the teachers deem fit. \n \n2. Visit to an Industry. \n \nThe students are required to observe the following: \n \na) Nature of the business organisation. \nb) Determinants for location of business unit. \nc) Form of business enterprise: Sole Proprietorship, Partnership, Undivided Hindu \nFamily, Joint Stock Company (a Multinational Company). \nd) Different stages of production/process \ne) Auxiliaries involved in the process. \nf) Workers employed, method of wage payment, training programmes and facilities \navailable. \ng) Social responsibilities discharged towards workers, investors, society, environment \nand government. \nh) Levels of management. \ni) Code of conduct for employers and employees. \nj) Capital structure employed- borrowed v/s owned. \nk) Quality control, recycling of defective goods. \nl) Subsidies available/availed. \nm) Safety Measures employed. \nn) Working conditions for labour in observation of Labour Laws. \no) Storage of raw material and finished goods. \np) Transport management for employees, raw material and finished goods. \nq) Functioning of various departments and coordination among them (Production, \nHuman Resource, Finance and Marketing) \nr) Waste Management. \ns) Any other observation. \n \n3. Visit to a whole sale market: vegetables/fruits/flowers/grains/garments etc. \n \nThe students are required to observe the following: \n \na) Sources of merchandise. \n b) Local market practices. \nc) Any linked up businesses like transporters, packagers, money lenders, agents, etc. \nd) Nature of the goods dealt in. \ne) Types of buyers and sellers. \nf) Mode of the goods dispersed, minimum quantity sold, types of packaging employed. \ng) Factors determining the price fluctuations.\nh) Seasonal factors (if any) affecting the business. \ni) Weekly/ monthly non-working days. \n j) Strikes, if any- causes thereof. \nk) Mode of payments. \nl) Wastage and disposal of dead stock. \nm) Nature of price fluctuations, reason thereof. \nn) Warehousing facilities available\\availed. \no) Any other aspect. \n \n4. Visit to a Departmental store \n \nThe students are required to observe the following: \na) Different departments and their lay out. \nb) Nature of products offered for sale. \nc) Display of fresh arrivals. \nd) Promotional campaigns. \ne) Spaces and advertisements. \nf) Assistance by Sales Personnel. \ng) Billing counter at store - Cash, Credit Card/ Debit Card, swipe facility. Added \nattractions and facilities at the counter. \nh) Additional facilities offered to customers \ni) Any other relevant aspect. \n \n5. Visit to a Mall. \n \nThe students are required to observe the following: \n \na) Number of floors, shops occupied and unoccupied. \nb) Nature of shops, their ownership status \nc) Nature of goods dealt in: local brands, international brands, \nd) Service business shops- Spas, gym, saloons etc. \ne)"
+}

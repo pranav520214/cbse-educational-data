@@ -1,0 +1,480 @@
+{
+  "subject_name": "Electronics Technology",
+  "subject_code": "820",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XII.pdf",
+  "sha256": "b25089a8c25ba4b66a8ef03e2e82bb18e9c4fb5d6001f8fc0db60ca01f098558",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Basic Occupational Safety",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Microphones and Loudspeakers",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Recorders",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "TV System",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Modern Appliances",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The relevant basic concept sand principles in basic science s"
+    },
+    {
+      "chapter_number": 2,
+      "title": "The basic concepts in engineering drawing."
+    },
+    {
+      "chapter_number": 3,
+      "title": "The concepts, principles of working of basic electronic devic"
+    },
+    {
+      "chapter_number": 4,
+      "title": "The knowledge of testing procedure of components and circuits"
+    },
+    {
+      "chapter_number": 5,
+      "title": "The procedure of making P.C.B."
+    },
+    {
+      "chapter_number": 6,
+      "title": "The concepts and principles used in Radio/Audio/Video Systems"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 4,
+      "title": "CONTENTS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Basic Occupational Safety and Precautions"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Microphones and Loudspeakers"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Construction, working principle and frequency response of Car"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Frequency ranges of musical instruments, Intensity and Dynami"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Recorders"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Analog and digital sound recording, Disk recording and reprod"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Principle of magnetic recording and playback, Requirement of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Principle of optical recording, CD/ DVD manufacturing and rec"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Steps for Fault finding & Analysis."
+    },
+    {
+      "chapter_number": 4,
+      "title": "TV System"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Working principle with block diagram of TV transmitter and re"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Channel and cable type TV system, Head end processor, Trunk &"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Introduction to LCD and LED TV systems, Introduction to high"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Modern Appliances"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Working principle and block diagram of following:"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISIT/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Resistance - various values/sizes"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Condensers - various values/sizes"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Transformer such as Battery Eliminator mains and Battery char"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Side cutting insulated pliers - 15 cm"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Long Nose insulated pliers 15 cm"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Wire cutter, spring type"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Screw driver set - 10 cm, 15 cm, 20 cm"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Soldering Iron - 35 W/220 V, Solder Wire - 60, 40 and solderi"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Tinned Copper Wire"
+    },
+    {
+      "chapter_number": 10,
+      "title": "VARIAC Single Phase"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Wire Stripper"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Steel Scale"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Combination Pliers"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Crimping Tools"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Electronic Tool Kit"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Analog Oscilloscope: Oscilloscope 30 Mhz Dual Trace"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Digital Multimeter 4 & ½ Digits"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Function Generator 0.3 Mhz To 3 Mhz"
+    },
+    {
+      "chapter_number": 19,
+      "title": "DC regulated Power Supply (30 V/5A)"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Frequency Counter 0.1 Hz to 1 GHz"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Universal IC Tester, Digital IC upto 40 pins"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Three Terminal Voltage Regulator Trainer Board"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Diode & Zener diode Characteristics Trainer Board"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Rectifier and Filter Trainer Board"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Transistors Characteristics Trainer Board (CE,CB, CC)"
+    },
+    {
+      "chapter_number": 26,
+      "title": "TV pattern Generators"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Telephone Trainer Kit"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Mobile Communication Training System"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Communication Simulation Software"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Fax machine trainer"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Mobile Phone Trainer"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Single Phase Half Wave Control Rectifier Using SCR Board"
+    },
+    {
+      "chapter_number": 33,
+      "title": "UPS Trainer"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Temperature Oven (0-200 Degree C)"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Different Microphones & Loudspeaker (for study of frequency r"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Microwave Oven"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Colored Television Demonstration kit"
+    },
+    {
+      "chapter_number": 38,
+      "title": "CD/DVD Player Trainer Kit"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Stereo Cassette player demonstration cum trainer"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Facsimile Machine"
+    },
+    {
+      "chapter_number": 41,
+      "title": "DTH System"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Multiplex two BCD numbers to seven segment display"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Universal Shift Registers having SISO, SIPO, PIPO, PISO"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Encoder/decoder trainer"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Digital IC Testers"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Digital IC Power Supplies (+/- 5V/1A, +/-12V/1A/+-15V, 1A)"
+    },
+    {
+      "chapter_number": 50,
+      "title": "GSM trainer kit"
+    },
+    {
+      "chapter_number": 51,
+      "title": "CDMA trainer kit"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Digital Trainer Kit with following on board facility:"
+    },
+    {
+      "chapter_number": 53,
+      "title": "TTL IC 7400(NAND), 7402 (NOR), 7404(NOT), 7408(AND), 7432(OR)"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Assembly study and fault finding of an audio amplifier."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Assembly, study and fault finding of a graphicequaliser."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Study working, assembly & fault finding of Colour TV."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Study working, assembly & fault finding of LCDTV."
+    },
+    {
+      "chapter_number": 5,
+      "title": "To trace the fault in the following panel controls and correc"
+    },
+    {
+      "chapter_number": 6,
+      "title": "To trace the following stages of T.V. set:"
+    },
+    {
+      "chapter_number": 7,
+      "title": "To find fault for the following defects:"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Study working, assembly & fault finding of tape recorder syst"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Study working, assembly & fault finding of CD/DVD player syst"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Study working, assembly & fault finding of Printer."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Study working, assembly & fault finding of Scanner."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Study working, assembly & fault finding of Microwaveoven."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Study working, assembly & fault finding of Telephone."
+    },
+    {
+      "chapter_number": 14,
+      "title": "Study working, assembly & fault finding of Fax Machine."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Study working, assembly & fault finding of UPSsystem."
+    },
+    {
+      "chapter_number": 16,
+      "title": "Study working, assembly & fault finding of DTH kit."
+    }
+  ],
+  "full_text_excerpt": "820-Electronics Technology - Class XII - 2026-2027 \nPage 1 of 7 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \n \nELECTRONICS TECHNOLOGY (SUB. CODE - 820) \nJOB ROLE: INSTALLATION TECHNICIAN \nCLASS -XII \n1. Introduction \nAfter successfully completing the two year of senior secondary Skill course, the student would have \nacquired relevant appropriate and adequate technical knowledge together with the professional skills and \ncompetencies in the field of Electronics so that he/she is properly equipped to take up gainful employ \nmention this Vocation. \n \n2. Course Objectives \nA. Understanding of \n1. \nThe relevant basic concept sand principles in basic science subjects (Physics, Chemistry and \nMathematics) so that he/she is able to understand the different subjects. \n2. \nThe basic concepts in engineering drawing. \n3. \nThe concepts, principles of working of basic electronic devices and circuits. \n4. \nThe knowledge of testing procedure of components and circuits by making use of different test \ninstruments. \n5. \nThe procedure of making P.C.B. \n6. \nThe concepts and principles used in Radio/Audio/Video Systems and Communication devices and \nits maintenance. \n \nB. Adequate Professional Skills and Competencies in \n(a) \nTesting different electronic components. \n(b) \nTesting the performance of electronic circuits. \n(c) \nLocating the fault at component level and at the stage level. \n \nC. A Healthy and Professional Attitude so that He/She has \n(a) \nAn analytical approach while working on a job. \n(b) \nAn openmind while locating /rectifying faults. \n(c) \nRespect for working with his / her own hands. \n(d) \nRespect for honesty, punctuality and truthfulness. \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing employability \nand Skills competencies of students of Class XII opting for Skills subject along with general education \nsubjects. \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks \nThe unit-wise distribution of Periods and marks for Class XII is as follows:\n820-Electronics Technology - Class XII - 2026-2027 \nPage 2 of 7 \n \nELECTRONICS TECHNOLOGY (SUB. CODE - 820) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPART A \nEmployability Skills \n \nUnit 1 : Communication Skills-IV \n10 \n2 \nUnit 2 : Self-Management Skills- IV \n10 \n2 \nUnit 3 : ICT Skills- IV \n10 \n2 \nUnit 4 : Entrepreneurial Skills- IV \n15 \n2 \nUnit 5 : Green Skills- IV \n5 \n2 \nTotal \n50 \n10 \nPART B \nSubject Specific Skills \nTheory \nPractical \nMarks \nUnit 1: Basic Occupational Safety \nand \nPrecautions \n30 \n10 \n15 \nUnit 2: Microphones and Loudspeakers \n15 \n10 \n05 \nUnit 3: Recorders \n25 \n20 \n10 \nUnit 4: TV System \n30 \n25 \n10 \nUnit 5: Modern Appliances \n20 \n25 \n10 \nTotal \n120 \n90 \n50 \nPART C \nPractical Work \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n30 \nPART D \nProject Work/Field Visit / Practical File/ \nStudent Portfolio \n \n10 \nTotal \n10 \n \nGRAND TOTAL \n260 \n100\n820-Electronics Technology - Class XII - 2026-2027 \nPage 3 of 7 \n \n4. CONTENTS \nPART A: EMPLOYABILITY SKILLS \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n10 \n2. \nUnit 2: Self-management Skills- IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n10 \n4. \nUnit 4: Entrepreneurial Skills- IV \n15 \n5. \nUnit 5: Green Skills- IV \n05 \n \nTOTAL \n50 \nNote: The detailed curriculum/ topics to be covered under Part A: Employability \nSkills canbe downloaded from CBSE website. \n \nPART B: SKILLS \n1. \nBasic Occupational Safety and Precautions \n2. \nMicrophones and Loudspeakers \n1. \nConstruction, working principle and frequency response of Carbon Microphone, Variable \nReactance Microphone, Capacitance Microphone, Piezo-Electric Microphone, Moving Coil \nMicrophone. \n2. \nFrequency ranges of musical instruments, Intensity and Dynamic Range, Constructions and \nworking principles of Moving Coil Loudspeaker, Impedance and Power Level of loudspeaker, \nFrequency characteristics of Practical Loudspeakers: Woofer, Tweeter, Squawker, and \nLoudspeaker Enclosure. \n3. \nRecorders \n1. \nAnalog and digital sound recording, Disk recording and reproduction, working principle with \nblock diagram of disk recording and reproduction. \n2. \nPrinciple of magnetic recording and playback, Requirement of bias, working principle with block \ndiagram of a tape recorder system. \n3. \nPrinciple of optical recording, CD/ DVD manufacturing and recording, CD/ DVD player system, \nAdvantages/ Disadvantages. \n4. \nSteps for Fault finding & Analysis. \n4. \nTV System \n1. \nWorking principle with block diagram of TV transmitter and receiver, Brief description with circuit \ndiagram: TV Tuner, Video IF stage, Sound stage, Picture tube & its associated circuit, Synchronizing \ncircuits, Horizontal & vertical deflection circuits, Remote control of a TV receiver, Idea of \nbandwidth, blanking and synchronization pulses, modulation scheme, monochrome system, \nextension of colour transmission. \n2. \nChannel and cable type TV system, Head end processor, Trunk & cable distribution system with \nblock diagram, Scrambling. \n3. \nIntroduction to LCD and LED TV systems, Introduction to high definition systems. \n4. \nSteps for Fault finding & Analysis. \n5. \nModern Appliances \n1. \nWorking principle and block diagram of following: \nMicrowave oven, Telephone, Fax machine, Printers, Scanners. \n2. \nSteps for Fault finding & Analysis.\n820-Electronics Technology - Class XII - 2026-2027 \nPage 4 of 7 \n \n5. TEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field \nvisits. Students should be taken to field visits for interaction with experts and to expose them to the various \ntools, equipment, materials, procedures and operations in the workplace. Special emphasis should be laid \non the occupational safety, health and hygiene during the training and field visits. \nCLASSROOM ACTIVITIES \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a variety of \ninstructional or teaching aids, such as audio-video materials, colour slides, charts, diagrams, models, \nexhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart training to the \nstudents. \nPRACTICAL WORK IN LABORATORY/WORKSHOP \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based \nstudies, exercises, etc. Equipment and supplies should be provided to enhance hands-on learning \nexperience of students. Only trained personnel should teach specialized techniques. A training plan that \nreflects tools, equipment, materials, skills and activities to be performed by the students should be \nsubmitted by the teacher to the Head of the Institution. \nSKILL ASSESSMENT (PRACTICAL) \nAssessment of skills by the students should be done by the assessors/examiners on the basis of practical \ndemonstration of skills by the candidate, Practical examination allows candidates to demonstrate that they \nhave the knowledge and understanding of performing a task. This will include hands-on practical exam and \nviva voce. For practical, there should be a team of two evaluators. The same team of examiners will conduct \nthe viva voce. \nProject Work (individual or group project) is a great way to assess the practical skills on a certain time \nperiod or timeline. Project work should be given on the basis of the capability of the individual to perform \nthe tasks or activities involved in the project. Projects should be discussed in the class and the teacher \nshould periodically monitor the progress of the project and provide feedback for improvement and \ninnovation. Field visits should be organised as part of the project work. Field visits can be followed by a \nsmall-group work/project work. When the class returns from the field visit, each group might be asked to \nuse the information that they have gathered to prepare presentations or reports of their observations. \nProject work should be assessed on the basis of practical file or student portfolio. \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, photos of products prepared by students in relation to the unit \nof competency. \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video \nrecording can be done at the time of viva voce. The number of external examiners would be decided as \nper the existing norms of the Board and these norms should be suitably adopted/adapted as per the \nspecific requirements of the subject. Viva voce should also be conducted to obtain feedback on the \nstudent’s experiences and learning during the project work/field visits. \n \n6. ORGANISATION OF FIELD VISIT/EDUCATIONAL TOURS \nIn field visits, children will go outside the classroom to obtain specific information from experts or to make \nobservations of the activities. A checklist of observations to be made by the students during the field visits \nshould be developed by the teachers for systematic collection of information by the students on the \nvarious aspects. Principals and Teachers should identify the different opportunities for field visits within a \nshort distance from the school and make necessary arrangements for the visits. At least three field visits \nshould be conducted in a year.\n820-Electronics Technology - Class XII - 2026-2027 \nPage 5 of 7 \n \n7. LIST OF EQUIPMENT AND MATERIAL \n1. Resistance - various values/sizes \n2. Condensers - various values/sizes \n3. Transformer such as Battery Eliminator mains and Battery charger \n4. Side cutting insulated pliers - 15 cm \n5. Long Nose insulated pliers 15 cm \n6. Wire cutter, spring type \n7. Screw driver set - 10 cm, 15 cm, 20 cm \n8. Soldering Iron - 35 W/220 V, Solder Wire - 60, 40 and soldering Iron Stand \n9. Tinned Copper Wire \n10. VARIAC Single Phase \n11. Wire Stripper \n12. Steel Scale \n13. Combination Pliers \n14. Crimping Tools \n15. Electronic Tool Kit \n16. Analog Oscilloscope: Oscilloscope 30 Mhz Dual Trace \n17. Digital Multimeter 4 & ½ Digits \n18. Function Generator 0.3 Mhz To 3 Mhz \n19. DC regulated Power Supply (30 V/5A) \n20. Frequency Counter 0.1 Hz to 1 GHz \n21. Universal IC Tester, Digital IC upto 40 pins \n22. Three Terminal Voltage Regulator Trainer Board \n23. Diode & Zener diode Characteristics Trainer Board \n24. Rectifier and Filter Trainer Board \n25. Transistors Characteristics Trainer Board (CE,CB, CC) \n26. TV pattern Generators \n27. Telephone Trainer Kit \n28. Mobile Communication Training System \n29. Communication Simulation Software \n30. Fax machine trainer \n31. Mobile Phone Trainer \n32. Single Phase Half Wave Control Rectifier Using SCR Board \n33. UPS Trainer \n34. Temperature Oven (0-200 Degree C) \n35. Different Microphones & Loudspeaker (for study of frequency response ofmicrophone) \n36. Microwave Oven \n37. Colored Television Demonstration kit \n38. CD/DVD Player Trainer Kit \n39. Stereo Cassette player demonstration cum trainer \n40. Facsimile Machine \n41. DTH System \n42. 8 bit digital multiplexer \n43. 1:8 line de-multiplexer \n44. Multiplex two BCD numbers to seven segment display \n45. 3 bit asynchronous up-counter3 bit synchronous down counter \n46. Universal Shift Registers having SISO, SIPO, PIPO, PISO \n47. Encoder/decoder trainer \n48. Digital IC Testers \n49. Digital IC Power Supplies (+/- 5V/1A, +/-12V/1A/+-15V, 1A) \n50. GSM trainer kit \n51. CDMA trainer kit\n820-Electronics Technology - Class XII - 2026-2027 \nPage 6 of 7 \n \n52. Digital Trainer Kit with following on board facility: \ni. \nBreadboard, \nii. \n16 Nos. of input toggle switches, Sixteen nos. of LED output provision, \niii. \nFixed +5V@1A and variable ±15V@500mA power supply, Pulser switch for clock input, \niv. \nVariable frequency clock signal (1Hz to1KHz), Digital voltmeter \nv. \nSeven segment display \n53. TTL IC 7400(NAND), 7402 (NOR), 7404(NOT), 7408(AND), 7432(OR), 7486(XOR) \nTTL IC 7446 (Common anode decoder driver), IC 7448 (Common cathode decoder driver), seven \nsegment display (both common anode: MAN 3910 or equivalent and common cathode: MAN 3940 \norequivalent) \n53. 8085 microprocessor based microprocessor trainer kit. \n \n8. PRACTICAL GUIDELINES \n1. Assembly study and fault finding of an audio amplifier. \n2. Assembly, study and fault finding of a graphicequaliser. \n3. Study working, assembly & fault finding of Colour TV. \n4. Study working, assembly & fault finding of LCDTV. \n5. To trace the fault in the following panel controls and correctthem: \na. Volume control. \nb. Brightness control. \nc. Contrast control. \nd. Vertical hold control. \n6. To trace the following stages of T.V. set: \na. Tuner. \nb. MF stage. \nc. Video detector. \nd. Video amplifier. \ne. Sound I.T. \nf. \nSound output stage. \ng. Syne separator. \nh. Vertical oscillator. \ni. \nHorizontal oscillator. \nj. \nLine Driver Stage. \nk. Line output transformer. \nl. \nPower supply. \n7. To find fault for the following defects: \na. No picture no sound. \nb. Sound present, picture missing. \nc. Picture rolls vertically. \nd. Picture tears(Horizontal oscillator). \ne. Faults in tuner/IF/power supply. \n8. Study working, assembly & fault finding of tape recorder system. \n9. Study working, assembly & fault finding of CD/DVD player system. \n10. Study working, assembly & fault finding of Printer. \n11. Study working, assembly & fault finding of Scanner. \n12. Study working, assembly & fault finding of Microwaveoven. \n13. Study working, assembly & fault finding of Telephone. \n14. Study working, assembly & fault finding of Fax Machine. \n15. Study working, assembly & fault finding of UPSsystem. \n16. Study working, assembly & fault finding of DTH kit.\n820-Electronics Technology - Class XII - 2026-2027 \nPage 7 of 7 \n \nGUIDELINES FOR EXAMINERS \n• \nExaminer should check-up at least one result of the examinee. \n• \nAs far as possible each examinee should be given separate experiment. \n• \nMain emp has is should be given on the evaluation of work done, professional competency, workmanship \nand finish etc. \n• \nThe object of Viva-voce should be to ascertain the depth of knowledge and understanding of the student. \nQuestions asked should pertain to experiment per formed by the student as well as the experiments. \n• \nEach student may be allotted two experiments from the list and he/she may perform any one out of the \ntwo. \n \nGENERAL INSTRUCTIONS TO THE STUDENTS/CANDIDATES \n• \nNote: Before starting the practical, student should submit the connection diagram along with the list to \nequipment to the examiner. \n• \nEach student should check-up the material/tools and equipments as per the requirement of the \nexamination. \n• \nEach student should make himself/herself clear in understanding the question paper fully before its \ncommencement. \n• \nAny student who finds any problem handling the machine/equipment should immediately contact his/her \nInvigilator/Examiner. \n• \nEach student must do all the required operations himself/herself without the help of other students. \n• \nEach student should bear in mind the time allotted to him/her so that he/she may finish his/her jobs \nwithin the stipulated time."
+}

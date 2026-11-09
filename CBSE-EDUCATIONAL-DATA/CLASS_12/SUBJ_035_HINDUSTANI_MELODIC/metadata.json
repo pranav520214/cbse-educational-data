@@ -1,0 +1,40 @@
+{
+  "subject_code": "035",
+  "subject_name": "Hindustani Melodic",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_035_HINDUSTANI_MELODIC",
+  "directory_path": "CLASS_12/SUBJ_035_HINDUSTANI_MELODIC",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Hindustani Melodic",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Melodic_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Hindustani Melodic",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Melodic_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "82f2d7f21910470dab1c3262c7e861fa87449151912efc16ec0f0a4dbb5eedab",
+    "file_size_bytes": 407775,
+    "units_extracted": 0,
+    "chapters_extracted": 24
+  }
+}

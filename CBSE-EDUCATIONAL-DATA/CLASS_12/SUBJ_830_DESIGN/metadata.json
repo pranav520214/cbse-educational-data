@@ -1,0 +1,77 @@
+{
+  "subject_code": "830",
+  "subject_name": "Design",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Design",
+  "directory_name": "SUBJ_830_DESIGN",
+  "directory_path": "CLASS_12/SUBJ_830_DESIGN",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Design (829-TEXTILE_DESIGN-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/829-TEXTILE_DESIGN-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Skill Curriculum: Design (830-DESIGN.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/830-DESIGN.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Skill Curriculum: Design (848-DesignThinking_Innovation.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/848-DesignThinking_Innovation.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Design",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/829_TEXTILE_DESIGN_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Design",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/830_DESIGN_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Design",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/829_TEXTILE_DESIGN_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      },
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Design",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/830_DESIGN_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 7,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "748a77273ef452c828edbad6193566f38867897eb85961d2f644c5712c52a1fc",
+    "file_size_bytes": 170135,
+    "units_extracted": 39,
+    "chapters_extracted": 9
+  }
+}

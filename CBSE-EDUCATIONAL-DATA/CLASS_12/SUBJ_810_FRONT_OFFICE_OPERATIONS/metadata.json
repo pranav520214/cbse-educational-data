@@ -1,0 +1,33 @@
+{
+  "subject_code": "810",
+  "subject_name": "Front Office Operations",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "directory_name": "SUBJ_810_FRONT_OFFICE_OPERATIONS",
+  "directory_path": "CLASS_12/SUBJ_810_FRONT_OFFICE_OPERATIONS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Front Office Operations (810-FRONT_OFFICE_OPERATIONS-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "c9a6cb555e588248e2a42ea9116593b349ed6a57699df2f3cb81d0da12e35cf0",
+    "file_size_bytes": 133616,
+    "units_extracted": 15,
+    "chapters_extracted": 41
+  }
+}

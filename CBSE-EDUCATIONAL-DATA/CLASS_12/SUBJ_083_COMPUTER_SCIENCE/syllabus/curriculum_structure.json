@@ -1,0 +1,75 @@
+{
+  "subject_name": "Computer Science",
+  "subject_code": "083",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Science / Computing",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+  "sha256": "7aef221c10543ba15ab9ba693852ffbbfc3fff81807f8754e23c36bf311a142e",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Computational Thinking and Programming - 2",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Computer Networks",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Database Management",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Prerequisites"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Learning Outcomes"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Distribution of Marks:"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit wise Syllabus"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Practical"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Python program (60% logic + 20%"
+    },
+    {
+      "chapter_number": 2,
+      "title": "SQL queries (4 queries based on one"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Suggested Practical List:"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Suggested Reading Material"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Project"
+    }
+  ],
+  "full_text_excerpt": "Computer Science (2024-25) \nCLASS XII Code No. 083 \n1. Prerequisites \n Computer Science- Class XI \n2. Learning Outcomes \n Student should be able to \n a) apply the concept of function. \n b) explain and use the concept of file handling. \n c) use basic data structure: Stacks \n d) explain basics of computer networks. \n e) use Database concepts, SQL along with connectivity between Python and SQL. \n \n3. Distribution of Marks: \nUnit No.\nUnit Name \nMarks \nPeriods\n \nTheory \nPractical\n1 \nComputational Thinking and \nProgramming - 2 \n40 \n70 \n50 \n2 \nComputer Networks \n10 \n15 \n… \n3 \nDatabase Management \n20 \n25 \n20 \n \nTotal \n70 \n110 \n70 \n \n4. Unit wise Syllabus \nUnit 1: Computational Thinking and Programming - 2 \n● Revision of Python topics covered in Class XI. \n● Functions: types of function (built-in functions, functions defined in module, user \ndefined functions), creating user defined function, arguments and parameters, \ndefault parameters, positional parameters, function returning value(s), flow of \nexecution, scope of a variable (global scope, local scope) \n● Exception Handling: Introduction, handling exceptions using try-except-finally \nblocks \n● Introduction to files, types of files (Text file, Binary file, CSV file), relative \nand absolute paths\n● Text file: opening a text file, text file open modes (r, r+, w, w+, a, a+), closing a text \nfile, opening a file using with clause, writing/appending data to a text file using \nwrite() and writelines(), reading from a text file using read(), readline() and \nreadlines(), seek and tell methods, manipulation of data in a text file \n● Binary file: basic operations on a binary file: open using file open modes (rb, rb+, \nwb, wb+, ab, ab+), close a binary file, import pickle module, dump() and load() \nmethod, read, write/create, search, append and update operations in a binary file \n● CSV file: import csv module, open / close csv file, write into a csv file using \nwriter(),writerow(),writerows() and read from a csv file using reader() \n● Data Structure: Stack, operations on stack (push & pop), implementation of stack \nusing list. \n \nUnit 2: Computer Networks \n● Evolution of networking: introduction to computer networks, evolution of networking \n(ARPANET, NSFNET, INTERNET) \n● Data communication terminologies: concept of communication, components of \ndata communication (sender,receiver, message, communication media, \nprotocols), measuring capacity of communication media (bandwidth, data \ntransfer rate), IP address, switching techniques (Circuit switching, Packet \nswitching) \n● Transmission media: Wired communication media (Twisted pair cable, Co-axial \ncable, Fiber-optic cable), Wireless media (Radio waves, Micro waves, Infrared \nwaves) \n● Network devices (Modem, Ethernet card, RJ45, Repeater, Hub, Switch, Router, \nGateway, WIFI card) \n● Network topologies and Network types: types of networks (PAN, LAN, MAN, \nWAN), networking topologies (Bus, Star, Tree) \n● Network protocol: HTTP, FTP, PPP, SMTP, TCP/IP, POP3, HTTPS, TELNET, \nVoIP \n● Introduction to web services: WWW, Hyper Text Markup Language (HTML), \nExtensible Markup Language (XML), domain names, URL, website, web \nbrowser, web servers, web hosting \nUnit 3: Database Management \n● Database concepts: introduction to database concepts and its need \n● Relational data model: relation, attribute, tuple, domain, degree, cardinality, keys \n(candidate key, primary key, alternate key, foreign key) \n● Structured Query Language: introduction, Data Definition Language and Data \nManipulation Language, data type (char(n), varchar(n), int, float, date), constraints \n(not null, unique, primary key), create database, use database, show databases, \ndrop database, show tables, create table, describe table, alter table (add and \nremove an attribute, add and remove primary key), drop table, insert, delete, select, \noperators (mathematical, relational and logical), aliasing, distinct clause, where \nclause, in, between, order by, meaning of null, is null, is not null, like, update \ncommand, delete command, aggregate functions (max, min, avg, sum, count), \ngroup by, having clause, joins: cartesian product on two tables, equi-join and natural \njoin \n● Interface of python with an SQL database: connecting SQL with Python, performing\ninsert, update, delete queries using cursor, display data by using connect(), \ncursor(), execute(), commit(), fetchone(), fetchall(), rowcount, creating database \nconnectivity applications, use of %s format specifier or format() to perform queries \n5. Practical \n \nS.No \nUnit Name \nMarks \n(Total=30) \n1 \n \n \nLab Test: \n1. Python program (60% logic + 20% \ndocumentation + 20% code quality) \n8 \n2. SQL queries (4 queries based on one \nor two tables) \n4 \n2 \nReport file: \n Minimum 15 Python programs. \n SQL Queries - Minimum 5 sets using \none table / two tables. \n Minimum 4 programs based on \nPython - SQL connectivity \n7 \n3 \nProject (using concepts learnt in Classes 11 \nand 12) \n8 \n4 \nViva voce \n3 \n \n6. Suggested Practical List: \nPython Programming \n● Read a text file line by line and display each word separated by a #. \n● Read a text file and display the number of vowels/consonants/uppercase/lowercase \ncharacters in the file. \n● Remove all the lines that contain the character 'a' in a file and write it to another \nfile. \n● Create a binary file with name and roll number. Search for a given roll number and \ndisplay the name, if not found display appropriate message. \n● Create a binary file with roll number, name and marks. Input a roll number and \nupdate the marks. \n● Write a random number generator that generates random numbers between 1 and \n6 (simulates a dice). \n● Write a Python program to implement a stack using list. \n● Create a CSV file by entering user-id and password, read and search the password \nfor given userid.\nDatabase Management \n● Create a student table and insert data. Implement the following SQL commands on \nthe student table: \no ALTER table to add new attributes / modify data type / drop attribute \no UPDATE table to modify data \no ORDER By to display data in ascending / descending order \no DELETE to remove tuple(s) \no GROUP BY and find the min, max, sum, count and average \n● Similar exercise may be framed for other cases. \n● Integrate SQL with Python by importing suitable module. \n7. Suggested Reading Material \n● NCERT Textbook for COMPUTER SCIENCE (Class XII) \n● Support Materials on the CBSE website. \n8. Project \nThe aim of the class project is to create something that is tangible and useful using \nPython file handling/ Python-SQL connectivity. This should be done in groups of two to \nthree students and should be started by students at least 6 months before the submission \ndeadline. The aim here is to find a real world problem that is worthwhile to solve. \nStudents are encouraged to visit local businesses and ask them about the problems that \nthey are facing. For example, if a business is finding it hard to create invoices for filing \nGST claims, then students can do a project that takes the raw data (list of transactions), \ngroups the transactions by category, accounts for the GST tax rates, and creates \ninvoices in the appropriate format. Students can be extremely creative here. They can \nuse a wide variety of Python libraries to create user friendly applications such as games, \nsoftware for their school, software for their disabled fellow students, and mobile \napplications, of course to do some of these projects, some additional learning is required; \nthis should be encouraged. Students should know how to teach themselves. \nThe students should be sensitized to avoid plagiarism and violations of copyright issues \nwhile working on projects. Teachers should take necessary measures for this."
+}

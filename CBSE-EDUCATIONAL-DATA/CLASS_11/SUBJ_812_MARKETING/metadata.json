@@ -1,0 +1,49 @@
+{
+  "subject_code": "812",
+  "subject_name": "Marketing",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Management",
+  "directory_name": "SUBJ_812_MARKETING",
+  "directory_path": "CLASS_11/SUBJ_812_MARKETING",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Marketing (812-MARKETING_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Marketing",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/812_MARKETING_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 11 Skill MARKING_SCHEME: Marketing",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/812_MARKETING_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "8860149958d523a1ad465449ad8182938e51f76f4ce9caab287e697dea43f301",
+    "file_size_bytes": 152499,
+    "units_extracted": 10,
+    "chapters_extracted": 15
+  }
+}

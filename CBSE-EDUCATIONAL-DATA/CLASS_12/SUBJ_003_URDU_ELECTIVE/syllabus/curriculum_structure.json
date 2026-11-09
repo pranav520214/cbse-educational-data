@@ -1,0 +1,291 @@
+{
+  "subject_name": "Urdu Elective",
+  "subject_code": "003",
+  "class": "12",
+  "group": "Group-L",
+  "stream": "Languages",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_Elective_SrSec_2024-25.pdf",
+  "sha256": "b6ad527c03c8e7b586e88c92381babf64728c89100f0b900f52b6d80f5c8c83e",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [],
+  "chapters": [
+    {
+      "chapter_number": 8,
+      "title": "Prose"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Poetry"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Suppl. Reader"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Three out of Five Long Answer type questions on the areas"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Two short answer type questions on History of Urdu Literature"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Five objective type questions on History of Urdu Literature"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Speaking and listening skill"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Project Work"
+    },
+    {
+      "chapter_number": 1,
+      "title": "GULISTAN-E-ADAB (Barahvein Jama’at Ke Liye) published by NCER"
+    },
+    {
+      "chapter_number": 2,
+      "title": "KHAYABAN-E-URDU (Supplementary Reader) Published by NCERT, Ne"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Urdu Adab Ki Tareekh, Published by NCERT, New Delhi"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Urdu Qawaid, Published by NCERT, New Delhi"
+    },
+    {
+      "chapter_number": 1,
+      "title": "To comprehend the explain content."
+    },
+    {
+      "chapter_number": 2,
+      "title": "To do discussions on topics taken from the textbooks."
+    },
+    {
+      "chapter_number": 3,
+      "title": "To listen to News bulletins and to develop the ability to dis"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Formal group discussions and their reporting."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Development of art of formal public speaking."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Listening of lectures and talks and to extract relevant and u"
+    },
+    {
+      "chapter_number": 7,
+      "title": "To listen to business news and to be able to extract relevant"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Organization of Debates."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Poem recitation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Group Discussions - Any relevant topic"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Programme Anchoring"
+    },
+    {
+      "chapter_number": 5,
+      "title": "To present any event"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Story Telling"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Story Completion"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Role Play"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Reporting"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Picture Narration - Students are asked to tell the story taki"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Picture Description - A single picture may be given to studen"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Organization of a Seminar."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Presentation of a book review/ a play a short story or any ot"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Poetry Reading and reciting to be followed by interpretative"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Critical review of a film or a play."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Teacher’s may develop their own rubrics to assess the perform"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The practice of listening & speaking skills should be done th"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The record of the activities conducted and the marks given mu"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Content (Max, Word limit 1000) 2 Marks 2. Language & Vocabula"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Review of any prescribed textbook"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Critical review of any poem included in the prescribed textbo"
+    },
+    {
+      "chapter_number": 3,
+      "title": "History of Urdu literature"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Nationalism"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Freedom struggle of India"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Secularism"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Environmental projection"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Rivers of India"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Mountains of India"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Seasons and their Impact on life"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Our Soldiers"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Our Freedom Fighters (any one may be given)"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Our Villages"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Farmers of India"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Biography & contribution of any author of the prescribed text"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Global Warming"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Industrialization"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Role of technology in today’s life"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Role of multimedia in Education"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Condition of Education in India"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Inclusive Education"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Population Explosion"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Co-operative learning"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Importance of Skill development"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Importance of Sports in life"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Importance of Science and Technology in life"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Cyber Safety"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Merits and demerits of advertisement"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Importance of Newspaper and Magazines"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Swachh Bharat Abhiyan"
+    }
+  ],
+  "full_text_excerpt": "Prescribed Books:\n1) GULISTAN-E-ADAB (Gyarahvin Jama’at Ke Liye) published by NCERT, New Delhi\nNote: Following topics has been deleted: (1) Yadash Bakhairia, (2) Sharab-e-Shauque seen Sarshar hain\nham (Ghazal) Wali Dakkani, (3) Hai Ghalat gar guman mein kuch hai (Ghazal) Khawaja Meer Dard, (4)\nRaftagan mein jahan ke ham bhi hein (Ghazal) Meer, (5) Sun to sahi jahan mein hai tera fasana kaya\n(Ghazal) Aatesh, (6) Phir mujhe didaye tar yad aaya (Ghazal) Mirza Ghalib, (7) Albeli subh (Nazm) Josh\nMalihabadi, (8) Chand taro ka ban (Nazm) Makhdoom, (9) Tanhayee (Nazm) Faiz Ahmad Faiz, (10)\nRubaiyan - Amjad Hydrabadi\n2) KHAYABAN-E-URDU (Supplementary Reader) Published by NCERT, New Delhi\nNote: Following topics has been deleted: (1) Rotiyan (Nazm), (2) Meeraji (geet), (3) Manzoom Drama\n(4)Taweel Nazm\nReferences:\n1) Urdu Adab Ki Tareekh, Published by NCERT, New Delhi\n2) Urdu Qawaid, Published by NCERT, New Delhi\nURDU (Elective) (Code: 003)\nSYLLABUS\nCLASS - XII (APRIL 2024 - MARCH 2025)\nOne Paper, Time: 3 hours Marks: 80+20\nSection\nContent\nMarks\nPeriods\nSection A: Textbooks and Supplementary Reader\n50\n122\n8. Prose\nAll the lessons from the book, Gulistan-E-Adab are to be studied.\n45\ni. One short extract from the prescribed lesson followed by\nshort answer type questions for comprehension.\n10\nii. One essay type question in about 100 words on content/\ntheme (internal choice) (Value Based/ general)\n05\niii. Two short answer type questions on the content of the poem.\n05\n9. Poetry\nAll the poets and their works from the book Gulistan-E-Adab are\nto be studied.\n52\n(iv) One short extracts from prescribed lessons followed by\nshort answer type questions for comprehension.\n10\n(v) An essay type question in about 100 words on the content/\ntheme (internal choice) (Value Based/ general)\n05\n(vi) Two short answer type questions on the content of the\npoem.\n05\n10. Suppl. Reader\nAll the lessons from the book. Khayaban-E-Urdu are to be\nstudied. (Note (a): Detail is given in the end)\n25\n(i) One out of two essay type question\n04\n(ii) Two out of four short answer type questions\n06\nSection B:\nHistory of Urdu Literature\n30\n38\n1.\nThree out of Five Long Answer type questions on the areas\nnumerated be\n15\n(i) Elementary knowledge of the origin and development of\nUrdu Language (Fort William College, Delhi school &\nLucknow school)\n(ii) Live and contributions of the authors and poets covered in\nthe prescribed Text Book published by the NCERT.\n(iii) Adabi Tehrihat (Sir Syed Tehreek and Taraqqi Pasand Adabi\nTehreek)\n2.\nTwo short answer type questions on History of Urdu Literature\n10\n3.\nFive objective type questions on History of Urdu Literature\n05\nTotal\n80\n160\nSection C:\n20\n20\n1.\nSpeaking and listening skill\n10\n2.\nProject Work\n10\nGrand Total\n100\n180\nPrescribed Books:\n1. GULISTAN-E-ADAB (Barahvein Jama’at Ke Liye) published by NCERT, New Delhi\nNote: Following topics has been deleted: (1) Maktoob-e-Galib Haqeer ke Nam, (2) Umrao jan (Mazmoon), (3)\nBijuka (Afsana), (4) Main, woh ( Afsana), (5) (Ghazal) Baani, (6) Mulke Be saharo-sham (Nazm), (7) Yadnagar\n(Nazm), (8) Waqt ka Tarana (Nazm).\n2. KHAYABAN-E-URDU (Supplementary Reader) Published by NCERT, New Delhi\nNote: Following topics has been deleted: (1) Bewa (Novel) Prem chand, (2) Yahoodi ki Larki (Drama) Agha\nHashr Kashmiri, (3) Marhoom ki Yaad Mein (Inshayia) Petras Bukhari.\nReferences:\n1. Urdu Adab Ki Tareekh, Published by NCERT, New Delhi\n2. Urdu Qawaid, Published by NCERT, New Delhi\nSection C-1.\nDETAILS OF LISTENING & SPEAKING SKILLS\nLISTENING (SUGGESTIVE ACTIVITES)\n1. To comprehend the explain content.\n2. To do discussions on topics taken from the textbooks.\n3. To listen to News bulletins and to develop the ability to discuss informally on wide ranging\nissues like current, National and International affairs, sports, business and any other relevant\nissue.\n4. Formal group discussions and their reporting.\n5. Development of art of formal public speaking.\n6. Listening of lectures and talks and to extract relevant and useful information and to do\npresentations.\n7. To listen to business news and to be able to extract relevant important information.\nSPEAKING (SUGGESTVIE ACTIVITES)\n1. Organization of Debates.\n2. Poem recitation\n3. Group Discussions - Any relevant topic\n4. Programme Anchoring\n5. To present any event\n6. Story Telling\n7. Story Completion\n8. Role Play\n9. Reporting\n10. Picture Narration - Students are asked to tell the story taking place in the sequential pictures\nby paying attention to the criteria provided by the teacher as a Rubric.\n11. Picture Description - A single picture may be given to student/ group of student’s and they\nmay ask to describe the picture.\n12. Organization of a Seminar.\n13. Presentation of a book review/ a play a short story or any other given by the teacher to be\nfollowed by a Q & A session.\n14. Poetry Reading and reciting to be followed by interpretative tasks based on literary analysis\nof the content.\n15. Critical review of a film or a play.\nNote:\n1. Teacher’s may develop their own rubrics to assess the performance of student objectively. 2.\nIt is recommended that listening & speaking skills should be regularly practiced in the class.\nGUIDELINES FOR ASSESSMENT IN LISTENING & SPEAKING SKILLS\nParameters for Assessment - The listening & speaking skills are to be assessed on the\nfollowing parameters:\ni) Interactive competence (Institution & turn taking relevance to the topic) ii)\nFluency (cohesion, coherence and speed of delivery)\niii) Pronunciation\niv) Language (accuracy & vocabulary)\nNote:\n1. The practice of listening & speaking skills should be done throughout the academic year. 2.\nThe final assessment of the skills is to be done as per the convenience and schedule of the\nschool.\n3. The record of the activities conducted and the marks given must be kept for three months\nafter the declaration of result for any random checking by the Board (No recording of the\nspeaking skill is to be done).\nSection C-2\nDETAILS OF PROJECT WORK\nGUIDELINES FOR THE EVALUATION OF PROJECT - 10 MARKS\n1. Content (Max, Word limit 1000) 2 Marks 2. Language & Vocabulary 1 Mark 3. The\nPictures and data presented based on the topic 1 Mark 4. Presentation 2 Marks 5. Viva on\nthe project 4 Marks TOTAL= 10 MARKS\nSOME SUGGESTIVE PROJECTS\n1. Review of any prescribed textbook\n2. Critical review of any poem included in the prescribed textbook\n3. History of Urdu literature\n4. Nationalism\n5. Freedom struggle of India\n6. Secularism\n7. Environmental projection\n8. Rivers of India\n9. Mountains of India\n10. Seasons and their Impact on life\n11. Our Soldiers\n12. Our Freedom Fighters (any one may be given)\n13. Our Villages\n14. Farmers of India\n15. Biography & contribution of any author of the prescribed text book\n16. Global Warming\n17. Industrialization\n18. Role of technology in today’s life\n19. Role of multimedia in Education\n20. Condition of Education in India\n21. Inclusive Education\n22. Population Explosion\n23. Co-operative learning\n24. Importance of Skill development\n25. Importance of Sports in life\n26. Importance of Science and Technology in life\n27. Cyber Safety\n28. Merits and demerits of advertisement\n29. Importance of Newspaper and Magazines\n30. Swachh Bharat Abhiyan\nNote: Emphasis may be given on the use of computer in the preparation and presentation of\nproject."
+}

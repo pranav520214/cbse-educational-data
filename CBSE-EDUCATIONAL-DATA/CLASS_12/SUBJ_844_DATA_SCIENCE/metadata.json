@@ -1,0 +1,33 @@
+{
+  "subject_code": "844",
+  "subject_name": "Data Science",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Emerging Tech",
+  "directory_name": "SUBJ_844_DATA_SCIENCE",
+  "directory_path": "CLASS_12/SUBJ_844_DATA_SCIENCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Data Science (844-DATASCIENCE.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/844-DATASCIENCE.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "a1f62e81e1a2616cd1b3d79f28f19ec04329d2fc78c59056754d946e010fb079",
+    "file_size_bytes": 94944,
+    "units_extracted": 5,
+    "chapters_extracted": 0
+  }
+}

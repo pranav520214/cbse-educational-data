@@ -1,0 +1,40 @@
+{
+  "subject_code": "803",
+  "subject_name": "Web Application",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Computing",
+  "directory_name": "SUBJ_803_WEB_APPLICATION",
+  "directory_path": "CLASS_11/SUBJ_803_WEB_APPLICATION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Web Application (803-WebApplication_XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Skill Curriculum: Web Application (803-WebApplication_XII_updated.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XII_updated.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "39b990b75221dd95aea9f8066a2f99055db5b9f289f2883dc1ba5c700471a7f6",
+    "file_size_bytes": 277524,
+    "units_extracted": 10,
+    "chapters_extracted": 48
+  }
+}

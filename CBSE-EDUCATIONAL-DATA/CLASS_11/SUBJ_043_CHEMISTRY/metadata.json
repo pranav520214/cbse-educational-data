@@ -1,0 +1,55 @@
+{
+  "subject_code": "043",
+  "subject_name": "Chemistry",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Science",
+  "directory_name": "SUBJ_043_CHEMISTRY",
+  "directory_path": "CLASS_11/SUBJ_043_CHEMISTRY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Chemistry",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Chemistry",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 11 Chemistry",
+        "url": "https://ncert.nic.in/textbook/pdf/kech101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 11 Chemistry Part 2",
+        "url": "https://ncert.nic.in/textbook/pdf/kech201.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "3d33e9eb502d192a5de11df04e3be2432cc4590975b64bcbe2e2f1468f58e4f2",
+    "file_size_bytes": 931649,
+    "units_extracted": 9,
+    "chapters_extracted": 16
+  }
+}

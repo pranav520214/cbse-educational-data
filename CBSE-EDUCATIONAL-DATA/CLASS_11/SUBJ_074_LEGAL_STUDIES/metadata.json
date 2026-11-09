@@ -1,0 +1,40 @@
+{
+  "subject_code": "074",
+  "subject_name": "Legal Studies",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Humanities / Elective",
+  "directory_name": "SUBJ_074_LEGAL_STUDIES",
+  "directory_path": "CLASS_11/SUBJ_074_LEGAL_STUDIES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Legal Studies",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/LegalStudies_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Legal Studies",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/LegalStudies_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "5b5efd8df0daa8adf439d9f92fe4d817a63f24d0e6ecd9c75b6bb5900c11bfd0",
+    "file_size_bytes": 329359,
+    "units_extracted": 5,
+    "chapters_extracted": 4
+  }
+}

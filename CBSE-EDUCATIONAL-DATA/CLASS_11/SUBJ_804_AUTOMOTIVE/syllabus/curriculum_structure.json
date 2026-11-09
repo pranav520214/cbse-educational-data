@@ -1,0 +1,327 @@
+{
+  "subject_name": "Automotive",
+  "subject_code": "804",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE.pdf",
+  "sha256": "f73efd35209f0a79a1c4fa08881c04f8189fc9b328b4e598d5855b6df5c7d80a",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Regular Maintenance of an Engine",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Regular Maintenance of Transmission",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Regular Maintenance of Gear Box",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Servicing of the Wheels",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Regular Maintenance of Tubes and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Regular Maintenance of Brakes",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "CommunicationSkills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-managementSkills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "InformationandCommunicationTechnologySkills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "EntrepreneurialSkills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "GreenSkills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Regular Maintenance of Transmission System",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Regular Maintenance of Tubes and Tyres",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Regular Maintenance of",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Two Post lift"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Air compressor"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Wheel balancer"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Bench vice"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Work tables"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Bench grinder"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Oil draining & filling equipment"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Cooling system tester"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Multimeter"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Hydrometer"
+    },
+    {
+      "chapter_number": 11,
+      "title": "BC clamp meter"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Coolant tester"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Battery & charging system tester"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Diagnostic tool(genesis Evo)"
+    },
+    {
+      "chapter_number": 15,
+      "title": "General hand tools"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Pneumatic tools"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Torque wrenches"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Car seat covers"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Steering covers"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Gear Knob covers"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Fender covers/kits"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Floor mats"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Cotton gloves"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Hardtoedboots"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Sun glasses(3m)"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Bump caps"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Air filter testing machine"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Hydraulic press"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Hydraulic jacks"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Vehicle safety stands"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Parts washing station car"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Pullers"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Sliding hammer"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Wheel aligner"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Head Light beam aligner (optical type)"
+    },
+    {
+      "chapter_number": 36,
+      "title": "A/c Machine"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Air Inflator/Tyre Inflating machine"
+    },
+    {
+      "chapter_number": 38,
+      "title": "A/c Leakage Tester"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Old car"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Private national and multinational automobile companies"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Service stations"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Private transport companies"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1:CommunicationSkills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2:Self-managementSkills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3:InformationandCommunicationTechnologySkills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4:EntrepreneurialSkills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5:GreenSkills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1:Regular Maintenance of an Engine"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Regular Maintenance of Transmission System"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3:Regular Maintenance of Gear Box"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Servicing of the Wheels"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5:Regular Maintenance of Tubes and Tyres"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Unit 6:Regular Maintenance of Brakes"
+    }
+  ],
+  "full_text_excerpt": "CBSE| DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nAUTOMOTIVE (SUBJECT CODE 804) \nJOB ROLE: Automotive Service Technician \nClass XI & XII \n \nCOURSE OVERVIEW: \nThis course is a planned sequence of instructions consisting of Units meant for \ndeveloping employability and vocational competencies of students of Class XI & XII \nopting for vocational subject along with general education subjects. The unit-wise \ndistribution of hours and marks for Class XI & XII is as follows \n \nOBJECTIVES OF THE COURSE: \nIn this course, followings are the main objectives of this course. \n• \nCommunicate effectively with the customers. \n• \nIdentify the principal components of an automotive system. \n• \nIdentify and control hazards in the work place that pose a danger or threat to their \nsafety or, that of others. \n• \nDemonstrate self-management skills. \n• \nDemonstrate the ability to provide a self analysis in context of entrepreneurial \nskills and abilities. \n• \nDemonstrate the knowledge of the importance of green skills in meeting the \nchallenges of sustainable development and environment protection. \n• \nIdentify and demonstrate safe use of hand and power tools/equipment used in \nvehicle service station/workshop \n• \nRecognize the benefits of great customer service; \n• \nProvide customers necessary information appropriately and systematically; \n• \nUse techniques to provide services based on customer’s needs and wants; \n• \nAdminister first aid to a casualty with small cuts, grazes, bruises, external \nbleeding, minor burns and scalds \n \nSALIENT FEATURES: \n• \nAutomotive as a vehicle unit. \n• \nSystems/sub systems & components. \n• \nAutomotive electronics for safety, pollution control, fuel efficiency and comforts. \n• \nOther related areas of automotive electronics for engine management, \ndiagnostics, repair etc. \n \n \n \n \n \n \n \n804-Automotive-Class XI-XII-2026-2027 \nPage 1 of 12\nLIST OF EQUIPMENT AND MATERIALS: \nThe list given below is suggestive and an exhaustive list should be prepared by the \nvocational teacher. Only basic tools, equipment and accessories should be procured \nby the Institution so that the routine tasks can be performed by the students regularly \nfor practice and acquiring adequate practical experience. \nTeaching/Training Aids: \n1. Two Post lift \n2. Air compressor \n3. Wheel balancer \n4. Bench vice \n5. Work tables \n6. Bench grinder \n7. Oil draining & filling equipment \n8. Cooling system tester \n9. Multimeter \n10. Hydrometer \n11. BC clamp meter \n12. Coolant tester \n13. Battery & charging system tester \n(Megatronics) \n14. Diagnostic tool(genesis Evo) \n15. General hand tools \n16. Pneumatic tools \n17. Torque wrenches \n18. Car seat covers \n19. Steering covers \n20. Gear Knob covers \n21. Fender covers/kits \n22. Floor mats \n23. Cotton gloves \n24. Hardtoedboots \n25. Sun glasses(3m) \n26. Bump caps \n27. Air filter testing machine \n28. Hydraulic press \n29. Hydraulic jacks \n30. Vehicle safety stands \n31. Parts washing station car \n32. Pullers \n33. Sliding hammer \n34. Wheel aligner \n35. Head Light beam aligner (optical type) \n36. A/c Machine \n37. Air Inflator/Tyre Inflating machine \n(Digital Type) \n38. A/c Leakage Tester \n39. Old car \n \nCAREER OPPORTUNITIES: \nAutomobile engineering is a huge industry. There is great number of employment \nopportunities in the following fields: \n1. Private national and multinational automobile companies \n2. Service stations \n3. Private transport companies \n \nVERTICAL MOBILITY: \nAfter 12\nthstandard, student can opt for graduation in science, commerce and take \nAutomotive as specialization, following career options are available in field. \n \nCURRICULUM: \nThis course is a planned sequence of instructions consisting of Units meant for \ndeveloping employability and Skills competencies of students of Class XI and XII \nopting for Skills subject along with other subjects \n \n804-Automotive-Class XI-XII-2026-2027 \nPage 2 of 12\nAUTOMOTIVE (SUBJECT CODE 804) \nClass XI (Session-2026-2027) \nTotal Marks: 100 (Theory- 60 + Practical- 40) \n \n \nUNITS \nNO. OF HOURS \nFor Theory and \nPractical \nMAX. MARKS \nFor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills-III \n13 \n2 \nUnit 2: Self-Management Skills-III \n07 \n2 \nUnit 3: ICT Skills-III \n13 \n2 \nUnit 4:Entrepreneurial Skills-III \n10 \n2 \nUnit 5:Green Skills-III \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit 1:Regular Maintenance of an Engine \n45 \n20 \nUnit 2: Regular Maintenance of Transmission \nSystem \n25 \n7 \nUnit 3:Regular Maintenance of Gear Box \n20 \n5 \nUnit 4: Servicing of the Wheels \n10 \n5 \nUnit 5:Regular Maintenance of Tubes and \nTyres \n10 \n5 \nUnit 6:Regular Maintenance of Brakes \n20 \n8 \nTotal \n130 \n50 \nPart C \nPractical Work \n \nProject \n \n \n20 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab \nActivities \n60 \n10 \nTotal \n80 \n40 \nGRAND TOTAL \n260 \n100 \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills can \nbe downloaded from CBSE website. \n \n804-Automotive-Class XI-XII-2026-2027 \nPage 3 of 12\nDETAILED CURRICULUM/TOPICS: \nPart-A: EMPLOYABILITY SKILLS \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1:CommunicationSkills-III \n13 \n2. \nUnit 2:Self-managementSkills-III \n07 \n3. \nUnit 3:InformationandCommunicationTechnologySkills-III \n13 \n4. \nUnit 4:EntrepreneurialSkills-III \n10 \n5. \nUnit 5:GreenSkills-III \n07 \n \nTOTALDURATION \n50 \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \nPart-B-SUBJECT SPECIFIC SKILLS (Class XI) \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1:Regular Maintenance of an Engine \n45 \n2. \nUnit 2: Regular Maintenance of Transmission System \n25 \n3. \nUnit 3:Regular Maintenance of Gear Box \n20 \n4. \nUnit 4: Servicing of the Wheels \n10 \n5. \nUnit 5:Regular Maintenance of Tubes and Tyres \n10 \n6. \nUnit 6:Regular Maintenance of Brakes \n20 \n \nTOTAL DURATION \n130 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n804-Automotive-Class XI-XII-2026-2027 \nPage 4 of 12\nUNIT \nSESSION/TOPIC \nACTIVITY/PRACTICAL \nUnit 1: Regular Maintenance of \nan Engine \n1.1. Inspection of an Engine \nTrace different leakages like oil, \ncoolant and combustion gases. \n1.2. Washing of an Engine \nProcedure of External Engine \nWashing with Precautions \n1.3. Tuning fuel system of an Engine \nDemonstration of fuel system in a \ngiven vehicle engine \n1.4. Tuning of the Ignition System of \nan Engine \nIdentify the primary and \nsecondary circuit(s) \n1.5. Tuning of Engine Lubrication \nSystem \nCheck the level and quality of \nlubricating oil and replace the oil \nand change the oil filter \n1.6. Tuning of Engine Cooling \nSystem \nCheck circulation of water in \ncooling system \n1.7. Tightening of Fastener \n(Nut/Bolt/Screw) \nProcedure to tight fasteners with \nspecified torque \n1.8. Engine Timing (Tuning) \nUnderstand importance of engine \ntiming \nUnit 2: Regular Maintenance of \nTransmission System \n2.1. Transmission System \nIdentify the different units of the \ntransmission system \n2.2..Clutch Maintenance And \nAdjustments \nInspect the functioning of clutch \nlinkage for free movement \nUnit 3: Regular Maintenance of \nGear Box \n3.1. Lubrication of Gear box \nChanging of lubricating oil in the \ngearbox \n3.2. Setting of Gear Box \nChecking gear lever and selecting \nmechanism \nUnit 4:Servicing of the Wheels \n4.1. Importance of Wheels \nIdentify different types of wheels \n4.2. Importance of Hub Greasing and \nBearing Play Adjustments \nRemove the wheel from axle \nUnit 5: Regular Maintenance of \nTubes and Tyres \n5.1. Tyre and Tube Maintenance \nMeasure air pressure in tyres as \nper specifications \n \n5.2. Repairing of Punctured Tubes \nIdentify punctured methods i.e. hot \npatch, and cold patch method \nUnit 6: Regular Maintenance of \nBrakes \n6.1 Brakes and Maintenance \nUnderstand different components \nof different types of brakes \n \n6.2 Brakes and Adjustment \nChecking efficiency of brake \n \n \n \n \n \n \n \n804-Automotive-Class XI-XII-2026-2027 \nPage 5 of 12"
+}

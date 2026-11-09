@@ -1,0 +1,33 @@
+{
+  "subject_code": "809",
+  "subject_name": "Food Production",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Hospitality",
+  "directory_name": "SUBJ_809_FOOD_PRODUCTION",
+  "directory_path": "CLASS_11/SUBJ_809_FOOD_PRODUCTION",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Food Production (809-FOOD_PRODUCTION-XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "1b503d62194eba649969fbd528a60164267c4ab9719e58a37020782d1147908c",
+    "file_size_bytes": 149757,
+    "units_extracted": 16,
+    "chapters_extracted": 39
+  }
+}

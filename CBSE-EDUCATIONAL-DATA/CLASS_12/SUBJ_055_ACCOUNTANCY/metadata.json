@@ -1,0 +1,71 @@
+{
+  "subject_code": "055",
+  "subject_name": "Accountancy",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Commerce",
+  "directory_name": "SUBJ_055_ACCOUNTANCY",
+  "directory_path": "CLASS_12/SUBJ_055_ACCOUNTANCY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Accountancy",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Accountancy_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Accountancy",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Accountancy_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [
+      {
+        "title": "NCERT Textbook: Class 12 Accountancy Part 1",
+        "url": "https://ncert.nic.in/textbook/pdf/leac101.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      },
+      {
+        "title": "NCERT Textbook: Class 12 Accountancy Part 2",
+        "url": "https://ncert.nic.in/textbook/pdf/leac201.pdf",
+        "session": "Rationalised 2024-26",
+        "source": "NCERT Official Textbook Repository",
+        "license": "NCERT Educational Fair Use / Curriculum Reference"
+      }
+    ],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Accountancy",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Accountancy-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Accountancy",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Accountancy-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 6,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "df20cbc5cec3a7191f2d5fb37f8d394d2e81ee3d93f5d983cf7c070addba6f52",
+    "file_size_bytes": 220735,
+    "units_extracted": 5,
+    "chapters_extracted": 4
+  }
+}

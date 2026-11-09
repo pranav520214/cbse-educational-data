@@ -1,0 +1,40 @@
+{
+  "subject_code": "110",
+  "subject_name": "Gujarati",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_110_GUJARATI",
+  "directory_path": "CLASS_11/SUBJ_110_GUJARATI",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Gujarati",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Gujarati_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Gujarati",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Gujarati_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "c7263865f0ec1a486083e75c1f1d7481b2117c2f3c6318a1d8c79c53fb62f655",
+    "file_size_bytes": 1177788,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

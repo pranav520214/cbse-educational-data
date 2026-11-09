@@ -1,0 +1,118 @@
+{
+  "subject_name": "Geospatial Technology",
+  "subject_code": "818",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Tech",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XI.pdf",
+  "sha256": "1aa5d3e9db8af23e6f19520d77fc29fd9fa0f7807bb2662f7e48d8856e5d0a20",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Geographic Understanding of the World",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Data Acquisition & Positioning",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "GIS and Spatial Analysis",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Emerging Trends in Geospatial Technology",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Visualization to Decision Making",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "From the Survey of India Toposheets (educational series) do a"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Neighborhood Spatial Relations and Pattern Recognition: Obser"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Satellite Imagery Interpretation: Display satellite imagery o"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Spatial Resolution: Download different satellite images from"
+    },
+    {
+      "chapter_number": 5,
+      "title": "The Electromagnetic Spectrum and Sensor Bands: Prepare a deta"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Data Acquisition to Verification: Use a smartphone or handhel"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Vectorization and Attribute Linking: Prepare a Neighbourhood"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Environmental Spatial Analysis, using real-time data: Study t"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Vector vs. Raster Lab: Identify and categorize five examples"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Feature Creation: Using GIS software, create and symbolize a"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Understanding GIS Toolbars and Functions: Open a GIS Software"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Layer Management: Demonstrate the ability to overlay multiple"
+    }
+  ],
+  "full_text_excerpt": "Page 1 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nGEOSPATIAL TECHNOLOGY (SUBJECT CODE - 818) \n \nJOB ROLE: GIS ANALYST \nClass - XI \nCOURSE OVERVIEW: \nGeospatial technology today lies at the core of modern decision-making across governance, \nbusiness, environment, and society. With the rapid advancement of technologies such as GeoAI, \ncloud computing, real-time data systems, and digital twins, geospatial systems have evolved as \nan intelligent platform for analysis, prediction, and problem-solving. \nThis course introduces students to Geospatial Technology, enabling them to understand how \nlocation-based data is captured, analyzed, and applied in real-world contexts. It integrates \nGeographic Information Systems (GIS), Remote Sensing, Global Navigation Satellite Systems \n(GNSS), and emerging geospatial technologies within a unified learning framework. \nThe curriculum emphasizes conceptual understanding, spatial thinking, and real-world \napplications, supported by hands-on experience, enabling students to work with interactive maps, \nreal datasets, and cloud-based tools. \nAligned with the National Education Policy (NEP 2020), National Geospatial Policy 2022, and \nemerging industry needs, this course aims to develop future-ready learners equipped with \nanalytical, technological, and problem-solving skills. Also, it will help students acquire skills for \nfurther study and for entering the professional world. \nOBJECTIVES OF THE COURSE: \nThe course is designed to introduce students to the \nIn this course, the students will be introduced to the foundational concepts and practical \napplications of geospatial science. With this, students will build a strong base that enables them \nto progress to the next level of studies or career opportunities in the field. It offers professional \neducation dealing with mapping and Geospatial production to ensure that students obtain insight \ninto Geospatial database concepts, creating and implementing database, spatial analysis, \ndeveloping GIS applications, through both theoretical concepts and supported by extensive \npractical exercise with hands-on training using ArcGIS Online (for K-12) and Esri India MapMaker \nindustry standard software. \nFollowings are the main objectives of this course. \n \nTo strengthen spatial awareness and thinking by enabling students to interpret maps and \nrecognize spatial patterns based on geographic information. Students will learn these\nPage 2 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \nbasic geospatial concepts while working with Esri India’s MapMaker and ArcGIS Online \nfor K-12 software. \n \nTo introduce basic geospatial concepts, equipping with foundational skills for handling \ngeographic information effectively for real-world applications. \n \nTo equip students with the ability to create, manage, and use geospatial databases \nthrough both theoretical study and practical exercises, including hands-on learning with \ngeospatial software. \n \nTo introduce students to advanced and emerging topics -such as GeoAI and digital \ntwins-at a basic, exploratory level to build awareness. \n \nTo prepare students for future careers in the growing geospatial industry by developing \nskills in mapping, data visualization, and decision-making, and by promoting sustainable \ndevelopment. \n \nSALIENT FEATURES: \n \n Emphasis on the vocational and practical significance of geospatial technology, preparing \nstudents to progress towards industry-relevant roles and applications. \n Introduction to current trends and emerging tools in the geospatial industry, ensuring \nstudents are aware about the evolving job market. \n It develops an understanding that \"everything happens somewhere,\" making every data \npoint a story of location and relationship. \n The course provides a hands-on experience ensuring that students gain spatial fluency -\nthe ability to see a problem, explore data, and geographic solution. \n \nLIST OF EQUIPMENT AND MATERIALS: \n Computers / Tablets \n Internet connectivity \n ArcGIS for K-12 (Provided by CBSE) \n Esri India MapMaker platform \n LCD Projector / Smart board (optional) \n Projector Screen (optional) \n TopoSheet (https://surveyofindia.gov.in/pages/educational-map-series) \n Handheld GPS devices and Smart phones \n \nCAREER OPPORTUNITIES: \n \nGeospatial technology offers diverse, high-demand careers centered on location intelligence,\nPage 3 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \nanalysis, and data visualization. \nGeospatial Industry: \n GIS Analyst/Technician / Spatial Data Scientist \n Remote Sensing/ Image Analyst / SAR (Synthetic Aperture Radar) Analyst \n Geospatial Developer / Programmer \n Project Manager/Consultant \n Drone Data Specialist \n \nIn User Industries: \n Urban Planner \n Environmental Analyst \n Disaster Management Specialist \n Criminal Intelligence Analyst \n \nAnd many more depending on the industries that employ geospatial talent. The Key Industries \nEmploying Geospatial Talent \n Government \n Defense and Intelligence \n Land \n Urban \n Utilities \n Infrastructure \n Architecture, Engineering and Construction \n Environment \n Natural resources \n Forestry \n Disaster Management \n Retail Estate \n Telecommunications \n Financial Services \n Insurance \n Logistics \n Manufacturing\nPage 4 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \n Agriculture \n Archeology \n Census \n Conservation \n Education and Research \n Election \n Energy \n Emergency response \n \n \nCAREER PROGRESSION \n \nThe industry has evolved from a linear path to a multi-dimensional career ladder. While the \nfoundational progression still begins with operational roles, the new framework integrates \nadvanced data science and management tracks to reflect the current industry landscape. \nToday’s vertical mobility allows a professional to transition from data collection to high-level \nstrategic oversight through the following stages: \n \n \nOperational Foundation: \n GIS Operator: The starting point, focusing on fundamental data entry and map creation. \n GIS Assistant / Technician: Supporting the maintenance of geospatial databases and performing \nroutine spatial tasks. \n \nAnalytical Transition: \n Remote Sensing/ Image Analyst / SAR (Synthetic Aperture Radar) Analyst: Interprets \ninformation about the Earth’s surface using satellite and aerial imagery. \n GIS Analyst: Moving beyond data entry to perform complex spatial analysis, querying, and \nlayer overlays. \n Senior GIS Analyst: Leading technical projects and ensuring data accuracy, precision, \nand reliability. \n \nTechnological Specialization \n Professionals can now \"branch out\" vertically into specialized tracks such as Image \nScientist or Geospatial Programmer. \n \nAdvanced Level (Leadership & Innovation) \n GIS Scientist / Manager: The visionary tier, overseeing the integration of GeoAI, Digital \nTwins, and Big Data to drive organizational decision-making. \n Chief Geospatial Officer: Coordinating geospatial workflows across different departments \nand technology.\nPage 5 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \n \nBeyond the traditional GIS path, the industry has specialized \"verticals\" based career as mobility \nis no longer restricted to one industry; professionals can move vertically within diverse sectors \nsuch as Smart Cities, Logistics, Disaster Management, Precision Agriculture and many \nmore.\nPage 6 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \nGEOSPATIAL TECHNOLOGY (SUBJECT CODE - 818) \nCLASS - XI (Session 2026-2027) \nTotal Marks: 100 (Theory - 60 + Practical - 40) \n \nUNITS \nNO. OF \nHOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory \nand Practical \nPart A \nEmployability Skills \nUnit 1 : Communication Skills - III \n13 \n2 \nUnit 2 : Self-Management Skills - III \n07 \n2 \nUnit 3 : ICT Skills - III \n13 \n2 \nUnit 4 : Entrepreneurial Skills - III \n10 \n2 \nUnit 5 : Green Skills - III \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nUnit 1: Geographic Understanding of the World \n08 \n05 \nUnit 2: Data Acquisition & Positioning \n20 \n10 \nUnit 3: GIS and Spatial Analysis \n30 \n15 \nUnit 4: Emerging Trends in Geospatial Technology \n30 \n15 \nUnit 5: Visualization to Decision Making \n15 \n05 \nTotal \n103 \n50 \nPart C \nPractical Work \nProject \n107 \n10 \nViva \n05 \nPractical File \n10 \nDemonstration of skill competency via Lab \nActivities \n15 \nTotal \n107 \n40 \nGRAND TOTAL \n260 \n100 \n \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skill can be \ndownloaded from CBSE website.\nPage 7 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \nPRACTICAL GUIDELINES FOR CLASS XI \nAssessment of performance: \n \nThe two internal examiners, assigned for the conduct and assessment of Practical Examinations \neach in Senior Secondary School Curriculum (Under NSQF). Question for the viva \nexaminations should be conducted by two examiners (two internal examiners). Question to be \nmore of General nature, project work or the curriculum. Investigatory Project especially those that \nshow considerable amount of effort and originality, on the part of the student, should get suitable \nhigh marks, while project of a routine or stereotyped nature should only receive MEDIOCRE \nmarks. \nProcedure for Record of Marks in the Practical answer-books: \n \nThe examiner will indicate separately marks of practical examination on the title page of the \nanswer-books under the following heads:- \nProject - 10 marks \nStudents may be assigned projects for the final practical from below. \nViva based on Project -05 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, \nviva may be based on questions of practical nature from the field of subject as per the Curriculum \nPractical File - 10 Marks \nStudents to prepare a power point presentation / assignment / practical file / report. Instructor \nshall assign them any assignment based on the list of practical. \nSuggested list of Practical - \n1. From the Survey of India Toposheets (educational series) do an exercise of Map \nreading and interpretation with practical understanding of Scale, distance measurement \nand basic elements of cartography/mapmaking. Study and prepare a detail report on it \ncovering all the important natural and man-made features, type of land use, nature of \nterrain and economic activities. \n2. Neighborhood Spatial Relations and Pattern Recognition: Observe an area in the \nmap and write a report describing the spatial relationship between features (e.g., \nproximity of residential areas to water bodies or commercial hubs). Identify and map a \nspecific pattern (e.g., the linear distribution of shops along a main road) and provide a \nspatial reasoning for \"why\" they are located there. \n3. Satellite Imagery Interpretation: Display satellite imagery on a GIS platform. Identify\nPage 8 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \nfive distinct land-cover features and compare how they appear on a satellite image versus \na traditional vector map. \n4. Spatial Resolution: Download different satellite images from authentic sources like \nBhuvan platform or UGSS or Copernicus. Categorize and paste them in your file \naccording to high, medium and low resolution. Explain the difference in these images. \n5. The Electromagnetic Spectrum and Sensor Bands: Prepare a detailed colored \ndiagram of electromagnetic spectrum and mention the important bands for remote \nsensing process. Explain the difference between Panchromatic, Multispectral and RGB \nbands. Download the examples and paste them in your file with explanation. \n6. Data Acquisition to Verification: Use a smartphone or handheld GPS to collect \ncoordinates (latitude, longitude, and altitude) of ten points around the school campus. \nMap these points on a digital base map. Write the complete steps and procedure in your \nfile. \n7. Vectorization and Attribute Linking: Prepare a Neighbourhood map with the direction \nbased route map from school to home or vice-versa. Vectorize the data in point, line and \npolygon. Conduct a local \"census\" (e.g., types of shops on a street, waste bin location \netc) and digitize this data into a point or polygon layer as attribute. Do a neighbourhood \nanalysis. Explain all the steps with the image in your file. \n8. Environmental Spatial Analysis, using real-time data: Study the weather charts \nprepared by Indian Meteorological Department of India. Prepare a weather report of that \nday after studying all the essential weather elements and explain the relationship \nbetween atmospheric variables and geographic location. \n9. Vector vs. Raster Lab: Identify and categorize five examples of vector data (points, \nlines, polygons) and five examples of raster data (satellite pixels, elevation grids). \n10. Feature Creation: Using GIS software, create and symbolize a point layer (street lights), \na line layer (roads), and a polygon layer (parks). Prepare a chart and explain the same. \n11. Understanding GIS Toolbars and Functions: Open a GIS Software and explain it’s \ntoolbar. Identify, categorize, and explain the functions of various symbols and tools within \na GIS software interface. Prepare a table in your file. \n12. Layer Management: Demonstrate the ability to overlay multiple data layers (e.g., \n\"Roads\" over \"Land Use\") to visualize geographic information and perform basic map \ncreation and analysis.\nPage 9 of 9 \n818- Geospatial Technology- Class XI 2026-2027 \n \n \nDemonstration of skill competency in Lab Activities -15 marks \nGuidelines for Project Preparation: \nThe final project work should encompass chapters on: \na) Introduction \nb) Identification of core and advance issues \nc) Learning and understanding and \nd) Observation during the project period."
+}

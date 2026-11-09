@@ -1,0 +1,40 @@
+{
+  "subject_code": "032",
+  "subject_name": "Carnatic Melodic",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_032_CARNATIC_MELODIC",
+  "directory_path": "CLASS_11/SUBJ_032_CARNATIC_MELODIC",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Carnatic Melodic",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Melodic_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Carnatic Melodic",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Melodic_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "0e05826866838d0dc5ee1919e8e904d6bb4938759cc9afcd9a8bb37668fd38d2",
+    "file_size_bytes": 428814,
+    "units_extracted": 0,
+    "chapters_extracted": 12
+  }
+}

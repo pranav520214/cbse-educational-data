@@ -1,0 +1,40 @@
+{
+  "subject_code": "049",
+  "subject_name": "Fine Arts",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Visual Arts",
+  "directory_name": "SUBJ_049_FINE_ARTS",
+  "directory_path": "CLASS_11/SUBJ_049_FINE_ARTS",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Fine Arts",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Fine_Arts_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Fine Arts",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "694f574745a85c4964bb54063e73d2bf4d3473cbdaa0574de4033e0f10ca20ee",
+    "file_size_bytes": 1093805,
+    "units_extracted": 5,
+    "chapters_extracted": 16
+  }
+}

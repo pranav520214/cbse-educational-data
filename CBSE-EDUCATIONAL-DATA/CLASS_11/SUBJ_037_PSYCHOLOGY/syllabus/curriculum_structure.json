@@ -1,0 +1,308 @@
+{
+  "subject_name": "Psychology",
+  "subject_code": "037",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Humanities",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+  "sha256": "edee3bd5d426095873f8fe301c8c93363b89426a0c3aa1b3772c1e964517b00a",
+  "assessment": {
+    "theory_marks": 70,
+    "internal_assessment_marks": 30,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-I",
+      "title": "What is Psychology?",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Methods of Enquiry in Psychology",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Human Development",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Sensory, Attentional and Perceptual Processes",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VI",
+      "title": "Learning",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VII",
+      "title": "Human Memory",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VIII",
+      "title": "Thinking",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IX",
+      "title": "Motivation and Emotion",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "What is Psychology?"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Understanding Mind and Behaviour"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Popular Notions about the Discipline of Psychology"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Evolution of Psychology"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Development of Psychology in India"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Branches of Psychology"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Psychology and Other Disciplines"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Psychology in Everyday Life"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Goals of Psychological Enquiry"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Nature of Psychological Data"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Some Important Methods in Psychology"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Analysis of Data"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Limitations of Psychological Enquiry"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Ethical Issues"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Meaning of Development"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Factors Influencing Development"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Context of Development"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Overview of Developmental Stages"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Knowing the world"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Nature and varieties of Stimulus"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Sense Modalities"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Attentional Processes"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Perceptual Processes"
+    },
+    {
+      "chapter_number": 7,
+      "title": "The Perceiver"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Principles of Perceptual Organisation"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Perception of Space, Depth and Distance"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Perceptual Constancies"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Illusions"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Socio-Cultural Influences on Perception"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nature of Learning"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Paradigms of Learning"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Classical Conditioning"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Operant/Instrumental Conditioning"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Observational Learning"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Cognitive Learning"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Verbal Learning"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Skill Learning"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Factors Facilitating Learning"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Learning Disabilities"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nature of memory"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Information Processing Approach : The Stage Model"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Memory Systems : Sensory, Short-term and Long-"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Levels of Processing"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Types of Long-term Memory"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Nature and Causes of Forgetting"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Enhancing Memory"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nature of Thinking"
+    },
+    {
+      "chapter_number": 3,
+      "title": "The Processes of Thinking"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Problem Solving"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Reasoning"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Decision-making"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Nature and Process of Creative Thinking"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Thought and Language"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Development of Language and Language Use"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Nature of Motivation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Types of Motives"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Maslow’s Hierarchy of Needs"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Nature of Emotions"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Expression of Emotions"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Managing Negative Emotions"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Enhancing Positive Emotions"
+    }
+  ],
+  "full_text_excerpt": "PSYCHOLOGY \nCLASS XI-XII (2024-2025) \n(CODE NO. 037) \n \nPsychology is introduced as an elective subject at the higher secondary stage of \nschool education. As a discipline, psychology specializes in the study of experiences, \nbehaviors and mental processes of human beings within a socio-cultural historical \ncontext. This course purports to introduce the learners to the basic ideas, principles, and \nmethods in Psychology. The emphasis is to create interest and exposure needed by \nlearners to develop their own knowledge base and understanding. \nThe course deals with psychological knowledge and practices which are contextually \nrooted. It emphasizes the complexity of behavioral processes and discourages simplistic \ncause-effect thinking. This is pursued by encouraging critical reasoning, allowing students \nto appreciate the role of cultural factors in behavior and illustrating how biology and \nexperiences shape behavior. \nIt is suggested that the teaching - learning processes should involve students in \nevolving their own understanding, therefore, teaching of Psychology should be based \non the use of case studies, narratives, experiential exercises, analysis of common \neveryday experiences, etc. \nObjectives: \n To develop appreciation about human mind and behavior in the context of learners’ \nimmediate society and environment. \n To develop in learners an appreciation of the nature of psychological \nknowledge and its application to various aspects of life. \n To enable learners to become perceptive, socially aware and self-reflective. \n To facilitate students’ quest for personal growth and effectiveness, and to \nenable them to become responsive and responsible citizens.\nCOURSE STRUCTURE \nCLASS XI (2024-2025) \n \n Theory Paper 3 Hours \nMarks: 70 \nUnits \nTopics \nNo. of \nperiods \nMarks \nI \nWhat is Psychology? \n27 \n11 \nII \nMethods of Enquiry in Psychology \n32 \n13 \nIV \nHuman Development \n26 \n11 \nV \nSensory, Attentional and Perceptual \nProcesses \n18 \n8 \nVI \nLearning \n20 \n9 \nVII \nHuman Memory \n19 \n8 \nVIII \nThinking \n14 \n5 \nIX \nMotivation and Emotion \n14 \n5 \n \nTotal \n170 \n70 \n \nCOURSE STRUCTURE \nUnit I \nWhat is Psychology? \nThe topics in this unit are: \n1. Introduction \n2. What is Psychology? \n Psychology as a Discipline \n Psychology as a Natural Science \n Psychology as a Social Science \n3. Understanding Mind and Behaviour \n4. Popular Notions about the Discipline of Psychology \n5. Evolution of Psychology \n6. Development of Psychology in India \n7. Branches of Psychology \n8. Psychology and Other Disciplines \n9. Psychology in Everyday Life \n27 Periods \nUnit II \nMethods of Enquiry in Psychology \nThe topics in this unit are: \n1. Introduction \n2. Goals of Psychological Enquiry \n Steps in Conducting Scientific Research \n32 Periods\n Alternative Paradigms of Research \n3. Nature of Psychological Data \n4. Some Important Methods in Psychology \n Observational Method \n Experimental Method \n Correlational Research \n Survey Research \n Psychological Testing \n Case Study \n5. Analysis of Data \n Quantitative Method \n Qualitative Method \n6. Limitations of Psychological Enquiry \n7. Ethical Issues \nUnit IV \nHuman Development \nThe topics in this unit are: \n1. Introduction \n2. Meaning of Development \n Life-Span Perspective on Development \n3. Factors Influencing Development \n4. Context of Development \n5. Overview of Developmental Stages \n Prenatal Stage \n Infancy \n Childhood \n Challenges of Adolescence \n Adulthood and Old Age \n26 Periods \nUnit V \nSensory, Attentional and Perceptual Processes \nThe topics in this unit are: \n1. Introduction \n2. Knowing the world \n3. Nature and varieties of Stimulus \n4. Sense Modalities \n Functional limitation of sense organs \n5. Attentional Processes \n Selective Attention \n Sustained Attention \n18 Periods\n6. Perceptual Processes \n Processing Approaches in Perception \n7. The Perceiver \n8. Principles of Perceptual Organisation \n9. Perception of Space, Depth and Distance \n Monocular Cues and Binocular Cues \n10. Perceptual Constancies \n11. Illusions \n12. Socio-Cultural Influences on Perception \nUnit VI \nLearning \nThe topics in this unit are: \n1. Introduction \n2. Nature of Learning \n3. Paradigms of Learning \n4. Classical Conditioning \n Determinants of Classical Conditioning \n5. Operant/Instrumental Conditioning \n Determinants of Operant Conditioning \n Key Learning Processes \n6. Observational Learning \n7. Cognitive Learning \n8. Verbal Learning \n9. Skill Learning \n10. Factors Facilitating Learning \n11. Learning Disabilities \n20 Periods \nUnit VII \nHuman Memory \nThe topics in this unit are: \n1. Introduction \n2. Nature of memory \n3. Information Processing Approach : The Stage Model \n4. Memory Systems : Sensory, Short-term and Long-\nterm Memories \n5. Levels of Processing \n6. Types of Long-term Memory \n Declarative \nand \nProcedural; \nEpisodic \nand \nSemantic \n7. Nature and Causes of Forgetting \n19 Periods\n Forgetting due to Trace Decay, Interference and \nRetrieval Failure \n8. Enhancing Memory \n Mnemonics using Images and Organisation \nUnit VIII \nThinking \nThe topics in this unit are: \n1. Introduction \n2. Nature of Thinking \n Building Blocks of Thought \n3. The Processes of Thinking \n4. Problem Solving \n5. Reasoning \n6. Decision-making \n7. Nature and Process of Creative Thinking \n Nature of Creative Thinking \n Process of Creative Thinking \n8. Thought and Language \n9. Development of Language and Language Use \n14 Periods \nUnit IX \nMotivation and Emotion \nThe topics in this unit are: \n1. Introduction \n2. Nature of Motivation \n3. Types of Motives \n Biological Motives \n Psychosocial Motives \n4. Maslow’s Hierarchy of Needs \n5. Nature of Emotions \n6. Expression of Emotions \n Culture and Emotional Expression \n Culture and Emotional Labelling \n7. Managing Negative Emotions \n8. Enhancing Positive Emotions \n14 Periods \nPractical (Projects, experiments, small studies, etc.) 30 marks \nThe students shall be required to undertake one project and conduct \ntwo experiments. The project would involve the use of different \nmethods of enquiry like observation, survey, interview, questionnaire, \nsmall studies related to the topics covered in the course (e.g. Human \n60 Periods\ndevelopment, Learning, Memory, Motivation, Perception, Attention and \nThinking). Experiments could focus on cause-and-effect relationship. \nPractical Examination \n \n Practical (Experiments) file \n05 Marks \n Project File \n05 Marks \n Viva Voce (Project and experiments) \n05 Marks \n One experiment (05 marks for conduct of \nexperiment and 10 marks for reporting) \n15 Marks \nTotal \n30 Marks \n \nQUESTION PAPER DESIGN \nCLASS -XI (2024-25) \nI. Theory \n \nTime: 3 Hours Maximum Marks: 70 \nS. \nNo. \nCompetencies \nTotal Marks \n% \nWeightage \n1 \nRemembering and Understanding: Exhibiting \nmemory of previously learned material by recalling \nfacts, \nterms, \nbasic \nconcepts, \nand \nanswers; \nDemonstrating understanding of facts and ideas by \norganizing, comparing, translating, interpreting, giving \ndescriptions and stating main ideas \n25 \n35% \n2 \nApplying: Solving problems to new situations by \napplying acquired knowledge, facts, techniques and \nrules in a different way \n31 \n45% \n3 \nFormulating, \nAnalysing, \nEvaluating \nand \nCreating: Examining and breaking information into \nparts by identifying motives or causes; Making \ninferences \nand \nfinding \nevidence \nto \nsupport \ngeneralizations; Presenting and defending opinions \nby making judgments about information, validity of \nideas, or quality of work based on a set of criteria; \nCompiling information together in a different way by \ncombining elements in a new pattern or proposing \nalternative solutions \n14 \n20% \n \nTotal \n70 \n \n100% \n \nII. Practical: 30 Marks"
+}

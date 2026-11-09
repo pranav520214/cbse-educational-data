@@ -1,0 +1,33 @@
+{
+  "subject_code": "845",
+  "subject_name": "Physical Activity Trainer",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Sports",
+  "directory_name": "SUBJ_845_PHYSICAL_ACTIVITY_TRAINER",
+  "directory_path": "CLASS_12/SUBJ_845_PHYSICAL_ACTIVITY_TRAINER",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Physical Activity Trainer (845-Physical_Activity_Trainer.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/845-Physical_Activity_Trainer.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "faecbf45481284629066397ec9dbac731a57be9898ebe30e2259df091afea040",
+    "file_size_bytes": 667634,
+    "units_extracted": 30,
+    "chapters_extracted": 114
+  }
+}

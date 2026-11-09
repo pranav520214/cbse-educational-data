@@ -1,0 +1,44 @@
+{
+  "subject_name": "Data Science",
+  "subject_code": "844",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Emerging Tech",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/844-DATASCIENCE.pdf",
+  "sha256": "a1f62e81e1a2616cd1b3d79f28f19ec04329d2fc78c59056754d946e010fb079",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    }
+  ],
+  "chapters": [],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \n \n \nDATA SCIENCE (SUBJECT CODE - 844) \nCLASS - XII (SESSION 2026-2027) \n \nTotal Marks: 100 (Theory-50 + Practical-50) \n \nUNITS \nMAXIMUM MARKS \nFOR THEORY AND \nPRACTICAL \n \n \n \n \n \n \n \n \nEMPLOYABILITY SKILLS \nUnit 1: Communication Skills-IV \n2 \nUnit 2: Self-Management Skills-IV \n2 \nUnit 3: ICT Skills-IV \n2 \nUnit 4: Entrepreneurial Skills-IV \n2 \nUnit 5: Green Skills-IV \n2 \nTOTAL \n10 \n \n \n \n \n \n \n \n \n \n \nSUBJECT SPECIFIC SKILLS \nData Governance \n8 \nExploratory Data Analysis \n7 \nClassification Algorithms - I \n6 \nClassification Algorithms - II \n4 \nRegression Algorithms - I \n4 \nRegression Algorithms - II \n4 \nUnsupervised Learning \n7 \nTOTAL \n40 \n \n \n \n \n \n \nPRACTICAL WORK / PROJECT WORK/FIELD VISIT \nPractical File/ Student Portfolio (Final Project I and Final project II) \n20 \nPractical Examination \n20 \nViva Voce \n10 \nTOTAL \n50 \n \nGRAND TOTAL \n100 \n \n844 - Data Science Class XI & XII - 2026-2027 \nPage 2 of 2"
+}

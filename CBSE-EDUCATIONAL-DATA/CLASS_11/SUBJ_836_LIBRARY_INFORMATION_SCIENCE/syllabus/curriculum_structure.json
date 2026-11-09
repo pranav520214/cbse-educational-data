@@ -1,0 +1,313 @@
+{
+  "subject_name": "Library & Information Science",
+  "subject_code": "836",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Information",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XI.pdf",
+  "sha256": "f96c4958ca9c411d4be3154a944f313c2e9c11dbe4fc322fbb8693618f10fe7f",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Five Laws of Library Science and their implications.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Library Classification (Theory)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Library Cataloguing (Theory)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Reference and Information Sources",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Categories of Reference and Information Sources: Description and Scope",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Computer Hardware for a Library: Concepts",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Library Automation: Concepts and Applications",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Use of Web Based Communication systems",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "The basic understanding of theory and practice of Library & I"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Knowledge and skill to pursue the subject for higher educatio"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Basic skill to work as Semi -professional in a Library, which"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Communication Skills -III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Self-management Skills -III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Information and Communication Technology Skills - III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Entrepreneurial Skills - III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Green Skills - III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Definition, Objectives, Purpose and Role of Library in the de"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Concept of Trinity: Documents, Staff and users and their inte"
+    },
+    {
+      "chapter_number": 1,
+      "title": "National Library"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Academic Libraries"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Special Libraries"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Public Libraries"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Need, Purpose and Types"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Concept of Main Classes"
+    },
+    {
+      "chapter_number": 3,
+      "title": "APUPA Pattern for arrangement of documents"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Salient features of major schemes of Library Classification:"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Dewey Decimal Classification (DDC)"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Colon Classification (CC)"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Need, Purpose and Importance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Items of information required for cataloguing in a document."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Salient features of Cataloguing Codes:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Anglo American Cataloguing Rules"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Classified Catalogue Code"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Forms of Library Catalogue"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Physical Forms of Catalogue"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Online Public Access Catalogue (OPAC)"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Definition, Need"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types: Primary, Secondary and Tertiary"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Encyclopedias"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Language Dictionaries"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Biographical Sources"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Atlases"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Year Books"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Directories"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Bibliographical tools"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Desktop Computers, Server and their specifications"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Printers and their types"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Scanners"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Barcode technology"
+    },
+    {
+      "chapter_number": 5,
+      "title": "RFID technology"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Modem, Wi-fi Modem"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Switches"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Router"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Definition"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Internet, Intranet, Search engines, E-mail, Database."
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Library Classification (Practice)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Library Cataloguing (Practice)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Educational Tour to different types of Libraries and Document"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Library summer training for one month (summer training) - wor"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \n \nLIBRARY AND INFORMATION SCIENCE (Sub. Code - 836) \nJOB ROLE: LIBRARY ASSISTANT \nSESSION 2026-2027 \nCLASS XI \n \n1. Introduction \nLibrary & Information Science Course at Senior Secondary level will fulfil the requirement of \ndeveloping necessary skills, in learners to identify, locate, evaluate and use the required information \nefficiently. One of the important aspects of the curriculum is to improve the education system for \nLibrary and Information Science at school level. Learning of the professional attitudes and the \ninterpersonal and interdisciplinary skills needed to communicate and collaborate with the colleagues \nand the information users and to understand the above goals within the perspective of prevailing \nand emerging technologies \n \n2. Course Objectives \nThis course aims at training basic theories and principles of administration for effective \nmanagement of public, academic, special libraries and information centers. Practical and theoretical \nunderstanding of and basic competencies required in evaluating, selecting and organizing \ninformation sources will be taught. The objectives of the course at senior secondary level are as \nfollows: \n \nTo develop among the students: \n \n1. The basic understanding of theory and practice of Library & Information Science; \n \n2. Knowledge and skill to pursue the subject for higher education in future; and \n \n3. Basic skill to work as Semi -professional in a Library, which may be considered at par \nwith the diploma course in L-IS subject. \n \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI opting for Skills subject along with \ngeneral education subjects. \n \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks \n \nThe unit-wise distribution of periods and marks for Class XI is as given on the next page:\nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \n \nLIBRARY & INFORMATION SCIENCES (SUB. CODE - 836) \nCLASS - XI (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \n \n \n \n \n \n \nEmployability Skills \nUnit 1 : Communication Skills-III \n10 \n2 \nUnit 2 : Self-Management Skills-III \n10 \n2 \nUnit 3 : ICT Skills-III \n10 \n2 \nUnit 4 : Entrepreneurial Skills-III \n15 \n2 \nUnit 5 : Green Skills-III \n05 \n2 \nTotal \n50 \n10 \n \n \n \n \n \n \n \n \n \nSubject Specific Skills \nTheory \n(In Hours) \nPractical \n(In Hours) \nMarks \nChapter 1: Library, Information and \nSociety - Role and its implications \n40 \n10 \n12 \nChapter 2: Organization of Library \nResources: Basics \n50 \n10 \n13 \nChapter 3: Reference and Information \nSources \n40 \n10 \n12 \nChapter 4: Computer Applications in \nLibraries: Basics \n40 \n10 \n13 \nTotal \n170 \n40 \n50 \n \n \n \n \n \nPractical Work \nPractical Examination \n260 \n20 \nViva Voce \n05 \nTotal \n25 \n \n \n \n \nProject Work/ Field Visit/ Practical File/ \nStudent Portfolio \n15 \nTotal \n15 \n \nGRAND TOTAL \n260 \n100\nDETAILED CURRICULUM/TOPICS: \n \n \nPART A: EMPLOYABILITY SKILLS \nS. No. \nUnits \n1. \nCommunication Skills -III \n2. \nSelf-management Skills -III \n3. \nInformation and Communication Technology Skills - III \n4. \nEntrepreneurial Skills - III \n5. \nGreen Skills - III \n \nThe Detailed Curriculum/ Topics to be covered under Part A: Employability Skills can \nbe downloaded from CBSE website. \n \n \nPart B - SUBJECT SPECIFIC SKILLS \n \nChapter-1: Library, Information and Society -Role and its implications \n \nObjective: the objective is to familiarize the students with the libraries, their types and their role in \nsociety. This chapter is subdivided into the following units: \n \nUnits -1: Library, Information and Society -Role and its implications \nUnits -1: Library, Information and Society: Concepts \n1. Definition, Objectives, Purpose and Role of Library in the development of modern Society \n2. Concept of Trinity: Documents, Staff and users and their inter relationships. \n \nUnits -2A: Types of Libraries and their role: \n \n1. National Library \n2. Academic Libraries \n3. Special Libraries \n4. Public Libraries \n \nUnits -2B: Changing formats of libraries: Digital, Virtual and Hybrid \nUnit-3: Five Laws of Library Science and their implications. \nChapter-2: Organization of Library Resources: Basics \n \nUnit-1: Library Classification (Theory) \n1. Need, Purpose and Types \n2. Concept of Main Classes \n3. APUPA Pattern for arrangement of documents \n4. Salient features of major schemes of Library Classification: \n5. Dewey Decimal Classification (DDC) \n6. Colon Classification (CC)\nUnit 2: Library Cataloguing (Theory) \n1. Need, Purpose and Importance \n2. Items of information required for cataloguing in a document. (Book and Non-Book material) \n3. Salient features of Cataloguing Codes: \n1. \nAnglo American Cataloguing Rules \n2. \nClassified Catalogue Code \n4. Forms of Library Catalogue \n1. \nPhysical Forms of Catalogue \n2. \nOnline Public Access Catalogue (OPAC) \nChapter-3: Reference and Information Sources \nUnit -1: Reference and Information Sources \n1. \nDefinition, Need \n2. \nTypes: Primary, Secondary and Tertiary \n \nUnit -2: Categories of Reference and Information Sources: Description and Scope \n \n1. Encyclopedias \n2. Language Dictionaries \n3. Biographical Sources \n4. Atlases \n5. Year Books \n6. Directories \n7. Bibliographical tools \n \nChapter-4: Computer Applications in Libraries: Basics \nUnit - 1: Computer Hardware for a Library: Concepts \n1. Desktop Computers, Server and their specifications \n2. Printers and their types \n3. Scanners \n4. Barcode technology \n5. RFID technology \n6. Modem, Wi-fi Modem \n7. Switches \n8. Router \n \nUnit -2: Library Automation: Concepts and Applications \n \n1. Definition \n2. Need, Purpose and Importance \n \nUnit -3: Use of Web Based Communication systems \n \n1. Internet, Intranet, Search engines, E-mail, Database.\n5. TEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and \nfield visits. Students should be taken to field visits for interaction with experts and to expose them to \nthe various tools, equipment, materials, procedures and operations in the workplace. Special \nemphasis should be laid on the occupational safety, health and hygiene during the training and field \nvisits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained vocational teachers. Vocational teachers should make \neffective use of a variety of instructional or teaching aids, such as audio-video materials, colour \nslides, charts, diagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit \nknowledge and impart training to the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case \nbased studies, exercises, etc. Equipment and supplies should be provided to enhance hands-on \nlearning experience of students. Only trained personnel should teach specialized techniques. A \ntraining plan that reflects tools, equipment, materials, skills and activities to be performed by the \nstudents should be submitted by the vocational teacher to the Head of the Institution. \n \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis of \npractical demonstration of skills by the candidate, Practical examination allows candidates to \ndemonstrate that they have the knowledge and understanding of performing a task. This will include \nhands-on practical exam and viva voce. For practical, there should be a team of two evaluators. \nThe same team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain \ntime period or timeline. Project work should be given on the basis of the capability of the individual \nto perform the tasks or activities involved in the project. Projects should be discussed in the class \nand the teacher should periodically monitor the progress of the project and provide feedback for \nimprovement and innovation. Field visits should be organised as part of the project work. Field visits \ncan be followed by a small-group work/project work. When the class returns from the field visit, \neach group might be asked to use the information that they have gathered to prepare presentations \nor reports of their observations. Project work should be assessed on the basis of practical file or \nstudent portfolio. \n \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio \nor video recording can be done at the time of viva voce. The number of external examiners would \nbe decided as per the existing norms of the Board and these norms should be suitably \nadopted/adapted as per the specific requirements of the subject. Viva voce should also be \nconducted to obtain feedback on the student’s experiences and learning during the project \nwork/field visits.\n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \n \nIn field visits, children will go outside the classroom to obtain specific information from experts or to \nmake observations of the activities. A checklist of observations to be made by the students during \nthe field visits should be developed by the Vocational Teachers for systematic collection of \ninformation by the students on the various aspects. Principals and Teachers should identify the \ndifferent opportunities for field visits within a short distance from the school and make necessary \narrangements for the visits. At least three field visits should be conducted in a year. \n \n \n7. PRACTICAL GUIDELINES \n1. Library Classification (Practice) \n2. Library Cataloguing (Practice) \n3. Educational Tour to different types of Libraries and Documentation Centres \n4. Library summer training for one month (summer training) - work integrated learning. \n \nNote: It is suggested that the practical work may include simple illustrative examples in the \nrelevant areas. \n \na) For example, in Library Classification, the purpose will be to understand the representation of a \nsubject of Main Class in a Scheme of Classification, viz. namely DDC and colon classification. \n \nb) Also, in Library Cataloguing, the practical work should include to develop an understanding of \nthe basic components of a book used for cataloguing purpose. It should also include training in \npreparing the Main Entry and Added Entries according to AACR-II. \n \nc) The Tour should preferably be a local tour to a well-organized Library. The effort should be to \nmake the student understand the essentials of Library functions under proper guidance. The \nTour should be organized by the school in consultation with the Head/ In-charge of the \nconcerned Library. The students should submit a Tour Report to the teacher for evaluation. \n \nNote: The student should be exposed to basic practice in the above fields. \n \nPractical work in Classification should include classification of documents with Main Class and \nSubdivisions according to DDC. Cataloguing of Main Entry and Added Entries of Simple Books \naccording to AACRII \n \nPractical work in Computer Applications should include formulation of a simple query for Search \nand use of computers for use of internet and handling of any one Library Automation Software."
+}

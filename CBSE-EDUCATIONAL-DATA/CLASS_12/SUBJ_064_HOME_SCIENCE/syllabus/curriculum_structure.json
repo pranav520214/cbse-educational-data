@@ -1,0 +1,383 @@
+{
+  "subject_name": "Home Science",
+  "subject_code": "064",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Interdisciplinary",
+  "session": "2024-25",
+  "source_url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf",
+  "sha256": "e6e32872226256c94345e830895658297015064b16d8b852b857f673ee295f07",
+  "assessment": {
+    "theory_marks": 70,
+    "internal_assessment_marks": 30,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-I",
+      "title": "introduces the concept of home science. Unit II begins with the stage of",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "deals with the expanding interactions of the",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "and V focus on childhood and adulthood",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Introduction to Home Science",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Understanding oneself: Adolescence",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Understating family, community and society",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Childhood",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Adulthood",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "INTRODUCTION TO HOME SCIENCE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "UNDERSTANDING ONESELF: ADOLESCENCE",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "focus on the stage of adolescence - the stage of life to which you belong at",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "UNDERSTANDING FAMILY, COMMUNITY AND SOCIETY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "were all addressed to you for the understanding of self and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "CHILDHOOD",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "ADULTHOOD",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Work, livelihood and Career",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Nutrition, Food Science and Technology",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Human Development and Family Studies",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Fabric and Apparel",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Resource management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VI",
+      "title": "Communication and Extension",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "WORK, LIVELIHOOD AND CAREER",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "NUTRITION, FOOD SCIENCE AND TECHNOLOGY",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "HUMAN DEVELOPMENT AND FAMILY STUDIES",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "FABRIC AND APPAREL",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "RESOURCE MANAGEMENT",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-VI",
+      "title": "COMMUNICATION AND EXTENSION",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "develop an understanding of the self and one‟s role and respo"
+    },
+    {
+      "chapter_number": 2,
+      "title": "integrate learning across diverse domains and undertake a cri"
+    },
+    {
+      "chapter_number": 3,
+      "title": "appreciate the discipline of Home Science for professional ca"
+    },
+    {
+      "chapter_number": 4,
+      "title": "acquaint learners with the basic knowledge specific to five d"
+    },
+    {
+      "chapter_number": 5,
+      "title": "develop functional skills in the five domains for career and"
+    },
+    {
+      "chapter_number": 6,
+      "title": "equip learners for enrichment and higher studies."
+    },
+    {
+      "chapter_number": 1,
+      "title": "function as a productive and responsible individual in relati"
+    },
+    {
+      "chapter_number": 2,
+      "title": "apply the basics of human development with specific reference"
+    },
+    {
+      "chapter_number": 3,
+      "title": "utilize the skills of judicious management of various resourc"
+    },
+    {
+      "chapter_number": 4,
+      "title": "be sensitized to fabric and apparel, their selection and care"
+    },
+    {
+      "chapter_number": 5,
+      "title": "inculcate healthy food habits and lifestyle to enable prevent"
+    },
+    {
+      "chapter_number": 6,
+      "title": "become alert and aware consumer."
+    },
+    {
+      "chapter_number": 7,
+      "title": "appreciate the potential of entrepreneurship and other varied"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to Home Science"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Understanding oneself: Adolescence"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Understanding Family, Community and Society"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Childhood"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Adulthood"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Understanding oneself with reference to:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Observe developmental norms: (Physical, Motor, Language and s"
+    },
+    {
+      "chapter_number": 3,
+      "title": "List and discuss 4-5 areas of agreement and disagreement with"
+    },
+    {
+      "chapter_number": 4,
+      "title": "a) Record own diet for a day"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Preparation of different healthy snacks for an adolescent sui"
+    },
+    {
+      "chapter_number": 6,
+      "title": "a) Record one day‟s activities relating to time use and work"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Plan a budget for a given situation/purpose."
+    },
+    {
+      "chapter_number": 8,
+      "title": "a) Record the fabrics and apparel used in a day"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Relationship of fibre properties to their usage:"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Preparation of healthy snacks for an adolescent. 7 marks"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Plan a budget for a given situation/purpose. 3 marks"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Prepare a time plan for yourself. 3 marks"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Relationship of fibre properties to their usage: 5 marks"
+    },
+    {
+      "chapter_number": 6,
+      "title": "File 5 marks"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Viva 2 marks"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Modification of normal diet to soft diet for elderly person."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Development and preparation of supplementary foods for nutrit"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Planning a menu for a school canteen or mid-day meal in schoo"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Design, prepare and evaluate a processed food product."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Qualitative test for food adulteration in: pure ghee, tea lea"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparation and use of any one teaching aid to communicate so"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparation of any one article using applied textile design t"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Remove different types of stains from white cotton cloth -Bal"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Evaluate any one advertisement for any job position."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Develop a leaflet/pamphlet for Consumer Education and Protect"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Study of an integrated community based, nutrition/health prog"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Visit to the neighboring areas and interview two adolescents"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Profile any two person (child/adult) with special needs to fi"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Planning any five messages for nutrition, health and life ski"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Market survey any five processed foods with their packaging a"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Project (5 marks)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Modification of any one family meal for elderly person. Prepa"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Identify adulterant using chemical test in any one of the fol"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Prepare a sample using applied textile design techniques tie"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Remove any one of the stain from white cotton cloth -Ball pen"
+    },
+    {
+      "chapter_number": 7,
+      "title": "File (5 marks)"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Viva (2 marks"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Knowledge and understanding based questions"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Application - or knowledge/concepts based"
+    }
+  ],
+  "full_text_excerpt": "HOME SCIENCE (Code No. 064) \n (CLASS - XI AND XII) (2024-25)\n \n Preface \nThe course in Home Science encompasses five areas namely, Foods and Nutrition, \nHuman Development and Family Studies, Fabric and Apparel, Resource Management \nand Communication and Extension. All these domains have their specific content in \nfocus that contributes to the study of the individual and the family in Indian social \ncultural context. \nThe purpose of Home Science is the creation of an environment and outlook to enable \nlearner to live a richer and more purposeful life, become future ready and develop 21st \ncentury life skills for work, livelihood and careers. All the domains within the home \nscience discipline provide ample scope for professional avenues of higher education \nand career opportunities. They range from professions catering to various health and \nservice institutions/agencies, educational organizations, industry and business houses \nof textiles, garments, food industry, teaching learning materials, ergonomically \nappropriate equipment and work situations. The subject integrates the application of \nvarious sciences and humanities to improve Human Environment, Family Nutrition, \nManagement of Resources and Child Development. \nIn class XI, the “Self and family” and the “Home” are focal points for understanding the \ndynamics for individual lives and social interactions. \nIn class XII, the emphasis is on “Work and careers” through the life span. \nLearning Objectives: \nThe Home Science curriculum at senior secondary level has been framed to \nenable the learners to: \n1. develop an understanding of the self and one‟s role and responsibilities as a \nproductive individual and as a member of family, community and society. \n2. integrate learning across diverse domains and undertake a critical analysis of \nissues and concerns specific to family, community and society. \n3. appreciate the discipline of Home Science for professional careers. \n4. acquaint learners with the basic knowledge specific to five domains namely, \nFoods and nutrition, Human Development and Family studies, Fabric and \nApparel, Resource Management and Communication and Extension.\n5. develop functional skills in the five domains for career and employment. \n6. equip learners for enrichment and higher studies. \nLearning outcomes: \nAfter undertaking the course students will be able to: \n1. function as a productive and responsible individual in relation to self, family, \ncommunity and society. \n2. apply the basics of human development with specific reference to self, family \nand community. \n3. utilize the skills of judicious management of various resources. \n4. be sensitized to fabric and apparel, their selection and care. \n5. inculcate healthy food habits and lifestyle to enable prevention \nand management of diseases. \n6. become alert and aware consumer. \n7. appreciate the potential of entrepreneurship and other varied professional \nopportunities to make informed career choices.\nIntroduction: \nHOME SCIENCE (2024-2025) \nCLASS XI \n \n \nIn class XI, the “Self and family” and the “Home” are focal points for understanding the \ndynamics for individual lives and social interactions. The curriculum is divided in five \nunits. Unit I introduces the concept of home science. Unit II begins with the stage of \nadolescence and related concerns. Unit III deals with the expanding interactions of the \nadolescent with others in family, school, community and society, and the needs \nemerging from each of these contexts. Unit IV and V focus on childhood and adulthood \nrespectively. \nCourse Structure: \nTheory & Practical \nTime: 3 Hrs. Theory: 70 Marks \n Practical: 30 Marks \nNo. \nUnits \nMarks \n No. of Pd. \n1. \nIntroduction to Home Science \n02 \n04 \n2. \nUnderstanding oneself: Adolescence \n20 \n35 \n3. \nUnderstanding Family, Community and Society \n15 \n35 \n4. \nChildhood \n15 \n24 \n5. \nAdulthood \n18 \n28 \nTotal \n70 \n126 \nPractical \n30 \n28 \nGrand Total \n100 \n154\nClass XI \nTheory: 70Marks \nUnit I Introduction to Home Science \n \nUnit II: Understanding oneself: Adolescence \n Ch. - Understanding the Self. \nA. „Who am I‟? \nB. Development and Characteristics of the Self(Development characteristics and \nneeds of adolescents) \nC. Influences on Identity \nCh. - Food, Nutrition, Health and Fitness \n Ch. - Management of Resources \nCh. - Fabric Around us \nCh. - Media and Communication Technology \nUnit III: Understating family, community and society \n Ch. - Concerns and needs in diverse contexts: \na. Nutrition, Health and Hygiene \nb. Resources Availability and Management \n \nUnit IV: Childhood \nCh.-Survival, Growth and Development \nCh. - Nutrition, Health and Wellbeing \nCh. - Our Apparel \n \nUnit V: Adulthood \nCh. - Health and Wellness \nCh. - Financial Management and planning \n Ch. - Care and Maintenance of fabrics\nHOME SCIENCE (2024-25) \nCLASS XI \nUNIT I: INTRODUCTION TO HOME SCIENCE \n What is Home Science \n Areas of Home Science \n Home Science is important for both boys and girls \n Career options of Home Science \n \nUNIT II: UNDERSTANDING ONESELF: ADOLESCENCE \nUnit II focus on the stage of adolescence - the stage of life to which you belong at \npresent. This unit deals with understanding your own self in terms of your \npersonal and social identity, your nutritional and health requirements, \nmanagement of basic resources of time and space, fabrics around you, and your \ncommunication skills. The last chapter of the unit situates the adolescent in the \ncontext of the family and larger society, thereby linking it to the next unit that \ndeals with the individual in relation to her/his family, school, community and \nsociety. \nCHAPTER: UNDERSTANDING THE SELF \n What is Self? \n Personal dimension \n Social dimension \n Self- concept \n Self esteem \n \n What is Identity? \n Personal identity \n Social identity \n \n Self during Infancy: characteristics \n Self during early childhood: characteristics \n Self during middle childhood: characteristics \n Self during adolescence: characteristics \n Identity development \n Identity crisis\n Real vs Ideal self \n Influences on identity \n Developing a sense of self and identity \n Influences on formation of identity \n Biological and physical changes \n Socio-cultural context \n Emotional changes \n Cognitive changes \nCHAPTER: FOOD, NUTRITION, HEALTH AND FITNESS \n \n Introduction \n Definition of \n Food \n Nutrition \n Nutrients \n Balanced diet \n Definition \n RDA \n Health and Fitness \n Using Basic food Groups for planning Balanced Diets \n Food guide pyramid. \n Vegetarian food Guide \n Dietary patterns in Adolescence \n Irregular meals and skipping meals \n Snacking \n Fast foods \n Dieting \n Modifying diet related behaviour \n Diet journal \n Exercise \n Substance use and abuse \n Healthy eating habits \n Snacks \n Drinking water \n Factors influencing eating behaviour \n \n Eating disorders at adolescence\n Key terms and their meaning \n \nCHAPTER: MANAGEMENT OF RESOURCES \n Introduction \n Classification of resources \n Human /non-human resources \n Individual / shared resources \n Natural / community resources \n Human and non-human resources \n Human resources \no Knowledge \no Motivation/ interest \no Skills/ strength/ aptitude \no Time \no Energy \n Non-human resources \no Money \no Material resources \n Individual and shared resources \n Individual resources \n shared resources \n Natural and community resources \n Natural resources \n community resources \n Characteristics of resources \n Utility \n Accessibility \n Interchangeability \n Manageable \n Managing Resources \n Management process \n Planning \n Steps in planning \n Organising \n Implementing \n Controlling \n Evaluation\nCHAPTER: FABRIC AROUND US \n Deﬁnition of yarns, ﬁbres, textile products, ﬁnishing. \n Introduction to ﬁbre properties \n Classiﬁcation of textile ﬁbres \n Filament/staple ﬁbres \n Natural/Manufactured (manmade) ﬁbres \n Types of Natural Fibres \n Cellulosic ﬁbres \n \nProtein ﬁbres \n \nMineral ﬁbres \n \nNatural rubber \n Types of Manufactured Fibres \n Regenerated cellulosic ﬁbres \n Modiﬁed cellulosic ﬁbres \n Protein ﬁbres \n Non-cellulosic ﬁbres \n Mineral ﬁbres \n Some Important ﬁbres and their properties \n Cotton \n Linen \n Wool \n Silk \n Rayon \n Nylon \n \nPolyester \n Acrylic \n Elastomeric ﬁbres \n Yarns \n Yarn processing \n Cleaning \n \nMaking into a sliver \n Attenuating, drawing out and twisting \n Yarn terminology \n Yarn number \n \nYarn twist \n \nYarn and thread \n Fabric production \n Weaving\n Knitting \n Braiding \n Nets \n Laces \n Textile Finishing \n Finishing with colour \n Printing \nCHAPTER-MEDIA COMMUNICATION TECHNOLOGY \n Communication and Communication Technology \n What is Communication \n Classification of communication \n How does communication takes place \n What is media \n Media classification and functions \n What is communication technology \n Classification of communication technologies \n Modern communication technologies\nUNIT III: UNDERSTANDING FAMILY, COMMUNITY AND SOCIETY \nThe chapters in Unit II were all addressed to you for the understanding of self and \nof the factors that influence your decision making. Let us now move on to \nunderstanding the family, the community and the society that you are a part of. In \nthe first section- the focus will be on relationships and interactions with \nsignificant others, i.e. those important to you in these contexts. The second \nsection- will discuss concerns and needs, such as those of health, work, \nresources, education and textile tradition in the adolescent‟s diverse social \ncontexts. \n \nCHAPTER: CONCERNS AND NEEDS IN DIVERSE CONTEXTS \nA. NUTRITION, HEALTH AND HYGIENE \n Health and its Dimensions \n Social health \n Mental health \n Physical health \n Health care Indicators of Health \n Nutrition and Health \n Importance of nutrients \n Factors affecting nutritional well being \n Food and nutrient security \n Care for the vulnerable \n \nGood health for all \n Safe environment \n Nutritional Problems and their consequences \n Malnutrition \n Under nutrition \n Over nutrition \n Hygiene and Sanitation \n Personal Hygiene \n Environmental Hygiene \n Food Hygiene \n Water safety-Qualities of potable water, methods of water \npurification(Boiling, chlorine, storage and electric filter ,RO) \nB. RESOURCES AVAILABILITY AND MANAGEMENT \n Time Management\n Definition of time plan \n How good is your time management (Activity)? \n \nSteps in making time plan \n Tips for effective time management \n Tools in time management---Peak load period, Work curve, Rest \n/break periods, Work simplification \n Space Management \n Space and the home \n \nPrinciples of space planning\nUNIT IV: CHILDHOOD \nThe theme of this unit is „Childhood‟. You may wonder why did the book address \nthe adolescent years first and childhood later. Well, it is because if you as an \nadolescent understand issues about yourself first, it would be easier to grasp the \nissues that are concerned with the stage of childhood, and later with adulthood. \nIn this unit you will be studying about children‟s growth and development, critical \nconcerns about their health and nutrition, education and clothing. As we would \nlike children with disabilities to be an inclusive part of our society, the chapters \nprovide us important information on their needs and ways to meet them. \nCHAPTER: SURVIVAL GROWTH AND DEVELOPMENT \n The meaning of survival \n Growth and development \n Areas of development \n Physical development \n \nMotor development \n Cognitive development \n Sensory development \n Language development \n \nSocial development \n \nEmotional development \n Good Nutrition \n Stages in development \n Neonate \no Reflexes \no \nSensory capabilities \n Development across stages from infancy to adolescence \n Physical and motor development \n Language development \n Socio -emotional development \n Cognitive development \no Mental processes involved in thinking \no Stages of cognitive development \n Sensory motor stage \n Pre-operational stage \n Concrete operational stage \n Formal operational stage\nCHAPTER: NUTRITION, HEALTH AND WELL-BEING \n Introduction \n Nutrition, Health and Well-being during infancy (birth - 12 months) \n Dietary requirements of infants \n Breast feeding \no Benefits of breast feeding \n Feeding the low birth weight infants \n Complementary foods \n Guidelines for complementary feeding \n Immunization \n Common health and nutrition problems in infants and young \nchildren \n Nutrition, Health and well-being of preschool children (1-6 years) \n Nutritional needs of preschool children \n \nGuidelines for healthy eating for preschoolers \n Planning balanced meals for preschool children \n Some examples of low-cost snacks \n Feeding children with specific needs \n Immunization \n Nutrition, Health and well-being of school-age children (7-12 years) \n Nutritional requirements of school children \n \nPlanning diets for school-age children \n Factors that influence diet intake of preschool-age and school-\nage children \n \nHealthy habits \n Health and nutrition issues of school age children\nCHAPTER: OUR APPAREL \n Clothing functions and the selection of clothes \n Modesty \n \nProtection \n Status and prestige \n Adornment \n Factors affecting selection of clothing in India \n Age \n Climate and season \n \nOccasion \n \nFashion \n Income \n Understanding children‟s basic clothing needs \n Comfort \n Safety \n \nSelf help \n Appearance \n \nAllowance for growth \n \nEasy care \n \nFabrics \n Clothing requirements at different childhood stages \n Infancy (birth to six months) \n Creeping age (6 months to one year) \n Toddlerhood (1-2 years) \n \nPreschool age (2-6 years) \n Elementary school years (5-11 years) \n \nAdolescents (11-19 years) \n Clothes for children with special needs\nUNIT V: ADULTHOOD \nWith the advent of adulthood, the adolescent passes through the portal of what \nmay be termed as the “real world”. One enters the world of higher education, \nwork and marriage, and gets involved in establishing one‟s own family. Hence \nresponsibilities of the individual increases manifold. In this unit you will learn \nabout the major factors that play a role in determining the quality of adult life, \nthese being health and wellness, financial planning and management, \nmaintenance of fabrics and apparel that one uses personally as well as in the \nhome, and appreciation of different perspectives in communication. The unit \nconcludes with the chapter on individual responsibilities and rights, not only for \none‟s own self, but also in relation to the family and larger society. \nCHAPTER: HEALTH AND WELLNESS \n Importance of health and fitness \n Healthy & Unhealthy diet \n BMI \n Do‟s and Don‟ts for health promoting diets \n Fitness \n Importance of exercise and physical activities in adulthood \n Wellness \n Qualities of a person who is rated high on wellness \n Dimensions of wellness \n Social aspect \n Physical aspect \n Intellectual aspect \n Occupational aspect \n Emotional aspect \n Spiritual aspect \n Environmental aspect \n Financial aspect \n Stress and coping with stress \n Simple techniques to cope with stress \n Relaxation \n Talking with friends/family \n Reading \n Spirituality \n Music \n Hobby\n Yoga \n \nCHAPTER: FINANCIAL MANAGEMENT AND PLANNING \n \n Financial management \n Financial planning \n Management \n Money and its importance \n Family Income \n Money income \n Real income: Direct and Indirect income \n Psychic income \n Income management \n Budget \n Steps in making budget \n Advantages of planning family budgets \n Control in money management \n Checking to see how well the plan is progressing \no Mental and mechanical check \no Records and accounts \n Adjusting wherever necessary \n Evaluation \n Savings \n Investment \n Principles underlying sound investments \n Safety to the principle amount \n Reasonable rate of interest \n Liquidity \n Recognition of effect of world conditions \n Easy accessibility and convenience \n Investing in needed commodities \n Tax efficiency \n After investment service \n Time period \n Capacity \n Savings and investment avenues \n Post office \n Banks\n Unit Trust of India \n NSC \n Mutual funds \n Provident funds \n Chit fund \n Life insurance and medical insurance \n Pension scheme \n Gold, house, land \n Others (new schemes) \n Credit \n Need of credit \n 4C‟s of credit: character, capacity, capital means, collateral, \nCHAPTER: CARE AND MAINTENANCE OF FABRICS \n Mending \n Laundering \n Stain removal \no Vegetable stains \no Animal stains \no Oil stains \no Mineral stains \no Dye bleeding \n Techniques of stain removal \no Scraping \no Dipping \no Sponging \no Drop method \n Reagent for stain removal \n Common stains and method of removing \n Removal of dirt: the cleaning process \n Soaps and detergents \n Methods of washing: friction, kneading & squeezing, suction, washing by \nmachine \n \n Finishing \n Blues and optical brighteners \n Starches and stiffening agents \n Ironing \n Dry cleaning\nNOTE: \n Wherever required latest data/figures to be used. \n Latest RDA’s to be used. \n Storage of textile products \n Factors affecting fabric care \n Yarn structure \n Fabric construction \n Colour and finishes \n Care label\nPRACTICALS FOR CLASS XI \n \n1. \nUnderstanding oneself with reference to: \na) Physical development in terms of age, height, weight, hip and chest \ncircumference. \nb) Sexual maturity (Age at menarche, Development of breasts: girls). \nGrowth of beard, change in voice: boys) \n2. \nObserve developmental norms: (Physical, Motor, Language and social - \nemotional) birth to three years. \n \n3. \nList and discuss 4-5 areas of agreement and disagreement with \na) Mother \nb) Father \nc) Siblings/ Friends \nd) Teacher \n \n \n4. \na) Record own diet for a day \nb) Evaluate qualitatively for adequacy \n \n5. Preparation of different healthy snacks for an adolescent suitable in her/his \ncontext. \n6. \na) Record one day‟s activities relating to time use and work \nb) Prepare a time plan for yourself \n \n7. \nPlan a budget for a given situation/purpose. \n \n8. \na) Record the fabrics and apparel used in a day \nb) Categorize them according to functionality \n \n9. Relationship of fibre properties to their usage: \na) Thermal property and flammability \nb) Moisture absorbency and comfort \n \n10. (a) Analyze label of any one garment with respect to: Clarity, fiber content, \nsize and care instructions. \n(b) Prepare one care label of any garment. \n(c) Analyze two different fabric samples for color fastness.\nScheme for practical examination 30 Marks \n1. Observe developmental norms: (Physical, Motor, Language and social \nemotional) birth to three years. \n5 marks \nOR \nList and discuss 4-5 areas of agreement and disagreement with \n \na) Mother \nb) Father \nc) Siblings/ Friends \nd) Teacher \n2. \nPreparation of healthy snacks for an adolescent. 7 marks \n3. \nPlan a budget for a given situation/purpose. 3 marks \n4. \nPrepare a time plan for yourself. 3 marks \n5. \nRelationship of fibre properties to their usage: 5 marks \na) Thermal property and flammability \nb) Moisture absorbency and comfort \nOR \nPrepare one care label of any garment. \n6. \nFile 5 marks \n7. \nViva 2 marks \n \nPrescribed textbook: Human Ecology and Family Sciences (For class XI): Part I and \nPart II\nHome Science (2024-25) \n \nClass XII \nIntroduction: \n \nIn class XII, the emphasis is on “Work and careers” through the life span. Within the \ncurriculum the significance and scope of each domain (Foods and Nutrition, Human \nDevelopment and Family Studies, Fabric and Apparel, Resource Management and \nCommunication and Extension), the multiple thrust areas emerging within them \nhave been emphasized. The units spell out the basic concepts, requisite knowledge \nand skills in each thrust areas and delineate the career avenues and the \npreparation required for them in order to make informed career choices. \n \n \nCourse Structure: \nTheory and practical \n \nTime-3 Hours \nTheory: 70 marks \n \nPractical: 30 marks \n \nNo. Units \nMarks \nNo. of P"
+}

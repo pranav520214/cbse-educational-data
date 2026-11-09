@@ -1,0 +1,49 @@
+{
+  "subject_code": "804",
+  "subject_name": "Automotive",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Engineering",
+  "directory_name": "SUBJ_804_AUTOMOTIVE",
+  "directory_path": "CLASS_12/SUBJ_804_AUTOMOTIVE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Automotive (804-AUTOMOTIVE.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Automotive",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/804_AUTOMOTIVE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Automotive",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/804_AUTOMOTIVE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f73efd35209f0a79a1c4fa08881c04f8189fc9b328b4e598d5855b6df5c7d80a",
+    "file_size_bytes": 190089,
+    "units_extracted": 21,
+    "chapters_extracted": 29
+  }
+}

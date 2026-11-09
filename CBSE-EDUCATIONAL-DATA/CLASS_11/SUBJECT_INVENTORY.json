@@ -1,0 +1,4220 @@
+[
+  {
+    "subject_code": "000",
+    "subject_name": "Introduction to Senior Secondary Curriculum",
+    "class": "11",
+    "group": "Curriculum-Framework",
+    "stream": "Mandatory Framework",
+    "directory_name": "SUBJ_000_INTRODUCTION_TO_SENIOR_SECONDARY_CURRICULUM",
+    "directory_path": "CLASS_11/SUBJ_000_INTRODUCTION_TO_SENIOR_SECONDARY_CURRICULUM",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Introduction to Senior Secondary Curriculum",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Curriculum_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Introduction to Senior Secondary Curriculum",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Curriculum_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "027",
+    "subject_name": "History",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities",
+    "directory_name": "SUBJ_027_HISTORY",
+    "directory_path": "CLASS_11/SUBJ_027_HISTORY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "History",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/History_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "History",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/History_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "028",
+    "subject_name": "Political Science",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities",
+    "directory_name": "SUBJ_028_POLITICAL_SCIENCE",
+    "directory_path": "CLASS_11/SUBJ_028_POLITICAL_SCIENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Political Science",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PoliticalScience_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Political Science",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PoliticalScience_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "029",
+    "subject_name": "Geography",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities",
+    "directory_name": "SUBJ_029_GEOGRAPHY",
+    "directory_path": "CLASS_11/SUBJ_029_GEOGRAPHY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Geography",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Geography_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Geography",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Geography_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "030",
+    "subject_name": "Economics",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Commerce / Humanities",
+    "directory_name": "SUBJ_030_ECONOMICS",
+    "directory_path": "CLASS_11/SUBJ_030_ECONOMICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Economics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Economics_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Economics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Economics_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Economics (Statistics)",
+          "url": "https://ncert.nic.in/textbook/pdf/kest101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        },
+        {
+          "title": "NCERT Textbook: Class 11 Economics (Indian Economy)",
+          "url": "https://ncert.nic.in/textbook/pdf/keec101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 4,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "031",
+    "subject_name": "Carnatic Vocal",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_031_CARNATIC_VOCAL",
+    "directory_path": "CLASS_11/SUBJ_031_CARNATIC_VOCAL",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Carnatic Vocal",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Vocal_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Carnatic Vocal",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Vocal_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "032",
+    "subject_name": "Carnatic Melodic",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_032_CARNATIC_MELODIC",
+    "directory_path": "CLASS_11/SUBJ_032_CARNATIC_MELODIC",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Carnatic Melodic",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Melodic_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Carnatic Melodic",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Melodic_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "033",
+    "subject_name": "Carnatic Percussion",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_033_CARNATIC_PERCUSSION",
+    "directory_path": "CLASS_11/SUBJ_033_CARNATIC_PERCUSSION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Carnatic Percussion",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Carnatic_Percussion_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Carnatic Percussion",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Carnatic_Percussion_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "034",
+    "subject_name": "Hindustani Vocal",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_034_HINDUSTANI_VOCAL",
+    "directory_path": "CLASS_11/SUBJ_034_HINDUSTANI_VOCAL",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Hindustani Vocal",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Vocal_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Hindustani Vocal",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Vocal_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "035",
+    "subject_name": "Hindustani Melodic",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_035_HINDUSTANI_MELODIC",
+    "directory_path": "CLASS_11/SUBJ_035_HINDUSTANI_MELODIC",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Hindustani Melodic",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Melodic_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Hindustani Melodic",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Melodic_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "036",
+    "subject_name": "Hindustani Percussion",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_036_HINDUSTANI_PERCUSSION",
+    "directory_path": "CLASS_11/SUBJ_036_HINDUSTANI_PERCUSSION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Hindustani Percussion",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindustani_Percussion_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Hindustani Percussion",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindustan_Percussion_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "037",
+    "subject_name": "Psychology",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities",
+    "directory_name": "SUBJ_037_PSYCHOLOGY",
+    "directory_path": "CLASS_11/SUBJ_037_PSYCHOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Psychology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Psychology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "039",
+    "subject_name": "Sociology",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities",
+    "directory_name": "SUBJ_039_SOCIOLOGY",
+    "directory_path": "CLASS_11/SUBJ_039_SOCIOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Sociology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sociology_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Sociology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sociology_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "041",
+    "subject_name": "Mathematics",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science / Commerce",
+    "directory_name": "SUBJ_041_MATHEMATICS",
+    "directory_path": "CLASS_11/SUBJ_041_MATHEMATICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Mathematics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Mathematics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Maths_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Mathematics",
+          "url": "https://ncert.nic.in/textbook/pdf/kemh101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "042",
+    "subject_name": "Physics",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science",
+    "directory_name": "SUBJ_042_PHYSICS",
+    "directory_path": "CLASS_11/SUBJ_042_PHYSICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Physics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Physics_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Physics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Physics_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Physics",
+          "url": "https://ncert.nic.in/textbook/pdf/keph101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        },
+        {
+          "title": "NCERT Textbook: Class 11 Physics Part 2",
+          "url": "https://ncert.nic.in/textbook/pdf/keph201.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 4,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "043",
+    "subject_name": "Chemistry",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science",
+    "directory_name": "SUBJ_043_CHEMISTRY",
+    "directory_path": "CLASS_11/SUBJ_043_CHEMISTRY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Chemistry",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Chemistry",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Chemistry_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Chemistry",
+          "url": "https://ncert.nic.in/textbook/pdf/kech101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        },
+        {
+          "title": "NCERT Textbook: Class 11 Chemistry Part 2",
+          "url": "https://ncert.nic.in/textbook/pdf/kech201.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 4,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "044",
+    "subject_name": "Biology",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science",
+    "directory_name": "SUBJ_044_BIOLOGY",
+    "directory_path": "CLASS_11/SUBJ_044_BIOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Biology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Biology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Biology_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Biology",
+          "url": "https://ncert.nic.in/textbook/pdf/kebo101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "045",
+    "subject_name": "Bio Technology",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science",
+    "directory_name": "SUBJ_045_BIO_TECHNOLOGY",
+    "directory_path": "CLASS_11/SUBJ_045_BIO_TECHNOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Bio Technology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BioTechnology_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Bio Technology",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BioTechnology_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "046",
+    "subject_name": "Engineering Graphics",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science / Technical",
+    "directory_name": "SUBJ_046_ENGINEERING_GRAPHICS",
+    "directory_path": "CLASS_11/SUBJ_046_ENGINEERING_GRAPHICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Engineering Graphics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Engineering_Graphics_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Engineering Graphics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Engineering_Graphics_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "048",
+    "subject_name": "Physical Education",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Physical Education",
+    "directory_name": "SUBJ_048_PHYSICAL_EDUCATION",
+    "directory_path": "CLASS_11/SUBJ_048_PHYSICAL_EDUCATION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Physical Education",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/PhysicalEducation_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Physical Education",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/PhysicalEducation_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "049",
+    "subject_name": "Fine Arts",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Visual Arts",
+    "directory_name": "SUBJ_049_FINE_ARTS",
+    "directory_path": "CLASS_11/SUBJ_049_FINE_ARTS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Fine Arts",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Fine_Arts_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Fine Arts",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Fine_Arts_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "054",
+    "subject_name": "Business Studies",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Commerce",
+    "directory_name": "SUBJ_054_BUSINESS_STUDIES",
+    "directory_path": "CLASS_11/SUBJ_054_BUSINESS_STUDIES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Business Studies",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/BusinessStudies_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Business Studies",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/BusinessStudies_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Business Studies",
+          "url": "https://ncert.nic.in/textbook/pdf/kebs101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "055",
+    "subject_name": "Accountancy",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Commerce",
+    "directory_name": "SUBJ_055_ACCOUNTANCY",
+    "directory_path": "CLASS_11/SUBJ_055_ACCOUNTANCY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Accountancy",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Accountancy_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Accountancy",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Accountancy_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Accountancy",
+          "url": "https://ncert.nic.in/textbook/pdf/keac101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "056",
+    "subject_name": "Dance",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Performing Arts",
+    "directory_name": "SUBJ_056_DANCE",
+    "directory_path": "CLASS_11/SUBJ_056_DANCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Dance",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Dance",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "064",
+    "subject_name": "Home Science",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Interdisciplinary",
+    "directory_name": "SUBJ_064_HOME_SCIENCE",
+    "directory_path": "CLASS_11/SUBJ_064_HOME_SCIENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Home Science",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Home_Science_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Home Science",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Home_Science_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "065",
+    "subject_name": "Infomatics Practices",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Computing / Commerce",
+    "directory_name": "SUBJ_065_INFOMATICS_PRACTICES",
+    "directory_path": "CLASS_11/SUBJ_065_INFOMATICS_PRACTICES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Infomatics Practices",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Informatics_Practices_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Infomatics Practices",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Informatics_Practices_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Informatics Practices",
+          "url": "https://ncert.nic.in/textbook/pdf/keip101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "066",
+    "subject_name": "Entrepreneurship",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Commerce / Elective",
+    "directory_name": "SUBJ_066_ENTREPRENEURSHIP",
+    "directory_path": "CLASS_11/SUBJ_066_ENTREPRENEURSHIP",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Entrepreneurship",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Entrepreneurship",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "073",
+    "subject_name": "Knowledge Tradition - Practices India",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities / Elective",
+    "directory_name": "SUBJ_073_KNOWLEDGE_TRADITION_PRACTICES_INDIA",
+    "directory_path": "CLASS_11/SUBJ_073_KNOWLEDGE_TRADITION_PRACTICES_INDIA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Knowledge Tradition - Practices India",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KTPI_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Knowledge Tradition - Practices India",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KTPI_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "074",
+    "subject_name": "Legal Studies",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Humanities / Elective",
+    "directory_name": "SUBJ_074_LEGAL_STUDIES",
+    "directory_path": "CLASS_11/SUBJ_074_LEGAL_STUDIES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Legal Studies",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/LegalStudies_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Legal Studies",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/LegalStudies_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "076",
+    "subject_name": "NCC",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "General / Defense",
+    "directory_name": "SUBJ_076_NCC",
+    "directory_path": "CLASS_11/SUBJ_076_NCC",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "NCC",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/NCC_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "NCC",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/NCC_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "083",
+    "subject_name": "Computer Science",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Science / Computing",
+    "directory_name": "SUBJ_083_COMPUTER_SCIENCE",
+    "directory_path": "CLASS_11/SUBJ_083_COMPUTER_SCIENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Computer Science",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Computer_Science_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Computer Science",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Computer_Science_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 Computer Science",
+          "url": "https://ncert.nic.in/textbook/pdf/kecs101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "241",
+    "subject_name": "Applied Mathematics",
+    "class": "11",
+    "group": "Group-A",
+    "stream": "Commerce / Humanities / Science",
+    "directory_name": "SUBJ_241_APPLIED_MATHEMATICS",
+    "directory_path": "CLASS_11/SUBJ_241_APPLIED_MATHEMATICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Applied Mathematics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Applied_Mathematics_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Applied Mathematics",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Applied_Mathematics_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "001",
+    "subject_name": "English Elective",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_001_ENGLISH_ELECTIVE",
+    "directory_path": "CLASS_11/SUBJ_001_ENGLISH_ELECTIVE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "English Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_elective_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "English Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_elective_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "002",
+    "subject_name": "Hindi Elective",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_002_HINDI_ELECTIVE",
+    "directory_path": "CLASS_11/SUBJ_002_HINDI_ELECTIVE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Hindi Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Elective_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Hindi Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Elective_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "003",
+    "subject_name": "Urdu Elective",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_003_URDU_ELECTIVE",
+    "directory_path": "CLASS_11/SUBJ_003_URDU_ELECTIVE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Urdu Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_Elective_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Urdu Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_Elective_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "016",
+    "subject_name": "Arabic",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_016_ARABIC",
+    "directory_path": "CLASS_11/SUBJ_016_ARABIC",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Arabic",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Arabic_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Arabic",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Arabic_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "021",
+    "subject_name": "Russian",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_021_RUSSIAN",
+    "directory_path": "CLASS_11/SUBJ_021_RUSSIAN",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Russian",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Russian_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Russian",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Russian_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "022",
+    "subject_name": "Sanskrit Elective",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_022_SANSKRIT_ELECTIVE",
+    "directory_path": "CLASS_11/SUBJ_022_SANSKRIT_ELECTIVE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Sanskrit Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Elective_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Sanskrit Elective",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Elective_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "023",
+    "subject_name": "Persian",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_023_PERSIAN",
+    "directory_path": "CLASS_11/SUBJ_023_PERSIAN",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Persian",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Persian_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Persian",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Persian_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "104",
+    "subject_name": "Punjabi",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_104_PUNJABI",
+    "directory_path": "CLASS_11/SUBJ_104_PUNJABI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Punjabi",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Punjabi_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Punjabi",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Punjabi_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "105",
+    "subject_name": "Bengali",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_105_BENGALI",
+    "directory_path": "CLASS_11/SUBJ_105_BENGALI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Bengali",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bengali_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Bengali",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bengali_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "106",
+    "subject_name": "Tamil",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_106_TAMIL",
+    "directory_path": "CLASS_11/SUBJ_106_TAMIL",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Tamil",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tamil_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Tamil",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tamil_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "107",
+    "subject_name": "Telugu AP",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_107_TELUGU_AP",
+    "directory_path": "CLASS_11/SUBJ_107_TELUGU_AP",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Telugu AP",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_AP_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Telugu AP",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_AP_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "108",
+    "subject_name": "Sindhi",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_108_SINDHI",
+    "directory_path": "CLASS_11/SUBJ_108_SINDHI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Sindhi",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sindhi_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Sindhi",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sindhi_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "109",
+    "subject_name": "Marathi",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_109_MARATHI",
+    "directory_path": "CLASS_11/SUBJ_109_MARATHI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Marathi",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Marathi_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Marathi",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Marathi_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "110",
+    "subject_name": "Gujarati",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_110_GUJARATI",
+    "directory_path": "CLASS_11/SUBJ_110_GUJARATI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Gujarati",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Gujarati_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Gujarati",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Gujarati_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "111",
+    "subject_name": "Manipuri",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_111_MANIPURI",
+    "directory_path": "CLASS_11/SUBJ_111_MANIPURI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Manipuri",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Manipuri_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Manipuri",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Manipuri_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "112",
+    "subject_name": "Malayalam",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_112_MALAYALAM",
+    "directory_path": "CLASS_11/SUBJ_112_MALAYALAM",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Malayalam",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Malyalam_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Malayalam",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Malyalam_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "113",
+    "subject_name": "Odia",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_113_ODIA",
+    "directory_path": "CLASS_11/SUBJ_113_ODIA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Odia",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Odia_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Odia",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Odia_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "114",
+    "subject_name": "Assamese",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_114_ASSAMESE",
+    "directory_path": "CLASS_11/SUBJ_114_ASSAMESE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Assamese",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Assamese_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Assamese",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Assamese_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "115",
+    "subject_name": "Kannada",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_115_KANNADA",
+    "directory_path": "CLASS_11/SUBJ_115_KANNADA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Kannada",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kannada_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Kannada",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kannada_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "117",
+    "subject_name": "Tibetan",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_117_TIBETAN",
+    "directory_path": "CLASS_11/SUBJ_117_TIBETAN",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Tibetan",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tibetan_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Tibetan",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tibetan_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "118",
+    "subject_name": "French",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_118_FRENCH",
+    "directory_path": "CLASS_11/SUBJ_118_FRENCH",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "French",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/French_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "French",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/French_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "120",
+    "subject_name": "German",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_120_GERMAN",
+    "directory_path": "CLASS_11/SUBJ_120_GERMAN",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "German",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/German_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "German",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/German_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "124",
+    "subject_name": "Nepali",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_124_NEPALI",
+    "directory_path": "CLASS_11/SUBJ_124_NEPALI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Nepali",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Nepali_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Nepali",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Nepali_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "125",
+    "subject_name": "Limboo",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_125_LIMBOO",
+    "directory_path": "CLASS_11/SUBJ_125_LIMBOO",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Limboo",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Limboo_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Limboo",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Limboo_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "126",
+    "subject_name": "Lepcha",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_126_LEPCHA",
+    "directory_path": "CLASS_11/SUBJ_126_LEPCHA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Lepcha",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Lepcha_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Lepcha",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Lepcha_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "189",
+    "subject_name": "Telugu Telangana",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_189_TELUGU_TELANGANA",
+    "directory_path": "CLASS_11/SUBJ_189_TELUGU_TELANGANA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Telugu Telangana",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_Telangana_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Telugu Telangana",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_Telangana_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "191",
+    "subject_name": "Kokborok",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_191_KOKBOROK",
+    "directory_path": "CLASS_11/SUBJ_191_KOKBOROK",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Kokborok",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/KOKBOROK_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Kokborok",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/KOKBOROK_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "192",
+    "subject_name": "Bodo",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_192_BODO",
+    "directory_path": "CLASS_11/SUBJ_192_BODO",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Bodo",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bodo_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Bodo",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bodo_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "193",
+    "subject_name": "Tangkhul",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_193_TANGKHUL",
+    "directory_path": "CLASS_11/SUBJ_193_TANGKHUL",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Tangkhul",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Tangkhul_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Tangkhul",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Tangkhul_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "194",
+    "subject_name": "Bhoti",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_194_BHOTI",
+    "directory_path": "CLASS_11/SUBJ_194_BHOTI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Bhoti",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhoti_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Japanese",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Japanese_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Bhoti",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhoti_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Japanese",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Japanese_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 4,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "195",
+    "subject_name": "Bhutia",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_195_BHUTIA",
+    "directory_path": "CLASS_11/SUBJ_195_BHUTIA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Bhutia",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Bhutia_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Bhutia",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Bhutia_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "196",
+    "subject_name": "Spanish",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_196_SPANISH",
+    "directory_path": "CLASS_11/SUBJ_196_SPANISH",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Spanish",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Spanish_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Spanish",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Spanish_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "197",
+    "subject_name": "Kashmiri",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_197_KASHMIRI",
+    "directory_path": "CLASS_11/SUBJ_197_KASHMIRI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Kashmiri",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Kashmiri_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Kashmiri",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Kashmiri_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "198",
+    "subject_name": "Mizo",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_198_MIZO",
+    "directory_path": "CLASS_11/SUBJ_198_MIZO",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Mizo",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Mizo_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Mizo",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Mizo_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "301",
+    "subject_name": "English Core",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_301_ENGLISH_CORE",
+    "directory_path": "CLASS_11/SUBJ_301_ENGLISH_CORE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "English Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/English_core_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "English Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/English_core_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [
+        {
+          "title": "NCERT Textbook: Class 11 English Core (Hornbill)",
+          "url": "https://ncert.nic.in/textbook/pdf/kehb101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        },
+        {
+          "title": "NCERT Textbook: Class 11 English Core (Snapshots)",
+          "url": "https://ncert.nic.in/textbook/pdf/kesp101.pdf",
+          "session": "Rationalised 2024-26",
+          "source": "NCERT Official Textbook Repository",
+          "license": "NCERT Educational Fair Use / Curriculum Reference"
+        }
+      ],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 4,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "302",
+    "subject_name": "Hindi Core",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_302_HINDI_CORE",
+    "directory_path": "CLASS_11/SUBJ_302_HINDI_CORE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Hindi Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Hindi_Core_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Hindi Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Hindi_Core_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "303",
+    "subject_name": "Urdu Core",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_303_URDU_CORE",
+    "directory_path": "CLASS_11/SUBJ_303_URDU_CORE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Urdu Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/URDU_CORE_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Urdu Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/URDU_CORE_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "322",
+    "subject_name": "Sanskrit Core",
+    "class": "11",
+    "group": "Group-L",
+    "stream": "Languages",
+    "directory_name": "SUBJ_322_SANSKRIT_CORE",
+    "directory_path": "CLASS_11/SUBJ_322_SANSKRIT_CORE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Sanskrit Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Sanskrit_Core_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Sanskrit Core",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Sanskrit_Core_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "801",
+    "subject_name": "Retail",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Management",
+    "directory_name": "SUBJ_801_RETAIL",
+    "directory_path": "CLASS_11/SUBJ_801_RETAIL",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Retail (801-RETAIL_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/801-RETAIL_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Retail",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/801_RETAIL_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Retail",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/801_RETAIL_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "802",
+    "subject_name": "Information Technology",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Computing",
+    "directory_name": "SUBJ_802_INFORMATION_TECHNOLOGY",
+    "directory_path": "CLASS_11/SUBJ_802_INFORMATION_TECHNOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Information Technology (802-IT.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/802-IT.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "803",
+    "subject_name": "Web Application",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Computing",
+    "directory_name": "SUBJ_803_WEB_APPLICATION",
+    "directory_path": "CLASS_11/SUBJ_803_WEB_APPLICATION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Web Application (803-WebApplication_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Skill Curriculum: Web Application (803-WebApplication_XII_updated.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XII_updated.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "804",
+    "subject_name": "Automotive",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Engineering",
+    "directory_name": "SUBJ_804_AUTOMOTIVE",
+    "directory_path": "CLASS_11/SUBJ_804_AUTOMOTIVE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Automotive (804-AUTOMOTIVE_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Skill Curriculum: Automotive (804-AUTOMOTIVE.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/804-AUTOMOTIVE.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Automotive",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/804_AUTOMOTIVE_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Automotive",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/804_AUTOMOTIVE_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 4,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "805",
+    "subject_name": "Financial Markets Management",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Finance",
+    "directory_name": "SUBJ_805_FINANCIAL_MARKETS_MANAGEMENT",
+    "directory_path": "CLASS_11/SUBJ_805_FINANCIAL_MARKETS_MANAGEMENT",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Financial Markets Management (805-FMM.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/805-FMM.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "806",
+    "subject_name": "Tourism",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Hospitality",
+    "directory_name": "SUBJ_806_TOURISM",
+    "directory_path": "CLASS_11/SUBJ_806_TOURISM",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Tourism (806-Tourism.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/806-Tourism.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "807",
+    "subject_name": "Beauty & Wellness",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Personal Care",
+    "directory_name": "SUBJ_807_BEAUTY_WELLNESS",
+    "directory_path": "CLASS_11/SUBJ_807_BEAUTY_WELLNESS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Beauty & Wellness (807-BEAUTY-WELLNESS_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/807-BEAUTY-WELLNESS_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "808",
+    "subject_name": "Agriculture",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Agriculture",
+    "directory_name": "SUBJ_808_AGRICULTURE",
+    "directory_path": "CLASS_11/SUBJ_808_AGRICULTURE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Agriculture (808-AGRICULTURE-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "809",
+    "subject_name": "Food Production",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Hospitality",
+    "directory_name": "SUBJ_809_FOOD_PRODUCTION",
+    "directory_path": "CLASS_11/SUBJ_809_FOOD_PRODUCTION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Food Production (809-FOOD_PRODUCTION-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/809-FOOD_PRODUCTION-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "810",
+    "subject_name": "Front Office Operations",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Hospitality",
+    "directory_name": "SUBJ_810_FRONT_OFFICE_OPERATIONS",
+    "directory_path": "CLASS_11/SUBJ_810_FRONT_OFFICE_OPERATIONS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Front Office Operations (810-FRONT_OFFICE_OPERATIONS-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/810-FRONT_OFFICE_OPERATIONS-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "811",
+    "subject_name": "Banking",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Finance",
+    "directory_name": "SUBJ_811_BANKING",
+    "directory_path": "CLASS_11/SUBJ_811_BANKING",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Banking (811-Banking.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/811-Banking.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "812",
+    "subject_name": "Marketing",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Management",
+    "directory_name": "SUBJ_812_MARKETING",
+    "directory_path": "CLASS_11/SUBJ_812_MARKETING",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Marketing (812-MARKETING_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/812-MARKETING_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Marketing",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/812_MARKETING_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Marketing",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/812_MARKETING_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "813",
+    "subject_name": "Health Care",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Healthcare",
+    "directory_name": "SUBJ_813_HEALTH_CARE",
+    "directory_path": "CLASS_11/SUBJ_813_HEALTH_CARE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Health Care (813-HealthCare_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/813-HealthCare_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "814",
+    "subject_name": "Insurance",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Finance",
+    "directory_name": "SUBJ_814_INSURANCE",
+    "directory_path": "CLASS_11/SUBJ_814_INSURANCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Insurance (814-Insurance.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/814-Insurance.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "816",
+    "subject_name": "Horticulture",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Agriculture",
+    "directory_name": "SUBJ_816_HORTICULTURE",
+    "directory_path": "CLASS_11/SUBJ_816_HORTICULTURE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Horticulture (816-Horticulture-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-Horticulture-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "817",
+    "subject_name": "Typography & Computer Applications",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Office",
+    "directory_name": "SUBJ_817_TYPOGRAPHY_COMPUTER_APPLICATIONS",
+    "directory_path": "CLASS_11/SUBJ_817_TYPOGRAPHY_COMPUTER_APPLICATIONS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Typography & Computer Applications (817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/817-TYPOGRAPHY-COMPUTER-APPLICATIONS_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "818",
+    "subject_name": "Geospatial Technology",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Tech",
+    "directory_name": "SUBJ_818_GEOSPATIAL_TECHNOLOGY",
+    "directory_path": "CLASS_11/SUBJ_818_GEOSPATIAL_TECHNOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Geospatial Technology (818-GEOSPATIAL_TECHNOLOGY_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/818-GEOSPATIAL_TECHNOLOGY_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "819",
+    "subject_name": "Electrical Technology",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Engineering",
+    "directory_name": "SUBJ_819_ELECTRICAL_TECHNOLOGY",
+    "directory_path": "CLASS_11/SUBJ_819_ELECTRICAL_TECHNOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Electrical Technology (819-ELECTRICAL_TECHNOLOGY-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/819-ELECTRICAL_TECHNOLOGY-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "820",
+    "subject_name": "Electronics Technology",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Engineering",
+    "directory_name": "SUBJ_820_ELECTRONICS_TECHNOLOGY",
+    "directory_path": "CLASS_11/SUBJ_820_ELECTRONICS_TECHNOLOGY",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Electronics Technology (820-ELECTRONICS_TECHNOLOGY-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/820-ELECTRONICS_TECHNOLOGY-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "821",
+    "subject_name": "Multi-Media",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Media",
+    "directory_name": "SUBJ_821_MULTI_MEDIA",
+    "directory_path": "CLASS_11/SUBJ_821_MULTI_MEDIA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Multi-Media (821-MULTIMEDIA-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/821-MULTIMEDIA-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "822",
+    "subject_name": "Taxation",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Finance",
+    "directory_name": "SUBJ_822_TAXATION",
+    "directory_path": "CLASS_11/SUBJ_822_TAXATION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Taxation (822-TAXATION.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/822-TAXATION.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Taxation",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/822_TAXATION_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Taxation",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/822_TAXATION_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "823",
+    "subject_name": "Cost Accounting",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Finance",
+    "directory_name": "SUBJ_823_COST_ACCOUNTING",
+    "directory_path": "CLASS_11/SUBJ_823_COST_ACCOUNTING",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Cost Accounting (823-CostAccounting.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/823-CostAccounting.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "824",
+    "subject_name": "Office Procedures and Practices",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Office",
+    "directory_name": "SUBJ_824_OFFICE_PROCEDURES_AND_PRACTICES",
+    "directory_path": "CLASS_11/SUBJ_824_OFFICE_PROCEDURES_AND_PRACTICES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Office Procedures and Practices (824-OFFICE_PROCEDURES-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/824-OFFICE_PROCEDURES-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "825",
+    "subject_name": "Shorthand (English)",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Office",
+    "directory_name": "SUBJ_825_SHORTHAND_ENGLISH",
+    "directory_path": "CLASS_11/SUBJ_825_SHORTHAND_ENGLISH",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Shorthand (English) (825-SHORTHAND-ENGLISH-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/825-SHORTHAND-ENGLISH-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "826",
+    "subject_name": "Shorthand (Hindi)",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Office",
+    "directory_name": "SUBJ_826_SHORTHAND_HINDI",
+    "directory_path": "CLASS_11/SUBJ_826_SHORTHAND_HINDI",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Shorthand (Hindi) (826-SHORTHAND-HINDI-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/826-SHORTHAND-HINDI-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "827",
+    "subject_name": "Air-Conditioning & Refrigeration",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Engineering",
+    "directory_name": "SUBJ_827_AIR_CONDITIONING_REFRIGERATION",
+    "directory_path": "CLASS_11/SUBJ_827_AIR_CONDITIONING_REFRIGERATION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Air-Conditioning & Refrigeration (827-AIR_CONDITIONING_REF-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/827-AIR_CONDITIONING_REF-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "828",
+    "subject_name": "Medical Diagnostics",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Healthcare",
+    "directory_name": "SUBJ_828_MEDICAL_DIAGNOSTICS",
+    "directory_path": "CLASS_11/SUBJ_828_MEDICAL_DIAGNOSTICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Medical Diagnostics (828-MEDICAL_DIAGNOSTICS-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/828-MEDICAL_DIAGNOSTICS-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "830",
+    "subject_name": "Design",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Design",
+    "directory_name": "SUBJ_830_DESIGN",
+    "directory_path": "CLASS_11/SUBJ_830_DESIGN",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Design (829-TEXTILE_DESIGN-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/829-TEXTILE_DESIGN-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Skill Curriculum: Design (830-DESIGN.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/830-DESIGN.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Skill Curriculum: Design (848-DesignThinking_Innovation.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/848-DesignThinking_Innovation.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Design",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/829_TEXTILE_DESIGN_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Design",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/829_TEXTILE_DESIGN_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 5,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "831",
+    "subject_name": "Salesmanship",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Management",
+    "directory_name": "SUBJ_831_SALESMANSHIP",
+    "directory_path": "CLASS_11/SUBJ_831_SALESMANSHIP",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Salesmanship (831-SALESMANSHIP_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/831-SALESMANSHIP_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Salesmanship",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/831_SALESMANSHIP_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Salesmanship",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/831_SALESMANSHIP_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "833",
+    "subject_name": "Business Administration",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Management",
+    "directory_name": "SUBJ_833_BUSINESS_ADMINISTRATION",
+    "directory_path": "CLASS_11/SUBJ_833_BUSINESS_ADMINISTRATION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Business Administration (833-BUSINESS_ADMINISTRATION.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/833-BUSINESS_ADMINISTRATION.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "834",
+    "subject_name": "Food, Nutrition & Dietetics",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Nutrition",
+    "directory_name": "SUBJ_834_FOOD_NUTRITION_DIETETICS",
+    "directory_path": "CLASS_11/SUBJ_834_FOOD_NUTRITION_DIETETICS",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Food, Nutrition & Dietetics (834-FOOD_NUTRITION_DIETETICS_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/834-FOOD_NUTRITION_DIETETICS_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "835",
+    "subject_name": "Mass Media Studies",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Media",
+    "directory_name": "SUBJ_835_MASS_MEDIA_STUDIES",
+    "directory_path": "CLASS_11/SUBJ_835_MASS_MEDIA_STUDIES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Mass Media Studies (835-MASS_MEDIA_STUDIES.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/835-MASS_MEDIA_STUDIES.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "836",
+    "subject_name": "Library & Information Science",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Information",
+    "directory_name": "SUBJ_836_LIBRARY_INFORMATION_SCIENCE",
+    "directory_path": "CLASS_11/SUBJ_836_LIBRARY_INFORMATION_SCIENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Library & Information Science (836-Library_InformationSciences-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/836-Library_InformationSciences-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "837",
+    "subject_name": "Fashion Studies",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Design",
+    "directory_name": "SUBJ_837_FASHION_STUDIES",
+    "directory_path": "CLASS_11/SUBJ_837_FASHION_STUDIES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Fashion Studies (837-FASHION_STUDIES-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/837-FASHION_STUDIES-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "841",
+    "subject_name": "Yoga",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Wellness",
+    "directory_name": "SUBJ_841_YOGA",
+    "directory_path": "CLASS_11/SUBJ_841_YOGA",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Yoga (841-YOGA_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/841-YOGA_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: Yoga",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/841_Yoga_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: Yoga",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/841_Yoga_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 3,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "843",
+    "subject_name": "Artificial Intelligence",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Emerging Tech",
+    "directory_name": "SUBJ_843_ARTIFICIAL_INTELLIGENCE",
+    "directory_path": "CLASS_11/SUBJ_843_ARTIFICIAL_INTELLIGENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Artificial Intelligence (843-AI-XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/843-AI-XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "844",
+    "subject_name": "Data Science",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Emerging Tech",
+    "directory_name": "SUBJ_844_DATA_SCIENCE",
+    "directory_path": "CLASS_11/SUBJ_844_DATA_SCIENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Data Science (844-DATASCIENCE.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/844-DATASCIENCE.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "845",
+    "subject_name": "Physical Activity Trainer",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Sports",
+    "directory_name": "SUBJ_845_PHYSICAL_ACTIVITY_TRAINER",
+    "directory_path": "CLASS_11/SUBJ_845_PHYSICAL_ACTIVITY_TRAINER",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Physical Activity Trainer (845-Physical_Activity_Trainer.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/845-Physical_Activity_Trainer.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "846",
+    "subject_name": "Land Transportation Associate",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Logistics",
+    "directory_name": "SUBJ_846_LAND_TRANSPORTATION_ASSOCIATE",
+    "directory_path": "CLASS_11/SUBJ_846_LAND_TRANSPORTATION_ASSOCIATE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Land Transportation Associate (846-LandTransportation.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/846-LandTransportation.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "847",
+    "subject_name": "Electronics & Hardware",
+    "class": "11",
+    "group": "Group-S",
+    "stream": "Skill / Engineering",
+    "directory_name": "SUBJ_847_ELECTRONICS_HARDWARE",
+    "directory_path": "CLASS_11/SUBJ_847_ELECTRONICS_HARDWARE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: Electronics & Hardware (847-ELHA.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/847-ELHA.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 1,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "500",
+    "subject_name": "Health and Physical Education",
+    "class": "11",
+    "group": "Internal",
+    "stream": "Compulsory",
+    "directory_name": "SUBJ_500_HEALTH_AND_PHYSICAL_EDUCATION",
+    "directory_path": "CLASS_11/SUBJ_500_HEALTH_AND_PHYSICAL_EDUCATION",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Health and Physical Education",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/HPE_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Health and Physical Education",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/HPE_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "501",
+    "subject_name": "Work Experience",
+    "class": "11",
+    "group": "Internal",
+    "stream": "Compulsory",
+    "directory_name": "SUBJ_501_WORK_EXPERIENCE",
+    "directory_path": "CLASS_11/SUBJ_501_WORK_EXPERIENCE",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Work Experience",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/WorkExperience_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Work Experience",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/WorkExperience_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "502",
+    "subject_name": "General Studies",
+    "class": "11",
+    "group": "Internal",
+    "stream": "Compulsory",
+    "directory_name": "SUBJ_502_GENERAL_STUDIES",
+    "directory_path": "CLASS_11/SUBJ_502_GENERAL_STUDIES",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "General Studies",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/GeneralStudies_SrSec_2025-26.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "General Studies",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/GeneralStudies_SrSec_2024-25.pdf",
+          "session": "2024-25",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [],
+      "marking_schemes": [],
+      "reading_materials": [],
+      "practicals": []
+    },
+    "total_resources": 2,
+    "status": "initialized"
+  },
+  {
+    "subject_code": "UNKNOWN",
+    "subject_name": "ReadingMaterial",
+    "class": "11",
+    "group": "Other",
+    "stream": "General",
+    "directory_name": "SUBJ_UNKNOWN_READINGMATERIAL",
+    "directory_path": "CLASS_11/SUBJ_UNKNOWN_READINGMATERIAL",
+    "resources": {
+      "syllabus": [
+        {
+          "title": "Skill Curriculum: XI (EmployabilitySkills_XI.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XI.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Skill Curriculum: XI & XII (842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf)",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf",
+          "session": "2026-27",
+          "source": "CBSE Skill Education Unit",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "textbooks": [],
+      "sample_question_papers": [
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 802_INFORMATION_TECHNOLOGY_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/802_INFORMATION_TECHNOLOGY_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 803_WEB_APPLICATION_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/803_WEB_APPLICATION_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 807_BEAUTY_WELLNESS_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/807_BEAUTY_WELLNESS_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 809_FOOD_PRODUCTION_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/809_FOOD_PRODUCTION_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 810_FRONT_OFFICE_OPERATIONS_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/810_FRONT_OFFICE_OPERATIONS_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 813_HEALTH_CARE_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/813_HEALTH_CARE_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 817_Typography_Comp_Appl_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/817_Typography_Comp_Appl_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 818_GEOSPATIAL_TECHNOLOGY_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/818_GEOSPATIAL_TECHNOLOGY_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 819_ELECTRICAL_TECHNOLOGY_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/819_ELECTRICAL_TECHNOLOGY_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 820_ELECTRONICS_TECHNOLOGY_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/820_ELECTRONICS_TECHNOLOGY_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 821_MEDIA_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/821_MEDIA_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 823_COST_ACCOUNTING_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/823_COST_ACCOUNTING_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 824_OfficeProc_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/824_OfficeProc_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 825_Shorthand_Engish_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/825_Shorthand_Engish_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 826_Shorthand_Hindi_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/826_Shorthand_Hindi_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 827_AIR_CON_REFRI_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/827_AIR_CON_REFRI_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 828_MEDICAL_DIAGNOSITCS_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/828_MEDICAL_DIAGNOSITCS_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 833_BUSINESS_ADMINISTRATION_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/833_BUSINESS_ADMINISTRATION_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 834_FOOD_NUTRITION_DIETETICS_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/834_FOOD_NUTRITION_DIETETICS_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 835_MASS_MEDIA_STUDIES_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/835_MASS_MEDIA_STUDIES_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 836_LIBRARY_INFORMATION_SCIENCE_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/836_LIBRARY_INFORMATION_SCIENCE_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 837_FASHION_STUDIES_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/837_FASHION_STUDIES_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 842_ECCE_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/842_ECCE_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill SAMPLE_QUESTION_PAPER: 847_ELHA_SQP",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/847_ELHA_SQP.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "marking_schemes": [
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 802_INFORMATION_TECHNOLOGY_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/802_INFORMATION_TECHNOLOGY_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 803_WEB_APPLICATION_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/803_WEB_APPLICATION_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 807_BEAUTY_WELLNESS_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/807_BEAUTY_WELLNESS_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 809_FOOD_PRODUCTION_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/809_FOOD_PRODUCTION_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 810_FRONT_OFFICE_OPERATIONS_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/810_FRONT_OFFICE_OPERATIONS_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 813_HEALTH_CARE_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/813_HEALTH_CARE_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 817_Typography_Comp_Appl_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/817_Typography_Comp_Appl_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 818_GEOSPATIAL_TECHNOLOGY_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/818_GEOSPATIAL_TECHNOLOGY_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 819_ELECTRICAL_TECHNOLOGY_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/819_ELECTRICAL_TECHNOLOGY_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 820_ELECTRONICS_TECHNOLOGY_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/820_ELECTRONICS_TECHNOLOGY_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 821_MEDIA_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/821_MEDIA_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 823_COST_ACCOUNTING_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/823_COST_ACCOUNTING_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 824_OfficeProc_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/824_OfficeProc_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 825_Shorthand_Engish_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/825_Shorthand_Engish_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 826_Shorthand_Hindi_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/826_Shorthand_Hindi_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 827_AIR_CON_REFRI_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/827_AIR_CON_REFRI_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 828_MEDICAL_DIAGNOSITCS_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/828_MEDICAL_DIAGNOSITCS_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 833_BUSINESS_ADMINISTRATION_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/833_BUSINESS_ADMINISTRATION_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 834_FOOD_NUTRITION_DIETETICS_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/834_FOOD_NUTRITION_DIETETICS_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 835_MASS_MEDIA_STUDIES_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/835_MASS_MEDIA_STUDIES_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 836_LIBRARY_INFORMATION_SCIENCE_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/836_LIBRARY_INFORMATION_SCIENCE_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 837_FASHION_STUDIES_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/837_FASHION_STUDIES_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 842_ECCE_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/842_ECCE_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        },
+        {
+          "title": "Class 11 Skill MARKING_SCHEME: 847_ELHA_MS",
+          "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XI/847_ELHA_MS.pdf",
+          "session": "2025-26",
+          "source": "CBSE Skill Education Unit",
+          "license": "Official CBSE Skill Sample Paper / Solutions"
+        }
+      ],
+      "reading_materials": [
+        {
+          "title": "ReadingMaterial",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Biology_SrSecXI_2025-26_RM.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "ReadingMaterial",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Chemistry_SrSec_2025-26_RM.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        },
+        {
+          "title": "Reading Material",
+          "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Maths_SrSecXI_2025-26_RM.pdf",
+          "session": "2025-26 / 2026-27",
+          "source": "CBSE Academic Portal",
+          "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+        }
+      ],
+      "practicals": []
+    },
+    "total_resources": 53,
+    "status": "initialized"
+  }
+]

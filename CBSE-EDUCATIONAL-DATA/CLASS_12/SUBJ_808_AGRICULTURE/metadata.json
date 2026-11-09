@@ -1,0 +1,49 @@
+{
+  "subject_code": "808",
+  "subject_name": "Agriculture",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "directory_name": "SUBJ_808_AGRICULTURE",
+  "directory_path": "CLASS_12/SUBJ_808_AGRICULTURE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Agriculture (808-AGRICULTURE-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Agriculture",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/808_AGRICULTURE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Agriculture",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/808_AGRICULTURE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "fa5d2ff97c269415ac385324676118cea78283a79ecd910d5a29a26cb4e5b42b",
+    "file_size_bytes": 153493,
+    "units_extracted": 18,
+    "chapters_extracted": 115
+  }
+}

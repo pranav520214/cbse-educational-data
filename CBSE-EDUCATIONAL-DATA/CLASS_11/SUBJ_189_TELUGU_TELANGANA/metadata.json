@@ -1,0 +1,40 @@
+{
+  "subject_code": "189",
+  "subject_name": "Telugu Telangana",
+  "class": "11",
+  "group": "Group-L",
+  "stream": "Languages",
+  "directory_name": "SUBJ_189_TELUGU_TELANGANA",
+  "directory_path": "CLASS_11/SUBJ_189_TELUGU_TELANGANA",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Telugu Telangana",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Telugu_Telangana_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Telugu Telangana",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Telugu_Telangana_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "f3bd4851c462e7702c1ae612b0a5b03d9971df8b4e02ca018198969817db3921",
+    "file_size_bytes": 436837,
+    "units_extracted": 0,
+    "chapters_extracted": 0
+  }
+}

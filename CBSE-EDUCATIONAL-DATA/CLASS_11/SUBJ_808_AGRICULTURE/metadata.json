@@ -1,0 +1,33 @@
+{
+  "subject_code": "808",
+  "subject_name": "Agriculture",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "directory_name": "SUBJ_808_AGRICULTURE",
+  "directory_path": "CLASS_11/SUBJ_808_AGRICULTURE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Agriculture (808-AGRICULTURE-XI.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XI.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ff99c1afcacae41e76ccc240721f98e180adbe974bae7b6f5cf316efb6907b77",
+    "file_size_bytes": 148962,
+    "units_extracted": 13,
+    "chapters_extracted": 100
+  }
+}

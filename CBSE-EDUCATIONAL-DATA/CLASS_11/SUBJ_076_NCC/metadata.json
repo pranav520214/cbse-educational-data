@@ -1,0 +1,40 @@
+{
+  "subject_code": "076",
+  "subject_name": "NCC",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "General / Defense",
+  "directory_name": "SUBJ_076_NCC",
+  "directory_path": "CLASS_11/SUBJ_076_NCC",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "NCC",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/NCC_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "NCC",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/NCC_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "a0012e234159e37054e5449d91f6a75ba7e195cdb488042a6ce1fcf01c272c3b",
+    "file_size_bytes": 560300,
+    "units_extracted": 30,
+    "chapters_extracted": 0
+  }
+}

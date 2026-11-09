@@ -1,0 +1,56 @@
+{
+  "subject_code": "037",
+  "subject_name": "Psychology",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Humanities",
+  "directory_name": "SUBJ_037_PSYCHOLOGY",
+  "directory_path": "CLASS_12/SUBJ_037_PSYCHOLOGY",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Psychology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Psychology_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Psychology",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Psychology_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Psychology",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Psychology-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Psychology",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Psychology-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "edee3bd5d426095873f8fe301c8c93363b89426a0c3aa1b3772c1e964517b00a",
+    "file_size_bytes": 259219,
+    "units_extracted": 7,
+    "chapters_extracted": 38
+  }
+}

@@ -1,0 +1,906 @@
+{
+  "subject_name": "XI & XII",
+  "subject_code": "UNKNOWN",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "General",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/842_EARLY_CHILDHOOD_CARE_EDUCATION.pdf",
+  "sha256": "5c620ad36b875fd50c7505432eb9edbb277862b8ba4fa3b838336899bb585002",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Early Childhood Care &Education",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Foundations of Child Development (introduce stages,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Nutrition and Health Needs of the Child",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Various Pedagogical Approaches and Holistic",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Inside - Outside Care and Learning Environment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Engaging with parents and the community",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Foundations of Child Development (3 - 6",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- Educational thought of key theorists and",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- Developmentally appropriate activities for",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- Fostering social - emotional competence",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- Inside - Outside learning environment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction to Early Childhood Care & Education",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Foundations of Child Development (introduce stages, milestones & basic vocabulary)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- Nutrition and Health Needs of the Child.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- Developmentally Appropriate Care & Activities for Holistic Development",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- Inside - Outside Care and Learning Environment",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "- Engaging with parents and the community",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "- Foundations of Child Development (3 - 6 years)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "- Educational thought of key theorists and pioneers",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "- Developmentally appropriate activities for holistic",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Foundations of Child",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Chapter 6-",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Educational thought",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Developmentally",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "- Fostering Socio-",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "- Inside-Outside",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "General Stationery Kit"
+    },
+    {
+      "chapter_number": 2,
+      "title": "General Art and Craft Kit"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Display Boards"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Puppet show back Drop curtain Block cloth"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Easel made of wood with a stand"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Flannel Board"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Magnetic Board"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Globe"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Height/weight measuring instrument"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Computer with multimedia facilities"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Colour Printer"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Story Books for level I & II/Nursery level"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Rhymes Books for Nursery Level"
+    },
+    {
+      "chapter_number": 14,
+      "title": "First Aid Box"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Various Fine Motor Skill blocks and Fixings"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Sand paper letters and numbers"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Clock board"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Smart Interactive board/SMART TV with internet"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Swings, Conventional slide, Rockers, Ride ons"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Water play arrangement with basin, basket, mugs and cups of d"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rubber rings, Plastic balls"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Walking on the line Balancing activity"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Sand pit / Sand box with trays, plastic containers, moulds of"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Eva Mat for activity area"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Sculpting clay"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Soft Magnetic material occupation/ flower/ fruit/ wild animal"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Various Hand puppets animals"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Play Parachute"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Wooden toys alphabet upper and lower/ numbers 0 to 20/ days o"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Dressing up stand with mirror"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Dressing frame : big button/small button, hook eye/ zip/ Velc"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Kitchen Play"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer (PC) with latest configurations and Internet connect"
+    },
+    {
+      "chapter_number": 2,
+      "title": "UPS - 500VA"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Scanner cum Printer"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Computer Tables"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Computer Chairs"
+    },
+    {
+      "chapter_number": 6,
+      "title": "LCD Projector"
+    },
+    {
+      "chapter_number": 7,
+      "title": "White Board 1200mm x 900mm"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Communication Skills -III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Self-management Skills- III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Information and Communication Technology Skills- III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Entrepreneurial Skills -III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Green Skills -III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1 - Foundations of Child Development (3 - 6 years)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2 - Educational thought of key theorists and pioneers"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3:- Developmentally appropriate activities for holistic"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4:- Fostering social - emotional competence"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5 - Inside - Outside learning environment"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Make a PPT on any two of the following"
+    },
+    {
+      "chapter_number": 1,
+      "title": "PPT"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Design Activities"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Case study on any one area of"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Design poster and write slogans"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Observation: observe an inclusive"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Table Tops"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Scissors (Big)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Scissors (Small) material plastic"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Cupboards (Steel)"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Show cases"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Measuring Foot rule"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Bulletin Board"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Brushes 2” big, Brushes 1” big, Brushes 0 to 9"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Punching Machine big"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Plastic basin:"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Plastic containers to keep things"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Alphabets and numbers measuring"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Dustbin"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Trays(Plastic)"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Cotton / woolen threads"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Chart of animals, birds, flowers, fruits, shapes, sizes,"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Audio-visual aids - SMART TV"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Wall Clock"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Thermometer"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Fire Extinguisher"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Pink towers"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Broad stairs"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Red rods"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Knobs and knobbles cylinders"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Colour tablets (box 1,2 and 3)"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Sound and tasting cylinders"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Triangle boxes"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Geometric solids"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Geometric cabinet"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Minomial/binomial/trinomial cubes"
+    },
+    {
+      "chapter_number": 45,
+      "title": "The red and blue rods"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Spindle box"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Numerals and counters"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Senguin boards"
+    },
+    {
+      "chapter_number": 49,
+      "title": "The golden bead and the fraction material"
+    },
+    {
+      "chapter_number": 50,
+      "title": "The thousand chain"
+    },
+    {
+      "chapter_number": 51,
+      "title": "The bank game"
+    },
+    {
+      "chapter_number": 52,
+      "title": "The short bead stair"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Squaring and cubing material"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Grammar material"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Movable alphabet box"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Puzzle board"
+    },
+    {
+      "chapter_number": 58,
+      "title": "Zoology and botany board"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Shelves"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Projector"
+    },
+    {
+      "chapter_number": 63,
+      "title": "Splash pool"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Ball pool"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Basket pool"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Froebel gift (no.1 to no.6"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Swing"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Conventional slide"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rubber rings"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Plastic balls seamless"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Sand pit / Sand box with trays, plastic containers,"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Water play arrangement with basin,"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Rockers"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Ride on"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Blocks large plastic"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Soft Magnetic material occupation/flower/fruit /wild"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Hand puppets animals, birds, occupation, family"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Wooden toys alphabet upper and lower /numbers 0 to"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Dressing frame : big button/small button, hook"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Role play area"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Mechanical set"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Clay"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Imaginative play games"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Trampoline"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Therapy balls"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Blankets"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Marbles"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Bubbles"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Diff writing aids"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer (PC) with latest configurations and Internet"
+    },
+    {
+      "chapter_number": 8,
+      "title": "CAREER PROGRESSION PATHWAYS"
+    },
+    {
+      "chapter_number": 9,
+      "title": "JOB ROLE"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Collect all words and terms related to young children and ide"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Visit a locality and other public spaces to note all the faci"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Collect local jingles, rhymes, games and stories related to y"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Observe children in any family and note the nature of relatio"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Observe adult child interaction in families from different so"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visits to review programmes working with a child rights appro"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Case Study: Studying rights based approach in any one ECCE pr"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Preparation of display materials to generate awareness of the"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Develop awareness campaigns as an ECCE teacher for improving"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Design a simple pamphlet with pictures or use any medium such"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Children in the classroom and playground both in organized an"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Observe childcare and interactions in different socio-cultura"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Draw linkages between different domains of development to dee"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Socio emotional: understanding of self, self-worth, use of re"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Play: kinds of play, individual or group activities, interact"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Understanding children with special needs"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Children with differences in ability and diversity of needs"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Special and inclusive settings"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Special inputs and need for different kinds of assistance lik"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Features of Indian contexts of development"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Activities and preparation of play material in different doma"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Materials to stimulate and promote growth and development"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Observation of infants while providing them with visual and s"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Development of aids, play material for sensory experiences."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Engage children in physical activities for developing and inv"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Use of blocks, beads and strings, abacus and innovative metho"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Fostering language by exposing children to different tones, p"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Use of print material like picture cards, magazines to make c"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Promoting intellectual curiosity through observation , buildi"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Help children build social relationships by sharing, turn tak"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Exploring and appreciating different art forms as innovative"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Encourage children to explore and experience variations in co"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Activities to create art forms like drawings using crayons, w"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Developing and involving children in activities for both indo"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Use of sand and water to involve children in play"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Development and use of recyclable and reusable play material"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Create a “props corner” like a basket of chunni, bags, specta"
+    }
+  ],
+  "full_text_excerpt": "842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 2 of 15 \n \nOBJECTIVES OF THE COURSE: \n \nIn this course, Followings are the main objectives of this course. \n \n• \nRespect children and their rights in diverse capabilities, social and cultural contexts. Apply safe working practices. \n• \nComply with environment regulation. \n• \nAssist in exigencies and carry out elementary first-aid during emergencies. \n• \nWork in a team, understand and practice soft skills, use technical English to communicate with required clarity. \n• \nUnderstand energy conservation, global warming and pollution and contribute in day-to-day work by optimally \nusing available resources. \n• \nExplain personnel, finance, entrepreneurship and manage/organize related task in day-to-day work for personal & \nsocietal growth. \n• \nApply the government mandates like Right to Education, National Education Policy \n \nSALIENT FEATURES: \n \nThe following are the salient features - \n \n• After completing Class XI & XII the student will be able to \n \n• Describe the needs, growth & development of children between birth to six years in terms of physical, motor, \nlanguage, social, emotional and cognitive development. \n \n• To understand theories and educational thought of key pioneers and thinkers in the area of child development and \nEarly Childhood care and Education. \n \n• Explain the nutritional and health needs of child, plan nutritional diets and provide first aid. Plan and carry out activities \nfor the growth and holistic development of children such as music and movement, story narration, art, indoor and \noutdoor play, drama, theatre, early language, early numeracy and early literacy activities. \n \n• Create awareness and sensitivity in young children about the world around us, and foster \n \n• Their ability to make rational conclusions, being respectful of other cultures and communities. Support children to \napply life skills and conflict resolution through Positive Classroom Management Strategies, increased awareness of \nself and others and the environment. \n \n• Create inclusive learning environment for children, addressing children from diverse backgrounds and learning needs. \n \n• Apply the knowledge to prepare an Inside - Outside Environment for young children with specific focus on meeting \nchildren’s needs for cognitive stimulation, health, safety & learning. \n \n \nThe above objectives will be transacted with respect to children from the birth to Three years age group \nin class XI and three to six years age group in class XII.\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 3 of 15 \n \nEQUIPMENT AND MATERIALS: \n \nThe school taking up ECCE subject can conveniently utilize the resources and material \navailable in the pre-primary classes/ wing of the school. \nHowever, the list given below is only suggestive and exhaustive list prepared for the teacher. Only the basic tools, \nequipment and accessories should be procured by the Institution so that the routine tasks can be performed by the \nstudents regularly for practice and acquiring adequate practical experience. \n \nS. No. \nName of the Tools and Equipment \nSpecification Quantity \n1. \nGeneral Stationery Kit \n \n1 per student \n2. \nGeneral Art and Craft Kit \n \n1 per student \n3. \nDisplay Boards \n60” x 40” \n1 No. \n4. \nPuppet show back Drop curtain Block cloth \n80” x80” \n1 No. \n5. \nEasel made of wood with a stand \n \n1 No. \n6. \nFlannel Board \n30” x 40” \n1 No. \n7. \nMagnetic Board \n \n1 No. \n8. \nGlobe \n15” diameter \n1 No. \n9. \nHeight/weight measuring instrument \n \n1 No. \n10. \nComputer with multimedia facilities \n \n1 No. \n11. \nColour Printer \n \n1 No. \n12. \nStory Books for level I & II/Nursery level \n \nAs available in school library \n13. \nRhymes Books for Nursery Level \n \n15 Nos. \n14. \nFirst Aid Box \n \n2 Nos. \n15. \nVarious Fine Motor Skill blocks and Fixings \n \n20-30, \n16. \nSand paper letters and numbers \n \n1 No. \n17. \nClock board \n \n1 No. \n18. \nSmart Interactive board/SMART TV with internet \nconnectivity broadband 4mbps or above \n \n1 No. \n \nTools & Equipment for Employability Skills \n \nS. No. \nList of Indoor/ Outdoor Play Materials / Equipment \n1. \nSwings, Conventional slide, Rockers, Ride ons \n2. \nWater play arrangement with basin, basket, mugs and cups of different sizes, Sieves etc. \ngardening tools \n3. \nRubber rings, Plastic balls \n4. \nWalking on the line Balancing activity \n5. \nSand pit / Sand box with trays, plastic containers, moulds of different types / kinetic sand \n6. \nEva Mat for activity area \n7. \nSculpting clay \n8. \nSoft Magnetic material occupation/ flower/ fruit/ wild animal/ domestic animals/ aquatic/ birds/ \nphonetic/ alphabet/ numbers/ shapes \n9. \nVarious Hand puppets animals \n10. \nPlay Parachute \n11. \nWooden toys alphabet upper and lower/ numbers 0 to 20/ days of week/ months/ lacing activity \ntoys/ blocks/ hand, feet puzzle/ pounding/ rolling pin and board/ grating \n12. \nDressing up stand with mirror \n13. \nDressing frame : big button/small button, hook eye/ zip/ Velcro/ ribbon/ press button \n14. \nKitchen Play\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 4 of 15 \n \nS. No. \nName of the Equipment \nQuantity \n1. \nComputer (PC) with latest configurations and Internet connection with \nstandard operating system and standard word processor and worksheet software \n10 nos. \n2. \nUPS - 500VA \n10 nos. \n3. \nScanner cum Printer \n01 no. \n4. \nComputer Tables \n10 nos. \n5. \nComputer Chairs \n20 nos. \n6. \nLCD Projector \n01 no. \n7. \nWhite Board 1200mm x 900mm \n01 no. \nNote: Above Tools & Equipment’s not required, if Computer LAB is available in the institute. \n \n \nCAREER OPPORTUNITIES: \n \n• \nTeacher in the day to day running of the pre-school. \n• \nSupervisor in the primary school and undertake a key worker role with special children. \n• \nAny Pre-school Trainer/Demonstrator /counselor. \n• \nAs special Educator in pre-primary /primary school. \n• \nAs Day-care & Care teacher. \n• \nCan assistant teacher in school and occupational therapist. \n \nVERTICAL MOBILITY: \n \nTeacher, Infant School/Teacher Pre-Primary: teaches children of nursery and kindergarten classes. Teaches \nthrough Montessori, happy education or other system of child education, reading and writing of alphabets, numerals \nand simple sentences, simple additions and subtractions, familiarizes them with names, colours, shapes, sounds, \netc., of objects, flowers, birds and animals. Directs recreational activities and generally guides development of \nphysical and mental activities of children. May look after and store teaching equipment, receive fees and maintain \naccounts, arrange for children's mid-day meals and attend to other extra- curricular or special activities, such as sports, \ndramatics, picnics and excursions, music, hand work, etc. is designated as Nursery Teacher or Kindergarten Teacher \naccording to the school or standard in which teaching. \n \nPre-Primary Education Teaching Associate Professionals, Other; include those who organize group and individual \nplay and educational activities to support and promote physical, mental and social development of children below \nprimary school age not classified elsewhere. \n \nCURRICULUM: \n \nThis course is a planned sequence of instructions consisting of Units meant for developing employability and Skills \ncompetencies of students of Class XI opting for Skills subject along with general education subjects.\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 5 of 15 \n \nEARLY CHILDHOOD CARE & EDUCATION \nSUBJECT CODE 842 Class XI \nTotal Marks: 100 (Theory-50 + Practical-50) \n \n \nUNITS \nNO. OF HOUR \nfor Theory and \nPractical 260 \nMAX. MARKS \nfor Theory and \nPractical 100 \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills-III \n13 \n2 \nUnit 2 : Self-Management Skills-III \n07 \n2 \nUnit 3 : ICT Skills-III \n13 \n2 \nUnit 4 : Entrepreneurial Skills-III \n10 \n2 \nUnit 5 : Green Skills-III \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit 1: Introduction to Early Childhood Care &Education \n \n05 \n4 \nUnit 2 Foundations of Child Development (introduce stages, \nmilestones & basic vocabulary) \n \n20 \n7 \nUnit 3: Nutrition and Health Needs of the Child \n \n20 \n8 \nUnit 4: Various Pedagogical Approaches and Holistic \nDevelopmental Activities for ECCE \n \n20 \n10 \nUnit 5 : Inside - Outside Care and Learning Environment \n \n05 \n5 \nUnit 6 : Engaging with parents and the community \n \n10 \n6 \nTotal \n80 \n40 \nPart C \nPractical Work \n \nProject \n \n \n \n130 \n10 \nViva \n5 \nPractical File \n10 \nDemonstration of skill competency via Lab Activities \n25 \nTotal \n130 \n50 \n \nGRAND TOTAL \n260 \n100 \nNOTE: \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website.\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 6 of 15 \n \nEARLY CHILDHOOD CARE & EDUCATION (SUBJECT CODE 842) \nCLASS - XII \nTotal Marks: 100 (Theory-50 + Practical-50) \n \n \n \nUNITS \nNO. OF HOUR \nfor Theory and Practical \n260 \nMAX. MARKS \nfor Theory and \nPractical 100 \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills-IV \n13 \n2 \nUnit 2 : Self-Management Skills-IV \n07 \n2 \nUnit 3 : ICT Skills-IV \n13 \n2 \nUnit 4 : Entrepreneurial Skills-IV \n10 \n2 \nUnit 5 : Green Skills-IV \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit 1 - Foundations of Child Development (3 - 6 \nyears) \n20 \n10 \nUnit 2 - Educational thought of key theorists and \npioneers \n10 \n6 \nUnit 3:- Developmentally appropriate activities for \nholistic development \n \n25 \n10 \nUnit 4:- Fostering social - emotional competence \n10 \n8 \nUnit 5 - Inside - Outside learning environment \n15 \n6 \nTotal \n80 \n40 \nPart C \nPractical Work \n \nProject \n \n \n130 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab Activities \n20 \nTotal \n130 \n50 \n \nGRAND TOTAL \n260 \n100\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 7 of 15 \n \nCLASS XI (SESSION 2026-2027) \n \nPART A: EMPLOYABILITY SKILLS \n \nUnits \n1. \nCommunication Skills -III \n2. \nSelf-management Skills- III \n3. \nInformation and Communication Technology Skills- III \n4. \nEntrepreneurial Skills -III \n5. \nGreen Skills -III \n \nDetailed curriculum of Employability Skills is available separately \nPART B: SKILLS \nUnit - 1 Introduction to Early Childhood Care & Education \nChapter -1:- Understanding the context of the child - gender, social class, caste, religion, family structure, \nlocation- Rural / Urban / Tribal \nChapter - 2:- Relevance of ECCE- critical periods and factors affecting development. \nChapter - 3:- Rights of Children Survival, development, protection and participation. \n \nUnit - 2 Foundations of Child Development (introduce stages, milestones & basic vocabulary) \nChapter - 1:- Needs of the Child \nChapter - 2:- Sensory, Physical, and Motor development milestones \nChapter- 3:- Cognitive Development \nChapter- 4 :- Language Development \nChapter-5:- Socio - Emotional Development introduce stages & milestones & basic vocabulary \n \nUnit 3 :- Nutrition and Health Needs of the Child. \nChapter 1:- Ensuring optimal health and growth measuring head circumference height, weight MUAC, use of \ngrowth chart, malnutrition. \nChapter 2:- Common childhood illnesses, Prevention and Management (Immunization schedule) \nChapter3:- Nutrition importance of BF, Complementary feeding, \n• \nFood of groups and balanced meal planning \n• \nSafe handling of food. \nChapter 4:- First Aid and handling Emergencies \n• \nsimple injury, Sprain, Burns \nWHO- 2006- growth standards \nChapter 5:- hygienic care practices specially when handling children in group situations. \n \nUnit 4:- Developmentally Appropriate Care & Activities for Holistic Development \n• \nImportance of play in development \n• \nCare & practices for birth to six month \n• \nCare & Activities per seven month to one year \n• \nCare & Activities per one to three years. \nUnit 5 :- Inside - Outside Care and Learning Environment \nChapter 1:- Environment for health and safety \nChapter 2:- Environment for stimulation & learning \nUnit 6 :- Engaging with parents and the community \nChapter 1:- Ways of Teaching out to parents & community \nChapter 2:- Essential messages for parents and community - positive discipline, screen time & T.V. time Healthy \nFeeding. \nMaintain cordial and respectful inter-personal relationships with adults and children \nA day in the Crèche/Early Childhood center (Principals should organize the activities according to their \nconvenience)\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 8 of 15 \n \nDETAILED CURRICULUM CLASS XII /TOPICS: \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-IV \n13 \n2. \nUnit 2: Self-management Skills-IV \n07 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n13 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n07 \nTOTAL DURATION \n50 \n \nNOTE: \nFor Detailed Curriculum/ Topics to be covered under Part A: Employability Skill scan be \ndownloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1 - Foundations of Child Development (3 - 6 years) \n20 \n2. \nUnit 2 - Educational thought of key theorists and pioneers \n10 \n3. \nUnit 3:- Developmentally appropriate activities for holistic \ndevelopment \n25 \n4. \nUnit 4:- Fostering social - emotional competence \n10 \n5. \nUnit 5 - Inside - Outside learning environment \n15 \nTOTAL DURATION \n80 \n \n \n \n \nUNIT \nSUB-UNIT \nSUGGESTED ACTIVITY/ PRACTICAL \nUnit 1: \nFoundations of Child \nDevelopment (3 - 6 years) \nChapter 1- Relationship between \nplay, learning and development \nChapter 2- Needs of the child \nChapter 3 - Sensory, Physical, \nand Motor development \nmilestones Chapter 4- Cognitive \nDevelopment \nChapter 5: Language \nDevelopment \nMany parts covered in activities \nin class XI \nThe chapter is overlapping with \nChapter….. of Unit 3 Chapter 6- \nSocio - emotional Development, \n(introduce, stages \n&milestones, basic vocabulary) \n1. Make a PPT on any two of the following \ntopics \n \n• \nTheories of Language development \nImportance of reading books to children \nLanguage milestones and delay 2. \nLanguage Development Analysis \n• \nStudents can be provided a \nchecklist to observe language \ndevelopment milestones of 15-20 children \nbetween ages 3 to 6 and analyses their \nlanguage development to present a \ncomparative analysis\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 9 of 15 \n \nUNIT \nSUB-UNIT \nSUGGESTED ACTIVITY/ PRACTICAL \nUnit 2: Educational thought \nof key theorists and \npioneers \nChapter 1- Fredrick Froebel \nChapter 2- Maria Montessori \nChapter 4- Mahatma Gandhi \nChapter 5-Rabindranath \nTagore \nChapter: 5 Aurobindo \nAurobindo emphasised on \na healthy body. The ECCE \ncurriculum gives importance on \n‘Play’ \ntherefore Aurobindo’s teachings \ncan be clubbed practically with \n‘Play’ related activities \nChapter 7- Lev Vygotsky Chapte \n8- Loris Malaguzzi (Reggio \nEmilia approach) Chapter 9- \nGijubhai Badheka Chapter 10- \nTarabai Modak Chapter 11- \nCreating inclusive learning \nenvironments \n1. PPT \nPresent through a self-made video or PPT, \nthe important features of Early Childhood \ndevelopment as suggested by Shri \nAurobindo \n2. Design Activities \nShri Aurobindo believed that physical \ndevelopment is mandatory for mental \ndevelopment. Keeping this in mind, design \n3 group activities that will encourage \nphysical development at early childhood \nstage and can be used for a group of 8-10 \nkids \nUnit 3: Developmentally \nAppropriate Activities For \nHolistic Development \nChapter 1- Early language \nand early literacy \nChapter 2- Cognition and \nearly numeracy \nChapter 3- The world around \nus(awareness, empathy, \nsensitivity) \nChapter 4- Art and aesthetics \nChapter: 5 \nCreating Inclusive Learning \nEnvironment \nInclusivity is better \nunderstood by experience than in \ntheory therefore this topic can be \nused in Practicum \n1. \nCase study on any one area of \nspecial education and how the child can \nbe included in the classroom \n2. \nDesign poster and write slogans \non “Importance of Inclusivity” \n3. \nObservation: observe an inclusive \nclass for 3 days and record your findings \nwith suggestions to improve the class \nUnit 4:- Fostering Socio- \nemotional competence \nChapter 1- Making rational \nconclusion \nChapter 2- Developing \nempathy and respect \nChapter 3- Managing self \n \nUnit 5:- Inside-Outside \nlearning environment \nChapter 1- Arranging space \nfor learning \nChapter 2- Designing safe \nenvironment \nChapter 3 - A day in the \npreschool center (broad \nprinciples of how to organize the \nactivities according to these)\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 10 of 15 \n \nTEACHING ACTIVITIES \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field visits. \nStudents should be taken to field visits for interaction with experts and to expose them to the various tools, \nequipment, materials, procedures and operations in the workplace. Special emphasis should be laid on the \noccupational safety, health and hygiene during the training and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by discussions should \nbe conducted by trained teachers. Teachers should make effective use of a variety of instructional or teaching aids, \nsuch as audio-video materials, color slides, charts, diagrams, models, exhibits, hand-outs, online teaching materials, \netc. to transmit knowledge and impart training to the students. \n \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based studies, \nexercises, etc. Equipment and supplies should be provided to enhance hands-on learning experience of students. \nOnly trained personnel should teach specialized techniques. A training plan that reflects tools, equipment, materials, \nskills and activities to be performed by the students should be submitted by the teacher to the Head of the Institution \n \n6. \nORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \nIn field visits, children will go outside the classroom to obtain specific information from experts or to make \nobservations of the activities. A checklist of observations to be made by the students during the field visits should be \ndeveloped by the teachers for systematic collection of information by the students on the various aspects. Principals \nand Teachers should identify the different opportunities for field visits within a short distance from the school and \nmake necessary arrangements for the visits. At least three field visits should be conducted in a year. \n \n7. LIST OF EQUIPMENT AND MATERIAL \nThe list given below is suggestive and an exhaustive list should be prepared by the teacher. Only basic tools, \nequipment and accessories should be procured by the Institution so that the routine tasks can be performed by the \nstudents regularly for practice and acquiring adequate practical experience. \n \nLIST OF TOOLS & EQUIPMENT \nEARLY CHILDHOOD EDUCATOR (for batch of 20 Students) \nS No. \nName of the Tools and Equipment \nSpecification \nQuantity \n1. \nTable Tops \n \n1 No. \n2. \nScissors (Big) \n \n2 Nos. \n3. \nScissors (Small) material plastic \n \n2 Nos. \n4. \nCupboards (Steel) \n \n1 No. \n5. \nShow cases \n \n1 No. \n6. \nDisplay Boards \n60” x 40” \n1 No. \n7. \nMeasuring Foot rule \n \n1 No. \n8. \nPuppet show back Drop curtain Block cloth \n80” x80” \n1 No. \n9. \nBulletin Board \n70” x 40” \n4 Nos. \n10. \nBrushes 2” big, Brushes 1” big, Brushes 0 to 9 \n \n1 No. \n11. \nPunching Machine big \n \n1 No.\n842-Early Childhood Care Education/ Class XI & XII-2026-2027 \nPage 11 of 15 \n \n12. \nEasel made of wood with a stand \n \n1 No. \n13. \nFlannel Board \n30” x 40” \n1 No. \n14. \nMagnetic Board \n \n1 No. \n15. \nPlastic basin: \n8 lit. cap. And 4 lit. \ncap. \n1 No. \n16. \nFlannel Board \n30” x 40” \n10 Nos. \n17. \nPlastic containers to keep things \n2 lit. /1 lit. / ½ lit \n/100ml. \n10 Nos. \n18. \nGlobe \n15” diamete"
+}

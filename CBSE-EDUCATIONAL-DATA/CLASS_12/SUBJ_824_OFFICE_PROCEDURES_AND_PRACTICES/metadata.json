@@ -1,0 +1,33 @@
+{
+  "subject_code": "824",
+  "subject_name": "Office Procedures and Practices",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Office",
+  "directory_name": "SUBJ_824_OFFICE_PROCEDURES_AND_PRACTICES",
+  "directory_path": "CLASS_12/SUBJ_824_OFFICE_PROCEDURES_AND_PRACTICES",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Office Procedures and Practices (824-OFFICE_PROCEDURES-XII.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/824-OFFICE_PROCEDURES-XII.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 1,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "c5ec36f9cab4828f768741a1ff9bd4cf51b6e9887f2d4922f15e8420d222da35",
+    "file_size_bytes": 174267,
+    "units_extracted": 23,
+    "chapters_extracted": 19
+  }
+}

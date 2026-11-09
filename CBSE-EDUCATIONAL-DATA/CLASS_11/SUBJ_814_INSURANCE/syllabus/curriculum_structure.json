@@ -1,0 +1,268 @@
+{
+  "subject_name": "Insurance",
+  "subject_code": "814",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Finance",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/814-Insurance.pdf",
+  "sha256": "fa20c36ae1e3f137de43333d27c5cd33213f7d39aaaa332be9c0e749a7a352c6",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Introduction",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Life Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Annuities and Unit Linked Policies",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Post - Issue Matters",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "General Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Fire Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Marine Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Motor Vehicle Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Medi-Claim and Accident Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Burglary and Theft Insurance",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-III"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-Management Skills-III"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: ICT Skills-III"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-III"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-III"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Life Insurance"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Annuities and Unit Linked Policies"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Post - Issue Matters"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Life Insurance"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Annuities and"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Post - Issue Matters"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: General Insurance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Fire Insurance"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Marine Insurance"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Motor Vehicle Insurance"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Medi-Claim and Accident Insurance"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Unit 6: Burglary and Theft Insurance"
+    },
+    {
+      "chapter_number": 1,
+      "title": "General Insurance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Fire Insurance"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Marine Insurance"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Motor Vehicle"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Medi-Claim and"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Burglary and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit the websites of five different Insurance companies offe"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Prepare a comprehensive report for each of these companies co"
+    }
+  ],
+  "full_text_excerpt": "814 - Insurance - Class XI & XII - 2026-2027 \nPage 1 of 13 \n \nCBSE | DEPARTMENT OF SKIL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \n \nINSURANCE (SUBJECT CODE 814) \nJOB ROLE: Sales Executive \nCLASS-XI & XII \n \nCOURSE OVERVIEW: \n \nInsurance as a financial intermediary, it is a commercial enterprise and a major part of \nthe financial services industry, but individual entities can also self-insure through \nsaving money for possible Insurance is a means of protection from financial loss. It is a \nform of risk management, primarily used to hedge against the risk of a contingent or \nuncertain loss. An entity which provides insurance is known as an insurer, insurance \ncompany, insurance carrier or underwriter, future losses. \nThis course provides an introduction to insurance services and financial institutions; \nstudents also compare the operations of different private institution product. Students \nexamine the principles of insurance and the various services of LIC and GIC \nOBJECTIVES OF THE COURSE: \n \nIn this course, the students will be introduced to the fundamentals concepts of insurance \nand features and principles of various general insurance products available in our \ncountry. This course prepares the students to take up various positions in the insurance \nindustry. The course is also a stepping stone for students aspiring to undertake higher \neducation in Commerce, Insurance, Management, etc. \nFollowing are the main objectives of this course. \n• \nTo acquaint the learners with basic principles underlying the provisions of tax laws \n• \nTo familiarize the students regarding various functions and concepts of general \nInsuranceand career opportunities available in these fields. \n• \nTo develop practical understanding among the students associated to \nprocedure oftaking up of policy and claim settlement procedure, organizing \nthrough classroom discussion/ participation and projects. \n• \nTo provide brief insight about the structure of IRDA in our country and how it \nworks ondifferent parameters.\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 2 of 13 \n \n• \nTo provide knowledge to students in concise and understandable format so that \nstudentscould learn and apply these concepts in their career for the growth. \n• \nTo develop skills in students which are required for insurance career \n➢ Customer Dealings \n➢ People with patience \n➢ People good with numbers and accounting \n➢ Good Analytical Skills \nSALIENT FEATURES: \n \nIn this modern time, money and its necessity is very important. A developed financial \nsystem of the country ensures to attain development. To attain development there \nshould be a good developed financial system to support not only the economic but \nalso the society. So, a bank plays a vital role in the socio economic matters of the \ncountry. \nThe important role of banks/insurance Company \n• It promotes saving habit of people \n• Capital formation and promote industry. \n• Generates employment opportunities \n• Facilitating Trade and Commerce Industry. \n• Applying of monitory policy \n LIST OF EQUIPMENT AND MATERIALS: \n \nThe list given below is suggestive and exhaustive list should be prepared by the \nvocational teacher. Only basic tools, equipment and accessories should be procured by \nthe institution so that the routine tasks can be performed by the students regularly for \nacquiring adequate practical experience. \nTeaching/Training Aids: \n• \nComputer \n• \nDifferent forms available for taking policy \n• \nDifferent forms available for claim settlement \n• \nBroachers of different companies. \n• \nComputer \n• \nLCD Projector \n• \nProjection Screen \n• \nWhite/Black Board\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 3 of 13 \n \n• \nChart papers \nCAREER OPPORTUNITIES: \n• \nActuary. Actuaries assess risk so they can set premiums \n• \nClaims Adjuster \n• \nClaims Examiner \n• \nInsurance Claims and Policy Processing Clerk \n• \nInsurance Investigator \n• \nInsurance Sales Agent \n• \nInsurance Underwriter \n \n \nVERTICAL MOBILITY: \n \nAfter 12th grade in commerce, a student can opt for graduation in commerce and \ntakeinsurance as specialization, following career options are available in field. \n• \nDiploma courses \n• \nCertificate courses \n• \nB.Com. in Banking and Insurance \n• \nB.Voc in Insurance \n• \nMaster’s Degree courses specialization in insurance \n• \nMaster in Insurance & Risk Management. \n• \nMaster in Quantitative Finance and Insurance. \n• \nMSc in Econometrics, Operations Research, and Actuarial Studies. . \n• \nMaster in finance, accounting and insurance. . \n• \nMSc in Finance and Risk Management. \n• \nMSc Insurance and Risk Management. \n• \nPhD programs \n \n \nCURRICULUM: \n \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XI and XII opting for Skills subject \nalong with other subjects.\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 4 of 13 \n \nINSURANCE XI (SUBJECT CODE 814) \nSession-2026-2027 \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills-III \n13 \n2 \nUnit 2 : Self-Management Skills-III \n07 \n2 \nUnit 3 : ICT Skills-III \n13 \n2 \nUnit 4 : Entrepreneurial Skills-III \n10 \n2 \nUnit 5 : Green Skills-III \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit 1: Introduction \n30 \n10 \nUnit 2: Life Insurance \n50 \n20 \nUnit 3: Annuities and Unit Linked Policies \n45 \n10 \nUnit 4: Post - Issue Matters \n25 \n10 \nPart C \nPractical Work \n150 \n50 \nProject \n \n \n \n60 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab \nActivities \n10 \nTotal \n60 \n40 \n \nGRAND TOTAL \n260 \n100 \n \nNOTE: \nThe detailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website.\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 5 of 13 \n \nDETAILED CURRICULUM/TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Communication Skills-III \n13 \n2. \nUnit 2: Self-Management Skills-III \n07 \n3. \nUnit 3: ICT Skills-III \n13 \n4. \nUnit 4: Entrepreneurial Skills-III \n10 \n5. \nUnit 5: Green Skills-III \n07 \n \nTOTAL DURATION \n50 \n \nDetailed Curriculum/ Topics to be covered under Part A: Employability Skills can be \ndownloaded from CBSE website. \n \n \nPart-B - SUBJECT SPECIFIC SKILLS (Class XI) \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Introduction \n30 \n2. \nUnit 2: Life Insurance \n50 \n3. \nUnit 3: Annuities and Unit Linked Policies \n45 \n4. \nUnit 4: Post - Issue Matters \n25 \n \nTotal \n150 \n \n \nS. No. \nUnit \nSessions \n1. \nIntroduction \n• Risk \n• Financial Implications of Risk \n• Insurance-Mechanism of Covering Risk \n• Need for Insurance \n• History of Insurance in India \n• Nationalization of Insurance Sector \n• Liberalization in Insurance Sector \n• Regulatory Body for Insurance Sector \n2. \nLife Insurance \n• Organizational Set Up\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 6 of 13 \n \n \n• Selling Life Insurance through Agents & Banks \n• Objectives of Life Insurance \n• Advantages of Life Insurance \n• Types of Life Insurance Policies \n• Principle of Insurable Interest and Utmost Faith \n• Suicide Clause \n• Procedure of taking Life Insurance Policy \n• Nomination \n3. \nAnnuities and \nUnit \nLinked Policies \n• Annuities-Meaning \n• How does Annuity Work \n \n• Types of Annuities \n \n• ULIP-Concept \n \n• Comparison between ULIP and Traditional Insurance \n \nPlans \n \n• Mechanism of ULIP \n \n• Deductions/ Charges of Fund Manager \n \n• Factors for Selecting ULIP \n4. \nPost - Issue Matters \n• Lapse of Policy \n• Revival of Lapsed Policy \n• Surrender Value of Policy \n• Assignment of Life Insurance Policies \n• Procedure of Settling Claims\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 7 of 13 \n \nINSURANCE XII (SUBJECT CODE 814) \nSession-2025-26 \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF \nHOURS \nfor Theory \nand Practical \nMAX. MARKS \nfor Theory \nand Practical \nPart A \nEmployability Skills \n \nUnit 1 : Communication Skills-IV \n13 \n2 \nUnit 2 : Self-Management Skills- IV \n07 \n2 \nUnit 3 : ICT Skills- IV \n13 \n2 \nUnit 4 : Entrepreneurial Skills- IV \n10 \n2 \nUnit 5 : Green Skills- IV \n07 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nUnit 1: General Insurance \n25 \n10 \nUnit 2: Fire Insurance \n25 \n08 \nUnit 3: Marine Insurance \n30 \n08 \nUnit 4: Motor Vehicle Insurance \n20 \n08 \nUnit 5: Medi-Claim and Accident Insurance \n25 \n08 \nUnit 6: Burglary and Theft Insurance \n25 \n08 \nTotal \n150 \n50 \nPart C \nPractical Work \n \nProject \n \n \n \n60 \n10 \nViva \n05 \nPractical File \n15 \nDemonstration of skill competency via Lab \nActivities \n10 \nTotal \n60 \n40 \nGRAND TOTAL \n260 \n100\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 8 of 13 \n \n \nDETAILED CURRICULUM/TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: Communication Skills-IV \n13 \n2. \nUnit 2: Self-management Skills-IV \n07 \n3. \nUnit 3: Information and Communication Technology Skills-IV \n13 \n4. \nUnit 4: Entrepreneurial Skills-IV \n10 \n5. \nUnit 5: Green Skills-IV \n07 \n \nTOTAL DURATION \n50 \n \nThe detailed Curriculum/ Topics to be covered under Part A: Employability Skills \ncan be downloaded from CBSE website. \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nS. No. \nUnits \nDuration in \nHours \n1. \nUnit 1: General Insurance \n25 \n2. \nUnit 2: Fire Insurance \n25 \n3. \nUnit 3: Marine Insurance \n30 \n4. \nUnit 4: Motor Vehicle Insurance \n20 \n5. \nUnit 5: Medi-Claim and Accident Insurance \n25 \n6. \nUnit 6: Burglary and Theft Insurance \n25 \n \nTOTAL DURATION \n150\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 9 of 13 \n \n \nS. No. \nUnit \nSessions \n1. \nGeneral Insurance \n• \nMeaning and importance of General Importance. \n• \nDifferent types of General Insurance. \n• \nFire Insurance. \n• \nMarine Insurance. \n• \nMotor Vehicle Insurance. \n• \nMedi-Claim Insurance. \n• \nAccident Insurance. \n• \nBurglary and Theft Insurance. \n• \nPresent Organizational set up of General \nInsurance companies in India - GICI - its \nsubsidiaries, Private Companies. \n• \nPrinciples of General Insurance - Insurable Interest, \nIndemnity, subrogation, good faith. \n2. \nFire Insurance \n• \nTypes of Fire insurance Polices - Their main \nfeatures and clauses. \n• \nMeaning & Significance of Average Clause. \n• \nProcedure for taking Fire Insurance Policies and \nsettlement of claims. \n3. \nMarine Insurance \n• \nThree types of Marine insurance - Cargo \nInsurance, HullInsurance and Freight Insurance. \n• \nTypes of Policies. \n• \nClauses of a Marine Insurance Policy. \n• \nMarine losses. Topics in \nstudy material are- \n➢ Sale Contract \n➢ History of Marine insurance \n4. \nMotor Vehicle \nInsurance \n• \nTypes of Polices and Risks Covered therein. \n• \nProcedure for obtaining motor Insurance Policy. \n• \nSettlement of claims. Topics in study material are- \n➢ Liability to pay compensation in certain cases \non theprinciple of no fault \n➢ Forms of Motor Vehicle Insurance Policies \n5. \nMedi-Claim and \nAccident \nInsurance \n• \nImportant conditions of such Polices and \nBenefitsavailable therein, Procedure for claims. \n6. \nBurglary and \nTheftInsurance \nNeed for such Insurance. \n• \nInformation to be furnished and procedure to be follow. \n• \nRecovering the claims. \nTopics in study material are- \n• \nExclusions from the Policy \n• \nProcedure of Claim under Theft or Burglary Policy \n• \nFormat of Theft and Burglary Policy\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 10 of 13 \n \nPRACTICAL GUIDELINES FOR CLASS XI \n \nAssessment of performance: \n \nThe two internal examiners, assigned for the conduct and assessment of Practical Examinations \neach in Senior Secondary School Curriculum (Under NSQF). Question for the viva examinations \nshould be conducted by both the examiners. Question to be more of General nature, project work or \nthe curriculum. Investigatory Project especially those that show considerable amount of effort and \noriginality, on the part of the student, should get suitable high marks, while project of a routine or \nstereotyped nature should only receive MEDIOCRE marks. \nProcedure for Record of Marks in the Practical answer-books: \n \nThe examiner will indicate separately marks of practical examination on the title page of the answer- \nbooks under the following heads: - \nProject -10 marks \n \nProjects for the final practical is given below. Student may be assigned \n \nViva based on Project -05 marks \n \nThe teacher conducting the final practical examination may ask verbal questions related to the \nproject, if any, done by the student. Alternatively, if no project has been assigned to the students, \nviva may be based on questions of practical nature from the field of subject as per the Curriculum \nPractical File -15 Marks \nStudents to make a power point presentation / assignment / practical file / report. Instructor shall \nassign them any outlet to study the elements in retailing.\n814 - Insurance - Class XI & XII - 2026-2027 \nPage 11 of 13 \n \nSuggested list of Practical - \n \n1. Visit the websites of five different Insurance companies offering Life Insurance. Make a \nProject detail of various policies offered by them. \n2. Prepare a comprehensive report for each of these companies covering the following: \na) \nInsurance products best suited for the different life stages- take 5 examples like child \nbelow 10 years, 20-year-old young boy, Married woman, 30-year-old unmarried lady, a \nretired person etc. \nb) \nRecommend the best suited Life insurance policy to different category of individuals. \n \nc) \nList of documents to be submitted for applying each type of insurance policy. Also \npaste sample application forms. \nd) \nExplain the claim procedure along with the required document at the time ofoccurrence \nof insured event. \n3. Prepare a comprehensive report for each of these companies covering the following: \n \na) Insurance products best suited for the different life stages- take 5 examples like child \nbelow 10 years, 20-year-old young boy, Married woman, 30-year-old unmarried lady, a \nretired person etc. \nb) Recommend the best suited Life insurance policy to different category of individuals. \n \nc) List of documents to be submitted for applying each type of insurance policy. Also \npaste sample application forms. \nd) Explain the claim procedure along with the required document at the time of \noccurrence of insured event. \nDemonstration of skill competency in Lab Activities - 10 marks \n \nGuidelines for Project Preparation: \n \nThe final project work should encompass chapters on: \n \na) Introduction, \n \nb) Identification of core and advance issues, \n \nc) Learning and understanding and \n \nd) Observation during the project period."
+}

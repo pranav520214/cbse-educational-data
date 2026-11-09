@@ -1,0 +1,262 @@
+{
+  "subject_name": "Web Application",
+  "subject_code": "803",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "Skill / Computing",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/803-WebApplication_XII_updated.pdf",
+  "sha256": "39b990b75221dd95aea9f8066a2f99055db5b9f289f2883dc1ba5c700471a7f6",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills-II",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills-II",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills-II",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills-II",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills-II",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Create a video using either Canva or"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Do any one of the following on the topic"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Write 4 programs using Functions"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Write 4 programs using String methods"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Write 4 programs using Array methods"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Write 4 programs using Math methods"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Write 2 programs using Event Handling"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills-II"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills-II"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills-II"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills-II"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills-II"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Write a program with 2 functions to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Write a program where a function"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Write a program with a function to find"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Write a program with a function to take"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Write a program with a function"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Using a button call a function Pytha( )"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Write a program with a function called"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create a poster for “Animal"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Create a presentation about"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create video about “Indian"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create a Poster for"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Create a 1-2-minute"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Create a logo, for your"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Computer with latest configuration with minimum 64 GB RAM, 51"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Laser Printer - Black"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Inkjet Printers (Colour & Black)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Scanner"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Online UPS 5 KVA"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Air Conditioner 1.5 ton"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Broadband Connection for Internet"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Fire extinguisher"
+    },
+    {
+      "chapter_number": 1,
+      "title": "GUI Operating System"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Text Editor (Notepad)"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Web Browser."
+    },
+    {
+      "chapter_number": 4,
+      "title": "GIMP, Canva and Adobe Express"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Internet Connection"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Class room chairs and desks"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Computer Tables"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Straight back revolving & adjustable chairs (Computer Chairs)"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Printer Tables"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Trainers Table"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trainers Chair"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Steel cupboards drawer type"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Cabinet with drawer"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Steel Almirah - big size"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Steel Almirah- small size"
+    }
+  ],
+  "full_text_excerpt": "803 - Web Applications Class XII - 2026-2027 \nPage 1 of 12 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \n \nWEB APPLICATIONS (SUB. CODE - 803) \nJOB ROLE: WEB DEVELOPER & GRAPHIC DESIGNER \n \nCLASS - XII \nCOURSE TITLE: WEB DEVELOPER & GRAPHIC DESIGNER \nWeb development enables businesses to transcend geographical boundaries and reach a global audience. A well- \ndesigned website serves as a 24/7 storefront, allowing potential customers from around the world to learn about \nproducts and services at their convenience. Graphic design plays a major role in your website development. In \naddition to your branding, it supports your marketing objectives by improving the user experience and meeting \nthe needs of those individuals who are most likely to need your services. \nCOURSE OUTCOME: \n \nOn completion of the course, students should be able to: \n• \nAnalyze and discuss the impact of emerging technologies on various industries and society. \n• \nDemonstrate knowledge of IoT concepts and their applications in real-world scenarios. \n• \nDifferentiate between different types of operating systems and understand their respective advantages and \nlimitations. \n• \nGrasp the concepts of cloud computing and edge computing and discern their differences. \n• \nExplain the principles of AI and ML and identify their applications in different domains. \n• \nExplore potential career paths and opportunities in digital marketing. \n• \nExhibit proper etiquette and behavior while using social media platforms. \n• \nDemonstrate proficiency in writing JavaScript functions and manipulating data structures like objects, strings, \nand arrays. \n• \nApply JavaScript concepts to solve programming problems effectively. \n• \nDevelop the ability to handle events and user interactions in web applications using JavaScript. \n• \nUnderstand the principles of graphic design and apply them to create visually appealing designs. \n• \nNavigate Canva and Adobe Express interfaces confidently and utilize their features effectively. \n• \nCreate various design assets such as posters, videos, presentations, and multimedia content. \n• \nDemonstrate proficiency in incorporating design elements such as layout, color, typography, and multimedia \ninto their projects. \n• \nRecognize the role of AI in assisting and enhancing graphic design processes. \n• \nRecognize the importance of managing digital footprints and safeguarding personal data online. \n• \nUnderstand the significance of data security measures in protecting sensitive information. \n• \nIdentify various forms of intellectual property and understand the legal implications of plagiarism, copyrights, \ntrademarks, and patents. \n• \nIdentify common cybercrimes and understand their impact on individuals and organizations. \n• \nDemonstrate awareness of relevant cyber laws and regulations, particularly those applicable in India.\n803 - Web Applications Class XII - 2026-2027 \nPage 2 of 12 \n \n \nCOURSE OBJECTIVES: \nThe course aim to provide a comprehensive understanding of the course topics and equip learners with practical \nskills and knowledge relevant to emerging technologies, programming, graphic design, and cybersecurity. \nThe following are the main objectives of this course: \n• \nUnderstand the concepts and implications of emerging technologies. \n• \nIdentify the role and impact of Internet of Things (IoT) in various industries. \n• \nDifferentiate between various types of operating systems. \n• \nExplain the concepts of cloud computing and edge computing. \n• \nDescribe the applications and significance of Artificial Intelligence (AI) and Machine Learning (ML). \n• \nExplore career opportunities in digital marketing. \n• \nUnderstand and apply social media etiquettes. \n• \nReview and strengthen understanding of JavaScript fundamentals. \n• \nMaster the concepts of functions, objects, strings, arrays, and math methods in JavaScript. \n• \nDevelop proficiency in event handling and manipulation in JavaScript. \n• \nComprehend the importance and principles of graphic designing. \n• \nNavigate and utilize Canva and Adobe Express tools effectively. \n• \nCreate and edit various types of designs, including posters, videos, and presentations. \n• \nApply design principles such as layout, color, and typography. \n• \nIncorporate multimedia elements like audio and transitions into designs. \n• \nUnderstand the role of Artificial Intelligence (AI) in graphic design. \n• \nRecognize the importance of digital footprints and data privacy. \n• \nUnderstand the concepts of data security and intellectual property rights. \n• \nIdentify different types of cybercrimes and their implications. \n• \nGain awareness of cyber laws and regulations, particularly in the context of India. \n \n \nSALIENT FEATURES: \nThis course covers a wide range of topics spanning emerging technologies, programming, graphic design, and \ncybersecurity, providing learners with a holistic understanding of the digital landscape. Each chapter includes \npractical components where students engage in activities such as coding in JavaScript, creating designs using \nCanva and Adobe Express, and learning about cyber safety through case studies and real-world examples. \nThe course emphasizes emerging trends and technologies such as IoT, AI, cloud computing, digital marketing, \nand cyber safety, preparing students for careers in high-demand fields. \n \n \nSCHEME OF UNITS \n \nTotal Marks: 100 (Theory-60+Practical-40) \n \nThis course is a planned sequence of instructions consisting of units meant for developing employability and \nvocational competencies of students of Class XII opting for skill subject along with other subjects. \n \nThe unit-wise distribution of hours and marks for class XII is as follows:\n803 - Web Applications Class XII - 2026-2027 \nPage 3 of 12 \n \n \nWEB APPLICATIONS (SUBJECT CODE - 803) \nCLASS - XII (Session 2026-2027) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory \nand Practical \n \n \n \n \n \nEMPLOYABILITY SKILLS \nUnit 1: Communication Skills-IV \n10 \n2 \nUnit 2: Self-Management Skills-IV \n10 \n2 \nUnit 3: ICT Skills-IV \n10 \n2 \nUnit 4: Entrepreneurial Skills-IV \n15 \n2 \nUnit 5: Green Skills-IV \n05 \n2 \nTotal \n50 \n10 \n \n \n \n \n \nSUBJECT SPECIFIC SKILLS \nTheory \nPractical \nMarks \nChapter1: Emerging Trends \n15 \n15 \n8 \nChapter 2: JavaScript Part 2 \n35 \n60 \n20 \nChapter 3: Graphic Designing using Canva and Adobe \nExpress \n20 \n30 \n10 \nChapter 4: Cyber Safety and Security \n15 \n20 \n12 \nTotal \n85 \n125 \n50 \n \n \n \n \n \n \nPRACTICAL WORK \nPractical Examination \n \n15 \n• \nTwo JavaScript programs \n10 Marks \n• \nCreate a video using Canva/Adobe Express \n5 Marks \n• \nViva Voce \n5 Marks \n5 \nTotal \n20 \n \n \n \n \n \n \n \n \n \nPROJECT WORK \n1. Create a video using either Canva or \nAdobe Express \n2. Do any one of the following on the topic \n“Cyber Security.” \n● \nCreate a Presentation \n● \nCreate an E-poster \n● \nCreate a hand-made poster \n \n10 \nPORTFOLIO/ PRACTICAL FILE: \n1. Write 4 programs using Functions \n2. Write 4 programs using String methods \n3. Write 4 programs using Array methods \n4. Write 4 programs using Math methods \n5. Write 2 programs using Event Handling \n \n10 \nTotal \n20 \n \nGRAND TOTAL \n \n210 \n100\n803 - Web Applications Class XII - 2026-2027 \nPage 4 of 12 \n \n \nDETAILED CURRICULUM/ TOPICS: \n \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration in Hours \n1. \nUnit 1: Communication Skills-II \n10 \n2. \nUnit 2: Self-management Skills-II \n10 \n3. \nUnit 3: Information and Communication Technology Skills-II \n10 \n4. \nUnit 4: Entrepreneurial Skills-II \n15 \n5. \nUnit 5: Green Skills-II \n05 \n \nTOTAL \n50 \n \nNote: \nThe detailed curriculum/ topics to be covered under Part A: EmployabilitySkills \ncan be downloaded from CBSE website. \n \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nChapter1: Emerging Trends \nChapter 2: JavaScript Part 2 \nChapter 3: Graphic Designing using Canva and Adobe Express \nChapter 4: Cyber Safety and Security \n \nCHAPTER 1: EMERGING TRENDS \nS. \nNo. \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n \n \n \n \n \n1. \n• \nExplain the concept of IoT and \nits significance in modern \ntechnology. \n• \nIdentify potential applications \nof IoT in various industries. \n• \nInternet of Things (IoT) \n• \nGrowth of Internet of \nThings (IoT) \n• \nHistory of IoT devices \n• \nAdvantages of IoT \n• \nDisadvantages of IoT \n• \nIndustrial Internet of \nThings (IIoT) \nField Trips to explore IIOT \nin various Industries. \n \n \n \n \n2. \n• \nClassify different types of \noperating systems based on \ntheir characteristics. \n• \nEvaluate the suitability of \noperating systems for specific \ncomputing environments. \n• \nTypes of Operating \nSystems \n• \nImportant functions of an \nOperating System \n• \nAdvantages of Operating \nSystem \n• \nTypes of Operating \nSystems \nCompare Windows and \nMacOs \nCompare Android and iOS \n \n3. \n• \nDescribe the architectures, \nadvantages, and challenges of \ncloud computing and edge \ncomputing. \n• \nCloud Computing and \nEdge Computing \n• \nCloud Smart Storage \nUse a Google Doc/Sheet \nwhere each student writes \ntheir hobbies\n803 - Web Applications Class XII - 2026-2027 \nPage 5 of 12 \n \n \n \n• \nAnalyze scenarios to \ndetermine appropriate \ncomputing paradigms. \nProviders \n• \nBenefits of Cloud \nComputing \n• \nLimitations of cloud \ncomputing \n \n \n4. \n• \nUnderstand the basic \nprinciples behind AI and ML \nalgorithms. \n• \nIdentify real-world \napplications of AI and ML \ntechnologies. \n• \nArtificial Intelligence \n(AI) and \n• \nMachine Learning (ML) \nTake screenshots of AI and \nML in real world \napplications. \n \n \n5. \n• \nRecognize various digital \nmarketing channels and \nstrategies. \n• \nEvaluate potential career paths \nand skill requirements in \ndigital marketing. \n• \nDigital Marketing and its \nCareer \n• \nOpportunities \n• \nBenefits of digital \nmarketing \nCreate a Digital Marketing \nCampaign for a school fete. \n \n \n6. \n• \nDemonstrate appropriate \nbehavior and communication \non social media platforms. \n• \nApply social media etiquette \nprinciples to maintain a \npositive online presence. \n• \nSocial Media Etiquettes \n• \nSpread of Rumors on \nsocial media \nFind and discuss \ninappropriate behaviour on \nSocial Media \n \nCHAPTER 2: JAVASCRIPT PART 2 \n \n \nS. \nNo. \nLEARNING \nOUTCOMES \nTHEORY \nPRACTICAL \n1. \n• \nCreate and use \nfunctions to \norganize and \nreuse code \neffectively. \n• \nFunctions in JavaScript \n• \nNaming a \nFunction \n• \nTypes of \nFunctions \n• \nInvoking the \nFunction/ \nCalling the \nFunction \n• \nFunction Return \n1. Write a program with 2 functions to \nfind simple or compound interest \ndepending on user input also take user \ninput for principal, rate and time. \n \n• \nSolve \nprogramming \nproblems using \nfunctions. \n2. Write a program where a function \nMyFunc( ) it takes the user name and \ndisplays a message” \nHello username welcome to this page! \n \n3. Write a program with a function to find \nthe smallest out of 3 numbers. \n2. \n• \nUnderstand the \nconcept of objects \nand their role in \nJavaScript. \n• \nDefine and create \nobjects using \nobject literals and \nconstructor \nfunctions. \n• \nAccess and \nmanipulate object \n• \nObjects in \nJavaScript \n• \nProperties and \nMethods \n• \nProperties of \nObjects \n4. Write a program with a function to take \nuser input in kilograms and convert it to \ngrams. [1Kilogram=1000grams] \n5. Write a program with a function \nsortnum( ) to sort 3 numbers in ascending \norder. \n6. Using a button call a function Pytha( ) \nand take the input for the sides then check \nwhether a number is a Pythagorean Triplet \nor not. \n7. Write a program with a function called\n803 - Web Applications Class XII - 2026-2027 \nPage 6 of 12 \n \n \n \nproperties and \nmethods. \n• \nUnderstand \nobject-oriented \nprogramming \nprinciples in \nJavaScript. \n \nthrough a button to ask user age and if the \nage is greater than 18, display the message \n“You are eligible” in a paragraph. \n3. \n• \nUnderstand the \nstring data type in \nJavaScript. \n• \nStrings in \nJavaScript \n• \nString Property: \nLength \nDeclare a function ‘stringsjava’ in \nJavaScript to accept two strings \narguments. The function should \na. Convert both the strings to lowercase \nb. Search for string1 in string2 and display \nthe string if found. \nc. Replace all occurrences of letter ‘I’ with \n‘ ! ‘ in string2. \nd. Display first character of string1. \n \n \nConsider the following code: \nvar cars = [\"Honda\", \"BMW\", \"Audi\", \n“Porsche”]; \nWrite command in JavaScript to : \nadd an item “Volvo “ to the array cars in \nthe last. \nremove first element from the array. \ndisplay number of elements in the array. \nadd following array to an array “cars”. \nvar person=[“Rajan”, “Yagya”, \n“Munish”]; \nConsider the string “Life is Beautiful”. \nWrite a function ‘mystring’ that performs \nthe following tasks: \na. Displays the length of the string \nb. Displays the string after replacing space \n“ ” in the string with \n“ * ” \nc. Find the position of the first occurrence \nof “if” and display it. \n4. \n• \nCreate and \nmanipulate \nstrings using \nvarious methods. \n• \nExplore built-in \nmethods for \nmanipulating \nstrings in \nJavaScript. \nString Methods in JavaScript: \n• \nslice() \n• \nsubstring() \n• \nreplace() \n• \nreplaceAll() \n• \nmatch() \n• \ntoUpperCase( ) \n• \ntoLowerCase( ) \n• \nconcat() \n• \ntrim( ) \n• \ncharAt() \n5. \n• \nUnderstand the \narray data \nstructure in \nJavaScript. \n• \nCreate, initialize, \nand manipulate \narrays. \n• \nAccess array \nelements using \nindices. \n• \nArrays in JavaScript \n• \nCreating an Array using \nArray Literal \n• \nAccessing Elements of an \nArray \n• \nArray Length \n6. \n• \nExplore built-in \nmethods for \nmanipulating \narrays in \nJavaScript. \nArray Methods in JavaScript: \n• \ntoString( ) \n• \npop( ) \n• \npush( ) \n• \nshift( ) \n• \nunshift( ) \n• \njoin( ) \n• \ndelete( ) \n• \nconcat( ) \n• \nslice( ) \n• \nreverse( ) \n• \nsort( ) \n7. \n• \nExplore built-in \nmathematical \nmethods in \nJavaScript. \nMath Methods in JavaScript: \n• \nMath.round(x) \n• \nMath.ceil(x) \n• \nMath.floor(x) \nWrite a function: \na. To find the value of a number raised \npower another number using Math object \nmethod.\n803 - Web Applications Class XII - 2026-2027 \nPage 7 of 12 \n \n \n \n• \nMath.pow(x, y) \n• \nMath.sqrt(x) \n• \nMath.min() \n• \nMath.max() \n• \nMath.random() \nb. To find the sqrt of a number using Math \nobject method. \n8. \n• \nUnderstand the \nconcept of events \nin JavaScript. \n• \nHandle events \nusing event \nlisteners and \ninline event \nattributes. \nEvent Handling in JavaScript \n• \nonchange \n• \nonclick \n• \nonmouseover \n• \nonmouseout \n• \nonkeydown \n• \nonload \nWrite a program to display an alert box \nwith the message “Welcome to the \nwebsite” when the webpage is first \nloaded. \nWrite a program to display an alert box \nwith the message “You pressed a key” \nwhen a key is pressed. \n \nCHAPTER 3: GRAPHIC DESIGNING USING CANVA AND ADOBE EXPRESS \n \nS. \nNo. \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n \n1. \n• \nUnderstand the significance of \ngraphic designing in various \nfields. \n• \nIdentify the elements and \nprinciples of design. \n• \nGraphic Designing and its \nImportance \nUsing Canva do the following \n1. Create a poster for “Animal \nProtection Against Cruelty” \nusing a template \n2. Create a presentation about \n“The National Education \nPolicy” using a blank \npresentation \n3. Create video about “Indian \nStartups” using a template and \nalso generate an audio track \nusing AI. \n \n2. \n• \nExplore the Canva platform \nand its features. \n• \nUnderstand the different tools \navailable for graphic \ndesigning. \n• \nIntroduction to Canva \n3. \n• \nLearn how to create an \naccount and start designing in \nCanva. \n• \nHow to Start Working in \nCanva \n \n4. \n• \nNavigate the Canva editor \ninterface. \n• \nUtilize various editing tools \nand options. \n• \nThe Canva Editor \n5. \n• \nLearn to create a poster using \npre-designed templates in \nCanva. \n• \nCreating a Poster using a \nTemplate \n \n6. \n• \nUnderstand the video editing \ncapabilities of Canva. \n• \nLearn to import, edit, and \nexport videos using Canva. \n• \nCreating and Editing a Video \nin Canva \n \n7. \n• \nMaster video editing \ntechniques such as splitting, \ncutting, trimming, and adding \ntransitions in Canva. \n• \nSplitting, Cutting, Trimming \nand Adding Transitions in a \nVideo \n8. \n• \nLearn to create a presentation \nfrom scratch using Canva. \n• \nCreating a Presentation from \na Blank Version \n \n9. \n• \nExplore how to add transitions \nand animations to slides in \nCanva presentations. \n• \nAdding Transitions and \nApplying Animations in a \nPresentation \n10. \n• \nUnderstand different methods \n• \nWays to Present, Share and\n803 - Web Applications Class XII - 2026-2027 \nPage 8 of 12 \n \n \n \nto present, share, and \ndownload designs created in \nCanva. \nDownload a Design \nDo the following in Adobe \nExpress and write the steps \naccordingly. \n1. Create a Poster for \n“Environment Day” using a \ntemplate. Customize it using \ndifferent theme colours, fonts \nand images. \n2. Create a 1-2-minute \nvideo(like an advertisement) \nwithout using a template to \nintroduce a new brand of \nschool uniforms. \n3. Create a logo, for your \ncompany and add theme \ncolours, fonts images and audio \nfor a short digital \nadvertisement. \n11. \n• \nLearn to add audio tracks to \nvideos and presentations in \nCanva. \n• \nAdding Audio to Videos and \nPresentations \n12. \n• \nExplore the integration of AI \nfeatures in Canva for design \nenhancement. \n• \nCanva and Artificial \nIntelligence (AI) \n13. \n• \nUnderstand the Adobe Express \nplatform and its features. \n• \nIntroduction to Adobe \nExpress \n14. \n• \nLearn to create an account and \nstart designing in Adobe \nExpress. \n• \nGetting Started in Adobe \nExpress \n15. \n• \nLearn to create a design using \npre-designed templates in \nAdobe Express. \n• \nCreating a Design Using an \nAdobe Express Template \n16. \n• \nExplore how to create original \ndesigns from scratch using \nAdobe Express. \n• \nCreating an Original Design \nin Adobe Express \n \n17. \n• \nMaster video editing \ntechniques such as splitting, \ncutting, and trimming in \nAdobe Express. \n• \nSplitting, Cutting and \nTrimming in Adobe Express \n \nCHAPTER 4: CYBER SAFETY AND SECURITY \n \nS. \nNo. \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n \n1. \n• \nUnderstand the concept of \ndigital footprints and their \nimplications. \nDigital Footprints \n• \nActive Digital Footprints \n• \nPassive Digital Footprints \nDivide the class into groups \nand perform a role play based \non some real-life cyber-crime \nthat took place around you. \nUse an online plagiarism \nsoftware to check your work. \n \n \n2. \n• \nLearn about the importance of \ndata privacy and strategies to \nprotect personal information \nonline. \n• \nData Privacy \n• \nImportance of Data Privacy \n• \nLaws and regulations to \nprotect your data \n \n3. \n• \nExplore methods to secure \ndata from unauthorized access \nor theft. \n• \nData Security \n• \nSecurity Measures \n \n \n4. \n• \nUnderstand the concepts of \nintellectual property rights. \n• \nDifferentiate between \nplagiarism, copyrights, \ntrademarks, and patents. \nIntellectual Property \n• \nPlagiarism \n• \nCopyrights \n• \nTrademarks \n• \nPatents \n \n5. \n• \nIdentify different types of \ncybercrimes such as hacking, \nphishing, identity theft, etc. \n• \nTypes of Cyber Crimes \n \n6. \n• \nLearn about cyber laws and \nregulations in India aimed at \naddressing cybercrimes and \nensuring cybersecurity. \n• \nCyber Laws in India\n803 - Web Applications Class XII - 2026-2027 \nPage 9 of 12 \n \n \nLIST OF EQUIPMENT/ MATERIALS: \n \nThe list given below is suggestive and an exhaustive list should be compiled from the feedback given by various by the \nteachers teaching the subject. Only basic tools, equipment and accessories should be procured by the Institution so that \nthe routine tasks can be performed by the students regularly for practice and acquiring adequate practical experience. \n \nS. No. \nITEM NAME, DESCRIPTION & SPECIFICATION \nQUANTITY \nA \nHARDWARE \n \n1. \nComputer with latest configuration with minimum 64 GB RAM, 512 GB HDD \nor SSD, 17” LED Monitor, NIC Card, 3 button Mouse, 105 keys key board and \nbuilt-in speakers and mic. \n15 \n2. \nLaser Printer - Black \n01 \n3. \nInkjet Printers (Colour & Black) \n01 \n4. \nScanner \n01 \n5. \nOnline UPS 5 KVA \n01 \n6. \n16 Port Switches \n01 \n7. \nAir Conditioner 1.5 ton \n02 \n8. \nBroadband Connection "
+}

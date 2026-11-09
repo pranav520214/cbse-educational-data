@@ -1,0 +1,40 @@
+{
+  "subject_code": "066",
+  "subject_name": "Entrepreneurship",
+  "class": "11",
+  "group": "Group-A",
+  "stream": "Commerce / Elective",
+  "directory_name": "SUBJ_066_ENTREPRENEURSHIP",
+  "directory_path": "CLASS_11/SUBJ_066_ENTREPRENEURSHIP",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Entrepreneurship",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Enterprenuership_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Entrepreneurship",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Enterprenuership_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [],
+    "marking_schemes": [],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 2,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "48fef7abfadb8f75972ed51e0d1986528648c0101246039b17c7663bbafde185",
+    "file_size_bytes": 284837,
+    "units_extracted": 13,
+    "chapters_extracted": 13
+  }
+}

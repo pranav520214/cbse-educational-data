@@ -1,0 +1,598 @@
+{
+  "subject_name": "Horticulture",
+  "subject_code": "816",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/816-HORTICULTURE-XII.pdf",
+  "sha256": "ddb56272cd3c2616b55b662f145307ba3053c4d5cce921e7ca75290ebe3b95c1",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Present scenario and scope of floriculture in",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Employment avenues in floriculture sector",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Study of outdoor room concept: public area,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Different features of gardens like gate, walls,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Concept of CAD (Computer Aided Designs)",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Methods of establishing lawns and their",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Production of indoor plants and their",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Protected cultivation of commercial flower",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Flower arrangements: types and styles.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-11",
+      "title": "Methods of dry flower making like air drying,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-12",
+      "title": "Post-harvest handling of commercial flower",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "Present scenario and scope of floriculture in global market.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Employment avenues in floriculture sector.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Study of outdoor room concept: public area, private area and service area.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Different features of gardens like gate, walls, arches, pergolas, paths, roads,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Concept of CAD (Computer aided designs) for landscape designs.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-6",
+      "title": "Methods of establishing lawns and their management including irrigation,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-7",
+      "title": "Production of indoor plants and their maintenance.",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-8",
+      "title": "Commercial cultivation of rose, chrysanthemum, gladiolus, marigold, tuberose,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-9",
+      "title": "Protected",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-10",
+      "title": "Flower arrangements: types and styles",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-11",
+      "title": "Methods of dry flower making like air drying, embedded drying, water drying,",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-12",
+      "title": "Post-harvest handling of commercial flower crops including harvesting, pre-",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Introduction"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Course Objectives"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Apply effective oral and written communication skills to inte"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify the principal components of a computer system;"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstrate the basic skills of using computer;"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Demonstrate self-management skills;"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Demonstrate the ability to provide a self-analysis in context"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Demonstrate the knowledge of the importance of green skills i"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Communicate effectively with the client, identify the princip"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Prepare media for protected cultivation"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Demonstrate irrigation and fustigation ,green house operation"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Administer first aid to a casualty with small cuts, grazes, b"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Curriculum"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills- IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "TEACHING ACTIVITIES"
+    },
+    {
+      "chapter_number": 6,
+      "title": "ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Area under polyhouse and its layout"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Types of plants/flowers raised"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Type of rootstock used"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Methods of propagation adopted"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Whether plants/flowers raised by micropropagation"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Number of plants /flowersgrow annually"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Number of plants/flowers sold annually"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Sale procedure"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Manpower engaged"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Total expenditure in construction of greenhouse/nursery"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Irrigation unit"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Fustigation unit"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Total annual income"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Profit/Loss (Annual)"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Any other information"
+    },
+    {
+      "chapter_number": 7,
+      "title": "LIST OF EQUIPMENT AND MATERIAL"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Tape"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Pruning knife"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Crow bar"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Super cut"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rope"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Thinning scissor"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Khurpi"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Hand cultivator"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Wheel hoe"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Hand weedier"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trenching hoe"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Weeding fork"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Transplanting travel"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Garden hoe"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Dibbler"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Shovel"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Planting board"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Digging fork"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Secateurs"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Garden rake"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Garden hatchet"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Spade"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Water can"
+    },
+    {
+      "chapter_number": 46,
+      "title": "Small Trowel"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sprinkler"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Rake"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Sprayer"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Duster"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Mobile benches"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Temperature & humidity control 50."
+    },
+    {
+      "chapter_number": 17,
+      "title": "System"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Pad"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Automatic shade system"
+    },
+    {
+      "chapter_number": 52,
+      "title": "Ventilator"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Fogging and blackout"
+    },
+    {
+      "chapter_number": 53,
+      "title": "Thermometer"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Irrigation system"
+    },
+    {
+      "chapter_number": 54,
+      "title": "Lux meter/Light meter"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Mobile benches,"
+    },
+    {
+      "chapter_number": 55,
+      "title": "Misting"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Fan"
+    },
+    {
+      "chapter_number": 56,
+      "title": "Digitale elctronic temperature"
+    },
+    {
+      "chapter_number": 57,
+      "title": "Radiation measuring"
+    },
+    {
+      "chapter_number": 59,
+      "title": "Hygrometer"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Digital electronic temperature"
+    },
+    {
+      "chapter_number": 60,
+      "title": "Dry and liquid fertilizer"
+    },
+    {
+      "chapter_number": 61,
+      "title": "Peat"
+    },
+    {
+      "chapter_number": 62,
+      "title": "Formalin"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Hygrometer."
+    },
+    {
+      "chapter_number": 63,
+      "title": "Bavestin"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Temperature & humidity control"
+    },
+    {
+      "chapter_number": 64,
+      "title": "Sulphur"
+    },
+    {
+      "chapter_number": 65,
+      "title": "Insecticide"
+    },
+    {
+      "chapter_number": 66,
+      "title": "Indofil-45"
+    },
+    {
+      "chapter_number": 68,
+      "title": "Plant Growth regulator/hormones"
+    },
+    {
+      "chapter_number": 8,
+      "title": "PRACTICAL GUIDELINES"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit to flower market during different seasons."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Performing intercultural operations like training, pruning in"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Performing staking, pinching, de-shooting and disbudding in c"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Maintenance of mother plants of chrysanthemum."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Embedded drying of important flower crops using different emb"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Studying morphological characteristics of available varieties"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Identification of important pests and diseases of lawn and av"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Preparation of pesticide solutions and their spraying for con"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Preparation of dry flower products like greeting cards, book"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Preparation of landscape designs for school and college using"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Preparation of landscape designs for home gardens."
+    },
+    {
+      "chapter_number": 12,
+      "title": "Preparation of landscape designs for public parks."
+    },
+    {
+      "chapter_number": 13,
+      "title": "Preparation of different flower arrangements like ikebana, ga"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Calculating the cost of production of important flower crops."
+    },
+    {
+      "chapter_number": 15,
+      "title": "Packing and packaging of commercial flower crops."
+    }
+  ],
+  "full_text_excerpt": "816 - Horticulture - Class XII - 2026-27 \nPage 1 of 7 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nHORTICULTURE XII (SUBJECT CODE 816) \nJOB ROLE: FLORICULTURIST (PROTECTED/ENTREPRENEUR) \n \n1. Introduction \nHorticulture is associated with the cultivation of vegetables, fruits, flowers, crops, tuber crops and \nmedicinal, aromatic and ornamental plants where one can attain knowledge about crop production, \nplant propagation, plant breeding, genetic engineering, preparation of soil and plant physiology and \nbiochemistry and simultaneously can work in various fields including floral design, garden centers, \nteaching, fruit and vegetable production, arboriculture, landscape construction, etc. \nA Floriculturist (Protected Cultivation) is a person who has under taken the various activities off lower \ncultivation involving preparatory cultivation, cultivation and post-harvest management in green house. \nHe also perform maintenance and care of plant, design and maintenance of green house, preparing \nmedia and various other inputs essential for flower crop cultivation. The job is to be performed in \nefficient manner to allow the production of high quality of flowers, their harvesting and post-harvest \nmanagement towards getting higher return. \n2. Course Objectives \nOn completion of the course, students should be able to: \n1. Apply effective oral and written communication skills to interact with people and customers; \n2. Identify the principal components of a computer system; \n3. Demonstrate the basic skills of using computer; \n4. Demonstrate self-management skills; \n5. Demonstrate the ability to provide a self-analysis in context of entrepreneurial skills & \nabilities; \n6. Demonstrate the knowledge of the importance of green skills in meeting the challenges of \nsustainable development and environment protection; \n7. Communicate effectively with the client, identify the principal components of a computer system, \nIdentify different types of protected structure and Identify and categories crops for protected \ncultivation \n8. Prepare media for protected cultivation \n9. Demonstrate irrigation and fustigation ,green house operations ,irrigation and fustigation , care \nand maintenance of protected structure Demonstrate special horticultural practices in protected \ncultivation Identify and control of insect-pest and diseases demonstrate the harvest and post- \nharvest practices \n10. Administer first aid to a casualty with small cuts, grazes, bruises, external bleeding, minor burns \nand scalds \n3. Curriculum \nThis course is a planned sequence of instructions consisting of Units meant for developing \nemployability and Skills competencies of students of Class XII opting for Skills subject along with \ngeneral education subjects. \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\n816 - Horticulture - Class XII - 2026-27 \nPage 2 of 7 \n \n \nHORTICULTURE (SUBJECT CODE - 816) \nCLASS - XII (SESSION 2026-2027) \nTotal Marks: 100 (Theory-60 + Practical-40) \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills- IV \n10 \n2 \nUnit 2: Self-Management Skills- IV \n10 \n2 \nUnit 3: ICT Skills- IV \n10 \n2 \nUnit 4: Entrepreneurial Skills- IV \n15 \n2 \nUnit 5: Green Skills- IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \n \nMarks \nUnit 1: Present scenario and scope of floriculture in \nglobal market \n \n08 \n05 \nUnit 2: Employment avenues in floriculture sector \n08 \n06 \nUnit 3: Study of outdoor room concept: public area, \nprivate area and service area \n08 \n06 \nUnit 4: Different features of gardens like gate, walls,\narches, pergolas, paths, roads, edges, hedges,\nstepping stones, sun dial, bird bath, statues, water \nfountain, lawns, herbaceous borders, bonsai, \ntopiary etc. \n \n \n15 \n08 \nUnit 5: Concept of CAD (Computer Aided Designs) \nfor landscape designs. \n \n10 \n04 \nUnit 6: Methods of establishing lawns and their \nmanagement \nincluding \nirrigation, \nfertilization, \nMowing, insect-pest and diseases and their control. \n \n10 \n03 \nUnit 7: Production of indoor plants and their \nmaintenance. \n10 \n02 \nUnit \n8: \nCommercial \ncultivation \nof \nrose,\nchrysanthemum, gladiolus, marigold, tuberose,\njasmine and crossandra. \n \n25 \n02 \nUnit 9: Protected cultivation of commercial flower \ncrops \nlike \nrose, \ncarnation, \nchrysanthemum, \ngerbera, orchids, antirrhinum etc. \n \n25 \n02\n816 - Horticulture - Class XII - 2026-27 \nPage 3 of 7 \n \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \nMAX. MARKS \nfor Theory and \nPractical \n \nUnit 10: Flower arrangements: types and styles. \n10 \n05 \nUnit 11: Methods of dry flower making like air drying,\nembedded drying, water drying, press drying,\nglycerin drying, freeze drying etc. and other value\nadded products. \n \n \n11 \n04 \nUnit 12: Post-harvest handling of commercial flower \ncrops including harvesting, pre cooling, pulsing, \nholding, dry and wet storage, packing, packaging \nand transportation. \n \n20 \n03 \nTotal \n160 \n50 \nPart C \nPractical Work \n \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n \n30 \nPart D \nProject Work/ Field Visit \n \nPractical File/ Student Portfolio \n \n10 \nTotal \n \n10 \n \nGRAND TOTAL \n \n100 \n \n \nDETAILED CURRICULUM/TOPICS FOR CLASS - XII: \nPart-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration(in Hours) \n1. \nUnit 1: Communication Skills- IV \n10 \n2. \nUnit 2: Self-management Skills- IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n10 \n4. \nUnit 4: Entrepreneurial Skills- IV \n15 \n5. \nUnit 5: Green Skills- IV \n05 \n \nTOTAL DURATION \n50 \n \nNOTE: \nFor Detailed Curriculum/ Topics to be covered under Part A: \nEmployability Skills can be downloaded from CBSE website\n816 - Horticulture - Class XII - 2026-27 \nPage 4 of 7 \n \n \nPart-B - SUBJECT SPECIFIC SKILLS \n \nUnit-1 \nPresent scenario and scope of floriculture in global market. \nUnit-2 \nEmployment avenues in floriculture sector. \nUnit-3 \nStudy of outdoor room concept: public area, private area and service area. \nUnit-4 \nDifferent features of gardens like gate, walls, arches, pergolas, paths, roads, \nedges, hedges, stepping stones, sun dial, bird bath, statues, water fountain, \nlawns, herbaceous borders, bonsai, topiary etc. \nUnit-5 \nConcept of CAD (Computer aided designs) for landscape designs. \nUnit-6 \nMethods of establishing lawns and their management including irrigation, \nfertilization, mowing, insect-pest and diseases and their control. \nUnit-7 \nProduction of indoor plants and their maintenance. \nUnit-8 \nCommercial cultivation of rose, chrysanthemum, gladiolus, marigold, tuberose, \njasmine and crossandra. \nUnit-9 \nProtected \ncultivation \nof \ncommercial \nflower \nchrysanthemum, gerbera, orchids, antirrhinum etc. \ncrops \nlike \nrose, carnation, \nUnit-10 \nFlower arrangements: types and styles \nUnit-11 \nMethods of dry flower making like air drying, embedded drying, water drying, \npress drying, glycerin drying, freeze drying etc. and other value added products. \nUnit-12 \nPost-harvest handling of commercial flower crops including harvesting, pre-\ncooling, pulsing, holding, dry and wet storage, packing, packaging and\ntransportation.\n816 - Horticulture - Class XII - 2026-27 \nPage 5 of 7 \n \n \n5. TEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops and field \nvisits. Students should be taken to field visits for interaction with experts and to expose them to the various \ntools, equipment, materials, procedures and operations in the workplace. Special emphasis should be \nlaid on the occupational safety, health and hygiene during the training and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed by \ndiscussions should be conducted by trained teachers. Teachers should make effective use of a variety \nof instructional or teaching aids, such as audio-video materials, colour slides, charts, diagrams, models, \nexhibits, hand-outs, online teaching materials, etc. to transmit knowledge and impart training to the \nstudents. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, case based \nstudies, exercises, etc. Equipment and supplies should be provided to enhance hands-on learning \nexperience of students. Only trained personnel should teach specialized techniques. A training plan that \nreflects tools, equipment, materials, skills and activities to be performed by the students should be \nsubmitted by the teacher to the Head of the Institution \n \nSKILL ASSESSMENT (PRACTICAL) \nAssessment of skills by the students should be done by the assessors/examiners on the basis of practical \ndemonstration of skills by the candidate, Practical examination allows candidates to demonstrate that \nthey have the knowledge and understanding of performing a task. This will include hands-on practical \nexam and viva voce. For practical, there should be a team of evaluators. The same team of examiners \nwill conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a certain time \nperiod or timeline. Project work should be given on the basis of the capability of the individual to perform \nthe tasks or activities involved in the project. Projects should be discussed in the class and the teacher \nshould periodically monitor the progress of the project and provide feedback for improvement and \ninnovation. Field visits should be organised as part of the project work. Field visits can be followed by a \nsmall-group work/project work. When the class returns from the field visit, each group might be asked to \nuse the information that they have gathered to prepare presentations or reports of their observations. \nProject work should be assessed on the basis of practical file or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of competence. \nDocuments may include reports, articles, photos of products prepared by students in relation to the unit \nof competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. Audio or video \nrecording can be done at the time of viva voce. The number of external examiners would be decided as \nper the existing norms of the Board and these norms should be suitably adopted/adapted as per the \nspecific requirements of the subject. Viva voce should also be conducted to obtain feedback on the \nstudent’s experiences and learning during the project work/field visits. \n \n6. ORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \nIn a year, at least 3 field visits/educational tours should be organised for the students to expose them to \nthe activities in the workplace. \n \nVisit a Polyhouse/Green house and observe the following: Location, Site , area, types of greenhouse, \ninfrastructure, equipments used, Office building, Store, Pot yard, Packing Yard, Seed bed, Nursery bed, \nWater tank/Tube well, Gate and fencing. During the visit, students should obtain the following information\n816 - Horticulture - Class XII - 2026-27 \nPage 6 of 7 \n \n \nfrom the owner or the supervisor of the nursery: \n \n1. Area under polyhouse and its layout \n2. Types of plants/flowers raised \n3. Type of rootstock used \n4. Methods of propagation adopted \n5. Whether plants/flowers raised by micropropagation \n6. Number of plants /flowersgrow annually \n7. Number of plants/flowers sold annually \n8. Sale procedure \n9. Manpower engaged \n10. Total expenditure in construction of greenhouse/nursery \n11. Irrigation unit \n12. Fustigation unit \n13. Total annual income \n14. Profit/Loss (Annual) \n15. Any other information \n \n \n7. LIST OF EQUIPMENT AND MATERIAL \n \n \nThe list given below is suggestive and an exhaustive list should be prepared by the vocational \nteacher. Only basic tools, equipment and accessories should be procured by the Institution so \nthat the routine tasks can be performed by the students regularly for practice and acquiring \nadequate practical experience. \n1. \nTape \n35. \nPruning knife \n2. \nCrow bar \n36. \nSuper cut \n3. \nRope \n37. \nThinning scissor \n4. \nKhurpi \n38. \nHand cultivator \n5. \nWheel hoe \n39. \nHand weedier \n6. \nTrenching hoe \n40. \nWeeding fork \n7. \nTransplanting travel \n41. \nGarden hoe \n8. \nDibbler \n42. \nShovel \n9. \nPlanting board \n43. \nDigging fork \n10. \nSecateurs \n44. \nGarden rake \n11. \nGarden hatchet \n45. \nSpade \n12. \nWater can \n46. \nSmall Trowel \n13. \nSprinkler \n47. \nRake \n14. \nSprayer \n48 \nDrip and sprinkler \n15. \nDuster \n49. \nMobile benches \n16. \nTemperature & humidity control 50. \nFan \n17. \nSystem \n51. \nPad \n18. \nAutomatic shade system \n52. \nVentilator \n19. \nFogging and blackout \n53. \nThermometer \n20. \nIrrigation system \n54. \nLux meter/Light meter \n21. \nMobile benches, \n55. \nMisting \n22. \nFan \n56. \nDigitale elctronic temperature \nindicator \n23. \nPad \n24. \nVentilator \n57. \nRadiation measuring \ninstrument \n25. \nThermometer \n58. \nSprayer\n816 - Horticulture - Class XII - 2026-27 \nPage 7 of 7 \n \n \n26. \nLux meter/Light meter \n59. \nHygrometer \n \n27. \nDigital electronic temperature \nIndicator \nList of Chemicals \n60. \nDry and liquid fertilizer \n28 \nRadiation measuring instrument \n61. \nPeat \n29. \nSprayer \n62. \nFormalin \n30. \nHygrometer. \n63. \nBavestin \n31. \nTemperature & humidity control \nSystem \n64. \nSulphur \n65. \nInsecticide \n32. \nAutomatic shade system \n66. \nIndofil-45 \n33. \nFogging and blackout \n67 \nNeem cake \n \n34. \nIrrigation system \n68. \nPlant Growth regulator/hormones \n \n8. PRACTICAL GUIDELINES \n(As the practical is primarily an outdoor activity the schools can carry them out in the allocated \n50 Periods.) \n \n1. \nVisit to flower market during different seasons. \n2. \nPerforming intercultural operations like training, pruning in roses. \n3. \nPerforming staking, pinching, de-shooting and disbudding in carnation and chrysanthemum flower \ncrops. \n4. \nMaintenance of mother plants of chrysanthemum. \n5. \nEmbedded drying of important flower crops using different embedding media. \n6. \nStudying morphological characteristics of available varieties of flower crops available in your \nlocality. \n7. \nIdentification of important pests and diseases of lawn and avenue plants. \n8. \nPreparation of pesticide solutions and their spraying for control of insect, pests and diseases. \n9. \nPreparation of dry flower products like greeting cards, book marks, wall hangings and dry flower \nbaskets. \n10. Preparation of landscape designs for school and college using CAD technology. \n11. Preparation of landscape designs for home gardens. \n12. Preparation of landscape designs for public parks. \n13. Preparation of different flower arrangements like ikebana, garland, bouquets etc. \n14. Calculating the cost of production of important flower crops. \n15. Packing and packaging of commercial flower crops."
+}

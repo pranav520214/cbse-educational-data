@@ -1,0 +1,56 @@
+{
+  "subject_code": "056",
+  "subject_name": "Dance",
+  "class": "12",
+  "group": "Group-A",
+  "stream": "Performing Arts",
+  "directory_name": "SUBJ_056_DANCE",
+  "directory_path": "CLASS_12/SUBJ_056_DANCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Dance",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain26/SrSec/Indian_Classical_Dances_SrSec_2025-26.pdf",
+        "session": "2025-26 / 2026-27",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      },
+      {
+        "title": "Dance",
+        "url": "https://cbseacademic.nic.in/web_material/CurriculumMain25/SrSec/Indian_Classical_Dances_SrSec_2024-25.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 SQP: Dance",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Odissi-SQP.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Sample Paper"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Marking Scheme: Dance",
+        "url": "https://cbseacademic.nic.in/web_material/SQP/ClassXII_2024_25/Odissi-MS.pdf",
+        "session": "2024-25",
+        "source": "CBSE Academic Portal (Examination Unit)",
+        "license": "Official CBSE Board Marking Scheme & Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 4,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "ecf326faa9334401595b2d51ed71f0676601d0dce3136508a882298ef2ecdb20",
+    "file_size_bytes": 681379,
+    "units_extracted": 1,
+    "chapters_extracted": 120
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "subject_code": "814",
+  "subject_name": "Insurance",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Finance",
+  "directory_name": "SUBJ_814_INSURANCE",
+  "directory_path": "CLASS_12/SUBJ_814_INSURANCE",
+  "resources": {
+    "syllabus": [
+      {
+        "title": "Skill Curriculum: Insurance (814-Insurance.pdf)",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/814-Insurance.pdf",
+        "session": "2026-27",
+        "source": "CBSE Skill Education Unit",
+        "license": "Government Open Educational Data (Fair Dealing / Curriculum)"
+      }
+    ],
+    "textbooks": [],
+    "sample_question_papers": [
+      {
+        "title": "Class 12 Skill SAMPLE_QUESTION_PAPER: Insurance",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/814_INSURANCE_SQP.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "marking_schemes": [
+      {
+        "title": "Class 12 Skill MARKING_SCHEME: Insurance",
+        "url": "https://cbseacademic.nic.in/web_material/Curriculum26/SQP_MS_XII/814_INSURANCE_MS.pdf",
+        "session": "2025-26",
+        "source": "CBSE Skill Education Unit",
+        "license": "Official CBSE Skill Sample Paper / Solutions"
+      }
+    ],
+    "reading_materials": [],
+    "practicals": []
+  },
+  "total_resources": 3,
+  "status": "verified_acquired",
+  "integrity": {
+    "sha256": "fa20c36ae1e3f137de43333d27c5cd33213f7d39aaaa332be9c0e749a7a352c6",
+    "file_size_bytes": 251203,
+    "units_extracted": 0,
+    "chapters_extracted": 3
+  }
+}

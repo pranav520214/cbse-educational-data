@@ -1,0 +1,386 @@
+{
+  "subject_name": "XI",
+  "subject_code": "UNKNOWN",
+  "class": "11",
+  "group": "Group-S",
+  "stream": "General",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/EmployabilitySkills_XI.pdf",
+  "sha256": "1bcc520aa6d8241dac863b3afca60824dd46f453b1cddd3ca63ebb114a8277e5",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self- Management Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-1",
+      "title": "COMMUNICATION SKILLS - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "SELF - MANAGEMENT SKILLS - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "INFORMATION AND COMMUNICATION TECHNOLOGY SKILLS - III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "ENTREPRENEURIAL SKILLS- III",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "GREEN SKILLS - III",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "Demonstrate knowledge"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Methods of communication"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Writing pros and cons of written,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Listing do’s and don’ts for avoiding"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Identify specific"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Communication styles-"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Observing and sharing communication"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Role plays on communication styles."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Demonstrate basic"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Writing skills to the following:"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration and practice of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstrate impressive"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the importance of dressing"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Describe the term grooming"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Prepare a personal grooming checklist"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Describe the techniques of self-"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration of impressive"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstration of the ability to"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrate team work"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the important factors that"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Describe factors influencing team"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Group discussion on qualities"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Group discussion on strategies"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Apply time management"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Meaning and importance of time"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Game on time management"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Checklist preparation"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To-do-list preparation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Create a document on"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Introduction to word processing."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Software packages for word"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Opening and exiting the word"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Creating a document"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration and practice of the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Edit, save and print a"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Editing text"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Wrapping and aligning the text"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Font size, type and face."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Header and Footer"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Auto correct"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Numbering and bullet"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Creating table"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Find and replace"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Page numbering."
+    },
+    {
+      "chapter_number": 10,
+      "title": "Printing document."
+    },
+    {
+      "chapter_number": 11,
+      "title": "Saving a document in various"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Demonstration and practicing the"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Using autocorrect option"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Insert page numbers and bullet"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Save and print a document"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Values in general and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Entrepreneurial value orientation"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Listing of entrepreneurial values by"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Group work on identification of"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Exhibiting entrepreneurial values in"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrate the"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Attitudes in general and"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Using imagination/ intuition"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Tendency to take moderate risk"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Enjoying freedom of expression"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Looking for economic"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Believing that we can change the"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Analyzing situation and planning"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Involving in activity"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparing a list of factors that"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Demonstrating and identifying own"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Preparing a short write-up on “who"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Take up a product and suggest how"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Group activity for suggesting brand"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Describe importance of"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Main sectors of green economy- E-"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Policy initiatives for greening"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparing a poster on any one"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Writing a two-page essay on"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Describe the major"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Stakeholders in green economy"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Role of government and private"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparing posters on green"
+    }
+  ],
+  "full_text_excerpt": "CBSE | DEPARTMENT OF SKILL EDUCATION \n \nCURRICULUM FOR SESSION 2026-2027 \nEMPLOYABILITY SKILLS \n(COMMON FOR ALL SKILL SUBJECTS) \nCLASS XI \n \nUNIT NO. \nUNIT NAME \nUnit 1 \nCommunication Skills - III \nUnit 2 \nSelf- Management Skills - III \nUnit 3 \nInformation and Communication Technology Skills - III \nUnit 4 \nEntrepreneurial Skills- III \nUnit 5 \nGreen Skills - III \nUNIT 1: COMMUNICATION SKILLS - III \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Demonstrate knowledge \nof various methods of \ncommunication \n1. Methods of communication \n- Verbal \n- Non-verbal \n- Visual \n1. Writing pros and cons of written, \nverbal and non-verbal communication \n2. Listing do’s and don’ts for avoiding \ncommon body language mistakes \n2. Identify specific \ncommunication styles \n1. Communication styles- \nassertive, aggressive, passive- \naggressive, submissive, etc. \n1. Observing and sharing communication \nstyles of friends, teachers and family \nmembers and adapting the best \npractices \n2. Role plays on communication styles. \n3. Demonstrate basic \nwriting skills \n1. Writing skills to the following: \n• Sentence \n• Phrase \n• Kinds of Sentences \n• Parts of Sentence \n• Parts of Speech \n• Articles \n• Construction of a Paragraph \n1. Demonstration and practice of \nwriting sentences and paragraphs on \ntopics related to the subject \nUNIT 2: SELF - MANAGEMENT SKILLS - III \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Demonstrate impressive \nappearance and \ngrooming \n1. Describe the importance of dressing \nappropriately, looking decent and \npositive body language \n2. Describe the term grooming \n3. Prepare a personal grooming checklist \n4. Describe the techniques of self- \nexploration \n1. Demonstration of impressive \nappearance and groomed \npersonality \n2. Demonstration of the ability to \nself- explore \nPage 1 of 3\nEMPLOYABILITY SKILLS - CLASS XI \nPage 2 of 3 \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n2. Demonstrate team work \nskills \n1. Describe the important factors that \ninfluence in team building \n2. Describe factors influencing team \nwork \n1. Group discussion on qualities \nof a good team \n2. Group discussion on strategies \nthat are adopted for team \nbuilding and team work \n3. Apply time management \nstrategies and techniques \n1. Meaning and importance of time \nmanagement - setting and prioritizing \ngoals, creating a schedule, making lists \nof tasks, balancing work and leisure, \nusing different optimization tools to \nbreak large tasks into smaller tasks. \n1. Game on time management \n2. Checklist preparation \n3. To-do-list preparation \n \nUNIT 3: INFORMATION AND COMMUNICATION TECHNOLOGY SKILLS - III \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Create a document on \nword processor \n1. Introduction to word processing. \n2. Software packages for word \nprocessing. \n3. Opening and exiting the word \nprocessor. \n4. Creating a document \n1. Demonstration and practice of the \nfollowing: \n• Listing the features of word \nprocessing \n• Listing the software packages for \nword processing \n• Opening and exit the word \nprocessor \n• Creating a document \n2. Edit, save and print a \ndocument in word \nprocessor \n1. Editing text \n2. Wrapping and aligning the text \n3. Font size, type and face. \n4. Header and Footer \n5. Auto correct \n6. Numbering and bullet \n7. Creating table \n8. Find and replace \n9. Page numbering. \n10. Printing document. \n11. Saving a document in various \nformats. \n1. Demonstration and practicing the \nfollowing: \n• Editing the text \n• Word wrapping and alignment \n• Changing font type, size and face \n• Inserting header and footer \n• Removing header and footer \n2. Using autocorrect option \n3. Insert page numbers and bullet \n4. Save and print a document \nUNIT 4: ENTREPRENEURIAL SKILLS- III \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Describe the \nsignificance of \nentrepreneurial values \nand attitude \n1. Values in general and \nentrepreneurial values \n2. Entrepreneurial value orientation \nwith respect to innovativeness, \nindependence, outstanding \nperformance and respect for \nwork \n1. Listing of entrepreneurial values by \nthe students. \n2. Group work on identification of \nentrepreneurial values and their \nroles after listing or reading 2-3 \nstories of successful entrepreneur. \n3. Exhibiting entrepreneurial values in \nIce breaking, rapport building, \ngroup work and home assignments.\nEMPLOYABILITY SKILLS - CLASS XI \nPage 3 of 3 \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n2. Demonstrate the \nknowledge of attitudinal \nchanges required to \nbecome an \nentrepreneur \n1. Attitudes in general and \nentrepreneurial attitudes \n2. Using imagination/ intuition \n3. Tendency to take moderate risk \n4. Enjoying freedom of expression \nand action \n5. Looking for economic \nopportunities \n6. Believing that we can change the \nenvironment \n7. Analyzing situation and planning \naction \n8. Involving in activity \n1. Preparing a list of factors that \ninfluence attitude in general and \nentrepreneurial attitude \n2. Demonstrating and identifying own \nentrepreneurial attitudes during \nthe following micro lab activities \nlike thematic appreciation test \n3. Preparing a short write-up on “who \nam I” \n4. Take up a product and suggest how \nits features can be improved \n5. Group activity for suggesting brand \nnames, names of enterprises, etc. \nUNIT 5: GREEN SKILLS - III \n \n \nLEARNING OUTCOMES \nTHEORY \nPRACTICAL \n1. Describe importance of \nmain sector of green \neconomy \n1. Main sectors of green economy- E- \nwaste management, green \ntransportation, renewal energy, green \nconstruction, water management \n2. Policy initiatives for greening \neconomy in India \n1. Preparing a poster on any one \nof the sectors of green \neconomy \n2. Writing a two-page essay on \nimportant initiatives taken in \nIndia for promoting green \neconomy \n2. Describe the major \ngreen Sectors/Areas and \nthe role of various \nstakeholder in green \neconomy \n1. Stakeholders in green economy \n2. Role of government and private \nagencies in greening cities, buildings, \ntourism, industry, transport, \nrenewable energy, waste \nmanagement, agriculture, water, \nforests and fisheries \n1. Preparing posters on green \nSectors/Areas: cities, \nbuildings, tourism, industry, \ntransport, renewable energy, \nwaste management, \nagriculture, water, forests and \nfisheries \nSuggested Textbook: \n \n❖ Employability Skills for class XI by NCERT \n \n \n \n \n \n \nThe textbook can be downloaded using the following link: \nhttp://psscive.ac.in/publications/textbooks \nhttps://cbseacademic.nic.in/skill-education-books.html"
+}

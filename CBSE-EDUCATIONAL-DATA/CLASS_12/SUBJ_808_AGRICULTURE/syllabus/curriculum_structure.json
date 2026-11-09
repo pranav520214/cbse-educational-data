@@ -1,0 +1,570 @@
+{
+  "subject_name": "Agriculture",
+  "subject_code": "808",
+  "class": "12",
+  "group": "Group-S",
+  "stream": "Skill / Agriculture",
+  "session": "2026-27",
+  "source_url": "https://cbseacademic.nic.in/web_material/Curriculum27/SrSec/808-AGRICULTURE-XII.pdf",
+  "sha256": "fa5d2ff97c269415ac385324676118cea78283a79ecd910d5a29a26cb4e5b42b",
+  "assessment": {
+    "theory_marks": 80,
+    "internal_assessment_marks": 20,
+    "total_marks": 100
+  },
+  "units": [
+    {
+      "unit_id": "Unit-1",
+      "title": "Communication Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-Management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "ICT Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-4",
+      "title": "Entrepreneurial Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-5",
+      "title": "Green Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Advanced Crop Production",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Organic Farming",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Post-Harvest Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Food Processing and Value",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Subsidiary Enterprises in",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-2",
+      "title": "Self-management Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-3",
+      "title": "Information and Communication Technology Skills- IV",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Advance Crop Production",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-III",
+      "title": "Postharvest Management",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-IV",
+      "title": "Food Processing and Value Addition",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-V",
+      "title": "Subsidiary Enterprises in Agriculture",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-I",
+      "title": "Advance Crop Production and Organic Farming",
+      "topics": []
+    },
+    {
+      "unit_id": "Unit-II",
+      "title": "Post-Harvest Management, Food Processing and Value Addition",
+      "topics": []
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "To help the students to comprehended the facts and importance"
+    },
+    {
+      "chapter_number": 2,
+      "title": "To expose the students to crop production, animal husbandry,"
+    },
+    {
+      "chapter_number": 3,
+      "title": "To familiarize the students with waste management and physica"
+    },
+    {
+      "chapter_number": 4,
+      "title": "To expose the students to find better income and avenue gener"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Unit 1: Communication Skills- IV"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Unit 2: Self-management Skills- IV"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unit 3: Information and Communication Technology Skills- IV"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Unit 4: Entrepreneurial Skills- IV"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Unit 5: Green Skills- IV"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Food production including horticultural crops and its importa"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Soil fertility, productivity and concept of essential plant n"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Roles and functions of essential plant nutrients, their impor"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Soil samplings and its processing. Introduction to soil pH an"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Introduction to manure, fertilizers, Bio-fertilizers, their m"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Concept of soil moisture availability various irrigation meth"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Methods of insect pest and disease management - Chemical, Bio"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Concept, history and importance of Organic farming."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Present status and contribution in the National economy."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Important food products grown organically. Important Governme"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Post harvesting management of fruits, vegetables and flowers,"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Important Government schemes for food sector."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Principles and methods of food processing and preservation. B"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Important value added products from fruits, vegetables, cerea"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Packaging, quality standards and their marketing including ex"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Flowers and their harvesting: important processed flower prod"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Concept of safe food and important food regulations."
+    },
+    {
+      "chapter_number": 1,
+      "title": "Important subsidiary enterprises based on Agriculture includi"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Mushroom, their nutritional status and methods of production."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Beekeeping and its important usage and importance of Honey, W"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Landscaping, development and maintenance of lawns and avenue"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Preparation of Bio-pesticides (plant based), Organic manures"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Setting up nurseries and marketing of plant sapling and impor"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Tape"
+    },
+    {
+      "chapter_number": 28,
+      "title": "Hygrometer"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Crow bar"
+    },
+    {
+      "chapter_number": 29,
+      "title": "Pruning knife"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Rope"
+    },
+    {
+      "chapter_number": 30,
+      "title": "Super cut"
+    },
+    {
+      "chapter_number": 4,
+      "title": "Khurpi"
+    },
+    {
+      "chapter_number": 31,
+      "title": "Thinning scissor"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Wheel hoe"
+    },
+    {
+      "chapter_number": 32,
+      "title": "Hand cultivator"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Trenching hoe"
+    },
+    {
+      "chapter_number": 33,
+      "title": "Hand weedier"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Transplanting travel"
+    },
+    {
+      "chapter_number": 34,
+      "title": "Weeding fork"
+    },
+    {
+      "chapter_number": 8,
+      "title": "Dibbler"
+    },
+    {
+      "chapter_number": 35,
+      "title": "Garden hoe"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Planting board"
+    },
+    {
+      "chapter_number": 36,
+      "title": "Shovel"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Secateurs"
+    },
+    {
+      "chapter_number": 37,
+      "title": "Digging fork"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Garden hatchet"
+    },
+    {
+      "chapter_number": 38,
+      "title": "Garden rake"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Water can"
+    },
+    {
+      "chapter_number": 39,
+      "title": "Spade"
+    },
+    {
+      "chapter_number": 13,
+      "title": "Sprinkler"
+    },
+    {
+      "chapter_number": 40,
+      "title": "Small Trowel"
+    },
+    {
+      "chapter_number": 14,
+      "title": "Sprayer"
+    },
+    {
+      "chapter_number": 41,
+      "title": "Rake"
+    },
+    {
+      "chapter_number": 15,
+      "title": "Duster"
+    },
+    {
+      "chapter_number": 42,
+      "title": "Drip and sprinkler"
+    },
+    {
+      "chapter_number": 16,
+      "title": "Temperature & humidity control"
+    },
+    {
+      "chapter_number": 43,
+      "title": "Misting"
+    },
+    {
+      "chapter_number": 17,
+      "title": "Automatic shade system"
+    },
+    {
+      "chapter_number": 18,
+      "title": "Fogging and blackout"
+    },
+    {
+      "chapter_number": 44,
+      "title": "Dry and liquid fertilizer"
+    },
+    {
+      "chapter_number": 19,
+      "title": "Irrigation system"
+    },
+    {
+      "chapter_number": 45,
+      "title": "Formalin"
+    },
+    {
+      "chapter_number": 20,
+      "title": "Mobile benches"
+    },
+    {
+      "chapter_number": 21,
+      "title": "Fan"
+    },
+    {
+      "chapter_number": 47,
+      "title": "Sulphur"
+    },
+    {
+      "chapter_number": 22,
+      "title": "Pad"
+    },
+    {
+      "chapter_number": 48,
+      "title": "Insecticide"
+    },
+    {
+      "chapter_number": 23,
+      "title": "Ventilator"
+    },
+    {
+      "chapter_number": 49,
+      "title": "Indofil-45"
+    },
+    {
+      "chapter_number": 24,
+      "title": "Thermometer"
+    },
+    {
+      "chapter_number": 50,
+      "title": "Neem cake"
+    },
+    {
+      "chapter_number": 25,
+      "title": "Lux meter/Light meter"
+    },
+    {
+      "chapter_number": 51,
+      "title": "Plant Growth regulator/hormones"
+    },
+    {
+      "chapter_number": 26,
+      "title": "Digital electronic temperature"
+    },
+    {
+      "chapter_number": 27,
+      "title": "Radiation measuring instrument"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Soil sampling and determination of Soil pH."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Determination of soil organic carbon content."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Preparation of nursery and seed beds."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Seed treatment with fungicides and Bio-fertilizers."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Identification of different types of chemical fertilizers, co"
+    },
+    {
+      "chapter_number": 6,
+      "title": "Calculation of fertilizer requirement of crops (for wheat, ri"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Preparation of FYM and Compost."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Uses of sprayers and dusters for pest control and nutrient sp"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Determination of moisture content of crop seeds (wheat, rice,"
+    },
+    {
+      "chapter_number": 10,
+      "title": "To find out 100-grain weight of crop seeds (wheat, rice, maiz"
+    },
+    {
+      "chapter_number": 11,
+      "title": "Visit to a crop field and compare healthy plant with a diseas"
+    },
+    {
+      "chapter_number": 12,
+      "title": "Identification of different types of Insecticides, Fungicides"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Visit to Bakery Unit, Local Chakki."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Preparation of Jam, Jelly, ketchup and Morabba"
+    },
+    {
+      "chapter_number": 3,
+      "title": "Drying of fruits, vegetables and flowers."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Preparation of pickles."
+    },
+    {
+      "chapter_number": 5,
+      "title": "Identification of fresh and aged vegetables and fruits."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Visit to cold storage and record the storage of various fruit"
+    },
+    {
+      "chapter_number": 7,
+      "title": "Harvesting and packaging of flowers."
+    },
+    {
+      "chapter_number": 8,
+      "title": "Preparation of flower arrangements such as garland and rangol"
+    },
+    {
+      "chapter_number": 9,
+      "title": "Visit to a flower mandi and record the activities in the mand"
+    },
+    {
+      "chapter_number": 10,
+      "title": "Visit to a local fruit market and record the activities in th"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Preparation of plant based bio-pesticides (neem)"
+    },
+    {
+      "chapter_number": 2,
+      "title": "Visit to Mushroom production unit."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Visit to nearby apiary and record the process of beekeeping."
+    },
+    {
+      "chapter_number": 4,
+      "title": "Observe the characteristics of different bee products (honey"
+    },
+    {
+      "chapter_number": 5,
+      "title": "Visit to a vermin composting unit."
+    },
+    {
+      "chapter_number": 6,
+      "title": "Observe the characteristics of compost."
+    },
+    {
+      "chapter_number": 1,
+      "title": "The students have to prepare a report on the visits recording"
+    },
+    {
+      "chapter_number": 2,
+      "title": "In case of practical of fruit and vegetable preservation and"
+    },
+    {
+      "chapter_number": 1,
+      "title": "Identification of objects."
+    },
+    {
+      "chapter_number": 2,
+      "title": "Visit Report analysis."
+    },
+    {
+      "chapter_number": 3,
+      "title": "Experiences in their field visits, etc."
+    }
+  ],
+  "full_text_excerpt": "Page 1 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nCBSE | DEPARTMENT OF SKILL EDUCATION \nCURRICULUM FOR SESSION 2026-2027 \nAGRICULTURE (SUB CODE - 808) \n \nJOB ROLE: AGRICULTURE EXTENSION WORKER \nCLASS - XII \n \nIntroduction \n \nAgriculture has been the prime enterprise for the National Economy of this country for centuries and \nthat is why India is called Agrarian country. This sector also provides maximum employment to the \npeople of this country. Agriculture is the production of food and fiber, ever since its advent. It has \nundergone several paradigm changes. The major landmark in Agriculture happened during 1960s when \nthe country witnessed Green Revolution. Which boosted the crop production. Use of short duration crop \nvarieties, fertilizers, pesticides and agricultural tools and expansion of area under irrigation were \nimportant interventions brought in Agriculture. Livestock is an integral part of Agriculture in India. Their \nby-products are used to build and maintain soil fertility along with plant protection. The animal products \nsuch as meat, milk and eggs are the source of nutrients in human diet as well. \n \nSeveral emerging dimensions of contemporary Agriculture such as organic agriculture and animal \nhusbandry practices are now getting attention. Food processing, value addition and preservation have \nbeen the focus of policies formation in recent times which are helpful in minimizing the wastage in \nAgriculture. This is helping in better income realizing through marketing of value added products. The \nincome from Agriculture can also be increased by associating in subsidiary enterprises such as \nmushroom production, bio-pesticides, bee-keeping, vermi-culture etc. \n \n \nCourse Objectives \n \nThe board objectives of teaching Agriculture at Senior Secondary level are: \n1. To help the students to comprehended the facts and importance of Agriculture. \n2. To expose the students to crop production, animal husbandry, horticulture etc. \n3. To familiarize the students with waste management and physical environment in Agriculture. \n4. To expose the students to find better income and avenue generating avenue of agriculture and \nitsassociated activities. \n \nCurriculum \n \n \nThis course is a planned sequence of instructions consisting of Units meant for developing employability \nandSkills competencies of students of Class XII opting for Skills subject along with general education \nsubjects. \n \nTheory \n60 marks \nPractical \n40 marks \nTotal Marks \n100 marks\nPage 2 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nCURRICULUM FOR CLASS XII \nTotal Marks: 100 (Theory- 60 + Practical- 40) \nThe unit-wise distribution of Periods and marks for Class XII is as follows: \n \n \nUNITS \nNO. OF HOURS \nfor Theory and \nPractical \n260 \nMAX. MARKS \nfor Theory and \nPractical \n100 \nPart A \nEmployability Skills \n \nUnit 1: Communication Skills- IV \n10 \n2 \nUnit 2: Self-Management Skills- IV \n10 \n2 \nUnit 3: ICT Skills- IV \n10 \n2 \nUnit 4: Entrepreneurial Skills- IV \n15 \n2 \nUnit 5: Green Skills- IV \n05 \n2 \nTotal \n50 \n10 \nPart B \nSubject Specific Skills \nTheory Practical \nMarks \nSECTION: \nI \nAdvanced Crop Production and \nOrganic Farming \nUnit I: Advanced Crop Production \n \n52 \n15 \n20 \nUnit II: Organic Farming \n24 \n07 \nSECTION: \nII \nPost-Harvest Management , Food \nProcessing and Value Addition \nUnit III: Post-Harvest Management \n \n12 \n05 \n20 \nUnit IV: Food Processing and Value \nAddition \n42 \n15 \nSECTION: \nIII \nSubsidiary Enterprises of Agriculture \nUnit V: Subsidiary Enterprises in \nAgriculture \n \n30 \n08 \n10 \nTotal \n160 \n50 \n50 \nPart C \nPractical Work \n \nPractical Examination \n \n15 \nWritten Test \n \n10 \nViva Voce \n \n05 \nTotal \n \n30 \nPart D \nProject Work/ Field Visit \n \nPractical File/ Student Portfolio \n \n10 \nTotal \n \n10 \n \nGRAND TOTAL \n260 \n100\nPage 3 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nDETAILED CURRICULUM/TOPICS FOR CLASS XII \nPART-A: EMPLOYABILITY SKILLS \n \nS. No. \nUnits \nDuration(in Hours) \n1. \nUnit 1: Communication Skills- IV \n10 \n2. \nUnit 2: Self-management Skills- IV \n10 \n3. \nUnit 3: Information and Communication Technology Skills- IV \n10 \n4. \nUnit 4: Entrepreneurial Skills- IV \n15 \n5. \nUnit 5: Green Skills- IV \n05 \n \nTOTAL DURATION \n50 \n \nNote: The detailed curriculum/ topics to be covered under Part A: Employability \nSkillscan be downloaded from CBSE website. \n \nPART B - SUBJECT SPECIFIC SKILLS \n \nSECTION-I: ADVANCED CROP PRODUCTION AND ORGANIC FARMING \n \nUnit- I: Advance Crop Production \n \n1. Food production including horticultural crops and its importance in the economy and \nnutritional security. \n2. Soil fertility, productivity and concept of essential plant nutrients. Classification of \nessential plant nutrients. \n3. Roles and functions of essential plant nutrients, their important deficiency \nsymptoms. \n4. Soil samplings and its processing. Introduction to soil pH and Organic Carbon. \n5. Introduction to manure, fertilizers, Bio-fertilizers, their methods of application. (It will also \nbe covered in practical. Concept of Integrated Nutrient Management (INM). \n6. Concept of soil moisture availability various irrigation methods. Concept of precision and \npressure irrigation - Drip and sprinkler irrigation. \n7. Methods of insect pest and disease management - Chemical, Biological and \nMechanical. Concept of Integrated Pest Management (IPM). \n \nUnit - II: Organic Farming \n \n1. Concept, history and importance of Organic farming. \n \n2. Present status and contribution in the National economy. \n3. Important food products grown organically. Important Government Schemes for the promotion of \norganic farming in our country. Kitchen gardening.\nPage 4 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nSECTION-II: POST-HARVEST MANAGEMENT, FOOD PROCESSING AND \nVALUEADDITION \nUnit III: Postharvest Management \n \n1. Post harvesting management of fruits, vegetables and flowers, cereals, pulses \nandoil seeds. Status of food processing in our country. \n2. Important Government schemes for food sector. \n \nUnit IV: Food Processing and Value Addition \n \n1. Principles and methods of food processing and preservation. Benefits of food processing. \n2. Important value added products from fruits, vegetables, cereals, pulses and oil seeds. \nPreparation of jam, jelly, ketchup, morabba, pickles, marmalade. \n3. Packaging, quality standards and their marketing including export. \n4. Flowers and their harvesting: important processed flower products, packaging, storage \nand their marketing. \n5. Concept of safe food and important food regulations. \n \n \nSECTION-III: SUBSIDIARY ENTERPRISES OF AGRICULTURE \n \nUnit V: Subsidiary Enterprises in Agriculture \n \n1. Important subsidiary enterprises based on Agriculture including Horticulture and \ntheirimportance in the socio-economic status of an individual. \n2. Mushroom, their nutritional status and methods of production. \n3. Beekeeping and its important usage and importance of Honey, Wax and Royal jelly. \n4. Landscaping, development and maintenance of lawns and avenue gardens. \n5. Preparation of Bio-pesticides (plant based), Organic manures (composts) and Vermi- \ncomposting. \n6. Setting up nurseries and marketing of plant sapling and important Govt. Schemes for \nthe support of these enterprises.\nPage 5 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nTEACHING ACTIVITIES \n \nThe teaching and training activities have to be conducted in classroom, laboratory/ workshops \nand field visits. Students should be taken to field visits for interaction with experts and to expose \nthem to the various tools, equipment, materials, procedures and operations in the workplace. \nSpecial emphasis should be laid on the occupational safety, health and hygiene during the \ntraining and field visits. \n \nCLASSROOM ACTIVITIES \n \nClassroom activities are an integral part of this course and interactive lecture sessions, followed \nby discussions should be conducted by trained teachers. Teachers should make effective use of a \nvariety of instructional or teaching aids, such as audio-video materials, colour slides, charts, \ndiagrams, models, exhibits, hand-outs, online teaching materials, etc. to transmit knowledge and \nimpart trainingto the students. \n \nPRACTICAL WORK IN LABORATORY/WORKSHOP \n \nPractical work may include but not limited to hands-on-training, simulated training, role play, \ncase based studies, exercises, etc. Equipment and supplies should be provided to enhance \nhands-on learning experience of students. Only trained personnel should teach specialized \ntechniques. A training plan that reflects tools, equipment, materials, skills and activities to be \nperformed by the students should be submitted by the teacher to the Head of the Institution. \n \nSKILL ASSESSMENT (PRACTICAL) \n \nAssessment of skills by the students should be done by the assessors/examiners on the basis \nof practical demonstration of skills by the candidate, Practical examination allows candidates to \ndemonstrate that they have the knowledge and understanding of performing a task. This will \ninclude hands-on practical exam and viva voce. For practical, there should be a team of \nevaluators. Thesame team of examiners will conduct the viva voce. \n \nProject Work (individual or group project) is a great way to assess the practical skills on a \ncertain time period or timeline. Project work should be given on the basis of the capability of the \nindividual toperform the tasks or activities involved in the project. Projects should be discussed \nin the class and the teacher should periodically monitor the progress of the project and provide \nfeedback for improvement and innovation. Field visits should be organised as part of the project \nwork. Field visits can be followed by a small-group work/project work. When the class returns \nfrom the field visit, eachgroup might be asked to use the information that they have gathered to \nprepare presentations or reports of their observations. Project work should be assessed on the \nbasis of practical file or student portfolio. \n \nStudent Portfolio is a compilation of documents that supports the candidate’s claim of \ncompetence.Documents may include reports, articles, photos of products prepared by students \nin relation to the unit of competency. \n \nViva voce allows candidates to demonstrate communication skills and content knowledge. \nAudio or video recording can be done at the time of viva voce. The number of external \nexaminers would be decided as per the existing norms of the Board and these norms should be \nsuitably adopted/adaptedas per the specific requirements of the subject. Viva voce should also be \nconducted to obtain feedback on the student’s experiences and learning during the project \nwork/field visits.\nPage 6 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nORGANISATION OF FIELD VISITS/EDUCATIONAL TOURS \n \nIn field visits, children will go outside the classroom to obtain specific information from experts \nor to make observations of the activities. A checklist of observations to be made by the students \nduring the field visits should be developed by the Teachers for systematic collection of \ninformation by the students on the various aspects. Principals and Teachers should identify the \ndifferent opportunities for field visits within a short distance from the school and make necessary \narrangements for the visits. At least three field visits should be conducted in a year. \nLIST OF EQUIPMENT AND MATERIAL \n \nThe list given below is suggestive and an exhaustive list should be prepared by the skill \nteacher. Only basic tools, equipment and accessories should be procured by the Institution \nso that the routine tasks can be performed by the students regularly for practice and acquiring \nadequate practical experience. \n \n1. \nTape \n28. \nHygrometer \n2. \nCrow bar \n29. \nPruning knife \n3. \nRope \n30. \nSuper cut \n4. \nKhurpi \n31. \nThinning scissor \n5. \nWheel hoe \n32. \nHand cultivator \n6. \nTrenching hoe \n33. \nHand weedier \n7. \nTransplanting travel \n34. \nWeeding fork \n8. \nDibbler \n35. \nGarden hoe \n9. \nPlanting board \n36. \nShovel \n10. \nSecateurs \n37. \nDigging fork \n11. \nGarden hatchet \n38. \nGarden rake \n12. \nWater can \n39. \nSpade \n13. \nSprinkler \n40. \nSmall Trowel \n14. \nSprayer \n41. \nRake \n15. \nDuster \n42. \nDrip and sprinkler \n16. \nTemperature & humidity control \nSystem \n43. \nMisting \n17. \nAutomatic shade system \nList of Chemicals \n18. \nFogging and blackout \n44. \nDry and liquid fertilizer \n19. \nIrrigation system \n45. \nFormalin \n20. \nMobile benches \n46 \nBavistin \n21. \nFan \n47. \nSulphur \n22. \nPad \n48. \nInsecticide \n23. \nVentilator \n49. \nIndofil-45 \n24. \nThermometer \n50. \nNeem cake \n25. \nLux meter/Light meter \n51. \nPlant Growth regulator/hormones \n26. \nDigital electronic temperature \nIndicator \n \n \n27. \nRadiation measuring instrument\nPage 7 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nPRACTICAL GUIDELINES \n \nSECTION I \n \nUnit I: Advance Crop Production and Organic Farming \n \n1. Soil sampling and determination of Soil pH. \n2. Determination of soil organic carbon content. \n3. Preparation of nursery and seed beds. \n4. Seed treatment with fungicides and Bio-fertilizers. \n5. Identification of different types of chemical fertilizers, composts ,bio-fertilizers. \n6. Calculation of fertilizer requirement of crops (for wheat, rice and maize) \nbased on their nutrient needs. \n7. Preparation of FYM and Compost. \n8. Uses of sprayers and dusters for pest control and nutrient spray. \n9. Determination of moisture content of crop seeds (wheat, rice, maize and mustard). \n10. To find out 100-grain weight of crop seeds (wheat, rice, maize and mustard). \n11. Visit to a crop field and compare healthy plant with a diseased and insect \naffected plant. \n12. Identification of different types of Insecticides, Fungicides and Herbicides. \n \nSECTION: II \n \nUnit II: Post-Harvest Management, Food Processing and Value Addition \n \n1. Visit to Bakery Unit, Local Chakki. \n2. Preparation of Jam, Jelly, ketchup and Morabba \n3. Drying of fruits, vegetables and flowers. \n4. Preparation of pickles. \n5. Identification of fresh and aged vegetables and fruits. \n6. Visit to cold storage and record the storage of various fruits and vegetables. \n7. Harvesting and packaging of flowers. \n8. Preparation of flower arrangements such as garland and rangoli. \n9. Visit to a flower mandi and record the activities in the mandi. \n10. Visit to a local fruit market and record the activities in the market. \n \nSECTION: III \n \nUnit III: Subsidiary Enterprises in Agriculture \n \n1. Preparation of plant based bio-pesticides (neem) \n2. Visit to Mushroom production unit. \n3. Visit to nearby apiary and record the process of beekeeping. \n4. Observe the characteristics of different bee products (honey and wax). \n5. Visit to a vermin composting unit. \n6. Observe the characteristics of compost. \nNotes: \n \n1. The students have to prepare a report on the visits recording their observations \non the subject. \n2. In case of practical of fruit and vegetable preservation and methods of production \nof value added products from fruits and vegetables, the student will have to write \nthe procedure adopted and the necessary precautions to be taken in the answer \nsheet provided.\nPage 8 of 8 \n808- Agriculture - Class XII -2026-27 \n \n \nReport on the Visits \nThe student has to prepare a report of their visit to different organizations and submit to \nSubject teacher for the evaluation. The report must contain the student’s original work and \nobservations. \n \nViva Voce \nStudents can be asked questions based on: \n \n1. Identification of objects. \n2. Visit Report analysis. \n3. Experiences in their field visits, etc. \n \nA range of 5 to 10 questions can be asked depending on the response of the student. \nEvaluation 5x1=5 or should be based on number of questions answered. Evaluator \nshould stick to the time and ½x10=5 number of questions."
+}
