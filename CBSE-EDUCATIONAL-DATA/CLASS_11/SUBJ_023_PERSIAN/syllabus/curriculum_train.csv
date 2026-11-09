@@ -1,0 +1,4 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,023,Persian,Chapter,4,M isl -e-yak Juibar(Poem),,train
+11,023,Persian,Chapter,3,"Gul-Aiyeenai-e, Quran (Poem)",,train
+11,023,Persian,Chapter,1,Koochak-wa-Khwandani,,train

@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 9026,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_812_MARKETING",
+    "ai_pairs": {
+      "train": 21,
+      "val": 2,
+      "test": 2,
+      "total": 25
+    },
+    "topics": {
+      "train": 21,
+      "val": 2,
+      "test": 2,
+      "total": 25
+    }
+  }
+}

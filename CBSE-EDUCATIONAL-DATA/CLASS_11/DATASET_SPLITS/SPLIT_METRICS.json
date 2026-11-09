@@ -1,0 +1,15 @@
+{
+  "class": "11",
+  "total_subjects": 117,
+  "total_ai_pairs": 3455,
+  "split_counts": {
+    "train": 2723,
+    "val": 365,
+    "test": 367
+  },
+  "split_ratios": {
+    "train_pct": 78.81,
+    "val_pct": 10.56,
+    "test_pct": 10.62
+  }
+}

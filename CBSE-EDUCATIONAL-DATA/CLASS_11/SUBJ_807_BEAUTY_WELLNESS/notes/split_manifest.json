@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 1447,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_807_BEAUTY_WELLNESS",
+    "ai_pairs": {
+      "train": 85,
+      "val": 11,
+      "test": 11,
+      "total": 107
+    },
+    "topics": {
+      "train": 85,
+      "val": 11,
+      "test": 11,
+      "total": 107
+    }
+  }
+}

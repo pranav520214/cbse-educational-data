@@ -20,6 +20,7 @@ from pipeline.subject_extractor import SubjectExtractor
 from pipeline.pdf_downloader import PDFDownloader
 from pipeline.text_extractor import TextExtractor
 from pipeline.dataset_generator import DatasetGenerator
+from pipeline.data_splitter import DataSplitter
 from pipeline.auditor import CompletenessAuditor
 from pipeline.github_sync import GitHubSync
 
@@ -32,6 +33,7 @@ class EducationalDataOrchestrator:
         self.downloader = PDFDownloader(self.logger)
         self.text_ext = TextExtractor(self.logger)
         self.dataset_gen = DatasetGenerator(self.logger)
+        self.splitter = DataSplitter(logger=self.logger)
         self.auditor = CompletenessAuditor(self.logger)
         self.github_sync = GitHubSync(logger=self.logger)
 
@@ -319,13 +321,16 @@ In accordance with Master Instruction Section 2 and Section 7:
         self.logger.info("=== STEP 3: ACQUISITION & MACHINE-READABLE EXTRACTION ===")
         self.run_acquisition_and_extraction()
 
-        self.logger.info("=== STEP 4: REPOSITORY DOCUMENTATION GENERATION ===")
+        self.logger.info("=== STEP 4: DATASET TRAIN / VAL / TEST SPLITTING ===")
+        self.splitter.run_all_splits()
+
+        self.logger.info("=== STEP 5: REPOSITORY DOCUMENTATION GENERATION ===")
         self.generate_repository_docs()
 
-        self.logger.info("=== STEP 5: COMPLETENESS & QUALITY AUDIT ===")
+        self.logger.info("=== STEP 6: COMPLETENESS & QUALITY AUDIT ===")
         self.auditor.run_full_audit()
 
-        self.logger.info("=== STEP 6: GITHUB COMMIT & PUSH ===")
+        self.logger.info("=== STEP 7: GITHUB COMMIT & PUSH ===")
         self.github_sync.commit_and_push(
             "feat: complete CBSE Class 11 & 12 educational dataset, machine-readable curricula, and AI training pairs"
         )

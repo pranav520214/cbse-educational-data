@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 4678,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_806_TOURISM",
+    "ai_pairs": {
+      "train": 39,
+      "val": 5,
+      "test": 5,
+      "total": 49
+    },
+    "topics": {
+      "train": 39,
+      "val": 5,
+      "test": 5,
+      "total": 49
+    }
+  }
+}

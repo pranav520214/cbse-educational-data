@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 7247,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_106_TAMIL",
+    "ai_pairs": {
+      "train": 6,
+      "val": 1,
+      "test": 1,
+      "total": 8
+    },
+    "topics": {
+      "train": 6,
+      "val": 1,
+      "test": 1,
+      "total": 8
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 9311,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_819_ELECTRICAL_TECHNOLOGY",
+    "ai_pairs": {
+      "train": 171,
+      "val": 21,
+      "test": 21,
+      "total": 213
+    },
+    "topics": {
+      "train": 171,
+      "val": 21,
+      "test": 21,
+      "total": 213
+    }
+  }
+}

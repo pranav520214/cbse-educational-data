@@ -1,0 +1,8 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,055,Accountancy,Chapter,4,Cash Flow Statements,,train
+12,055,Accountancy,Chapter,1,Comparative and common size financial statements,,train
+12,055,Accountancy,Unit,Unit-4,Analysis of Financial Statements,,train
+12,055,Accountancy,Chapter,3,Segment Reports,,train
+12,055,Accountancy,Unit,Unit-1,Accounting for Partnership Firms,,train
+12,055,Accountancy,Unit,Unit-5,Cash Flow Statement,,train
+12,055,Accountancy,Chapter,2,Accounting Ratios,,train

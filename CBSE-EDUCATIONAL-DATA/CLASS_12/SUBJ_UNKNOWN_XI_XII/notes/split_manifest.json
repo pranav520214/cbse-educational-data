@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 5110,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_UNKNOWN_XI_XII",
+    "ai_pairs": {
+      "train": 170,
+      "val": 21,
+      "test": 21,
+      "total": 212
+    },
+    "topics": {
+      "train": 170,
+      "val": 21,
+      "test": 21,
+      "total": 212
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 6595,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_191_KOKBOROK",
+    "ai_pairs": {
+      "train": 16,
+      "val": 2,
+      "test": 2,
+      "total": 20
+    },
+    "topics": {
+      "train": 16,
+      "val": 2,
+      "test": 2,
+      "total": 20
+    }
+  }
+}

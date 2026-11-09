@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 6120,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_827_AIR_CONDITIONING_REFRIGERATION",
+    "ai_pairs": {
+      "train": 31,
+      "val": 4,
+      "test": 4,
+      "total": 39
+    },
+    "topics": {
+      "train": 31,
+      "val": 4,
+      "test": 4,
+      "total": 39
+    }
+  }
+}

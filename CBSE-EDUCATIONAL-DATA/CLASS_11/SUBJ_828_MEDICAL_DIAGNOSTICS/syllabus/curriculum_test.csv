@@ -1,0 +1,3 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,828,Medical Diagnostics,Chapter,6,The students will find out the presence of blood in given uri,,test
+11,828,Medical Diagnostics,Unit,Unit-3,Histopathology (Lab Process),,test

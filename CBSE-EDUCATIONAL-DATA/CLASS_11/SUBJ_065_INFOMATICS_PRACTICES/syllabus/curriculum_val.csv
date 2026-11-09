@@ -1,0 +1,4 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,065,Infomatics Practices,Chapter,6,"To calculate EMI for Amount, Period and Interest.",,val
+11,065,Infomatics Practices,Chapter,13,To print the words starting with a alphabet in a user entered,,val
+11,065,Infomatics Practices,Chapter,3,To calculate perimeter/circumference and area of shapes such,,val

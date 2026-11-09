@@ -1,0 +1,5 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,113,Odia,Chapter,2,PatakaUttolana,,test
+11,113,Odia,Chapter,2,Writing,,test
+11,113,Odia,Chapter,2,Noun(Bisheshya),,test
+11,113,Odia,Chapter,3,Grammar,,test

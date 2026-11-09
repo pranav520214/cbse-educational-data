@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 8752,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_076_NCC",
+    "ai_pairs": {
+      "train": 24,
+      "val": 3,
+      "test": 3,
+      "total": 30
+    },
+    "topics": {
+      "train": 24,
+      "val": 3,
+      "test": 3,
+      "total": 30
+    }
+  }
+}

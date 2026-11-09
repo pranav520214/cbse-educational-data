@@ -1,0 +1,5 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,833,Business Administration,Chapter,4,White/Black Boards,,train
+11,833,Business Administration,Chapter,6,Video and audio recorders,,train
+11,833,Business Administration,Chapter,1,Computer,,train
+11,833,Business Administration,Chapter,5,Flip Charts,,train

@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 6939,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_054_BUSINESS_STUDIES",
+    "ai_pairs": {
+      "train": 187,
+      "val": 24,
+      "test": 24,
+      "total": 235
+    },
+    "topics": {
+      "train": 187,
+      "val": 24,
+      "test": 24,
+      "total": 235
+    }
+  }
+}

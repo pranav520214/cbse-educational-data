@@ -1,0 +1,12 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,083,Computer Science,Unit,Unit-3,Database Management,,train
+12,083,Computer Science,Chapter,1,Prerequisites,,train
+12,083,Computer Science,Chapter,7,Suggested Reading Material,,train
+12,083,Computer Science,Chapter,4,Unit wise Syllabus,,train
+12,083,Computer Science,Chapter,2,SQL queries (4 queries based on one,,train
+12,083,Computer Science,Chapter,5,Practical,,train
+12,083,Computer Science,Chapter,8,Project,,train
+12,083,Computer Science,Unit,Unit-2,Computer Networks,,train
+12,083,Computer Science,Chapter,6,Suggested Practical List:,,train
+12,083,Computer Science,Chapter,3,Distribution of Marks:,,train
+12,083,Computer Science,Chapter,1,Python program (60% logic + 20%,,train

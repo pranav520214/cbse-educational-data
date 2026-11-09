@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 9196,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_845_PHYSICAL_ACTIVITY_TRAINER",
+    "ai_pairs": {
+      "train": 116,
+      "val": 14,
+      "test": 14,
+      "total": 144
+    },
+    "topics": {
+      "train": 116,
+      "val": 14,
+      "test": 14,
+      "total": 144
+    }
+  }
+}

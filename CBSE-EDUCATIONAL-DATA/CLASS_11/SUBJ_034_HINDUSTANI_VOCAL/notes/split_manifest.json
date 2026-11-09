@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 4588,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_034_HINDUSTANI_VOCAL",
+    "ai_pairs": {
+      "train": 1,
+      "val": 0,
+      "test": 1,
+      "total": 2
+    },
+    "topics": {
+      "train": 1,
+      "val": 0,
+      "test": 1,
+      "total": 2
+    }
+  }
+}

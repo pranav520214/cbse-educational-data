@@ -1,0 +1,4 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,076,NCC,Unit,Unit-8,Adventure Training and Obstacle Training,,val
+12,076,NCC,Unit,Unit-1,National Integration and Awareness,,val
+12,076,NCC,Unit,Unit-7,"Fire Fighting, flooding and damage control",,val

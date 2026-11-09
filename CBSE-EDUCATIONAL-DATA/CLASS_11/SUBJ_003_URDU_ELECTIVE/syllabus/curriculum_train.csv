@@ -1,0 +1,10 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,003,Urdu Elective,Chapter,3,One essay type question in about 100 words on,,train
+11,003,Urdu Elective,Chapter,4,Two short answer type questions on the content.,,train
+11,003,Urdu Elective,Chapter,2,One short extract from the prescribed lesson followed,,train
+11,003,Urdu Elective,Chapter,2,Writing,,train
+11,003,Urdu Elective,Chapter,6,Suppl. Reader,,train
+11,003,Urdu Elective,Chapter,2,Project Work,,train
+11,003,Urdu Elective,Chapter,1,Speaking and listening skill,,train
+11,003,Urdu Elective,Chapter,5,Poetry,,train
+11,003,Urdu Elective,Chapter,1,Prose,,train

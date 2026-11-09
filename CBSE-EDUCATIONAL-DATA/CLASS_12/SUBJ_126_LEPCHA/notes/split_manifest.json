@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 5236,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_126_LEPCHA",
+    "ai_pairs": {
+      "train": 29,
+      "val": 4,
+      "test": 4,
+      "total": 37
+    },
+    "topics": {
+      "train": 29,
+      "val": 4,
+      "test": 4,
+      "total": 37
+    }
+  }
+}

@@ -1,0 +1,5 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,030,Economics,Unit,Unit-5,Consumer's Equilibrium and Demand,,train
+11,030,Economics,Unit,Unit-6,Producer Behaviour and Supply,,train
+11,030,Economics,Unit,Unit-3,Statistical Tools and Interpretation,,train
+11,030,Economics,Unit,Unit-2,"Collection, Organisation and Presentation of data",,train

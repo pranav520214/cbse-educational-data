@@ -1,0 +1,4 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,844,Data Science,Unit,Unit-5,Green Skills-IV,,train
+12,844,Data Science,Unit,Unit-2,Self-Management Skills-IV,,train
+12,844,Data Science,Unit,Unit-1,Communication Skills-IV,,train

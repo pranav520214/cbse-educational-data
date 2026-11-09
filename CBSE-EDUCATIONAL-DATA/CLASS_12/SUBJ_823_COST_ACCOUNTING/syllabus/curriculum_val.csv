@@ -1,0 +1,4 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,823,Cost Accounting,Chapter,4,Process,,val
+12,823,Cost Accounting,Chapter,3,"Collect various types of utility bills like water, electricit",,val
+12,823,Cost Accounting,Chapter,6,Reconciliation,,val

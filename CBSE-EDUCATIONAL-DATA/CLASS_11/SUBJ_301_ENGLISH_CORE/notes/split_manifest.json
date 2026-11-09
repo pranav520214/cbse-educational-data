@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 4764,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_301_ENGLISH_CORE",
+    "ai_pairs": {
+      "train": 14,
+      "val": 2,
+      "test": 2,
+      "total": 18
+    },
+    "topics": {
+      "train": 14,
+      "val": 2,
+      "test": 2,
+      "total": 18
+    }
+  }
+}

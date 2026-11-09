@@ -1,0 +1,27 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,065,Infomatics Practices,Unit,Unit-3,Database concepts and the Structured Query Language,,train
+11,065,Infomatics Practices,Chapter,1,To find average and grade for given marks.,,train
+11,065,Infomatics Practices,Chapter,3,To insert the details of at least 10 students in the above ta,,train
+11,065,Infomatics Practices,Chapter,2,"To create student table with the student id, class, section,",,train
+11,065,Infomatics Practices,Chapter,6,"To display Rno, Name, DOB of those students who are born betw",,train
+11,065,Infomatics Practices,Chapter,1,Prerequisite. None,,train
+11,065,Infomatics Practices,Chapter,4,To display the entire content of table.,,train
+11,065,Infomatics Practices,Chapter,4,To calculate Simple and Compound interest.,,train
+11,065,Infomatics Practices,Chapter,16,Create a dictionary of students to store names and marks obta,,train
+11,065,Infomatics Practices,Chapter,3,Distribution of Marks and Periods,,train
+11,065,Infomatics Practices,Chapter,5,To calculate profit-loss for given Cost and Sell Price.,,train
+11,065,Infomatics Practices,Chapter,12,To count the number of vowels in user entered string.,,train
+11,065,Infomatics Practices,Unit,Unit-4,Introduction to the Emerging Trends,,train
+11,065,Infomatics Practices,Unit,Unit-1,Introduction to Computer System,,train
+11,065,Infomatics Practices,Chapter,8,To find the largest and smallest numbers in a list.,,train
+11,065,Infomatics Practices,Chapter,7,To calculate tax - GST / Income Tax.,,train
+11,065,Infomatics Practices,Chapter,10,To find the sum of squares of the first 100 natural numbers.,,train
+11,065,Infomatics Practices,Chapter,1,To create a database,,train
+11,065,Infomatics Practices,Chapter,15,Create a dictionary to store names of states and their capita,,train
+11,065,Infomatics Practices,Chapter,2,Learning Outcomes,,train
+11,065,Infomatics Practices,Chapter,4,Unit Wise syllabus,,train
+11,065,Infomatics Practices,Chapter,14,To print number of occurrences of a given alphabet in each st,,train
+11,065,Infomatics Practices,Chapter,17,To print the highest and lowest values in the dictionary.,,train
+11,065,Infomatics Practices,Chapter,11,To print the first ‘n’ multiples of given number.,,train
+11,065,Infomatics Practices,Chapter,2,To find sale price of an item with given cost and discount (%,,train
+11,065,Infomatics Practices,Chapter,5,"To display Rno, Name and Marks of those students who are scor",,train

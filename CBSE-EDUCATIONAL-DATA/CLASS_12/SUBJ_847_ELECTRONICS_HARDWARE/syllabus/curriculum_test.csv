@@ -1,0 +1,4 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,847,Electronics & Hardware,Chapter,1,Unit 1: Communication Skills-IV,,test
+12,847,Electronics & Hardware,Unit,Unit-3,INSTALLATION AND CONFIGURATION OF LINUX SERVER.,,test
+12,847,Electronics & Hardware,Unit,Unit-2,INSTALLATION AND CONFIGURATION OF WINDOWS SERVER.,,test

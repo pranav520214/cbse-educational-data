@@ -1,0 +1,22 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,065,Infomatics Practices,Unit,Unit-3,Introduction to Computer Networks,,train
+12,065,Infomatics Practices,Chapter,4,Create a data frame for examination result and display row la,,train
+12,065,Infomatics Practices,Unit,Unit-4,Societal Impacts,,train
+12,065,Infomatics Practices,Chapter,1,Prerequisite: Informatics Practices - Class XI,,train
+12,065,Infomatics Practices,Chapter,3,Distribution of Marks and Periods,,train
+12,065,Infomatics Practices,Chapter,5,Filter out rows based on different criteria such as duplicate,,train
+12,065,Infomatics Practices,Chapter,2,"For the Data frames created above, analyze, and plot appropri",,train
+12,065,Infomatics Practices,Chapter,1,"Create a student table with the student id, name, and marks a",,train
+12,065,Infomatics Practices,Chapter,3,Create a Data Frame quarterly sales where each row contains t,,train
+12,065,Infomatics Practices,Chapter,7,"Write a SQL query to order the (student ID, marks) table in d",,train
+12,065,Infomatics Practices,Chapter,2,Insert the details of a new student in the above table.,,train
+12,065,Infomatics Practices,Unit,Unit-1,Data Handling using Pandas -I,,train
+12,065,Infomatics Practices,Chapter,4,Unit Wise syllabus,,train
+12,065,Infomatics Practices,Chapter,2,"Given a Series, print all the elements that are above the 75t",,train
+12,065,Infomatics Practices,Chapter,2,Learning Outcomes,,train
+12,065,Infomatics Practices,Chapter,6,Find the total number of customers from each country in the t,,train
+12,065,Infomatics Practices,Chapter,4,Use the select command to get the details of the students wit,,train
+12,065,Infomatics Practices,Chapter,5,Suggested Practical List,,train
+12,065,Infomatics Practices,Chapter,1,"Given the school result data, analyses the performance of the",,train
+12,065,Infomatics Practices,Chapter,6,Importing and exporting data between pandas and CSV file,,train
+12,065,Infomatics Practices,Chapter,1,Create a panda’s series from a dictionary of values and a nda,,train

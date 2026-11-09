@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 4339,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_804_AUTOMOTIVE",
+    "ai_pairs": {
+      "train": 40,
+      "val": 5,
+      "test": 5,
+      "total": 50
+    },
+    "topics": {
+      "train": 40,
+      "val": 5,
+      "test": 5,
+      "total": 50
+    }
+  }
+}

@@ -17,14 +17,23 @@ CBSE-EDUCATIONAL-DATA/
 |-- FAILED_DOWNLOADS.md               # Resilient Error Ledger & Retry Logs
 |-- MISSING_RESOURCES.md              # Missing & Pending Input Catalog
 |
+|-- GLOBAL_DATASET_SPLITS/            # Unified CBSE Benchmark Splits (8,095 Pairs)
+|   |-- train.jsonl                   # 80% Train Partition (6,410 Samples)
+|   |-- val.jsonl                     # 10% Validation Partition (840 Samples)
+|   |-- test.jsonl                    # 10% Evaluation Partition (845 Samples)
+|   |-- train.csv / val.csv / test.csv# Tabular Split Formats
+|   |-- SPLIT_REPORT.md               # Stratification and Split Distribution Report
+|   |-- SPLIT_METRICS.json            # Machine-Readable Split Metrics
+|
 |-- CLASS_11/                         # Class 11 Senior Secondary Repository (114 Subjects)
 |   |-- SUBJECT_INVENTORY.json        # Class 11 Complete Subject Catalog
 |   |-- SUBJECT_INVENTORY.csv         # Tabular Stream & Group Index
+|   |-- DATASET_SPLITS/               # Class 11 Consolidated Splits (train/val/test)
 |   |-- SUBJ_041_MATHEMATICS/         # Subject Directory
-|   |   |-- syllabus/                 # Markdown Syllabus, JSON Schema, Topics CSV
+|   |   |-- syllabus/                 # Markdown Syllabus, JSON Schema, Topics CSV & Splits
 |   |   |-- textbooks/                # NCERT Official References & Bibliographies
 |   |   |-- chapters/                 # Chapter-Wise Competency Mappings
-|   |   |-- notes/                    # AI Training JSONL (Q&A / Rubrics)
+|   |   |-- notes/                    # AI Training JSONL (Master, Train, Val, Test)
 |   |   |-- question_papers/          # SQP Question Papers
 |   |   |-- solutions/                # Official Marking Schemes
 |   |   |-- practicals/               # Lab Manuals & Activity Guides
@@ -34,6 +43,7 @@ CBSE-EDUCATIONAL-DATA/
 |-- CLASS_12/                         # Class 12 Senior Secondary Repository (116 Subjects)
 |   |-- SUBJECT_INVENTORY.json        # Class 12 Complete Subject Catalog
 |   |-- SUBJECT_INVENTORY.csv         # Tabular Stream & Group Index
+|   |-- DATASET_SPLITS/               # Class 12 Consolidated Splits (train/val/test)
 |   |-- SUBJ_041_MATHEMATICS/         # Subject Directory
 |   |-- ...
 ```
@@ -69,23 +79,58 @@ For each subject, the system generates structured artifacts optimized for traini
 
 ---
 
-## 4. Re-Running the Automation
+## 4. Train / Validation / Test Benchmark Splits
+
+To train and evaluate educational AI models, datasets are split at three distinct levels:
+
+1. **Per-Subject Splits (`notes/` and `syllabus/`):**
+   - `ai_training_train.jsonl` (80%), `ai_training_val.jsonl` (10%), `ai_training_test.jsonl` (10%)
+   - `curriculum_train.csv` (80%), `curriculum_val.csv` (10%), `curriculum_test.csv` (10%)
+   - `split_manifest.json` (deterministic split metadata and seed)
+
+2. **Class-Level Consolidated Splits (`DATASET_SPLITS/`):**
+   - `class_11_train.jsonl` (2,723 samples), `class_11_val.jsonl` (365 samples), `class_11_test.jsonl` (367 samples)
+   - `class_12_train.jsonl` (3,687 samples), `class_12_val.jsonl` (475 samples), `class_12_test.jsonl` (478 samples)
+
+3. **Global Unified Benchmark Splits (`GLOBAL_DATASET_SPLITS/`):**
+   - `train.jsonl` (6,410 samples / 79.18%)
+   - `val.jsonl` (840 samples / 10.38%)
+   - `test.jsonl` (845 samples / 10.44%)
+   - Total: 8,095 stratified instruction-tuning samples across Classes 11 & 12
+
+### Loading into Python / HuggingFace `datasets`
+```python
+from datasets import load_dataset
+
+# Load the global unified CBSE splits directly
+cbse_data = load_dataset("json", data_files={
+    "train": "CBSE-EDUCATIONAL-DATA/GLOBAL_DATASET_SPLITS/train.jsonl",
+    "validation": "CBSE-EDUCATIONAL-DATA/GLOBAL_DATASET_SPLITS/val.jsonl",
+    "test": "CBSE-EDUCATIONAL-DATA/GLOBAL_DATASET_SPLITS/test.jsonl"
+})
+print(cbse_data)
+```
+
+---
+
+## 5. Re-Running the Automation
 
 To execute or resume the pipeline:
 
 ```bash
-# 1. Run the complete pipeline
+# 1. Run the complete end-to-end pipeline (including splits and audit)
 python run_pipeline.py
 
 # 2. Run specific pipeline components
 python -m pipeline.curriculum_discovery    # Re-discover all official resources
 python -m pipeline.subject_extractor       # Re-build subject directories
+python -m pipeline.data_splitter           # Re-generate train/val/test splits
 python -m pipeline.auditor                 # Re-run QA and completeness audit
 python -m pipeline.github_sync             # Sync commits to GitHub
 ```
 
 ---
 
-## 5. Ephemeral Storage Compliance
+## 6. Ephemeral Storage Compliance
 
 In strict compliance with execution guidelines, large temporary PDF binaries are verified in ephemeral cache, hashed with SHA-256, parsed for structured educational text and metadata, and cleared from local disk to prevent storage bloat. All structured machine-readable knowledge is committed and preserved in the remote repository.

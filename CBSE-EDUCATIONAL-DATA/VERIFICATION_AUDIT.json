@@ -1,7 +1,32 @@
 {
-  "audit_timestamp": "2026-11-09T11:23:00+05:30",
+  "audit_timestamp": "2026-11-09T12:30:00+05:30",
   "manifest_total_resources_discovered": 560,
   "total_downloads_verified": 218,
+  "global_dataset_splits": {
+    "dataset_name": "CBSE Senior Secondary (Classes 11 & 12) Educational AI Benchmark",
+    "seed": 42,
+    "target_ratios": {
+      "train": 0.8,
+      "val": 0.1,
+      "test": 0.1
+    },
+    "total_samples": 8095,
+    "split_samples": {
+      "train": 6410,
+      "val": 840,
+      "test": 845
+    },
+    "split_percentages": {
+      "train": 79.18,
+      "val": 10.38,
+      "test": 10.44
+    },
+    "stratification_factors": [
+      "class",
+      "subject_code",
+      "task_type"
+    ]
+  },
   "class_11": {
     "class": "11",
     "total_subjects": 114,

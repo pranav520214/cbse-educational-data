@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 6856,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_821_MULTI_MEDIA",
+    "ai_pairs": {
+      "train": 96,
+      "val": 12,
+      "test": 12,
+      "total": 120
+    },
+    "topics": {
+      "train": 96,
+      "val": 12,
+      "test": 12,
+      "total": 120
+    }
+  }
+}

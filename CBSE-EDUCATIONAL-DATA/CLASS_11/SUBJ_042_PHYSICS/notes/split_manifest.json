@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 5959,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_042_PHYSICS",
+    "ai_pairs": {
+      "train": 49,
+      "val": 6,
+      "test": 6,
+      "total": 61
+    },
+    "topics": {
+      "train": 49,
+      "val": 6,
+      "test": 6,
+      "total": 61
+    }
+  }
+}

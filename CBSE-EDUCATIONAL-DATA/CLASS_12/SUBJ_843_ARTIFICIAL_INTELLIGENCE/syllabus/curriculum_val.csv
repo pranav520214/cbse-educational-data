@@ -1,0 +1,6 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,843,Artificial Intelligence,Chapter,3,Evaluate the Classification Model with Orange.,,val
+12,843,Artificial Intelligence,Unit,Unit-4,AI WITH ORANGE DATA MINING TOOL (*to be evaluated in practicals only),,val
+12,843,Artificial Intelligence,Chapter,3,Python Code to Evaluate a Model.,,val
+12,843,Artificial Intelligence,Unit,Unit-1,Python Programming - II*,,val
+12,843,Artificial Intelligence,Unit,Unit-7,Generative AI,,val

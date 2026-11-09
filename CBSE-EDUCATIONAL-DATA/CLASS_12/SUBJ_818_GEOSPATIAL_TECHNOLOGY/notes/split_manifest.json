@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 5716,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_818_GEOSPATIAL_TECHNOLOGY",
+    "ai_pairs": {
+      "train": 26,
+      "val": 3,
+      "test": 3,
+      "total": 32
+    },
+    "topics": {
+      "train": 26,
+      "val": 3,
+      "test": 3,
+      "total": 32
+    }
+  }
+}

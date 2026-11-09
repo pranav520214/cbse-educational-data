@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 195,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_028_POLITICAL_SCIENCE",
+    "ai_pairs": {
+      "train": 0,
+      "val": 0,
+      "test": 0,
+      "total": 0
+    },
+    "topics": {
+      "train": 0,
+      "val": 0,
+      "test": 0,
+      "total": 0
+    }
+  }
+}

@@ -1,0 +1,19 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+12,828,Medical Diagnostics,Unit,Unit-2,Blood bank,,train
+12,828,Medical Diagnostics,Chapter,2,Unit 2 : Blood bank,,train
+12,828,Medical Diagnostics,Unit,Unit-1,Haematology,,train
+12,828,Medical Diagnostics,Chapter,1,Unit 1 : Communication Skills - IV,,train
+12,828,Medical Diagnostics,Chapter,2,BLOOD,,train
+12,828,Medical Diagnostics,Chapter,3,Unit 3 : Cytology,,train
+12,828,Medical Diagnostics,Unit,Unit-2,Self-Management Skills - IV,,train
+12,828,Medical Diagnostics,Unit,Unit-2,Self-management Skills - IV,,train
+12,828,Medical Diagnostics,Unit,Unit-5,Green Skills - IV,,train
+12,828,Medical Diagnostics,Chapter,1,HEMATOLOGYLAB,,train
+12,828,Medical Diagnostics,Unit,Unit-3,ICT Skills - IV,,train
+12,828,Medical Diagnostics,Chapter,3,Unit 3 : Information and Communication Technology Skills - IV,,train
+12,828,Medical Diagnostics,Unit,Unit-3,Information and Communication Technology Skills - IV,,train
+12,828,Medical Diagnostics,Unit,Unit-1,Hematology,,train
+12,828,Medical Diagnostics,Chapter,3,CYTOPATH -,,train
+12,828,Medical Diagnostics,Chapter,2,Unit 2 : Self-management Skills - IV,,train
+12,828,Medical Diagnostics,Unit,Unit-3,Cytology,,train
+12,828,Medical Diagnostics,Unit,Unit-1,Communication Skills - IV,,train

@@ -1,0 +1,10 @@
+class,subject_code,subject_name,item_type,identifier,title,marks_allocation,split
+11,045,Bio Technology,Chapter,3,Preparation of bacterial growth medium,,train
+11,045,Bio Technology,Chapter,4,Cell counting,,train
+11,045,Bio Technology,Chapter,7,Protein estimation by biuret method,,train
+11,045,Bio Technology,Chapter,2,Sterilization techniques,,train
+11,045,Bio Technology,Unit,Unit-III,Genetics and Molecular Biology,,train
+11,045,Bio Technology,Unit,Unit-I,Biotechnology: An overview,,train
+11,045,Bio Technology,Unit,Unit-II,Molecules of Life,,train
+11,045,Bio Technology,Unit,Unit-IV,Cells and Organisms,,train
+11,045,Bio Technology,Chapter,6,Assay for amylase enzyme,,train

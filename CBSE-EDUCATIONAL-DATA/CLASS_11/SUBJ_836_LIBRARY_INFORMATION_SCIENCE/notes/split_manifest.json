@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 250,
+  "metrics": {
+    "subject_dir": "CLASS_11/SUBJ_836_LIBRARY_INFORMATION_SCIENCE",
+    "ai_pairs": {
+      "train": 56,
+      "val": 7,
+      "test": 7,
+      "total": 70
+    },
+    "topics": {
+      "train": 56,
+      "val": 7,
+      "test": 7,
+      "total": 70
+    }
+  }
+}

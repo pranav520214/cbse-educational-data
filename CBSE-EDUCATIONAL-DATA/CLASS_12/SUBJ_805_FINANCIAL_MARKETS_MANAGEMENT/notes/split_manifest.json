@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 4373,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_805_FINANCIAL_MARKETS_MANAGEMENT",
+    "ai_pairs": {
+      "train": 27,
+      "val": 3,
+      "test": 3,
+      "total": 33
+    },
+    "topics": {
+      "train": 27,
+      "val": 3,
+      "test": 3,
+      "total": 33
+    }
+  }
+}

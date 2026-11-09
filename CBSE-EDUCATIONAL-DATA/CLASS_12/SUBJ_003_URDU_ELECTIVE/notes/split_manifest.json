@@ -1,0 +1,23 @@
+{
+  "split_ratio": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "seed": 1505,
+  "metrics": {
+    "subject_dir": "CLASS_12/SUBJ_003_URDU_ELECTIVE",
+    "ai_pairs": {
+      "train": 54,
+      "val": 7,
+      "test": 7,
+      "total": 68
+    },
+    "topics": {
+      "train": 54,
+      "val": 7,
+      "test": 7,
+      "total": 68
+    }
+  }
+}
